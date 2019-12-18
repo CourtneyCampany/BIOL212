@@ -1,0 +1,265 @@
+---
+title: "Evolution by Natural Selection"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+
+## What does 'Descent with modification' mean?
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div align="center"><font size="8"> Evolution: Change in the **genetic** </font>
+<br/>
+
+<font size="8"> **composition** of a **population** over </font>
+<br/>
+
+<font size="8"> **generational time** </font></div>
+
+## Population = group of individuals of same species coexisting in the same time and place with the potential of interbreeding 
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/penguins.jpg">
+
+## 211 review: change in genetic composition
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:500; HEIGHT:450px" SRC="images/dna.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/code.jpg">
+
+## 6 genetically distinct lineages of giraffes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/giraffe.jpg">
+
+## Generational Time
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:550px; HEIGHT:500px" SRC="images/generational_time.png">
+
+## Darwinian Evolution
+<hr>
+<br/>
+
+<div align="center">
+* **Focus on adaptation**
+    + characteristics that enhance fitness
+    + inherited
+
+<br/>
+
+**?Could species arise from an ancestral form by adaptions to different environments?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/beak.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/elephanttree.jpg">
+
+<!-- descent with modification -->
+
+## Evolution by Natural Selection postulates (1)
+<hr>
+<br/>
+
+<div align="center">
+
+**Individuals in a population vary in their traits**
+
+<br/>
+
+**What is a trait?**
+</div>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/butterflywings.jpg">
+
+## Evolution by Natural Selection postulates (2)
+<hr>
+
+<div align="center">
+**Some of these differences are heritable**
+
+<br/>
+
+Heritable variation comes from random mutations
+</div>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/heritable.png">
+
+## Evolution by Natural Selection postulates (3)
+<hr>
+
+<div align="center">
+**In each generation, many more offspring are produced than can survive**
+
+<br/>
+
+Only some will survive to reproduce
+Some will produce more offspring than others
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/survival.png">
+
+## Evolution by Natural Selection postulates (4)
+<hr>
+
+<div align="center">
+**Individuals with certain heritable traits are more likely to survive and reproduce (adaptation)**
+
+<br/>
+
+Individuals with certain traits produce more offspring than individuals without those traits (selection)
+Individuals are selected naturally, by the environment
+Favorable traits accumulate in a population
+</div>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/butterflywings2.jpg">
+
+## Natural Selection acts on individuals but populations evolve
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Droughts cause shifts in beaks of finches on the Galapagos Islands**
+    + selection pressures from a single food source
+
+<br/>
+
+* **Average beak depth increases over time because deep-beaked individuals had greater reproductive success**
+    + *the individuals during drought does not change beak size!*
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/beakdepth.png">
+
+## Evolution happens: Antibiotic resistance
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:425px" SRC="images/cdc.jpg">
+
+## Evolution of antibiotic resistance 
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Penicillin used in 1943 to stop *S.aureus* **
+    + by 1945 20% of *S.aureus* resistant
+    + due to enzyme 'penicilinase"
+
+<br/>
+
+* **Methicillin used in 1959 to stop *S.aureus* **
+    + deactivates production of cell walls
+    + resistant strains emerged within 2 years
+    + strains used a different enzyme to make cell walls
+
+<br/>
+
+* **Natural selection then lead to spread of MRSA**
+    + Methicillin-resistant *S.aureus* super bugs!
+    + MRSA now resistant to multiple antibiotics
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:425px; HEIGHT:450px" SRC="images/mrsa2.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/mrsa3.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/deaths.gif">
+
+## Antibiotic resistance is not new to evolution!
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/cave.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **Antibiotic resistance is ancient and widespread**
+    + genes to protect against penicillin, tetracycline, etc.
+    + soil bacteria are rich in resistance 
+
+<br/>
+
+* **Multi-drug resistance common in bacteria isolated from Lechuguilla Cave**
+    + ecosystem isolated from surface for 4 million years
+    + *Paenibacillus* cave isolate is resistant to most clinical antibiotics
+    + 18 resistance mechanisms, including 3 unknown!
+
+    
+</div>
+
+## Evolution can occur rapidly in certain organisms
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/plVk4NVIUh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Generational time...
+<hr>
+<br/>
+
+<div align="center">
+**If you were a bacteria today, in 2020....**
+</div>
+
+<br/>
+
+* **You started class as a sexually reproducing adult and leave welcoming your great-grandchildren**
+
+<br/>
+
+* **Yesterday...**
+    + Start	of	Classic	Period	for	Maya	
+    + China’s	Three	Kingdoms	reunified	under	Emperor	Jin	
+    + Warrior	Queen	Zenobia	breaks	with	Roman	Empire	
+    + Pyramid	of	the	Sun	and	Moon	completed	
+    + Birth	of	Prophet	Mohammed
+    
+## Generational time and evolution
+<hr>
+<br/>
+
+<div align="center">
+**Humans	=	~25	years	**
+**Bacteria = ~20 minutes**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**How long is the average course of antibiotic treatment?**
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:265px; LEFT:325px; WIDTH:450px; HEIGHT:350px" SRC="images/generationcompare.png">
