@@ -1,0 +1,10 @@
+---
+title: "Population Genetics"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
