@@ -67,7 +67,7 @@ runtime: shiny
 
 <!-- descent with modification -->
 
-## Evolution by Natural Selection postulates (1)
+## Evolution by Natural Selection tenants (1)
 <hr>
 <br/>
 

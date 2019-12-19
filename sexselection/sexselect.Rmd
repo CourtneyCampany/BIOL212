@@ -8,3 +8,192 @@ output:
 runtime: shiny
 ---
 
+## Does having 'Good Genes' make you sexy?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:325px; HEIGHT:450px" SRC="images/sexyjeans.jpg">
+
+<div style="float: left; width: 55%;">
+
+* **Natural Selections tenant #4:**
+    + If variation in a heritable trait is associated with variation in reproductive success...**
+    + those traits accumulate in population
+
+<br/>
+
+* **Sexual Selection: Mating success variation can influence reproductive success**
+
+</div>
+
+## Sexual selection is one kind of natural selection
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+* **Selection can occur as an association between phenotype and mating success**
+
+<br/>
+<div style="float: left; width: 50%;">
+
+* **This introduces an aspect of 'choosiness' into evolution and reproduction**
+    + 'mate choice'
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/matechoice.jpg">
+
+## Is this why males look and behave differently?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/deer.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:400px" SRC="images/ducks.jpg">
+
+## Intrasexual selection is the battleground for mating
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Occurs among males in many species**
+    + Direct (combat)
+    + Subtle (size)
+    + Display (rituals and colors)
+
+<br/>
+
+* **Drives the evolution of secondary sexual characteristics**
+    + between makes and females
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/combat.jpg">
+
+## Direct Combat: Stage beetles (Goyens et al. 2016)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/beetle.jpg">
+
+## Subtle combat
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Often post-copulatory sperm competition**
+
+<br/>
+
+* **Common in insects**
+    + Piskin and Koskin 2010
+
+<br/>
+
+* **Common in birds**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/penis_insects.png">
+
+## Subtle combat
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **Often post-copulatory sperm competition**
+
+<br/>
+
+* **Common in insects**
+    + Piskin and Koskin 2010
+
+<br/>
+
+* **Common in birds**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/duckphallus.jpg">
+
+## Male display 
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sKJfvdV4uHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Why is there sexual dimorphism?
+<hr>
+<br/>
+<br/>
+
+* **Sexual	selection	results	in the	evolution	of	sexually	dimorphic	traits**
+    + preferential mating
+    + direct fitness benefit
+    + indirect fitness benefit
+
+<br/>
+
+* **Males	and	females	differ for	the	expression	of	some	trait**
+
+<br/>
+
+* **Heterosexual conversation....for now**
+
+## Female guppies prefer males with orange spots....Why?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/guppy.jpg">
+
+## Female blackbirds prefer males with orange beaks.. Why?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/blackbirds.jpg">
+
+## Why do animals prefer symmetric partners? 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:275px; WIDTH:500px; HEIGHT:450px" SRC="images/Vitruvian_Man.gif">
+
+## Runaway selection
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/peacock.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/widowbird.jpg">
+
+## Breaking the binary
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Sex is not just heterosexual in animals**
+    + ~2,000 species and counting....
+    + dragonfly, dolphin, elephant, orca, turkey...
+
+<br/>
+
+* **Gender binary doesn't exist in nature**
+    + Multiple species with muliple genders
+    + 6 different genders described 
+    + sexual mimciry
+
+<br/>
+
+* **Intersexual animals**
+    + Female -> Male, Male -> Female
+    + Female and male at same time
+</div>
+
+<div style="float: right; width: 50%;">
+
+* **So is sexual selection a thing?**
+    + more complicated than it seems on the surface
+</div>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:675px; WIDTH:300px; HEIGHT:300px" SRC="images/monkey.jpg">
