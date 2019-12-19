@@ -1,0 +1,75 @@
+---
+title: "Population Genetics 2"
+runtime: shiny
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Other ways allele frequencies change: Mutation
+<hr>
+<br/>
+
+* **Mutation	from	A -> a is	denoted	by	u and	from	a	-> A is	denoted	by	v**
+    + “mutation	rate” =	probability	that	one	allele	changes	
+to	another	allele	via	mutation.		
+    + mutation	rates	are	generally	small	(~0.0001%).		
+
+<br/>
+
+* **Equilibrium	frequency	of	the	a allele is	given	by	q =	u	/	(u+v)**
+
+<br/>
+
+* **Mutation	can	counterbalance	selection**		
+      + selection	against	a	deleterious	recessive	allele
+      + but	mutation	from	A	-> a	
+      + selection	will not	completely	eliminate	the	a allele
+      
+## Other ways allele frequencies change: Migration
+<hr>
+<br/>
+
+* **Migration	is	just	like	mutation	but	way	more	powerful**
+
+<br/>
+
+**Migration	homogenizes	populations**
+    + makes	their	allele	frequencies	more	similar to	each	other.
+
+## Other ways allele frequencies change: Genetic Drift
+<hr>
+<br/>
+
+* **Genetic	drift	results	from	chance	events	that	change	allele	frequencies	in	a	population**
+    + hurricane	disproportionately	kills	RED	individuals	compared	to	PINK	by chance
+    + chance removal (not selection) of pink alleles
+
+<br/>
+
+* **Genetic	drift	happens	in	every	population**
+    + more	pronounced	in	small	populations
+    + extremely	important	evolutionary	“force”
+
+## Other ways allele frequencies change: Non-Random Mating
+<hr>
+<br/>
+
+* **Inbreeding	does	not	change	allele	frequencies	– it simply	changes	how	those	alleles	are	allocated	among	genotypes**
+
+<br/>
+
+* **Assortative	mating	(mate	with	like)	decreases	heterozygosity**
+
+<br/>
+
+* **Disassortative	mating	(mate	with	different)	increases	heterozygosity**
+
+<br/>
+
+* **Non-random	mating,	combined	with	selection,	can	be	a	powerful	evolutionary	“force”**
+    + if	an	allele	is	extremely	deleterious	when	
+homozygous,	inbreeding	will	generate	homozygotes	and	“expose”	that	
+deleterious	allele	to	selection	(inbreeding	depression)	
