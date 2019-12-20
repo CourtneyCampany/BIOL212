@@ -8,3 +8,151 @@ output:
 runtime: shiny
 ---
 
+## Macroevolution
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+* **Review: microevolution happens at the population level**
+
+<br/>
+
+* **Macroevolution: Speciation forms evolutionary independent populations**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/macro.png">
+
+## Biological Species Concept
+<hr>
+<br/>
+
+* **Reproductive isolation between populations results in a lack of gene flow**
+    + gene flow: 
+<br/>
+
+* **Individuals do not interbred with other populations or are unable to produce viable offspring after mating**
+
+<br/>
+<br/>
+
+* <span style="color:blue">**Members of a biological species are united by the potential ability to be reproductively compatable**</span>
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:325px; HEIGHT:450px" SRC="images/speciesconcept.jpg">
+
+## Mechanisms of reproductive isolation? (Fig 24.3)
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/lark.png">
+
+## Issues with the biological species concept
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Fossils: How do we evaluate isolation?**
+
+<br/>
+
+* **Asexual reporduction (single celled prokaryotes)**
+    + Bdelloid Rotifers haven’t
+reproduced sexually for > 80 million years 
+    + An estimated 2000 species of asexual rotifers are known
+
+<br/>
+
+* **Geopgraphic proximity: how do we know if they cant make babies?**
+
+<br/>
+
+* **Distinct species still have gene flow: "grolar bear"**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:450px; HEIGHT:400px" SRC="images/rotifer.jpg">
+
+## Alternate species concepts: morphological
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:700px; HEIGHT:500px" SRC="images/moprh.png">
+
+## Alternate species concepts: morphological
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+* **Can do with all organisms but: What kinds of traits & how many?**
+
+<br/>
+
+* **Species can change their form: Polymorphisms**
+
+<br/>
+
+* **Cryptic species that do not differ in morphology (e.g., fossil shells)**
+
+<br/>
+
+* **Subjective to the scientist!**
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/mimic.png">
+
+<!-- ## Alternate species concepts: phylogenetic  -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:700px; HEIGHT:500px" SRC="images/phylo.jpg"> -->
+
+## How new species arise: Allopatry
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:700px; HEIGHT:500px" SRC="images/allo.png">
+
+## Allopatric speciation in shrimp
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:700px; HEIGHT:500px" SRC="images/shrimp.jpg">
+
+## How new species arise: Sympatry
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:700px; HEIGHT:350px" SRC="images/symp.png">
+
+## Sympatric speciation via selection pressures
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/symp2.jpg">
+
+
+## Is speciation fast or slow? Fossils
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/fossils.jpg">
+
+## How much genetic change does it take?
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Three spine stickleback fish rapdidly evolve**
+    + moved from oceans to freshwater when glaciers retreated
+
+<br/>
+
+* **Freshwater habitats brought new selection pressures**
+    + variety of habitats
+    + new resources
+    + change in competition
+
+<br/>
+
+* **Molecular biology examined each speciation**
+    + ocean -> fresh: one gene with bony armor plate
+    + fresh habirats -> many genes based on selection pressures
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:500px; HEIGHT:450px" SRC="images/fish.jpg">
