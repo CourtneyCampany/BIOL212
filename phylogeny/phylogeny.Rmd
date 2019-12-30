@@ -1,0 +1,126 @@
+---
+title: "Evolutionary Trees"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+
+## Connecting classification with phylogeny
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/class.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/phylo.jpg">
+
+## A hypothesis of relationships among birds
+<hr>
+<br/>
+
+## Using phylogeny to trace the relaties of birds
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/birdsrelate.jpg">
+
+## Phylogeny terms and what they can tell us...
+
+* **Branch point**
+
+<br/>
+
+* **sister taxa**
+
+* **Synapomorphy: shared derived trait**
+
+## Mapping traits
+<hr>
+* **homology**
+
+* **monophyletic group**
+
+* **paraphyletic group**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/clade.jpg">
+
+## analogy and convergent evolution**
+<hr>
+
+Homoplasy:
+Traits Are Similar but Not Inherited from a Common Ancestor
+
+## How we dray phylogenies: branch lengths
+<hr>
+
+## How to dray phyogenies: shape
+<hr>
+
+## How to use derived characters to infer phylogney
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/charactertable.jpg">
+
+## How to build a tree: parsimony
+<hr>
+
+Parsimony
+• A logical way to identify synapomorphies,
+homoplasies
+• Parsimony minimizes the number of
+evolutionary changes (or steps) needed to
+explain all the data you collect for
+characters on an evolutionary tree
+
+## Whale Evolution: A Case History
+
+• Traditionally, phylogenetic trees
+based on morphological data place
+whales outside of the artiodactyl
+group — mammals such as cows,
+deer, and hippos that have hooves, an
+even number of toes, and an unusual
+pulley-shaped ankle bone
+
+## The astragalus ankle bone is a
+synapomorphy shared by all artiodactyls
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/ankle.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/whale1.jpg">
+
+
+## How do we determine these relationships?
+<hr>
+
+* **morphlogy**
+* **molecular biology**
+  DNA sequence data however,
+suggest a close relationship between
+whales and hippos.
+
+
+* **A phylogenetic tree showing closely related whales and hippos is less parsimonious than the tree based on morphological data because it requires the evolution and then loss of the astralagus in whales**
+
+##
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/whale3.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/whale2.jpg">
+
+## Why phylogenies are just hypothesis...
+
+* **morophological issues...**
+
+* **molecular issues...**
+
+## The tree of life: as we see it today
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/treeoflife.jpg">
