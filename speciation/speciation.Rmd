@@ -152,7 +152,7 @@ reproduced sexually for > 80 million years
 
 * **Molecular biology examined each speciation**
     + ocean -> fresh: one gene with bony armor plate
-    + fresh habirats -> many genes based on selection pressures
+    + fresh habitats -> many genes based on selection pressures
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:500px; HEIGHT:450px" SRC="images/fish.jpg">
