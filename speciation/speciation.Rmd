@@ -38,7 +38,7 @@ runtime: shiny
 <br/>
 <br/>
 
-* <span style="color:blue">**Members of a biological species are united by the potential ability to be reproductively compatable**</span>
+* <span style="color:blue">**Members of a biological species are united by the potential ability to be reproductively compatible**</span>
 
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:325px; HEIGHT:450px" SRC="images/speciesconcept.jpg">
@@ -59,14 +59,14 @@ runtime: shiny
 
 <br/>
 
-* **Asexual reporduction (single celled prokaryotes)**
-    + Bdelloid Rotifers haven’t
+* **Asexual reproduction (single celled prokaryotes)**
+    + Belloid Rotifers haven’t
 reproduced sexually for > 80 million years 
     + An estimated 2000 species of asexual rotifers are known
 
 <br/>
 
-* **Geopgraphic proximity: how do we know if they cant make babies?**
+* **Geographic proximity: how do we know if they cant make babies?**
 
 <br/>
 
@@ -138,7 +138,7 @@ reproduced sexually for > 80 million years
 
 <div style="float: left; width: 50%;">
 
-* **Three spine stickleback fish rapdidly evolve**
+* **Three spine stickleback fish rapidly evolve**
     + moved from oceans to freshwater when glaciers retreated
 
 <br/>
