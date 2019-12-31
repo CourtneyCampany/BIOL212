@@ -1,0 +1,151 @@
+---
+title: "Bacteria and Protists"
+runtime: shiny
+output: ioslides_presentation
+---
+
+## Prokaryotes: The big picture
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **'Prokaryotes' are not a monopheyltic group
+    + Bacteria, Archaea; some similarities, have unique traits
+
+<br/>
+
+* **Diversity of ways of making a living**
+    + sources of energy to make ATP
+    + sources of carbon
+
+<br/>
+
+* **Photosynthesis occurs in *distantly* related bacteria**
+    + Cyanobacteria: first evidence ~2.7 bya
+    + other bacteria gained photosynthesis by lateral gene transfer!!
+
+<br/>
+
+* **Co-evolution with the planet and other organsims**
+    + Oxygen accumulation via photosynthesis
+    + extremeophiles (temperature, pH, salt,etc.)
+    + *Prokaryotes are most abundant organisms on Earth!*
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:450px; HEIGHT:450px" SRC="images/yellowstone.jpg">
+
+## Prokaryotes first to inhabit the Earth
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:800px; HEIGHT:450px" SRC="images/oldlife.png">
+
+## Prokaryotes are structurally diverse
+<hr>
+<br/>
+
+<div style="float: left; width: 40%;">
+
+* **Unicellular (some colonites)**
+
+<br/>
+
+* **Small**
+
+<br/>
+
+* **Many Shapes**
+
+<br/>
+
+* **1/2 are motile**
+    + use flagellum to move
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:400px; WIDTH:500px; HEIGHT:450px" SRC="images/shapes.jpg">
+
+## Common ancestor of all species living today: Prokaryote
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:450px; HEIGHT:450px" SRC="images/simple_phyl.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:550px; HEIGHT:400px" SRC="images/differ.png">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/shareproeu.jpg">
+
+## General Prokaryotic cell
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/procell.png">
+
+## Reproduction in Prokaryotes
+<hr>
+<br/>
+<br/>
+
+* **Asexual: daughter cells identical to parent**
+
+<br/>
+
+* **However, Bacterial gene transfer occurs**
+    + transger genetic material to NOT offspring
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/binary.jpg">
+
+## Prokaryotes matter
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:375px; HEIGHT:450px" SRC="images/archaenera.png">
+
+## Prokaryotes matter: First fossils
+<hr>
+
+* **First TRACES of living organisms**
+    + Graphite carbon from Canadian rocks
+    + Formed by ‘prokaryotes’
+    + ~ 3.9 billion years ago! 
+    
+* **Cyanobacteria form stromatolites
+    + undisputed fossils = 2.7 bya
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:375px; HEIGHT:450px" SRC="images/matfossils.png">
+
+## Prokaryotes matter: Cynaobacteria
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:375px; HEIGHT:450px" SRC="images/cyanobacteria.png">
+
+## Prokaryotes matter: Great Oxygenation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:375px; HEIGHT:450px" SRC="images/goe.jpg">
+
+## Prokaryotes matters: Humans
+<hr>
+<br/>
+
+* **Photosynthetic prokaryotes led to O~2~ in atmosphere**
+
+<br/>
+
+* ** Bacerteria and Archaea cycle nutrients**
+    + break down dead things
+
+<br/>
+
+* **A small % of Baceraia cause disease**
+
+<br/>
+
+* **Bacteria clean pollution**
+
+## 3 domain hypothesis: Linking Prokaryotes and Eukaryotes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:375px; HEIGHT:450px" SRC="images/2domain.gif">
+
+## 2 domain hypothesis: Looking for LUCA
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:375px; HEIGHT:450px" SRC="images/2domain.jpg">
