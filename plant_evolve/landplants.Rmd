@@ -1,0 +1,139 @@
+---
+title: "How plants conqured land"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Green plants are monophyletic
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:950px; HEIGHT:450px" SRC="images/basicplantphylo.jpg">
+
+## The big picture: Plants evolved from green algae
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Cyanobacteria and protist existed from 1.2 bya**
+    + small plants, fungi and animals are new (500 mya)
+
+<br/>
+
+* **Plants come from algae -> ALGAE are not plants**
+    + photosynthetic protists
+    + *Key 'synapomorphies' algae -> plants*
+    + **?WHAT DO YOU THINK THEY ARE?**
+
+<br/>
+
+* **Plants support all life on earth**
+    + Oxygen to breath
+    + food to eat
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/greenplants.jpg">
+
+## Protist -> Garbage Can -> non plant features
+<hr>
+<br/>
+
+* **Dinoflagellates - unicellular aquatic**
+    + some are photosynthetic
+    + haploid dominate life cycle
+
+<br/>
+
+* **Brown Algae - large multicellular aquatic**
+    + AoG life cycle
+    + identical haploid and diploid life cycle
+    + photosynthetic
+
+<br/>
+
+* **Diatoms - unicellular aquatic**
+    + all are photosynthetic
+    + diploid dominated life cycle
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/protists.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:350px; WIDTH:550px; HEIGHT:450px" SRC="images/notplants.png"
+
+## Green Algae (Oedogonium)
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Sister group to land plants((
+
+<br/>
+
+* **Unicelular, multicellular**
+    + filamentous, unbranched
+
+<br/>
+
+* **Marine and freshwater**
+
+<br/>
+
+* **Reproductive features:**
+    + *Oogonia* = egg containing cell
+    + *Antherdia* = sperm containing cell
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/greenalgae">
+
+## So what actually makes green plants unique?
+<hr>
+<br/>
+<br/>
+<br/>
+
+**Synapomorhies**
+1) Photosynthesis with unique pigments (cholrophyll a/b & cartenoids)
+2) Store sugars (from photosynthesis) as starch
+3) Cells walls made of cellulose (not unique to plants)
+4) Pectin to fortify cell walls (unique to plants)
+5) produce cells walls in unique way at end of mitosis
+
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:450px; HEIGHT:400px" SRC="images/pigments.png">
+
+## Charophytes (freshwater green algae)
+<hr>
+
+<div style="float: right; width: 50%;">
+
+* **Sister group to land plants**
+
+<br/>
+
+* **Freshwater species**
+    + broad, thick filaments
+
+<br/>
+
+* **More developed Oogonium and Antherdium**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/sister.jpg">
+
+## Transition from water to land...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/transition.jpg">
+
+## The wild wild west...
+
+## Non-vascular plant traits
