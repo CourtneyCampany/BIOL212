@@ -1,0 +1,187 @@
+---
+title: "Protists and the evolution of Eukaryotes"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Eukaryotic Tree of Life
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:950px; HEIGHT:450px" SRC="images/eukar_phylo.jpg">
+
+## Protists: The big picture
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **All Eurayotes are protists except plants, animals and fungi**
+    + mostly unicellular
+    + amoeba, slime molds, algae, protozoa
+    + First undisputed fossils ~2.1 bya**
+
+<br/>
+
+* **Extraordinarily diverse**
+    + can be smaller than prokaryotes
+    + *functions carried out by organelles*
+    + *membrane bound nucleus*
+
+<br/>
+
+* **Can be more closely related to other Eukaryotic groups than to other protists ?!?!?**
+  + Phlogeny of 'Protista' is broken!
+    
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:545px; WIDTH:500px; HEIGHT:400px" SRC="images/protist_collage.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:500px; HEIGHT:600px" SRC="images/phyla.jpg">
+
+## Review: Prokaryotic and Eukaryotic cells differ
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/shareproeu.jpg">
+
+## Basic Eukaryotic cell: *Euglena*
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/euglena.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:555px; WIDTH:500px; HEIGHT:400px" SRC="images/euglena2.jpg">
+
+## Origin of the nuclear envelope
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:135px; WIDTH:830px; HEIGHT:450px" SRC="images/nuclearenvelope.jpg">
+
+## Endomembrane system: Outside in or Inside out?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/outin.jpg">
+
+## How did Eukaryotic cells evolve?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Origin of mitochondria?**
+    + *All* eukaryotic cells have mitochondria, so mitochondria is common ancestor
+
+<br/>
+
+* **Origin of chloroplasts?**
+    + Photosynthetic eukaryotes have chloroplasts
+    + some from common ancestor
+    + others....?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:350px; HEIGHT:400px" SRC="images/mitochloro.jpg">
+    
+## Endosymbiosis Theory
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Symbiosis** occurs when individuals of two different species live in physical contact
+
+<br/>
+
+* **Endosymbiosis** occurs when an organisms of one species lives inside an organism of another species
+    + proposed in 1905 but way too crazy
+    + now commonly accepted
+    
+<IMG STYLE="position:absolute; TOP:400px; LEFT:575px; WIDTH:350px; HEIGHT:250px" SRC="images/endocartoon.jpg">
+
+## Endosymbiosis Theory
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:125px; WIDTH:850px; HEIGHT:250px" SRC="images/endosymb.jpeg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:850px; HEIGHT:600px" SRC="images/endo_mito.jpg">
+
+## Does data support Endosymbiosis Theory? YES!!!
+<hr>
+<br/>
+
+* **Mitochondria and chloroplasts are about the size of an average bacterium**
+    + both can self-replicate
+
+<br/>
+
+* **Both organelles replicate by fission, as do bacteria** 
+    + have their own ribosomes to make their own proteins
+      
+<br/>
+
+* **Both organelles have double membranes consistent with the engulfing mechanism**
+
+<br/>
+
+* **Genes of each organelle closely resemble ancestors!**
+    + cyanobacteria for chloroplasts
+    + proteobacteria for mitrochondria
+    
+## Red and green algae underwent secondary endosymbiosis
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Algae ingested by other heterotrophic eukaryotes!**
+    + led to Euglenoids, Diatoms and Brown algae
+
+<br/>
+
+* **Chloroplasts transferred to other protists**
+    + results in chloroplasts not from common ancestor!
+
+<br/>
+
+* **How do we know this happened?**
+    + HINT: # of membranes around organelles = ____
+  
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/secondendo.png">
+
+## Life cycles in Eukaryotes: Alternation of Generations
+<hr>
+<br/>
+
+* **A variety of life cycles have evolved among in Eukaryotes**
+    + complex life cycles include an *alternation of generations*
+    + algae -> plants
+     + red and green algae are closest relatives to plants
+
+<br/>
+
+* **AOG = the alternation of multicellular haploid and diploid generations**
+    + diploid (2N) = *sporophyte* = makes spores
+    + haploid (1N) = *gametophyte* = male/female = make gametes
+    + fertilization of gametes makes new sporophyte
+
+<br/>
+
+* **Some species have structurally different generations (heteromorphic) others have structurally similar generations (isomorphic)**
+
+## Alternation of Generations: Basic Cycle
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:550px; HEIGHT:450px" SRC="images/aog.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/brownalgae.jpg">
