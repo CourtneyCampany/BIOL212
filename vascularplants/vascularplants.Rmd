@@ -1,0 +1,72 @@
+---
+title: "Vascular Plant Evolution"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Green plants are monophyletic
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/basicplantphylo.jpg">
+
+<IMG STYLE="position:absolute; TOP:245px; LEFT:535px; WIDTH:500px; HEIGHT:40opx" SRC="images/allplants.jpg">
+
+## The big picture: Vascular plants now dominate Earth
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Bryophytes ruled for ~100 million years**
+    + vascular plants show up ~425mya
+
+<br/>
+
+* **First vascular plants lacked seeds**
+    + sperm still needed to swim 
+
+<br/>
+
+* **Developed a vascular system**
+    + now can frow taller than mosses
+    
+</div>
+
+## Evolutionary history of vascular plants
+<hr>
+
+## Lycophytes
+<hr>
+
+-	Independent,	branched	sporophyte	
+-	Lignified	vascular	8ssue,	tracheids,	roots	
+-	Some	with	strobili	(evolved	mul8ple	x)	
+-	Some	with	heterospory	(evolved	mul8ple
+
+## Ferns
+<hr>
+
+## Give thanks to lycophytes and ferns: Coal
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/carbon.jpg">
+
+## Life cycle with dominant sporophytes
+<hr>
+
+## Vascular system: the basics
+<hr>
+
+## Evolution of Roots
+<hr>
+
+## Evolution of leaves
+<hr>
+
+## Evolution of sporophylls
+<hr>
+
