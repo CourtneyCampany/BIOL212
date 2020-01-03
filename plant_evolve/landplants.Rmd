@@ -1,5 +1,5 @@
 ---
-title: "How plants conqured land"
+title: "How plants conquered land"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -11,22 +11,25 @@ runtime: shiny
 ## Green plants are monophyletic
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:950px; HEIGHT:450px" SRC="images/basicplantphylo.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/basicplantphylo.jpg">
+
+<IMG STYLE="position:absolute; TOP:245px; LEFT:535px; WIDTH:500px; HEIGHT:40opx" SRC="images/allplants.jpg">
 
 ## The big picture: Plants evolved from green algae
 <hr>
+<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Cyanobacteria and protist existed from 1.2 bya**
-    + small plants, fungi and animals are new (500 mya)
+    + plants, fungi and animals ~500 mya
 
 <br/>
 
-* **Plants come from algae -> ALGAE are not plants**
+* **Plants evolved from red and green algae**
     + photosynthetic protists
-    + *Key 'synapomorphies' algae -> plants*
-    + **?WHAT DO YOU THINK THEY ARE?**
+    + *Key 'synapomorphies' algae &rarr; plants*
+    + **WHAT DO YOU THINK THEY ARE?**
 
 <br/>
 
@@ -36,9 +39,9 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/greenplants.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/basicplants.png">
 
-## Protist -> Garbage Can -> non plant features
+## Protist &rarr; Garbage Can &rarr; non plant features
 <hr>
 <br/>
 
@@ -61,18 +64,30 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/protists.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:400px; HEIGHT:450px" SRC="images/protists.png">
 
 ##
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:350px; WIDTH:550px; HEIGHT:450px" SRC="images/notplants.png"
+**These are NOT plants**
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:350px; WIDTH:700px; HEIGHT:575px" SRC="images/notplants.png">
 
 ## Green Algae (Oedogonium)
 <hr>
+<br/>
 
 <div style="float: left; width: 50%;">
 
-* **Sister group to land plants((
+* **Sister group to land plants**
 
 <br/>
 
@@ -91,28 +106,34 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/greenalgae">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/greenalgae.jpg">
 
 ## So what actually makes green plants unique?
 <hr>
 <br/>
-<br/>
-<br/>
 
 **Synapomorhies**
-1) Photosynthesis with unique pigments (cholrophyll a/b & cartenoids)
-2) Store sugars (from photosynthesis) as starch
-3) Cells walls made of cellulose (not unique to plants)
-4) Pectin to fortify cell walls (unique to plants)
-5) produce cells walls in unique way at end of mitosis
+
+<br/>
+
+1. Photosynthesis with unique pigments 
+    + (chlorophyll a/b & cartenoids)
+2. Store sugars (from photosynthesis) as starch
+3. Cells walls made of cellulose 
+    + not unique to plants
+4. Pectin to fortify cell walls 
+    + unique to plants
+5. Produce cells walls in unique way
+    + at end of mitosis
 
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:450px; HEIGHT:400px" SRC="images/pigments.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:300px" SRC="images/pigments.png">
 
 ## Charophytes (freshwater green algae)
 <hr>
+<br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: left; width: 50%;">
 
 * **Sister group to land plants**
 
@@ -120,20 +141,63 @@ runtime: shiny
 
 * **Freshwater species**
     + broad, thick filaments
+    + haplonic (1N) life cycle
 
 <br/>
 
 * **More developed Oogonium and Antherdium**
 
+<br/>
+
+* **Transition from water to land starts with Charophytes**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/sister.jpg">
 
-## Transition from water to land...
+<IMG STYLE="position:absolute; TOP:190px; LEFT:375px; WIDTH:200px; HEIGHT:175px" SRC="images/chara.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/transition.jpg">
+
+## Non-vascular derived plant traits
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/transition.jpg">
+* **The fossil record for land plants begins around ~500mya**
+    + green algae begins around ~750mya
+    + land plants are monophyletic (one time)
 
-## The wild wild west...
+<br/>
 
-## Non-vascular plant traits
+* **Non vascular plants evolved first**
+    + mosses, hornworts and liverworts
+    + small, no developed vascular system
+    + must live near water
+    + haploid dominate AoG
+    
+<br/>
+
+**(1) Waxy cuticle:**
+<br/>
+**(2) Stomata:**
+<br/>
+**(3) Multicellular Gametangia (whoa)**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:200px; HEIGHT:450px" SRC="images/bryo.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/waxystomata.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/game.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/mossex.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png">
