@@ -157,18 +157,39 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/secondendo.png">
 
+## Protists have diverse sex lives
+<hr>
+<br/>
+
+* **Haplonic lifecycles**: most life spent with one set of chromosomes
+    + zygote only diploid -> meiosis into daughter cells
+
+<br/>
+
+* **Diplonic lifecycles**: most life with pairs of chormosomes
+    + sex cels (gametes) are haploid via meoisis -> then fuse
+    
+<br/>
+
+* **Asexual lifecyles**: binary fision
+    + body pinches into 2 parts -> then mitosis
+
+<br/>
+
+* **Alternations of generations**:
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:775px; WIDTH:150px; HEIGHT:450px" SRC="images/protistsex.jpg">
+
 ## Life cycles in Eukaryotes: Alternation of Generations
 <hr>
 <br/>
 
-* **A variety of life cycles have evolved among in Eukaryotes**
-    + complex life cycles include an *alternation of generations*
-    + algae -> plants
-     + red and green algae are closest relatives to plants
+* **Most complex life cycles include an *alternation of generations***
+    + algae → plants
 
 <br/>
 
-* **AOG = the alternation of multicellular haploid and diploid generations**
+* **AOG = the alternation of *multicellular* haploid and diploid generations**
     + diploid (2N) = *sporophyte* = makes spores
     + haploid (1N) = *gametophyte* = male/female = make gametes
     + fertilization of gametes makes new sporophyte
@@ -185,3 +206,7 @@ runtime: shiny
 ##
 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/brownalgae.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/isomorph.png">
