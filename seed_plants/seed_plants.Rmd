@@ -1,0 +1,337 @@
+---
+title: "Seed Plant Evolution"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Vascular plant were the next evolutionary step
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:500px" SRC="images/phylo.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/fossil.jpg">
+
+## The big picture: We now live in a seed plant world
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Seeds changed the course of plant evolution**
+    + Seed plants show up ~360 mya
+
+<br/>
+
+* **Seeds consists of embryo & nutrients**
+    + surrounded by protective coat
+    + seeds can be dispersed long distances
+    + less dependence on water
+
+<br/>
+
+* **2 living seed lineages**
+    + gymnosperms (naked seed)
+    + angiosperms (covered seed = fruits)
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:525px; HEIGHT:350px" SRC="images/flowers3.jpg">
+
+## Why seeds matter so much...
+<hr>
+<br/>
+
+* **Before seeds, spore was only protective structure** 
+    + super small so spread all over Earth
+
+<br/>
+
+* **Seeds are multicellular**
+    + what can this add?
+
+<br/>
+
+* **Seeds can remain dormant for a long time**
+
+<br/>
+
+* **Gymnosperms: seeds exposed on sporophylls, form cones**
+* **Angiosperms: seeds enclosed inside fruits**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:250px; HEIGHT:450px" SRC="images/cones.jpg">
+
+## Seed plants further adapt to life on land
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Reduction of gametophyte**
+    + mosses &rarr; ferns &rarr; seed plants
+    + gametophytes become microscopic
+    + *what are the advantages?*
+
+<br/>
+
+* **Heterosporous life cycle**
+    + *2 kinds of spores*
+    + form male/female gametopytes
+
+<br/>
+
+* **Ovules**
+    + megasporangium kept inside sporophyte
+    + ovule contains megaspore
+    
+<br/>
+
+* **Pollen**
+    + microspore develops into pollen grain
+    + transfer of pollen to ovule = ?
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/ovules.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/gamspor2.jpg">
+
+## Evolution of gamtetophyte-sporophyte relationship
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:750px; HEIGHT:450px" SRC="images/gamspor.jpg">
+
+## Early seed plants and gymnosperms
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:600px; HEIGHT:450px" SRC="images/earlyseedplants.jpg">
+
+<div style="float: right; width: 38%;">
+
+* **Seed plant ancestors extinct**
+    + oldest fossils in Carboniferous
+  
+<br/>
+
+* **~300-250 mya climate become drier**
+    + Carboniferous &rarr; Permian
+    + gymnosperms replaced lycophytes
+
+<br/>
+
+
+* **Gymnosperms with thin needles thrived till ~ 60 mya**
+    + earliest evidence of insect pollination with gymnosperms
+    
+</div>
+
+## 4 living lineages of gymnosperms
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Cycads**: 300 living species
+    + earliest evidence of insect pollination
+    + Cycads and dinosaurs lived together
+
+<br/>
+
+* **Gnteophytes**: small and super weird group
+    + some flowering traits
+
+<br/>
+
+* **Ginkos**: *Ginkgo biloba* is only species left!
+    + landscapers only plant males because...NSFW
+    
+<br/>
+
+* **Conifers**: ~600 species (cones)
+    + evergreen and deciduous
+    + leaves are needles or scales
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/gymnos.jpg">
+
+## Welwitchia: the weirdest f'in plant on Earth
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/welwitschia.jpg">
+
+## Gymnosperm reproduction: basics
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Male and female cones on same plant**
+    + Cone = strobilus
+    + wind pollinated
+
+<br/>
+
+* **Male cones house microsporangium**
+    + microsporangium holds microsporocyte (2N)
+    + microsporocyte produce pollen grains (1N)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/malecone.png">
+
+
+## Gymnosperm reproduction: basics
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Female cones house megasporangium**
+    + megasporangium holds megasporocyte (2N)
+    + megasporocyte produce 4 megaspores
+    + 1 megaspore (1N) makes it
+
+<br/>
+
+* **Pollen grain reach ovule and germinates**
+    + pollen tube grows toward megaspore
+    + megaspore develops archegonium with eggs
+    + sperm &rarr; pollen tube &rarr; egg
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/femalecone.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/pinelife.jpg">
+
+## Gymnosperms seeds
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/pinesex.jpg">
+
+## Flowering plant diversity
+<hr>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+* **Most diverse living group of plants**
+    + 14,000 genera, 300,000 species
+
+</div>
+
+<div style="float: right; width: 49%;">
+
+* **2 classes: Moncots and Dicots**
+    + monocots = one seed leaf in embryo
+    + dicots = two seed leaf in embryo
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:325px; LEFT:150px; WIDTH:800px; HEIGHT:375px" SRC="images/angios.jpg">
+
+## Angiosperm evolution: Bugs and animals
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/beetlevolution.jpg">
+
+## Flowers
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Flower is a modified shoot (stem) for reproduction**
+    + has several types of modified leaves...
+
+<br/>
+
+* **Sepals: leaves at base which enclose flower**
+    + usually green
+
+<br/>
+
+* **Petals: colored leaves to attract pollinators**
+    + less colored if wind pollinated
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/flower.jpg">
+
+## Flowers - Male
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Stamens: microsporophylls**
+    + produce microspores that develop into pollen
+    + contain anther + filament
+    
+<br/>    
+
+* **Anther: where microsporangia develop**
+    + aka Pollen
+
+<br/>
+    
+* **Filament: stalk that holds the anther**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:375px; HEIGHT:450px" SRC="images/flower2.jpg">
+
+## Flowers - Female
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:600px; HEIGHT:450px" SRC="images/flower.jpg">
+
+
+<div style="float: right; width: 35%;">
+
+* **Stigma: receives pollen**
+    + sticky
+
+<br/>
+
+* **Style: leads from stigma to ovary**
+    + where pollen tube forms
+    
+<br/>
+
+* **Ovary: contains ovule**
+    + ovule contains female gametophyte
+
+</div>
+
+## Angiosperm reproduction: double fertilization
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/doublefert.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/angiolife.jpg">
+
+## Comparing seed plant reproduction
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/seedsex.jpg">
