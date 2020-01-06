@@ -8,13 +8,16 @@ output:
 runtime: shiny
 ---
 
-## Vascular plant were the next evoutionary step
+## Vascular plant were the next evolutionary step
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/plantevol.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/plantevol.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/fossil_lyco.jpg">
 
 ## The big picture: Vascular plants now dominate Earth
 <hr>
+<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
@@ -26,54 +29,57 @@ runtime: shiny
 
 * **First vascular plants lacked seeds**
     + sperm still needed to swim 
+    + ferns and lycophytes
 
 <br/>
 
 * **Developed a vascular system**
-    + now can frow taller than mosses
+    + grow taller than mosses
+    + leaves & roots
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/manyangio.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/manyangio.jpg">
 
-## Evolutionary history of vascular plants
-<hr>
+##
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:350px; WIDTH:700px; HEIGHT:350px" SRC="images/plantevol.jpg">
+<div style="float: right; width: 25%;">
+**Vascular elements evolved several times**
+</div>
 
-* **Vascular elements evolved more than once**
-
-## Lycophytes
-<hr>
-
-* **Independent,	branched	sporophyte**	
-* **Lignified	vascular	tissue,	tracheids,	roots**
-* **Some	with	strobili	(evolved	multiple times)	
-* **Some	with	heterospory	(evolved	multiple times)
-
-## Ferns
-<hr>
-
-## Give thanks to lycophytes and ferns: Coal
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/carbon.jpg">
-
-## Life cycle with dominant sporophytes
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/fernlife.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/vascular_evolve.jpg">
 
 ## Vascular system: the basics
 <hr>
+<br/>
+<br/>
+<br/>
 
-Xylem	=	water	conduc6ng	(one	way)	
-Phloem	=	sugar	et	al.	conduc6ng	(bidirec6onal)	
+* **Xylem	=	water	conducting	(one	way)**	
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/vascular.png">
+<br/>
+
+* **Phloem	=	sugar conducting (multi-directional)**	
+
+<br/>
+
+* **Conducting cells evolved structural support**
+    + *lignin* in cell walls
+    + think 'straws'
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:300px; HEIGHT:450px" SRC="images/vascular.png">
 
 ## Evolution of Roots
 <hr>
+<br/>
+<br/>
 
 * **Vascular tissues belowground**
     + bryophytes have no 'true' roots
@@ -84,6 +90,7 @@ Phloem	=	sugar	et	al.	conduc6ng	(bidirec6onal)
     + explore
 
 <br/>
+
 * **Anchor the plant in place**
     + support vertical growth
 
@@ -91,88 +98,150 @@ Phloem	=	sugar	et	al.	conduc6ng	(bidirec6onal)
 
 * **Fossils show roots in lycophytes ~ 400mya**
 
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/earlyroots.jpg">
+
 ## Evolution of leaves
 <hr>
+<br/>
+<br/>
+<br/>
 
-* **Micropylls: single unbranched vein**
+* **Microphylls: single unbranched vein**
     + unique to lycophytes
 
 <br/>
 
 * **Megaphylls: leaves with branched veins**
     + almost all existing plants
-    + Why?
+  
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/leaves.jpg">
+* **Why does this matter?** 
 
-## Evolution of sporophylls
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/leaves.jpg">
+
+## Evolution of leaves: sporophylls
 <hr>
 <br/>
 
-* **Trophophyll: vegetative leaf**
-
-<br/>
-
 * **Sporophyll: modified leaf with sporangium**
+    + vastly different looks
+    + *Trophophyll*: vegetative leaf
 
 <br/>
 
 * **Sporagnium:  spore container**
     + ferns: clusters of sporagnia called 'sori'
     + lycophytes: stobilus holds many sprogania (like a cone)
-    
-* **Spore mother cell: cell inside sporagnium**
-    + undergoes meoisis to make spores (1N)
 
 <br/>
 
-* **What is the ploidy of each of these?**
+* **Spore mother cell: cell inside sporagnium**
+    + undergoes meiosis to make spores
+
+<br/>
+
+* **What is the ploidy of each cell type?**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/sporophyll.jpg">
+
+## Lycophytes: First vascular plants
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:200px; HEIGHT:450px" SRC="images/lyco.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Independent,	branched	sporophyte**
+
+<br/>
+
+* **Lignified	vascular	tissue,	tracheids & roots**
+    + *tracheid* = special xylem cell
+
+<br/>
+
+* **Leaves are microphylls**
+    + Some	with	strobili	(evolved	multiple times)
+
+<br/>
+
+* **Some	with	heterospory	(*Selaginella/Isoetes*)**
+
+</div>
+
+## Ferns
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Whisk Ferns, Equisetum & Ferns**
+    + mostly homosporous
+    
+<br/>
+
+* **Leaves are megaphylls**
+    + whisk ferns lost leaf (enation)
+    + Equistem has simplified megaphylls
+
+<br/>
+
+* **New *Gaga* genus with 19 species**
+    + “We wanted to name this genus for Lady Gaga because of her fervent defense of equality and individual expression” Pryer @ Duke University
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:200px; HEIGHT:450px" SRC="images/gaga.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/ferns.jpg">
+
+## Give thanks to extinct seedless vascular plants: Coal
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/carbon.jpg">
+
+## Homosphorous life cycle with dominant sporophytes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/fernlife.jpg">
 
 ## The consequences of homospory
 <hr>
 <br/>
+<br/>
+<br/>
 
 <div style="float: left; width: 50%;">
 
-* **one	spore	&rarr; one	gametophyte	&rarr bisexual gametophyte**
-    + remember everything is haploid (1N)
+* **One	spore	&rarr; one	gametophyte	&rarr; bisexual gametophyte**
+    + everything is haploid (1N)
 
 <br/>
 
-* **producing	bot	sperm	and	egg	mitotically**
+* **Produces	both	sperm	and	egg	via mitosis**
 
 <br/>
 
-* ** a lot of self fertilzation**
+* **A lot of self fertilization**
+    + What is good/bad about this?
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/homospory.jpg">
-
-## Homosporous lifecycle (lycophytes and ferns)
-<hr>
-
-Sporophyte	
-Sporophyll
-Sporangium	
-Spore	Mother	Cell	
-MEIOSIS	
-Spore	
-Gametophyte	
-Archegonium
-Antheridium	
-Egg	
-Sperm	
-FERTILIZATION	
-Zygote
+<IMG STYLE="position:absolute; TOP:190px; LEFT:535px; WIDTH:500px; HEIGHT:450px" SRC="images/homospory.jpg">
 
 ## Seedless vascular plants have free living separate generations
 <hr>
 <br/>
 
-* **Sporophyte: The fern you see everytime you walk in the woods**
+<div style="float: left; width: 55%;">
+
+* **Sporophyte: The fern you see in the woods**
+    + dominant stage
 
 <br/>
 
@@ -181,37 +250,30 @@ Zygote
 
 <br/>
 
-* **Synapomorphy!!** - remember how a moss looks!**
+* **Synapomorphy - remember how a moss looks!**
 
 <br/>
 
-* **What	selecive	pressures	might	favor	a	diploid	 dominant	lifecycle	over	a	haploid	dominant	lifecycle?**
+* **What	selective	pressures	favor	a	diploid	 dominant	lifecycle?**
 
+</div>
 
-## Introduction to heterospory (Selaginella)
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/fernstages.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:800px; HEIGHT:550px" SRC="images/fernstages.jpg">
+
+## Introduction to heterospory (some lycophytes/ferns)
 <hr>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/hetero.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/homo_hetero.jpg">
 
-	Some	lineages	have	experimented	with	a	different	kind	of	alternation	of	
-generations
 
-– two	kinds	of	spores	leading	to	two	separate	
-gametophytes	that	either	produce	sperm	or	eggs.		
-
-## Introduction to heterospory (Selaginella)
+## Introduction to heterospory (some lycophytes/ferns)
 <hr>
-<br/>
 
-	Sporophyte	
-Megasporophyll 				Microsporophyll	
-Megasporangium 				Microsporangium	
-Megaspore	mother	cell 	 	Microspore	mother	cell	
-MEIOSIS 							MEIOSIS	
-Megaspore 						Microspore	
-Megagametophyte 			Microgametophyte
-Archegonium 					Antheridium	
-Egg 								Sperm	
-						FERTILIZATION 				
-							Zygote	
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/hetero.jpg">
+
+
+
