@@ -1,0 +1,221 @@
+---
+title: "Fungi"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/phylo.png">
+
+## Fossil Fungi
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:250px; HEIGHT:250px" SRC="images/fossil_fungi.gif">
+
+
+<div style="float: right; width: 65%;">
+
+* **Oldest fungal fossils appear ~900 mya**
+
+<br/>
+
+* **In 2000, fossils of fungal spores and threads found in Wisconsin dated to 460 mya**
+    + changed the origin of land-based fungi (Dirk Redecker)
+
+<br/>
+
+* **Fungi and green plants moved from water onto land at same time**
+    + helped plants invade the land!** 
+</div>
+
+## The big picture: Fungi are essential for ecosystem function
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **100,000 species described**
+    + estimated 1.5 millions species
+    + diverse size, morphology and habitats
+
+<br/>
+
+* **Heterotrophic: eat via absorption**
+    + parasites, decomposers, mutualists
+    + cycle nutrients via decomposition
+
+<br/>
+
+* **Cell walls made of chitin**
+    + mushrooms are only a part of the body
+    + filmanets belowground absorb things
+
+<br/>
+
+* **Wild reproduction**
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:525px; HEIGHT:400px" SRC="images/body.jpg">
+
+## Chitin and Heterotrophs = Animals
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/simple_fungi_phylo.jpg">
+
+## Fungi share traits related to nutrition
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Heterotrophs: absorb nutrients from environment**
+    + decomposers: break down dead things
+    + parasites: absorb from host
+    + mutualist: absorb/share with host
+    
+<br/>
+
+* **Use enzymes to break down compounds**
+    + diverse enzymes for diverse food sources
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/fungienzymes.png">
+
+## Fungal derived enzymes and humans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:750px; HEIGHT:400px" SRC="images/stonewash.jpg">
+
+## Fungal derived enzymes and humans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/medicines.png">
+
+## Fungal body plan: Not-motile
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/body.jpg">
+
+## Most *hyphae* divided into cells by *septae*
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hypae.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:325px; HEIGHT:450px" SRC="images/hypae2.jpg">
+
+## Mycelium: huge surface and volume for absorption
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mycelium.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/popart.jpg">
+
+## Specialized hypae in mycorrhizal fungi
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 60%;">
+
+* **Specialized hyphae for feeding on live animals**
+
+<br/>
+
+* **Specialized hyphae that allow them to extract nutrients from plants**
+
+<br/>
+
+* **Mutualistic fungi have branching hyphae they use to exchange nutrients with plant hosts**
+    + *Arbuscules* invade cell walls
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/hypae3.jpg">
+
+## Mycorrhizal fungi: sharing with plants
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **~80-90% of plants have association with fungus**
+    + fungi grown in/around plant roots
+    + share resources
+
+<br/>
+
+* **2 main types:**
+    + Ecto and Arbsucular mycorrhizae
+
+<br/>
+
+* **Association now key for plants to thrive**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr.png">
+
+## Fungi rule the world: plants and fungi talk
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mycorr2.jpg">
+
+## Fungal life cycles
+<hr>
+<br/>
+
+<div style="float: left; width: 53%;">
+
+* **Reproductive structures vary among different fungal groups**
+
+<br/>
+
+* **Life cycles can be complex and structures vary among different major groups**
+
+<br/>
+
+* **Spores are produced sexually or asexually**
+
+<br/>
+
+1.**Plasmogany: Fusion of cytoplasm from different individuals**
+    + mycelia come together, nuclei do not fuse
+
+2. **Karyogamy: parent nuclei fuse (2N)**
+    + meosis returns cells to 1N, makes spores
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:410px; HEIGHT:450px" SRC="images/FungalLifeCycle.jpg">
+    
+## Fungal life cycle: basic
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/lifecyle.jpg">
+
+## Fungal lineages (no longer clean groups)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/fungi1.png">
+
+## Fungal lineages (no longer clean groups)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/fungi2.png">
+
+## Fungi rule the world: zombie apocalypse
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XuKjBIBBAL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+    
