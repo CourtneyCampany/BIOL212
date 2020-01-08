@@ -13,24 +13,35 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br/>
 
 <div style="float: right; width: 50%;">
-* **Review: microevolution happens at the population level**
+* **Microevolution happens at the population level (review)**
 
 <br/>
 
 * **Macroevolution: Speciation forms evolutionary independent populations**
+    + or group of populations
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/macro.png">
 
+## Brainstorm: How/Why do new species form?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:450px; HEIGHT:450px" SRC="images/speciation-continuum.jpg">
+
 ## Biological Species Concept
 <hr>
 <br/>
 
+
+<div style="float: left; width: 50%;">
+
 * **Reproductive isolation between populations results in a lack of gene flow**
     + gene flow: 
+    
 <br/>
 
 * **Individuals do not interbred with other populations or are unable to produce viable offspring after mating**
@@ -40,6 +51,7 @@ runtime: shiny
 
 * <span style="color:blue">**Members of a biological species are united by the potential ability to be reproductively compatible**</span>
 
+</div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:325px; HEIGHT:450px" SRC="images/speciesconcept.jpg">
 
@@ -47,7 +59,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/lark.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/lark.png">
 
 ## Issues with the biological species concept
 <hr>
@@ -74,18 +86,18 @@ reproduced sexually for > 80 million years
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:450px; HEIGHT:400px" SRC="images/rotifer.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:625px; WIDTH:400px; HEIGHT:200px" SRC="images/rotifer.jpg">
 
 ## Alternate species concepts: morphological
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:700px; HEIGHT:500px" SRC="images/moprh.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:750px; HEIGHT:450px" SRC="images/morph.png">
 
 ## Alternate species concepts: morphological
 <hr>
 <br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 505%;">
 * **Can do with all organisms but: What kinds of traits & how many?**
 
 <br/>
@@ -101,37 +113,50 @@ reproduced sexually for > 80 million years
 * **Subjective to the scientist!**
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/mimic.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:500px; HEIGHT:400px" SRC="images/mimic.png">
 
-<!-- ## Alternate species concepts: phylogenetic  -->
-<!-- <hr> -->
+## Alternate species concepts: phylogenetic
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:700px; HEIGHT:500px" SRC="images/phylo.jpg"> -->
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/phylo.jpg">
 
 ## How new species arise: Allopatry
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:700px; HEIGHT:500px" SRC="images/allo.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/allo.png">
+
+## Allopatric speciation in Hawaiian fruit flies
+<hr>
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:700px; HEIGHT:450px" SRC="images/allo_fruit.jpg">
 
 ## Allopatric speciation in shrimp
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:700px; HEIGHT:500px" SRC="images/shrimp.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/shrimp.jpg">
 
 ## How new species arise: Sympatry
+<hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:700px; HEIGHT:350px" SRC="images/symp.png">
 
 ## Sympatric speciation via selection pressures
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/symp2.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/symp2.jpg">
 
+##
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/flies2.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/flies.png">
 
 ## Is speciation fast or slow? Fossils
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/fossils.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/fossils.jpg">
 
 ## How much genetic change does it take?
 <hr>
@@ -155,4 +180,4 @@ reproduced sexually for > 80 million years
     + fresh habitats -> many genes based on selection pressures
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:500px; HEIGHT:450px" SRC="images/fish.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/fish.jpg">
