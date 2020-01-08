@@ -8,7 +8,6 @@ output:
 runtime: shiny
 ---
 
-
 ## What does 'Descent with modification' mean?
 <hr>
 <br/>
@@ -114,6 +113,7 @@ Some will produce more offspring than others
 <hr>
 
 <div align="center">
+
 **Individuals with certain heritable traits are more likely to survive and reproduce (adaptation)**
 
 <br/>

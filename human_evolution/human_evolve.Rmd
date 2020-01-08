@@ -1,0 +1,258 @@
+---
+title: "Human Evolution"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/primate_phylo.jpg">
+
+
+## The big picture: Humans are evolutionary newcomers 
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Our closest *living* relatives are the chimpanzees**
+    + common ancestor with chimps ~ 6-7mya
+    + genomes are 98-99% similar to chimps
+    + 1% difference means a lot!!
+    + 19 regulatory genes differ
+
+<br/>
+
+* **Human derived characters:**
+    + bipedal
+    + large brain...
+    + reduce jawbone and jaw muscles
+    + shorter digestive tract
+
+<br/>
+
+* **These characters are not unique to *Homo sapiens* **
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/shared_parasites.jpg">
+
+## Common **Mis**conceptions of human evolution
+<hr>
+<br/>
+
+* **Our ancestors were chimpanzees: <span style="color: red;">WRONG!</span>** 
+    + <span style="color: green;">RIGHT</span>: We share a common ancestor with chimps
+
+<br/>
+
+* **Human evolution = series of steps from ancestor to *Homo sapiens*: <span style="color: red;">WRONG!</span>**
+    + <span style="color: green;">RIGHT</span>: Human phylogeny is more like bush than a ladder
+    + *Homo sapiens* is a twig on the bush
+    
+<br/>
+
+* **Human characteristics like upright posture and large brain evolved together: <span style="color: red;">WRONG!</span>**
+    + <span style="color: green;">RIGHT</span>: Our ancestors include upright walkers with small brains 
+    
+## Hominins: part of primate family; includes genus *Homo*
+<hr>
+
+* **~20 species of fossils**
+    + brain size, teeth shape, body size
+    + inferred tool use/culture/language
+    + species had different combos of each
+
+<br/>
+
+* **More closely related to humans than chimps**
+
+<br/>
+
+* **Really old fossils**
+    + *Sahelantrophus tchadensis*: 6.5mya
+    + *Ardipithecuc ramidus* (Ardi): 4.4 mya
+
+<br/>  
+   
+* **We (*Homo sapiens*) are the sole surviving lineage**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/ardi.jpg">
+
+## Human evolution was not a linear process
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo.png">
+
+## Skull evolution: The jaw
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/jaw_bone.png">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:635px; WIDTH:400px; HEIGHT:450px" SRC="images/bite.png">
+
+## Skull evolution: brain volume
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/brain.gif">
+
+## Brainstorm: Why did we evolve to walk on 2 legs?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/homininfoot.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/bipedalism.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/bipedalism2.jpg">
+
+## The earliest Hominins evolved in Africa
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **All but the 4 most recent species are found on the African continent**
+
+<br/>
+
+* **Oldest hominin fossil found in Chad**
+    + ~6-7 mya, found in 2001
+    + diverged from common ancestor with chimps (~7mya)
+ 
+ <br/>
+ 
+* **Hominin diversity increased ~4-2 mya**
+    + *Australopithecus* spp
+    + 'Lucy' fossil in Ethiopia
+    + definitely bipedal
+    + gorilla-like shoulders: climbers
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:325px; HEIGHT:450px" SRC="images/lucy.jpg">
+
+## Homo fossil record
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Early Homo genus is composed of first humans**
+    + all species are called *humans*
+    + ~2mya to present day
+
+<br/>
+
+* **Several species described!**
+    + flat and narrow faces
+    + small jaws and teeth
+    + larger brain cases
+
+<br/>
+
+* **Tool-making was their hallmark** 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:325px; HEIGHT:450px" SRC="images/homo2.jpg">
+
+## Brain volume in *Homo* species increased disproportionately
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/brain_body.jpg">
+
+## *Homo* species left Africa (*H.ergaster* then *H.erectus*)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/travel.png">
+
+## *Homo sapiens* evolution
+<hr>
+<br/>
+
+* **Descended from a *more recent* wave of emigration our of Africa**
+    + ~200,000 ya
+    + fossil and DNA evidence
+
+<br/>
+
+* **1 population left Africa, split into 3 groups**
+    + 'Out of Africa' hypothesis
+
+<br/>
+
+* **Natural selection for the ability to reason and communicate**
+    + Increased tool use and language
+    + resulted in larger brains 
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:200px" SRC="images/symbols.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/overlap.png">
+
+## *H.neandertalensis* and *H.sapiens* co-occured
+<hr>
+<br/>
+
+* **Split from a common ancestor ~ 500,000 ya**
+    + buried dead
+    + used art
+
+<br/>
+
+* **co-existed until ~ 30,000**
+    + Middle East and Europe
+
+<br/>
+
+* **Only one lineage survived**
+    + Interbreeding
+    + Competition?
+    + Extirpation of Neanderthals by modern humans? 
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:325px; HEIGHT:450px" SRC="images/homos.jpg">
+
+## *H.neandertalensis* and *H.sapiens* co-occured
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/interbred.png">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:700px; WIDTH:250px; HEIGHT:250px" SRC="images/variants.png">
+
+## Recent findings: new modern species?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 45%;">
+
+* **really small new species (H.floresiensis)?**
+    + fossils in Indonesian island cave
+    + allegedly 13,000 years old
+    
+
+<br/>
+
+* **Archaeologists seeking path to Australia**
+
+<br/>
+
+* **Controversy: disease *H.sapiens*?** 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/hobbit.jpg">
+
+## Where is Human evolution heading?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:700px; HEIGHT:400px" SRC="images/humansevolve.jpg">
