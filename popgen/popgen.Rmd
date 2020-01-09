@@ -12,6 +12,7 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
 
 <div style="float: left; width: 48%;">
 
@@ -38,8 +39,8 @@ runtime: shiny
 
 * **Allele: a variant of a gene**
     + 'A' = ACTGATCCCGATCCCGATAAATAGG
-    + sequence is transcibed into mRNA and translated to red pigment
-
+    + sequence is transcibed into mRNA then translated to red pigment
+    
 <br/>
 
 * **Other individuals have a different sequence at red pigment locus:**
@@ -49,11 +50,13 @@ runtime: shiny
 <br/>
 
 * **Letters 'A' and 'a' indicate there are two different alleles at this locus in the population**
-    + Homozygous =                  Heterozygous = 
+    + *Homozygous* or *Heterozygous*
 
 ## Phenotypic variation reflect genetic variation
 <hr>
 <br/>
+
+<div style="float: left; width: 55%;">
 
 * **Some heritable phenotypes occur as 'either-or'**
     + red or no pigment
@@ -70,6 +73,10 @@ runtime: shiny
 * **Changes in genetic variation provide the raw materials for evolution**
     + Individuals inherit one copy of this locus from mother and father (Diploid)
     
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:450px; HEIGHT:350px" SRC="images/twoallele.jpg">
+  
 ## Claire Wineland (1978-2018)
 <hr>
 
@@ -78,6 +85,10 @@ runtime: shiny
 ## 
 
 <IMG STYLE="position:absolute; TOP:10px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/cystic.jpeg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/cystic2.jpg">
 
 ## Cystic Fibrous is a genetic disease
 <hr>
@@ -99,9 +110,7 @@ runtime: shiny
     + cannot open channel gate
     + insufficient quantites
     
-##
-
-<IMG STYLE="position:absolute; TOP:10px; LEFT:100px; WIDTH:900px; HEIGHT:700px" SRC="images/cystic2.jpg">
+<IMG STYLE="position:absolute; TOP:325px; LEFT:650px; WIDTH:350px; HEIGHT:200px" SRC="images/cfprotein.jpg">
 
 ## 
 <br/>
@@ -153,12 +162,12 @@ AA or Aa or aa
 <div style="float: left; width: 50%;">
 
 * **Individuals in a population vary with a trait, that has a genetic basis**
-* <span style="color:blue">**Trait = functional or not CFTR gene**</span>
+    + <span style="color:blue">**Trait = functional or not CFTR gene**</span>
 
 <br/>
 
-* **variation in trait associated with variation in reproductive success**
-* <span style="color:blue">**CF = life expectancy ~37 years**</span>
+* **Variation in trait associated with variation in reproductive success**
+    + <span style="color:blue">**CF = life expectancy ~37 years**</span>
 
 </div>
 
@@ -181,7 +190,7 @@ AA or Aa or aa
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:480px; WIDTH:535px; HEIGHT:450px" SRC="images/cftr1.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:480px; WIDTH:535px; HEIGHT:450px" SRC="images/cftr1.png">
 
 ## Hardy Weinberg and Cystic Fibrosis
 <hr>
@@ -203,34 +212,62 @@ AA or Aa or aa
 
 <font size="6">If randomly	putting	genotypes	together:</font>
 
-<font size="6"><span style="color:blue">**f(AA)	=	p^2^;	f(aa)	=	q^2^;	f(Aa)	=	2pq**	</span>
+<font size="6"><span style="color:blue">**f(AA)	=	p^2^; 	f(aa)	=	q^2^; 	f(Aa)	=	2pq**	</span>
 <br/>
 <br/>
 <span style="color:blue">**p^2^	+	2pq	+	q^2^	=	1	(100%)**	</span></font>
 
-## 
-<IMG STYLE="position:absolute; TOP:20px; LEFT:300px; WIDTH:400px; HEIGHT:600px" SRC="images/allelesbin.jpg">
+##
+
+<IMG STYLE="position:absolute; TOP:20px; LEFT:325px; WIDTH:400px; HEIGHT:600px" SRC="images/allelesbin.jpg">
 
 ## Hardy Weinberg describes a population NOT evolving
 <hr>
-<br/>
-<br/>
 
-1. No mutations: alters the gene pool
-2. Random mating: non-radnom mating does not allow random mixing of gametes
-3. No natural selection: would change allelic frequencies
-4. Large populations: easy change for genes to drift in and out of population if small
-5. No gene flow: if genes migrate into a population, alleles change
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/HW_conditions.jpg">
 
-
-<div style="float: right; width: 50%;">
-**How does this work in nature with evolution?**
-</div>
-
-## If CF is not evolving, what can we predict?
+## Does Hardy Weinberg occur in nature? .... Kinda
 <hr>
 <br/>
 
-Questions for next time: In Switzerland there are 5 people born with Cf out of every 10,000 children
-1) What is the frequency of carriers, who may pass on CF to the next generation?
-2) A small island population has 1100 adults.  625 of AA, 300 of Aa and 175 aa. What are the frequecies of alleles A and a
+* **Allele and genetic frequencies *do* change over time in populations**
+
+<br/>
+
+* **It is common that some loci may be in HW**
+    + selection is likely always happening on many loci
+ 
+<br/>
+
+* **Populations often evolve *very* slowly**
+    + really low mutations rates
+    + makes it hard to detect frequency change in alleles
+    
+<br/>
+
+* **HW becomes useful to determine the % of a population carrying a specific allele**
+    + medical science &rarr: inherited diseases &rarr; Cystis Fibrosis
+
+## If Cystic Fibrosis is not evolving, what can we predict?
+<hr>
+
+**In Switzerland there are 5 people born with Cystic Fibrosis (aa) out of every 10,000 children.**
+
+<br/>
+
+* **q^2^ = **
+* **q = **
+
+<br/>
+
+* **What is the frequency of the normal CFTR gene (p)?**
+
+<br/>
+
+* **What percentatge of the Swiss population are carriers?**
+    + in other words, what is the frequency of 'Aa' in the population?
+
+<br/>
+
+* **What is the frequency of carriers, who may pass on CF to the next generation?**
+
