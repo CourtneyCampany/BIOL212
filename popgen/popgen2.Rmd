@@ -1,75 +1,209 @@
 ---
-title: "Population Genetics 2"
+title: "Population Genetics"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
 runtime: shiny
-output: ioslides_presentation
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Other ways allele frequencies change: Mutation
+## Last time: is a population evolving?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Re-examine are beetles population**
+    + color: one locus, 2 alleles
+ 
+<br/>
+
+* **Across 2 generations, are allele frequencies the same?**
+
+<br/>
+
+* **What does this mean**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/microevo.gif">
+
+## Hardy Weinberg describes a population NOT evolving
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/HW_conditions.jpg">
+
+## Allele frequencies change in beetles: Mutation
 <hr>
 <br/>
 
-* **Mutation	from	A -> a is	denoted	by	u and	from	a	-> A is	denoted	by	v**
-    + “mutation	rate” =	probability	that	one	allele	changes	
-to	another	allele	via	mutation.		
-    + mutation	rates	are	generally	small	(~0.0001%).		
+* **Mutations in the beetle color gene, resulting in more brown**
 
 <br/>
 
-* **Equilibrium	frequency	of	the	a allele is	given	by	q =	u	/	(u+v)**
+* **Mutation	rate = **	
+    + mutation rates	are	generally	small	(~0.0001%).	
+    + humans = 2.5 x 10(-8) mutations per nucleotide per generation
+    + negligible change from one generation to the next
 
 <br/>
 
-* **Mutation	can	counterbalance	selection**		
-      + selection	against	a	deleterious	recessive	allele
-      + but	mutation	from	A	-> a	
-      + selection	will not	completely	eliminate	the	a allele
+* **Mutation	do can	counterbalance	selection**		
+    + selection	against	a	deleterious	recessive	allele (a)
+    + but	mutation	from	A	-> a	
+    + selection	may not completely eliminate	the	'a' allele
       
-## Other ways allele frequencies change: Migration
+<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:350px; HEIGHT:400px" SRC="images/beetle.jpg">
+
+## Allele frequencies change in beetles: Genetic Drift
 <hr>
 <br/>
 
-* **Migration	is	just	like	mutation	but	way	more	powerful**
-
-<br/>
-
-**Migration	homogenizes	populations**
-    + makes	their	allele	frequencies	more	similar to	each	other.
-
-## Other ways allele frequencies change: Genetic Drift
-<hr>
-<br/>
-
-* **Genetic	drift	results	from	chance	events	that	change	allele	frequencies	in	a	population**
-    + hurricane	disproportionately	kills	RED	individuals	compared	to	PINK	by chance
-    + chance removal (not selection) of pink alleles
-
-<br/>
-
-* **Genetic	drift	happens	in	every	population**
-    + more	pronounced	in	small	populations
+* **Genetic drift describes how allele frequencies fluctuate unpredictably from one generation to the next**
+    + happens	in every	population
+    + pronounced	in	small	populations
     + extremely	important	evolutionary	“force”
 
-## Other ways allele frequencies change: Non-Random Mating
+<br/>
+
+* **Reduce genetic variation through the random loss of alleles**
+
+<br/>
+
+* **In generation, 2 brown beetles have 4 offspring that survive**
+    + several green beetles get stepped on by Dr. C
+    + next generation has more brown than previous, by chance
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/beetlesmush.png">
+
+## Mechanism of Genetic Drift: Founder Effect
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 40%;">
+
+* **Founder Effect: when a few individuals become isolated from a larger population**
+    + some alleles make it, others lost
+
+<br/>
+
+* **Occurs frequently on islands**
+    + diseases may increase in frequency
+    + frequency of recessive allele = ?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:600px; HEIGHT:450px" SRC="images/founder.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/africaners.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/amish.png">
+
+## Mechanism of Genetic Drift: Bottleneck Effect
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Bottlenecks occurs after a drastic reduction in population size**
+    + sudden change in the environment 
+      
+<br/>
+
+* **The new gene pool may be different from original population**
+
+<br/>
+
+* **If the population stays small, genetic drift could increase**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/bottle.jpg">
+
+## Bottlenecks and species habitat loss
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/chicken.jpg">
+
+## Allele frequencies change in beetles: Gene Flow
 <hr>
 <br/>
 
-* **Inbreeding	does	not	change	allele	frequencies	– it simply	changes	how	those	alleles	are	allocated	among	genotypes**
+<IMG STYLE="position:absolute; TOP:400px; LEFT:525px; WIDTH:550px; HEIGHT:200px" SRC="images/beetle_flow.jpg">
+    
+* **Gene flow: exchange of alleles between 2 or more populations**
+    + aka 'Gene migration'
+    + like mutation but way more powerful
 
 <br/>
 
-* **Assortative	mating	(mate	with	like)	decreases	heterozygosity**
+* **Occurs when new individual migrates and mates successfully**
+    + brown beetles enters population
+    + changes allele frequency for color
 
 <br/>
 
-* **Disassortative	mating	(mate	with	different)	increases	heterozygosity**
+* **Gene flow can be good or bad**
+    + may increase genetic diversity
+    + bring harmful alleles
+
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mosquito.jpg">
+
+
+## Allele frequencies change in beetles: Natural Selection
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:750px; HEIGHT:450px" SRC="images/birdeating.jpg">
+
+## Only natural selection causes adaptive evolution!
+<hr>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+* **'Sorting' of alleles that favor reproductive success**
+    + leads to adaptation
+    
+<br/>
+
+* **Certain traits lead to greater *Relative Fitness* **
+    + individuals with good trait will contribute more to gene pool
+    + better survival/reproduction compared to others
+    
+<br/>
+    
+* **More individuals in a population with greater 'RF' means....**
 
 <br/>
 
-* **Non-random	mating,	combined	with	selection,	can	be	a	powerful	evolutionary	“force”**
-    + if	an	allele	is	extremely	deleterious	when	
-homozygous,	inbreeding	will	generate	homozygotes	and	“expose”	that	
-deleterious	allele	to	selection	(inbreeding	depression)	
+* **Natural selection is a 'moving target'**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/adaptive.jpeg">
+
+## Natural Selection: selection of heritable traits
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:800px; HEIGHT:400px" SRC="images/selection.gif">
+
+## Natural Selection: selection of heritable traits
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/selections.jpg">
