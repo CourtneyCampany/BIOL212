@@ -15,7 +15,7 @@ runtime: shiny
 <br/>
 <br/>
 
-<div align="center"><font size="8"> Evolution: Change in the **genetic** </font>
+<div align="center"><font size="8"> <span style="color: blue;">Evolution:</span> Change in the **genetic** </font>
 <br/>
 
 <font size="8"> **composition** of a **population** over </font>
@@ -23,11 +23,15 @@ runtime: shiny
 
 <font size="8"> **generational time** </font></div>
 
+## How would you define a population?
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/penguins.jpg">
+
 ## Population = group of individuals of same species coexisting in the same time and place with the potential of interbreeding 
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/penguins.jpg">
 
-## 211 review: change in genetic composition
+## BIOL211 review: change in genetic composition
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:500; HEIGHT:450px" SRC="images/dna.jpg">
@@ -37,7 +41,7 @@ runtime: shiny
 ## 6 genetically distinct lineages of giraffes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/giraffe.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/giraffe.jpg">
 
 ## Generational Time
 <hr>
@@ -143,7 +147,7 @@ Favorable traits accumulate in a population
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/beakdepth.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:400px; HEIGHT:450px" SRC="images/beakdepth.png">
 
 ## Evolution happens: Antibiotic resistance
 <hr>
