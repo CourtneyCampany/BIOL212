@@ -44,7 +44,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:325x; LEFT:500px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:500px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
 
 ## Transitional Forms
 <hr>
@@ -65,7 +65,7 @@ runtime: shiny
 * **Whales: past and present**
     + nostrils
     + pelvis
-    + hindlimbs!
+    + hind limbs!
     + unique skulls
 
 </div>
@@ -73,7 +73,14 @@ runtime: shiny
 ## Vestigial traits: leftover structures
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/vestigial_whale.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:600px; HEIGHT:450px" SRC="images/whales2.jpg">
+
+## Vestigial traits: leftover structures
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:600px; HEIGHT:450px" SRC="images/whales2.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/humans.jpg">
 
 ## Traits connections argue for *Shared Ancestry*
 <hr>
