@@ -35,7 +35,7 @@ runtime: shiny
 
 <br/>
 
-* **Inheritance of acquired characteristics**
+* **(2) Inheritance of acquired characteristics**
     + body mods can be passed to offspring
     
 <br/>
