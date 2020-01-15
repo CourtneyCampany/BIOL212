@@ -8,7 +8,7 @@ output:
 runtime: shiny
 ---
 
-## What does 'Descent with modification' mean?
+## What does 'Descent with modification' really mean?
 <hr>
 <br/>
 <br/>
@@ -52,13 +52,13 @@ runtime: shiny
 <br/>
 
 <div align="center">
-* **Focus on adaptation**
+* **Focus on adaptation through natural selection (not use/disuse)**
     + characteristics that enhance fitness
-    + inherited
+    + these characteristics are heritable
 
 <br/>
 
-**?Could species arise from an ancestral form by adaptions to different environments?**
+**?Could new species arise from an *ancestral form* by adaptions to different environments?**
 
 </div>
 
@@ -75,7 +75,7 @@ runtime: shiny
 
 <div align="center">
 
-**Individuals in a population vary in their traits**
+**(1) Individuals in a population vary in their traits**
 
 <br/>
 **?What is a trait?**
@@ -92,7 +92,7 @@ runtime: shiny
 <br/>
 
 <div align="center">
-**Some of these differences are heritable**
+**(2) Some of these differences are heritable**
 
 <br/>
 
@@ -105,7 +105,7 @@ runtime: shiny
 <hr>
 
 <div align="center">
-**In each generation, many more offspring are produced than can survive**
+**(3) In each generation, many more offspring are produced than can survive**
 
 <br/>
 
@@ -122,7 +122,7 @@ runtime: shiny
 
 <div align="center">
 
-**Individuals with certain heritable traits are more likely to survive and reproduce (adaptation)**
+**(4) Individuals with certain heritable traits are more likely to survive and reproduce (adaptation)**
 
 <br/>
 
@@ -150,7 +150,7 @@ runtime: shiny
 <br/>
 
 * **Average beak depth increases over time because deep-beaked individuals had greater reproductive success**
-    + *the individuals during drought does not change beak size!*
+    + *the individuals during drought do not change beak size!*
 
 </div>
 
@@ -176,7 +176,7 @@ runtime: shiny
 * **Methicillin used in 1959 to stop *S.aureus* **
     + deactivates production of cell walls
     + resistant strains emerged within 2 years
-    + strains used a different enzyme to make cell walls
+    + evolved  a different enzyme to make cell walls
 
 <br/>
 
