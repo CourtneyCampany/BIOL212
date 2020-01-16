@@ -1,0 +1,12 @@
+name: popgen
+title: popgen
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1668341
+bundleId: 2734332
+url: https://courtneycampany.shinyapps.io/popgen/
+when: 1579213063.17091
+asMultiple: FALSE
+asStatic: FALSE

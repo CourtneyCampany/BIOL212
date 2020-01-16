@@ -12,7 +12,6 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 48%;">
 
@@ -24,7 +23,9 @@ runtime: shiny
 
 * **Expression of trait variation**
     + allelic differences among individuals
-    + may lead to reproductive success in current environment
+    + may lead to reproductive success in current environment, via selection
+    + allele frequencies in population change
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/microevo.gif">
@@ -45,14 +46,14 @@ runtime: shiny
 
 * **Other individuals have a different sequence at red pigment locus:**
     + 'a' = ACTGATCCCGATC**TT**GATAAATAGG
-    + new allele 'a'gives no pigmentation
+    + new allele 'a' gives no pigmentation
 
 <br/>
 
 * **Letters 'A' and 'a' indicate there are two different alleles at this locus in the population**
     + *Homozygous* or *Heterozygous*
 
-## Phenotypic variation reflect genetic variation
+## Phenotypic variation reflects genetic variation
 <hr>
 <br/>
 
@@ -60,22 +61,23 @@ runtime: shiny
 
 * **Some heritable phenotypes occur as 'either-or'**
     + red or no pigment
-    + single gene locus
-    + determined by 2 alleles
+    + single gene locus, 2 alleles
 
 <br/>
 
-* **Phenotypes may also be a gradient or determined by many genes**
-    + incomplete dominance (homozygous = red/white; hetero = pink)
+* **Phenotypes may be a gradient or determined by many genes**
+    + incomplete dominance 
+    + homozygous = red/white; hetero = pink
 
 <br/>
 
 * **Changes in genetic variation provide the raw materials for evolution**
-    + Individuals inherit one copy of this locus from mother and father (Diploid)
+    + inherit one copy of locus from mother & father
+    + which flower gets pollinated more?
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:450px; HEIGHT:350px" SRC="images/twoallele.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:450px; HEIGHT:350px" SRC="images/twoallele.jpg">
   
 ## Claire Wineland (1978-2018)
 <hr>
@@ -84,13 +86,13 @@ runtime: shiny
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:10px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/cystic.jpeg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/cystic.jpeg">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/cystic2.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:600px" SRC="images/cystic2.jpg">
 
-## Cystic Fibrous is a genetic disease
+## Cystic Fibrosis is a genetic disease
 <hr>
 <br/>
 
@@ -100,7 +102,7 @@ runtime: shiny
 <br/>
 
 * **The defective gene is from a 'mutation'**
-    + 1,700 known mutations of the disease
+    + 1,700 known mutations of CFTR
     + deletions, early termination codons, point mutations
 
 <br/>
@@ -136,7 +138,7 @@ runtime: shiny
 AA or Aa or aa
 </font>
 
-## Cystic fibrosis = autosomal recessive (aa genoptypes)
+## Cystic Fibrosis = autosomal recessive (aa genoptypes)
 <hr>
 <br/>
 <br/>
@@ -153,8 +155,9 @@ AA or Aa or aa
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:475px; HEIGHT:475px" SRC="images/autorecessive.jpg">
 
-## Cystis Fibrosous and Evol'n by Natural Selection
+## Cystis Fibrosis and Evol'n by Natural Selection
 <hr>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -169,18 +172,17 @@ AA or Aa or aa
 * **Variation in trait associated with variation in reproductive success**
     + <span style="color:blue">**CF = life expectancy ~37 years**</span>
 
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/CFlife.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/CFlife.png">
 
 ## Cystis Fibrosous and Evol'n by Natural Selection
 <hr>
 <br/>
 <br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 40%;">
+<div style="float: left; width: 45%;">
 
 * **There will be an increase in frequency of individuals having traits that increased reproductive success in the next generation...**
 
@@ -188,9 +190,18 @@ AA or Aa or aa
 
 * <span style="color:blue">**CFTR mutation selected against**</span>
 
+    
+<br/>
+
+* **What should happen to Cystic Fibrosis?**
+
+<br/>
+
+* <span style="color:blue">**Is evolution occuring at the CFTR locus?**</span>
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:480px; WIDTH:535px; HEIGHT:450px" SRC="images/cftr1.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:535px; HEIGHT:450px" SRC="images/cftr1.png">
 
 ## Hardy Weinberg and Cystic Fibrosis
 <hr>
@@ -210,7 +221,7 @@ AA or Aa or aa
 
 <br/>
 
-<font size="6">If randomly	putting	genotypes	together:</font>
+<font size="6">If randomly	putting	genotypes	together (reproduction):</font>
 
 <font size="6"><span style="color:blue">**f(AA)	=	p^2^; 	f(aa)	=	q^2^; 	f(Aa)	=	2pq**	</span>
 <br/>
@@ -239,35 +250,58 @@ AA or Aa or aa
  
 <br/>
 
-* **Populations often evolve *very* slowly**
+* **Populations can evolve *very* slowly**
     + really low mutations rates
     + makes it hard to detect frequency change in alleles
     
 <br/>
 
 * **HW becomes useful to determine the % of a population carrying a specific allele**
-    + medical science &rarr: inherited diseases &rarr; Cystis Fibrosis
+    + medical science &rarr; inherited diseases &rarr; Cystis Fibrosis
 
-## If Cystic Fibrosis is not evolving, what can we predict?
-<hr>
-
-**In Switzerland there are 5 people born with Cystic Fibrosis (aa) out of every 10,000 children.**
+## **In Switzerland there are 5 people born with Cystic Fibrosis (aa) out of every 10,000 children. Assuming the Swiss population is not evolving at the locus for the CFTR gene:**
 
 <br/>
 
-* **q^2^ = **
-* **q = **
+**What is the frequency of broken CFTR allele?**
 
 <br/>
 
-* **What is the frequency of the normal CFTR gene (p)?**
+**What is the frequency of the normal CFTR allele?**
 
 <br/>
 
-* **What percentatge of the Swiss population are carriers?**
-    + in other words, what is the frequency of 'Aa' in the population?
+**What are the expected frequencies of the 3 genotypes of the CFTR gene that determines Cystic Fibrosis in the Swiss population**
 
 <br/>
 
-* **What is the frequency of carriers, who may pass on CF to the next generation?**
+**Due to modern medicine, Cystic Fibrosis is no longer fatal to children.  Explain how population genetics should/should not be used monitor CF in Swiss people, through time.**
+
+## A population of otters has 336 brown and 64 tan individuals. The brown allele is dominant and the tan allele is recessive. The groundhogs appear to be in Hardy Weingberge equilbrium at the fur color locus
+
+<br/>
+
+**How many otters in this population are heterzygous?**
+
+<br/>
+
+**One year later, we observed 650 otters in the same location. How many individuals would you expect to be brown, assumming our population did not evolve?**
+
+## 
+
+**Mastering homework built off of this lecture and Wednesday**
+
+<br/>
+
+**The hard content is from today**
+
+<br/>
+
+**Harder soybean exercise page 491, also on Mastering**
+
+<br/>
+
+**The practice questions and the Mastering homeworks ?'s = quiz/test material**
+
+
 
