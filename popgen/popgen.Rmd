@@ -46,7 +46,7 @@ runtime: shiny
 
 * **Other individuals have a different sequence at red pigment locus:**
     + 'a' = ACTGATCCCGATC**TT**GATAAATAGG
-    + new allele 'a' gives no pigmentation
+    + new allele 'a' gives white pigment
 
 <br/>
 
@@ -60,7 +60,7 @@ runtime: shiny
 <div style="float: left; width: 55%;">
 
 * **Some heritable phenotypes occur as 'either-or'**
-    + red or no pigment
+    + red or white pigment
     + single gene locus, 2 alleles
 
 <br/>
@@ -92,7 +92,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:600px" SRC="images/cystic2.jpg">
 
-## Cystic Fibrosis is a genetic disease
+## Cystic Fibrosis is an inherited genetic disease
 <hr>
 <br/>
 
