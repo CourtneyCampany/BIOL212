@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 45%;">
 
 * **Re-examine are beetles population**
     + color: one locus, 2 alleles
@@ -50,12 +50,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Mutation	rate = **	
     + mutation rates	are	generally	small	(~0.0001%).	
-    + humans = 2.5 x 10(-8) mutations per nucleotide per generation
+    + humans = 2.5 x 10(-8) mutations nucleotide^-1^ generation^-1^
     + negligible change from one generation to the next
 
 <br/>
 
-* **Mutation	do can	counterbalance	selection**		
+* **Mutation may counterbalance	selection**		
     + selection	against	a	deleterious	recessive	allele (a)
     + but	mutation	from	A	-> a	
     + selection	may not completely eliminate	the	'a' allele
