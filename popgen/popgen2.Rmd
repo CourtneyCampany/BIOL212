@@ -2,7 +2,7 @@
 title: "Population Genetics"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
 runtime: shiny
@@ -83,12 +83,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/beetlesmush.png">
 
+## Coin flips to choose 2 alleles
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/genetic-drift-chart.jpg">
+
 ## Mechanism of Genetic Drift: Founder Effect
 <hr>
 <br/>
 <br/>
+<br/>
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 43%;">
 
 * **Founder Effect: when a few individuals become isolated from a larger population**
     + some alleles make it, others lost
@@ -101,7 +107,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:600px; HEIGHT:450px" SRC="images/founder.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:600px; HEIGHT:450px" SRC="images/founder.jpg">
 
 ## 
 
@@ -113,6 +119,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Mechanism of Genetic Drift: Bottleneck Effect
 <hr>
+<br/>
 <br/>
 <br/>
 
@@ -201,9 +208,21 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Natural Selection: selection of heritable traits
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:800px; HEIGHT:400px" SRC="images/selection.gif">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:600px; HEIGHT:300px" SRC="images/selection.gif">
 
-## Natural Selection: selection of heritable traits
-<hr>
+## 
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/selections.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/directional.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/disrupt.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/stable.png">
+
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/birth.jpg">
