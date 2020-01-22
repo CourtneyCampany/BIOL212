@@ -45,12 +45,13 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Mutations in the beetle color gene, resulting in more brown**
+    + to rare to be considered evolutionary change
 
 <br/>
 
 * **Mutation	rate = **	
     + mutation rates	are	generally	small	(~0.0001%).	
-    + humans = 2.5 x 10(-8) mutations nucleotide^-1^ generation^-1^
+    + humans = 2.5 x 10^-8^ mutations nucleotide^-1^ generation^-1^
     + negligible change from one generation to the next
 
 <br/>
@@ -66,7 +67,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 
-* **Genetic drift describes how allele frequencies fluctuate unpredictably from one generation to the next**
+* **Genetic drift describes how allele frequencies fluctuate unpredictably across generations**
     + happens	in every	population
     + pronounced	in	small	populations
     + extremely	important	evolutionary	“force”
@@ -98,6 +99,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Founder Effect: when a few individuals become isolated from a larger population**
     + some alleles make it, others lost
+    + non-random
 
 <br/>
 
