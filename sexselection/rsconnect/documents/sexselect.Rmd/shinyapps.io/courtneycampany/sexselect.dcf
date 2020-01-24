@@ -1,0 +1,12 @@
+name: sexselect
+title: sexselect
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1697900
+bundleId: 2749961
+url: https://courtneycampany.shinyapps.io/sexselect/
+when: 1579824714.40044
+asMultiple: FALSE
+asStatic: FALSE

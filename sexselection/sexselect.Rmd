@@ -12,11 +12,10 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:325px; HEIGHT:450px" SRC="images/sexyjeans.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:685px; WIDTH:325px; HEIGHT:450px" SRC="images/sexyjeans.jpg">
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 58%;">
 
 * **Natural Selections tenant #4:**
     + If variation in a heritable trait is associated with variation in reproductive success...
@@ -24,9 +23,18 @@ runtime: shiny
 
 <br/>
 
-* **Sexual Selection: Mating success variation can influence reproductive success**
+* **Brainstorm:** What traits might be associated with mating decisions between males and females in the animal kingdom?
+
+<br/>
+
+* **Natural selection is *way* more broad than you thought!**
 
 </div>
+
+## Sexual selection is one kind of natural selection
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/matechoice.jpg">
 
 ## Sexual selection is one kind of natural selection
 <hr>
@@ -37,6 +45,7 @@ runtime: shiny
 <div style="float: right; width: 45%;">
 
 * **Selection can occur as an association between phenotype and mating success**
+    + secondary traits in mating
 
 <br/>
 
@@ -45,7 +54,7 @@ runtime: shiny
 
 <br/>
 
-* **Often male 'showiness' in naure**
+* **Often male 'showiness' in nature**
     + benefits versus risks...
 </div>
 
@@ -68,13 +77,13 @@ runtime: shiny
 
 * **Occurs among males in many species**
     + Direct combat
-    + Subtle compat
+    + Subtle combat
     + Display (rituals and colors)
 
 <br/>
 
 * **Drives the evolution of secondary sexual characteristics**
-    + between makes and females
+    + between males 
 
 </div>
 
@@ -88,40 +97,50 @@ runtime: shiny
 ## Subtle combat
 <hr>
 <br/>
-<br/>
-<br/>
-<br/>
+
+<div style="float: left; width: 59%;">
 
 * **Often post-copulatory sperm competition**
+    + selection of diverse and elaborate male genitalia
 
 <br/>
 
 * **Common in insects**
     + Piskin and Koskin 2010
+* **Common in birds**
 
 <br/>
 
-* **Common in birds**
+* **"Many bizarre traits, including male genitalia that explode during copulation, male genitalia that “sing” during copulation, potent seminal products that invade the female's body cavity and her nervous system to influence her behavior.... Eberhard 2009"**
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/penis_insects.png">
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:450px; HEIGHT:450px" SRC="images/penis_insects.png">
 
 ## Subtle combat
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/duckphallus.jpg">
 
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:550px; HEIGHT:300px" SRC="images/lakeduck.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/duckphallus.jpg">
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:550px; HEIGHT:300px" SRC="images/lakeduck.jpg">
-
-## Male display 
+## Male displays and rituals (birds of paradise)
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sKJfvdV4uHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Male displays and rituals (widowbird)
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPI-9oi19gQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Male displays and rituals (bowerbirds)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:500px; HEIGHT:400px" SRC="images/bowerbird2.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/bowerbird.jpg">
+
 
 ## Why is there sexual dimorphism?
 <hr>
@@ -129,7 +148,8 @@ runtime: shiny
 <br/>
 
 * **Why be choosy?**
-    + what percentage is by chance?
+    + what are the real rewards for the female?
+    + mate choice versus chance?
 
 <br/>
 
@@ -145,24 +165,24 @@ runtime: shiny
 ## Female guppies prefer males with orange spots....Why?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/guppy.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/guppy.jpg">
 
 ## Female blackbirds prefer males with orange beaks.. Why?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/blackbirds.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/blackbirds.jpg">
 
-## Why do animals prefer symmetric partners? 
+## Brainstorm: Why do animals prefer symmetric partners? 
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:275px; WIDTH:500px; HEIGHT:450px" SRC="images/Vitruvian_Man.gif">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:275px; WIDTH:500px; HEIGHT:450px" SRC="images/Vitruvian_Man.gif">
 
 ## Runaway selection
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/peacock.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/peacock.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/widowbird.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:585px; WIDTH:450px; HEIGHT:450px" SRC="images/widowbird.jpg">
 
 ## Breaking the binary
 <hr>
@@ -177,9 +197,9 @@ runtime: shiny
 <br/>
 
 * **Gender binary doesn't exist in nature**
-    + Multiple species with muliple genders
+    + Many species with multiple genders
     + 6 different genders described 
-    + sexual mimciry
+    + sexual mimicry
 
 <br/>
 
@@ -194,4 +214,4 @@ runtime: shiny
     + more complicated than it seems on the surface
 </div>
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:675px; WIDTH:300px; HEIGHT:300px" SRC="images/monkey.jpg">
+<IMG STYLE="position:absolute; TOP:325px; LEFT:650px; WIDTH:300px; HEIGHT:300px" SRC="images/monkey.jpg">
