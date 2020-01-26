@@ -66,7 +66,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/finches.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/finches.png">
 
 ## Biological Species Concept
 <hr>
@@ -152,7 +152,9 @@ reproduced sexually for > 80 million years
 ## Alternate species concepts: phylogenetic
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/phylo.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/phylo.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:615px; WIDTH:450px; HEIGHT:300px" SRC="images/phylo2.gif">
 
 ## How new species arise: Allopatry
 <hr>
@@ -162,17 +164,17 @@ reproduced sexually for > 80 million years
 ## Allopatric speciation in Hawaiian fruit flies
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:700px; HEIGHT:450px" SRC="images/allo_fruit.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/allo_fruit.jpg">
 
 ## Allopatric speciation in shrimp
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/shrimp.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/shrimp.jpg">
 
 ## How new species arise: Sympatry
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/symp.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:350px" SRC="images/symp.png">
 
 ## Sympatric speciation via selection pressures
 <hr>
@@ -186,10 +188,15 @@ reproduced sexually for > 80 million years
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:300px; HEIGHT:450px" SRC="images/flies3.png">
 
-## Is speciation fast or slow? Fossils
+## Is speciation fast or slow?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/fossils.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/fossils.jpg">
+
+## What factors impact speciation rates?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/punc.png">
 
 ## How much genetic change does it take?
 <hr>

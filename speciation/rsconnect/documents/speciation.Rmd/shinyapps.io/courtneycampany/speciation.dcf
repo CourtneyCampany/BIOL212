@@ -1,0 +1,12 @@
+name: speciation
+title: speciation
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1705235
+bundleId: 2754026
+url: https://courtneycampany.shinyapps.io/speciation/
+when: 1580047464.75265
+asMultiple: FALSE
+asStatic: FALSE
