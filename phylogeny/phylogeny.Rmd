@@ -33,7 +33,12 @@ runtime: shiny
 
 ## Anatomy of a phylogenetic tree
 <hr>
+
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/tree.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/polytomy.gif">
 
 ## Mapping traits on a tree
 <hr>

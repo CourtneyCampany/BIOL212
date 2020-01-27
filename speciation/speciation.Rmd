@@ -20,8 +20,8 @@ runtime: shiny
 
 <br/>
 
-* **Macroevolution: Speciation forms evolutionary independent populations**
-    + or group of populations
+* **Macroevolution: Speciation events form evolutionary independent populations**
+    + whole taxonomic groups
 
 <br/>
 
@@ -85,7 +85,7 @@ runtime: shiny
 
 <br/>
 
-* <span style="color:blue">**Members of a biological species are united by the potential ability to be reproductively compatible**</span>
+* <span style="color:blue">**BSC: Members of a biological species are united by the potential ability to be reproductively compatible**</span>
 
 </div>
 
@@ -109,14 +109,15 @@ runtime: shiny
 
 <br/>
 
+* **Geographic proximity: how do we know if they cant make babies?**
+
+<br/>
+
 * **Asexual reproduction**
     + *Belloid* rotifers haven’t
 reproduced sexually for > 80 million years 
     + An estimated 2000 species of asexual rotifers are known
 
-<br/>
-
-* **Geographic proximity: how do we know if they cant make babies?**
 </div>
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:625px; WIDTH:400px; HEIGHT:200px" SRC="images/rotifer.jpg">
@@ -132,7 +133,7 @@ reproduced sexually for > 80 million years
 <br/>
 
 <div style="float: right; width: 50%;">
-* **Can do with all organisms but: What kinds of traits & how many?**
+* **Can do with all organisms but.... what kinds of traits & how many?**
 
 <br/>
 

@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1697900
-bundleId: 2749961
+bundleId: 2751035
 url: https://courtneycampany.shinyapps.io/sexselect/
-when: 1579824714.40044
+when: 1579874508.37522
 asMultiple: FALSE
 asStatic: FALSE
