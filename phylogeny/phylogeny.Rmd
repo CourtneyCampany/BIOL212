@@ -36,6 +36,16 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/tree.jpg">
 
+## How to draw phylogenies: branch shape and length
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:700px; HEIGHT:450px" SRC="images/shape.jpg">
+
+## How to draw phylogenies: branch shape and length
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/shape2.png">
+
 ## 
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/polytomy.gif">
@@ -48,6 +58,10 @@ runtime: shiny
 ## 
 
 <IMG STYLE="position:absolute; TOP:45px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/parapoly.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:275px; WIDTH:525px; HEIGHT:600px" SRC="images/bird_evo.jpg">
 
 ## Convergent evolution in marine mammals
 <hr>
@@ -87,16 +101,6 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/draw.jpg">
 
-## How to draw phylogenies: branch shape and length
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:700px; HEIGHT:450px" SRC="images/shape.jpg">
-
-## How to draw phylogenies: branch shape and length
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/shape2.png">
-
 ## Whale Evolution: A Case History
 <hr>
 <br/>
@@ -109,7 +113,7 @@ runtime: shiny
 <br/>
 
 * **Atiodactyl: mammals - cows, deer and hippos** 
-    + hooves, even number of toes, and an **unusual pulley-shaped ankle bone**
+    + hooves, even number of toes, and an unusual pulley-shaped ankle bone
 
 <br/>
 
