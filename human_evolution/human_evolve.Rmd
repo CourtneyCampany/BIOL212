@@ -8,38 +8,6 @@ output:
 runtime: shiny
 ---
 
-##
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/primate_phylo.jpg">
-
-
-## The big picture: Humans are evolutionary newcomers 
-<hr>
-
-<div style="float: left; width: 55%;">
-
-* **Our closest *living* relatives are the chimpanzees**
-    + common ancestor with chimps ~ 6-7mya
-    + genomes are 98-99% similar to chimps
-    + 1% difference means a lot!!
-    + 19 regulatory genes differ
-
-<br/>
-
-* **Human derived characters:**
-    + bipedal
-    + large brain...
-    + reduce jawbone and jaw muscles
-    + shorter digestive tract
-
-<br/>
-
-* **These characters are not unique to *Homo sapiens* **
-    
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/shared_parasites.jpg">
-
 ## Common **Mis**conceptions of human evolution
 <hr>
 <br/>
@@ -57,6 +25,43 @@ runtime: shiny
 
 * **Human characteristics like upright posture and large brain evolved together: <span style="color: red;">WRONG!</span>**
     + <span style="color: green;">RIGHT</span>: Our ancestors include upright walkers with small brains 
+    
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/primate_phylo.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:25px; WIDTH:500px; HEIGHT:600px" SRC="images/hominid.png">
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:575px; WIDTH:500px; HEIGHT:450px" SRC="images/hominid2.jpg">
+
+## The big picture: Humans are evolutionary newcomers 
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Our closest *living* relatives are the chimpanzees**
+    + common ancestor with chimps ~ 6-7mya
+    + genomes are 98-99% similar to chimps
+    + 1% difference means a lot!!
+    + 19 regulatory genes differ
+
+<br/>
+
+* **Hominin derived characters:**
+    + bipedal
+    + large brain...
+    + reduce jawbone and jaw muscles
+    + shorter digestive tract
+
+<br/>
+
+* **These characters are not unique to *Homo sapiens* **
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/shared_parasites.jpg">
     
 ## Hominins: part of primate family; includes genus *Homo*
 <hr>
@@ -80,12 +85,17 @@ runtime: shiny
    
 * **We (*Homo sapiens*) are the sole surviving lineage**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/ardi.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="images/ardi.jpg">
 
 ## Human evolution was not a linear process
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo.png">
+
+## Skull evolution: brain volume
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/brain.gif">
 
 ## Skull evolution: The jaw
 <hr>
@@ -93,11 +103,6 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/jaw_bone.png">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:635px; WIDTH:400px; HEIGHT:450px" SRC="images/bite.png">
-
-## Skull evolution: brain volume
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/brain.gif">
 
 ## Brainstorm: Why did we evolve to walk on 2 legs?
 <hr>
@@ -116,7 +121,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 60%;">
 
 * **All but the 4 most recent species are found on the African continent**
 
@@ -135,21 +140,26 @@ runtime: shiny
     + gorilla-like shoulders: climbers
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:325px; HEIGHT:450px" SRC="images/lucy.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:250px; HEIGHT:450px" SRC="images/lucy.jpg">
 
-## Homo fossil record
+## Lucy (*Australopithecus afirensis*) our direct ancestor?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo.png">
+
+## *Homo* genus fossil record
 <hr>
 <br/>
 
 <div style="float: left; width: 50%;">
 
-* **Early Homo genus is composed of first humans**
+* **Early *Homo* genus is composed of first humans**
     + all species are called *humans*
     + ~2mya to present day
 
 <br/>
 
-* **Several species described!**
+* **8-10 species described!**
     + flat and narrow faces
     + small jaws and teeth
     + larger brain cases
@@ -165,7 +175,12 @@ runtime: shiny
 ## Brain volume in *Homo* species increased disproportionately
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/brain_body.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/brain_body.jpg">
+
+## Species of Hominins and *Homo* overlapped!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/overlap.jpg">
 
 ## *Homo* species left Africa (*H.ergaster* then *H.erectus*)
 <hr>
@@ -176,7 +191,7 @@ runtime: shiny
 <hr>
 <br/>
 
-* **Descended from a *more recent* wave of emigration our of Africa**
+* **Descended from a *more recent* wave of emigration out of Africa**
     + ~200,000 ya
     + fossil and DNA evidence
 
@@ -193,10 +208,6 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:200px" SRC="images/symbols.jpg">
 
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/overlap.png">
-
 ## *H.neandertalensis* and *H.sapiens* co-occured
 <hr>
 <br/>
@@ -207,7 +218,7 @@ runtime: shiny
 
 <br/>
 
-* **co-existed until ~ 30,000**
+* **Co-existed until ~ 30,000 years ago**
     + Middle East and Europe
 
 <br/>
@@ -218,7 +229,7 @@ runtime: shiny
     + Extirpation of Neanderthals by modern humans? 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:325px; HEIGHT:450px" SRC="images/homos.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:325px; HEIGHT:450px" SRC="images/homos.jpg">
 
 ## *H.neandertalensis* and *H.sapiens* co-occured
 <hr>
