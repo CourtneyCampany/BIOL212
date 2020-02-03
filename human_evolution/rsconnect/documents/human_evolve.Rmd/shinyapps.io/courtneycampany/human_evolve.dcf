@@ -1,0 +1,12 @@
+name: human_evolve
+title: human_evolve
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1751235
+bundleId: 2771422
+url: https://courtneycampany.shinyapps.io/human_evolve/
+when: 1580737746.05783
+asMultiple: FALSE
+asStatic: FALSE

@@ -32,9 +32,9 @@ runtime: shiny
 
 ##
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:25px; WIDTH:500px; HEIGHT:600px" SRC="images/hominid.png">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:15px; WIDTH:500px; HEIGHT:600px" SRC="images/hominid.png">
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:575px; WIDTH:500px; HEIGHT:450px" SRC="images/hominid2.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:550px; WIDTH:525px; HEIGHT:450px" SRC="images/hominid2.jpg">
 
 ## The big picture: Humans are evolutionary newcomers 
 <hr>
@@ -78,14 +78,14 @@ runtime: shiny
 <br/>
 
 * **Really old fossils**
-    + *Sahelantrophus tchadensis*: 6.5mya
-    + *Ardipithecuc ramidus* (Ardi): 4.4 mya
+    + *Sahelantrophus tchadensis* (Toumai): 6.5mya
+    + *Ardipithecus ramidus* (Ardi): 4.4 mya
 
 <br/>  
    
 * **We (*Homo sapiens*) are the sole surviving lineage**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="images/ardi.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/ardi.jpg">
 
 ## Human evolution was not a linear process
 <hr>
@@ -121,7 +121,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: right; width: 60%;">
+<div style="float: right; width: 65%;">
 
 * **All but the 4 most recent species are found on the African continent**
 
@@ -140,7 +140,7 @@ runtime: shiny
     + gorilla-like shoulders: climbers
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:250px; HEIGHT:450px" SRC="images/lucy.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/lucy.jpg">
 
 ## Lucy (*Australopithecus afirensis*) our direct ancestor?
 <hr>
@@ -246,7 +246,7 @@ runtime: shiny
 
 <div style="float: right; width: 45%;">
 
-* **really small new species (H.floresiensis)?**
+* **Really small new species (H.floresiensis)?**
     + fossils in Indonesian island cave
     + allegedly 13,000 years old
     

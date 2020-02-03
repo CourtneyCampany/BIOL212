@@ -39,7 +39,7 @@ runtime: shiny
 ## Prokaryotes first to inhabit the Earth
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:900px; HEIGHT:450px" SRC="images/oldlife.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/oldlife.png">
 
 ## Common ancestor of all species living today: Prokaryote
 <hr>
@@ -99,16 +99,35 @@ runtime: shiny
     + Heterotrophs (get from others)
     
 <IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/photonitro.jpg">
-    
+
+## Evolution of tradiational groups:
+<hr>
+<br/>
+
+* **Gram positive bacteria are monophyletic**
+
+<br/>
+
+* **Cyanobacteria are monophyletic**
+
+<br/>
+
+* **Gram negative bacteria no longer considered monophyletic**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:250px; HEIGHT:250px" SRC="images/cyano2.jpg">
+
+<IMG STYLE="position:absolute; TOP:425px; LEFT:300px; WIDTH:500px; HEIGHT:250px" SRC="images/gram.jpeg">
+
 ## Reproduction in Prokaryotes
 <hr>
 <br/>
-<br/>
-<br/>
+
 
 <div style="float: left; width: 40%;">
 
 * **Asexual: daughter cells identical to parent**
+    + potential rapid reproduction
+    + not sustainable!
 
 <br/>
 
@@ -119,7 +138,15 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/binary.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/binary2.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/transduction.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/transformation.jpg">
 
 ## Prokaryotes matter
 <hr>
