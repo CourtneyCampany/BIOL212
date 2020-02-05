@@ -1,5 +1,5 @@
 ---
-title: "Prokaryotes"
+title: "Prokaryotes (Bacteria and Archaea)"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -14,25 +14,21 @@ runtime: shiny
 <div style="float: left; width: 58%;">
 
 * **'Prokaryotes' are not a monopheyltic group**
-    + Kingoms Bacteria & Archaea; each with unique traits
+    + Kingdoms Bacteria & Archaea; each with unique traits
 
 <br/>
 
 * **Diversity of ways of making a living**
     + sources of energy to make ATP
-    + sources of carbon
-    + Photosynthesis
-
-<br/>
-
-* **Half of prokaryotes can move (*taxis*)**
+    + heterotrophs
+    + autotrophs (photosynthesis)
 
 <br/>
 
 * **Co-evolution with the planet and other organisms**
-    + Oxygen poor to oxygen rich world
+    + oxygen poor to oxygen rich world
     + extremeophiles (temperature, pH, salt,etc.)
-    + *Prokaryotes are most abundant organisms on Earth!*
+    + *prokaryotes are most abundant organisms on Earth!*
 </div>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/yellowstone.jpg">
@@ -43,7 +39,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:25px; LEFT:500px; WIDTH:450px; HEIGHT:300px" SRC="images/acid.jpg">
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:500px; WIDTH:450px; HEIGHT:300px" SRC="images/vent.jpg">
+<IMG STYLE="position:absolute; TOP:360px; LEFT:510px; WIDTH:450px; HEIGHT:300px" SRC="images/vent.jpg">
 
 ## Prokaryotes first to inhabit the Earth
 <hr>
@@ -54,7 +50,8 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
-<br/> 
+
+<div style="float: left; width: 50%;">
 
 * **First TRACES of living organisms**
     + Graphite carbon from Canadian rocks
@@ -64,9 +61,13 @@ runtime: shiny
 <br/>
 
 * **Cyanobacteria form stromatolites**
-    + undisputed fossils = 2.7 bya
-    
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:375px; HEIGHT:450px" SRC="images/matfossils.png">
+    + undisputed fossils = 3.5 bya
+    + western Australia
+    + layers of calcium carbonate precipitated over bacterial colonies
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:375px; HEIGHT:450px" SRC="images/matfossils.png">
 
 ## Common ancestor of all species living today: Prokaryote
 <hr>
@@ -77,7 +78,6 @@ runtime: shiny
 
 ## Prokaryotes are structurally diverse
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 30%;">
@@ -91,10 +91,11 @@ runtime: shiny
 <br/>
 
 * **Many Shapes**
+    + spherical, rod, spiral
 
 <br/>
 
-* **1/2 are motile**
+* **1/2 are motile (*taxis*)**
     + use flagellum
 </div>
 
@@ -115,20 +116,21 @@ runtime: shiny
 <br/>
 <br/>
 
-* **Energy for ATP...**
+
+* **Sources of carbon**
+    + autotrophs (make themselves)
+    + heterotrophs (get from others)
+
+<br/>
+
+* **Energy for ATP (no mitochondria)**
     + sunlight
     + organic molecules
     + inorganic molecules
 
-<br/>
-
-* **Sources of Carbon...**
-    + Autotrophs (make themselves)
-    + Heterotrophs (get from others)
-    
 <IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/photonitro.jpg">
 
-## Cell surface structures: Gram + & -
+## Cell surface structures: Gram + & - bacteria
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/gram2.jpg">
@@ -158,18 +160,17 @@ runtime: shiny
 <div style="float: left; width: 45%;">
 
 * **Asexual: daughter cells identical to parent**
-    + potential rapid reproduction
+    + rapid reproduction
     + not sustainable!
     + bad for genetic diversity
 
 <br/>
 
-* **Rare mutations but fast reproduction**
+* **Mutations are rare but fast reproduction**
 
 <br/>
 
-* **However, Bacterial gene transfer occurs**
-    + transfer genetic material to NOT offspring
+* **Gene transfer occurs:**
     + transformation = 
     + transduction = 
 

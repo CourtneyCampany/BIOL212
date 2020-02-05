@@ -1,0 +1,12 @@
+name: prokaryotes
+title: prokaryotes
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1764647
+bundleId: 2776790
+url: https://courtneycampany.shinyapps.io/prokaryotes/
+when: 1580911241.74732
+asMultiple: FALSE
+asStatic: FALSE
