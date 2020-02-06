@@ -8,20 +8,19 @@ output:
 runtime: shiny
 ---
 
-## Eukaryotic Tree of Life
-<hr>
+## 
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:950px; HEIGHT:450px" SRC="images/eukar_phylo.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:750px; HEIGHT:500px" SRC="images/eukar_phylo2.jpg">
 
 ## Protists: The big picture
 <hr>
 
 <div style="float: left; width: 50%;">
 
-* **All Eurayotes are protists except plants, animals and fungi**
+* **All Eukaryotes are protists except plants, animals and fungi**
     + mostly unicellular
     + amoeba, slime molds, algae, protozoa
-    + First undisputed fossils ~2.1 bya**
+    + First undisputed fossils ~2.1 bya
 
 <br/>
 
@@ -33,7 +32,7 @@ runtime: shiny
 <br/>
 
 * **Can be more closely related to other Eukaryotic groups than to other protists ?!?!?**
-  + Phlogeny of 'Protista' is broken!
+  + Phylogeny of 'Protista' is broken!
     
 
 </div>
@@ -44,10 +43,9 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:500px; HEIGHT:600px" SRC="images/phyla.jpg">
 
-## Review: Prokaryotic and Eukaryotic cells differ
-<hr>
+## 
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/shareproeu.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/shareproeu.jpg">
 
 ## Basic Eukaryotic cell: *Euglena*
 <hr>
@@ -59,7 +57,7 @@ runtime: shiny
 ## Origin of the nuclear envelope
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:135px; WIDTH:830px; HEIGHT:450px" SRC="images/nuclearenvelope.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/nuclearenvelope2.jpg">
 
 ## Endomembrane system: Outside in or Inside out?
 <hr>
@@ -210,3 +208,11 @@ runtime: shiny
 ## 
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/isomorph.png">
+
+## Protists matters: Ecology
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/coralpolyp.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/producers.jpg">
