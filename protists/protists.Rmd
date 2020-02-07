@@ -8,9 +8,24 @@ output:
 runtime: shiny
 ---
 
-## 
+## Van Leeuwenoek: First microbiologist
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:750px; HEIGHT:500px" SRC="images/eukar_phylo2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:600px; HEIGHT:450px" SRC="images/leeuwenhoek.jpg">
+
+<div style="float: right; width: 40%;">
+
+**"For me this was among all the marvels that I have discovered in nature the most marvellous of all, and I must say that, for my part, no more pleasant sight has yet met my eye than this of so many thousands of living creatures in one small drop of water, all huddling and moving, but each creature having its own motion."**
+
+</div>
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:450px; HEIGHT:600px" SRC="images/phyla.jpg">
 
 ## Protists: The big picture
 <hr>
@@ -20,7 +35,7 @@ runtime: shiny
 * **All Eukaryotes are protists except plants, animals and fungi**
     + mostly unicellular
     + amoeba, slime molds, algae, protozoa
-    + First undisputed fossils ~2.1 bya
+
 
 <br/>
 
@@ -31,9 +46,9 @@ runtime: shiny
 
 <br/>
 
-* **Can be more closely related to other Eukaryotic groups than to other protists ?!?!?**
-  + Phylogeny of 'Protista' is broken!
-    
+* **First undisputed fossils ~1.8 bya**
+    + many have no hard parts
+    + sperical algal protists
 
 </div>
 
@@ -41,39 +56,27 @@ runtime: shiny
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:500px; HEIGHT:600px" SRC="images/phyla.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/compare.jpg">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/shareproeu.jpg">
-
-## Basic Eukaryotic cell: *Euglena*
+## Basic protist cell: *Euglena*
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/euglena.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:555px; WIDTH:500px; HEIGHT:400px" SRC="images/euglena2.jpg">
 
-## Origin of the nuclear envelope
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/nuclearenvelope2.jpg">
-
-## Endomembrane system: Outside in or Inside out?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/outin.jpg">
-
 ## How did Eukaryotic cells evolve?
 <hr>
-<br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 60%;">
 
+* **Origin of the nuclear membrane?**
+
+<br/>
+
 * **Origin of mitochondria?**
-    + *All* eukaryotic cells have mitochondria, so mitochondria is common ancestor
+    + *All* eukaryotic cells have mitochondria 
+    + so mitochondria is common ancestor?
 
 <br/>
 
@@ -82,34 +85,34 @@ runtime: shiny
     + some from common ancestor
     + others....?
 
+<br/>
+
+* **Endosymbiosis: Organisms of one species living inside an organism of another species**
+    + proposed in 1905 but way too crazy
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:350px; HEIGHT:400px" SRC="images/mitochloro.jpg">
-    
-## Endosymbiosis Theory
-<hr>
-<br/>
-<br/>
-<br/>
-
-* **Symbiosis** occurs when individuals of two different species live in physical contact
-
-<br/>
-
-* **Endosymbiosis** occurs when an organisms of one species lives inside an organism of another species
-    + proposed in 1905 but way too crazy
-    + now commonly accepted
-    
-<IMG STYLE="position:absolute; TOP:400px; LEFT:575px; WIDTH:350px; HEIGHT:250px" SRC="images/endocartoon.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:350px; HEIGHT:400px" SRC="images/mitochloro.jpg">
 
 ## Endosymbiosis Theory
 <hr>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:125px; WIDTH:850px; HEIGHT:250px" SRC="images/endosymb.jpeg">
 
-## 
+<!-- ## Origin of the nuclear envelope/membrane -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:850px; HEIGHT:600px" SRC="images/endo_mito.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/nuclearenvelope2.jpg"> -->
+
+## Endomembrane system: Outside in or Inside out?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/outin.jpg">
+
+
+<!-- ##  -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:850px; HEIGHT:600px" SRC="images/endo_mito.jpg"> -->
 
 ## Does data support Endosymbiosis Theory? YES!!!
 <hr>
@@ -133,6 +136,9 @@ runtime: shiny
     + cyanobacteria for chloroplasts
     + proteobacteria for mitrochondria
     
+## 
+<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/chloroplast2.jpg">
+
 ## Red and green algae underwent secondary endosymbiosis
 <hr>
 <br/>
@@ -154,6 +160,13 @@ runtime: shiny
   
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/secondendo.png">
+
+## *Euglena*: chloroplast with triple membrane
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/euglena.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:555px; WIDTH:500px; HEIGHT:400px" SRC="images/euglena2.jpg">
 
 ## Protists have diverse sex lives
 <hr>
