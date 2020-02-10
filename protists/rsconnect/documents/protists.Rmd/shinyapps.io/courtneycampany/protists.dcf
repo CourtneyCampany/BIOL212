@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1785056
-bundleId: 2787272
+bundleId: 2788716
 url: https://courtneycampany.shinyapps.io/protists/
-when: 1581295132.30166
+when: 1581343045.36168
 asMultiple: FALSE
 asStatic: FALSE

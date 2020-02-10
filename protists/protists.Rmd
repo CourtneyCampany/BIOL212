@@ -29,6 +29,7 @@ runtime: shiny
 
 ## Protists: The big picture
 <hr>
+<br/>
 
 <div style="float: left; width: 50%;">
 
@@ -52,7 +53,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:545px; WIDTH:500px; HEIGHT:400px" SRC="images/protist_collage.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:545px; WIDTH:500px; HEIGHT:400px" SRC="images/protist_collage.jpg">
 
 ## 
 
@@ -117,9 +118,9 @@ runtime: shiny
 ## Does data support Endosymbiosis Theory? YES!!!
 <hr>
 <br/>
+<br/>
 
 * **Mitochondria and chloroplasts are about the size of an average bacterium**
-    + both can self-replicate
 
 <br/>
 
@@ -184,7 +185,7 @@ runtime: shiny
 <br/>
 
 * **Asexual life cycles**: binary fission
-    + body pinches into 2 parts -> then mitosis
+    + body pinches into 2 parts &rarr; then mitosis
     + many-single celled protists
 
 <br/>  
@@ -198,7 +199,7 @@ runtime: shiny
 <br/>
 
 * **Most complex life cycles include an *alternation of generations***
-    + algae → plants
+    + some algae and plants
     + both generations must be multi-cellular
 
 <br/>
@@ -229,8 +230,8 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/coralpolyp.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/coralpolyp.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:390px; WIDTH:350px; HEIGHT:350px" SRC="images/termite.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:390px; WIDTH:350px; HEIGHT:350px" SRC="images/termite.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:350px; HEIGHT:350px" SRC="images/producers.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:750px; WIDTH:350px; HEIGHT:350px" SRC="images/producers.jpg">

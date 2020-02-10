@@ -178,21 +178,30 @@ runtime: shiny
     
 <br/>
 
-**(1) Waxy cuticle:**
+**Waxy cuticle:**
 <br/>
-**(2) Stomata:**
+**Stomata:**
 <br/>
-**(3) Multicellular Gametangia (whoa)**
+**Multicellular gametangia / embryo**
+<hr>
+**Resistant spores**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:200px; HEIGHT:450px" SRC="images/bryo.png">
 
-##
+## Waxy cuticle and stomata
+<hr>
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:75px; WIDTH:900px; HEIGHT:600px" SRC="images/waxystomata.png">
 
-## 
+## Multicellular Gametangia
+<hr>
 
 <IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/game.jpg">
+
+## Multicellular Dependent embryos
+<hr>
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/embryo.jpg">
 
 ##
 
