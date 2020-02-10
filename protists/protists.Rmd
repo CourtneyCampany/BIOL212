@@ -19,7 +19,7 @@ runtime: shiny
 
 <div style="float: right; width: 40%;">
 
-**"For me this was among all the marvels that I have discovered in nature the most marvellous of all, and I must say that, for my part, no more pleasant sight has yet met my eye than this of so many thousands of living creatures in one small drop of water, all huddling and moving, but each creature having its own motion."**
+**"For me this was among all the marvels that I have discovered in nature the most marvelous of all, and I must say that, for my part, no more pleasant sight has yet met my eye than this of so many thousands of living creatures in one small drop of water, all huddling and moving, but each creature having its own motion."**
 
 </div>
 
@@ -48,7 +48,7 @@ runtime: shiny
 
 * **First undisputed fossils ~1.8 bya**
     + many have no hard parts
-    + sperical algal protists
+    + spherical algal protists
 
 </div>
 
@@ -168,26 +168,28 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:555px; WIDTH:500px; HEIGHT:400px" SRC="images/euglena2.jpg">
 
-## Protists have diverse sex lives
+## Eukaryotes have diverse sex lives
 <hr>
+
+* **Haplonic life cycles**: most life spent with one set of chromosomes
+    + zygote only diploid &rarr; meiosis into daughter cells
+    + some multi-celluar algae, fungi
+
 <br/>
 
-* **Haplonic lifecycles**: most life spent with one set of chromosomes
-    + zygote only diploid -> meiosis into daughter cells
-
-<br/>
-
-* **Diplonic lifecycles**: most life with pairs of chormosomes
-    + sex cels (gametes) are haploid via meoisis -> then fuse
+* **Diplonic life cycles**: most life with pairs of chromosomes
+    + sex cells (gametes) are haploid via meiosis &rarr; then fuse
+    + animals
     
 <br/>
 
-* **Asexual lifecyles**: binary fision
+* **Asexual life cycles**: binary fission
     + body pinches into 2 parts -> then mitosis
+    + many-single celled protists
 
-<br/>
+<br/>  
 
-* **Alternations of generations**:
+* **There are more....Read about *Paramecium* in text book**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:775px; WIDTH:150px; HEIGHT:450px" SRC="images/protistsex.jpg">
 
@@ -197,12 +199,13 @@ runtime: shiny
 
 * **Most complex life cycles include an *alternation of generations***
     + algae → plants
+    + both generations must be multi-cellular
 
 <br/>
 
-* **AOG = the alternation of *multicellular* haploid and diploid generations**
-    + diploid (2N) = *sporophyte* = makes spores
-    + haploid (1N) = *gametophyte* = male/female = make gametes
+* **AOG = the alternation of *multi-cellular* haploid and diploid generations**
+    + diploid (2N) = *sporophyte* &rarr; makes spores
+    + haploid (1N) = *gametophyte* &rarr; male/female &rarr; make gametes
     + fertilization of gametes makes new sporophyte
 
 <br/>
@@ -212,7 +215,7 @@ runtime: shiny
 ## Alternation of Generations: Basic Cycle
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:550px; HEIGHT:450px" SRC="images/aog.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:550px; HEIGHT:450px" SRC="images/aog.png">
 
 ##
 
@@ -220,12 +223,14 @@ runtime: shiny
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/isomorph.png">
+<IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ulva.jpg">
 
 ## Protists matters: Ecology
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/coralpolyp.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/coralpolyp.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/producers.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:390px; WIDTH:350px; HEIGHT:350px" SRC="images/termite.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:350px; HEIGHT:350px" SRC="images/producers.jpg">
