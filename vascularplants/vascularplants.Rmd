@@ -8,7 +8,7 @@ output:
 runtime: shiny
 ---
 
-## Vascular plant were the next evolutionary step
+## Vascular plants were the next evolutionary step
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/plantevol.jpg">
@@ -22,7 +22,7 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Bryophytes ruled for ~100 million years**
+* **Bryophytes ruled for <100 million years**
     + vascular plants show up ~425mya
 
 <br/>
@@ -34,7 +34,7 @@ runtime: shiny
 <br/>
 
 * **Developed a vascular system**
-    + grow taller than mosses
+    + grow taller than bryophytes
     + leaves & roots
     
 </div>
@@ -42,6 +42,7 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/manyangio.jpg">
 
 ##
+<br/>
 <br/>
 <br/>
 <br/>
@@ -72,7 +73,7 @@ runtime: shiny
 
 * **Conducting cells evolved structural support**
     + *lignin* in cell walls
-    + think 'straws'
+    + think bundles of straws or pipes
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:300px; HEIGHT:450px" SRC="images/vascular.png">
 
@@ -187,7 +188,7 @@ runtime: shiny
     + whisk ferns lost leaf (enation)
     + Equistem has simplified megaphylls
 
-<br/>
+<br/> 
 
 * **New *Gaga* genus with 19 species**
     + “We wanted to name this genus for Lady Gaga because of her fervent defense of equality and individual expression” Pryer @ Duke University
@@ -205,7 +206,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/carbon.jpg">
 
-## Homosphorous life cycle with dominant sporophytes
+## Homosphorous life cycle (mostly) with dominant sporophytes
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/fernlife.jpg">
@@ -232,7 +233,12 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:535px; WIDTH:500px; HEIGHT:450px" SRC="images/homospory.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/homospory.jpg">
+
+## How spore bearing plants avoid self-fertilization...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:535px; WIDTH:500px; HEIGHT:450px" SRC="images/della.jpg">
 
 ## Seedless vascular plants have free living separate generations
 <hr>
@@ -250,7 +256,7 @@ runtime: shiny
 
 <br/>
 
-* **Synapomorphy - remember how a moss looks!**
+* **Derived Trait - remember how a moss looks!**
 
 <br/>
 

@@ -14,13 +14,13 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Cyanobacteria and protist existed from 1.2 bya**
+* **Cyanobacteria & protist made landfall ~1.2 bya**
     + plants, fungi and animals ~500 mya
     + first forests 385 mya
 
 <br/>
 
-* **Plants evolved from red and green algae**
+* **Plants evolved from green algae**
     + Several key *'shared traits'*
     + **WHAT DO YOU THINK THEY ARE?**
 
@@ -86,7 +86,7 @@ runtime: shiny
     + marine and freshwater
     + single and multi-cellular
     + broad, thick filaments
-    + haplonic (1N) life cycle
+    + some have AoG
     + evolved around ~750mya
     
 <br/>
@@ -97,16 +97,16 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:350px; HEIGHT:300px" SRC="images/sister.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:575px; WIDTH:350px; HEIGHT:300px" SRC="images/sister.jpg">
 
-<IMG STYLE="position:absolute; TOP:480px; LEFT:700px; WIDTH:250px; HEIGHT:200px" SRC="images/greenalgae.jpg">
+<IMG STYLE="position:absolute; TOP:470px; LEFT:700px; WIDTH:250px; HEIGHT:200px" SRC="images/greenalgae.jpg">
 
 ## Molecular evidence points at charophytes as plant ancestors
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/stonewort.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/chara2.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/chara2.jpg">
 
 ## Charophytes (freshwater green algae)
 <hr>
@@ -162,7 +162,7 @@ runtime: shiny
 ## Multi-cellular, Dependent embryos (placental transfer)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/embryo.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/embryo.jpg">
 
 ## Photosynthesis with unique pigments (chlorophyll A & B)
 <hr>
@@ -219,7 +219,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:800px; WIDTH:200px; HEIGHT:450px" SRC="images/bryo.png">
 
-<IMG STYLE="position:absolute; TOP:370px; LEFT:435px; WIDTH:300px; HEIGHT:250px" SRC="images/moss.jpg">
+<IMG STYLE="position:absolute; TOP:390px; LEFT:435px; WIDTH:300px; HEIGHT:250px" SRC="images/moss.jpg">
 
 ## Bryophytes have gametophyte dominated life cycle
 <hr>
