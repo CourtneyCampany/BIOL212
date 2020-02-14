@@ -15,6 +15,18 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/fossil.jpg">
 
+## Introduction to heterospory (some lycophytes/ferns)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/homo_hetero.jpg">
+
+
+## Introduction to heterospory (some lycophytes/ferns)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/hetero.jpg">
+
+
 ## The big picture: We now live in a seed plant world
 <hr>
 <br/>

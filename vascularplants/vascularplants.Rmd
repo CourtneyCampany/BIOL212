@@ -52,7 +52,7 @@ runtime: shiny
 <br/>
 
 <div style="float: right; width: 25%;">
-**Vascular elements evolved several times**
+**Vascular elements evolved indepedently several times**
 </div>
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/vascular_evolve.jpg">
@@ -75,11 +75,14 @@ runtime: shiny
     + *lignin* in cell walls
     + think bundles of straws or pipes
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:300px; HEIGHT:450px" SRC="images/vascular.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:250px; HEIGHT:450px" SRC="images/vascular.png">
 
-## Evolution of Roots
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/ferncross.png">
+
+## Evolution of roots
 <hr>
-<br/>
 <br/>
 
 * **Vascular tissues belowground**
@@ -98,6 +101,7 @@ runtime: shiny
 <br/>
 
 * **Fossils show roots in lycophytes ~ 400mya**
+    + convergent evolution?
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/earlyroots.jpg">
 
@@ -105,6 +109,9 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+
+* **Photosynthetic organ on plants**
+
 <br/>
 
 * **Microphylls: single unbranched vein**
@@ -233,12 +240,26 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/homospory.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:515px; WIDTH:550px; HEIGHT:400px" SRC="images/homospory.jpg">
 
 ## How spore bearing plants avoid self-fertilization...
 <hr>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:535px; WIDTH:500px; HEIGHT:450px" SRC="images/della.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:700px; HEIGHT:450px" SRC="images/della.jpg">
+
+<div style="float: right; width: 30%;">
+
+* **Turn other gametophytes male**
+    + sperm from everywhere!
+
+<br/>
+
+* **Archegonia (F) and Antheridia (M) mature at different times**
+
+</div>
 
 ## Seedless vascular plants have free living separate generations
 <hr>
@@ -260,26 +281,12 @@ runtime: shiny
 
 <br/>
 
-* **What	selective	pressures	favor	a	diploid	 dominant	lifecycle?**
+* **What	does natural selection favor diploid	 dominant	lifecycles?**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/fernstages.jpg">
 
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:800px; HEIGHT:550px" SRC="images/fernstages.jpg">
-
-## Introduction to heterospory (some lycophytes/ferns)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/homo_hetero.jpg">
-
-
-## Introduction to heterospory (some lycophytes/ferns)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/hetero.jpg">
 
 
 
