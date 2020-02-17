@@ -41,21 +41,10 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/manyangio.jpg">
 
-##
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+## Give thanks to extinct seedless vascular plants: Coal
+<hr>
 
-<div style="float: right; width: 25%;">
-**Vascular elements evolved indepedently several times**
-</div>
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/vascular_evolve.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/carbon.jpg">
 
 ## Vascular system: the basics
 <hr>
@@ -73,13 +62,32 @@ runtime: shiny
 
 * **Conducting cells evolved structural support**
     + *lignin* in cell walls
-    + think bundles of straws or pipes
+    + does not rot easily
+    + does not collapse easily
+    + think bundles of rigid straws or pipes
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:250px; HEIGHT:450px" SRC="images/vascular.png">
 
 ## 
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/ferncross.png">
+
+##
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 25%;">
+
+**Vascular elements evolved indepedently several times**
+</div>
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/vascular_evolve.jpg">
 
 ## Evolution of roots
 <hr>
@@ -140,7 +148,7 @@ runtime: shiny
 
 * **Sporagnium:  spore container**
     + ferns: clusters of sporagnia called 'sori'
-    + lycophytes: stobilus holds many sprogania (like a cone)
+    + lycophytes: stobilus holds many sporogania (like a cone)
 
 <br/>
 
@@ -207,11 +215,6 @@ runtime: shiny
 ## 
 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/ferns.jpg">
-
-## Give thanks to extinct seedless vascular plants: Coal
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/carbon.jpg">
 
 ## Homosphorous life cycle (mostly) with dominant sporophytes
 <hr>
