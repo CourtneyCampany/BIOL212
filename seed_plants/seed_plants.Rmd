@@ -15,18 +15,6 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/fossil.jpg">
 
-## Introduction to heterospory (some lycophytes/ferns)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/homo_hetero.jpg">
-
-
-## Introduction to heterospory (some lycophytes/ferns)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/hetero.jpg">
-
-
 ## The big picture: We now live in a seed plant world
 <hr>
 <br/>
@@ -110,14 +98,24 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/ovules.jpg">
 
-##
+## Introduction to heterospory
+<hr>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/gamspor2.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/homo_hetero.jpg">
+
+## Introduction to heterospory
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/hetero.jpg">
 
 ## Evolution of gamtetophyte-sporophyte relationship
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:750px; HEIGHT:450px" SRC="images/gamspor.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/gamspor2.jpg">
 
 ## Early seed plants and gymnosperms
 <hr>

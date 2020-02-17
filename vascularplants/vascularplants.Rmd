@@ -1,10 +1,10 @@
 ---
 title: "Vascular Plant Evolution"
 output: 
-  ioslides_presentation:
+  ioslides_presentation: 
     css: custom.css
-    widescreen: true
-    smaller: true
+    smaller: yes
+    widescreen: yes
 runtime: shiny
 ---
 

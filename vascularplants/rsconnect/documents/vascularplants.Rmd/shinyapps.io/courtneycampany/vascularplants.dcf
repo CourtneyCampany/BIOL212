@@ -1,0 +1,12 @@
+name: vascularplants
+title: vascularplants
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1822283
+bundleId: 2806820
+url: https://courtneycampany.shinyapps.io/vascularplants/
+when: 1581955831.57264
+asMultiple: FALSE
+asStatic: FALSE
