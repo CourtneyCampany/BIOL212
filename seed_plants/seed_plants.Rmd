@@ -18,13 +18,13 @@ runtime: shiny
 ## The big picture: We now live in a seed plant world
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Seeds changed the course of plant evolution**
     + Seed plants show up ~360 mya
-
+    + climate became drier
+    
 <br/>
 
 * **Seeds consists of embryo & nutrients**
@@ -42,7 +42,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:250px; HEIGHT:350px" SRC="images/elkplant.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:800px; WIDTH:250px; HEIGHT:350px" SRC="images/elkplant.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:800px; WIDTH:250px; HEIGHT:350px" SRC="images/elkplant2.jpg">
 
 ## Why seeds matter so much...
 <hr>
@@ -69,14 +69,12 @@ runtime: shiny
 
 ## Seed plants further adapt to life on land
 <hr>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Reduction of gametophyte**
     + mosses &rarr; ferns &rarr; seed plants
     + gametophytes become microscopic
-    + *what are the advantages?*
 
 <br/>
 
@@ -94,56 +92,52 @@ runtime: shiny
 
 * **Pollen**
     + microspore develops into pollen grain
-    + transfer of pollen to ovule = ?
+
     
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/ovules.jpg">
 
-## Introduction to heterospory
-<hr>
+##
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/homo_hetero.jpg">
+<IMG STYLE="position:absolute; TOP:15px; LEFT:200px; WIDTH:650px; HEIGHT:400px" SRC="images/homo_hetero.jpg">
 
-## Introduction to heterospory
-<hr>
+<IMG STYLE="position:absolute; TOP:425px; LEFT:175px; WIDTH:750px; HEIGHT:250px" SRC="images/hetero.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/hetero.jpg">
+<!-- ## Evolution of gamtetophyte-sporophyte relationship -->
+<!-- <hr> -->
 
-## Evolution of gamtetophyte-sporophyte relationship
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:750px; HEIGHT:450px" SRC="images/gamspor.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:750px; HEIGHT:450px" SRC="images/gamspor.jpg"> -->
 
 ##
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/gamspor2.jpg">
 
-## Early seed plants and gymnosperms
-<hr>
-<br/>
-<br/>
+<!-- ## Gymnosperms take over -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:600px; HEIGHT:450px" SRC="images/earlyseedplants.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:600px; HEIGHT:450px" SRC="images/earlyseedplants.jpg"> -->
 
-<div style="float: right; width: 38%;">
+<!-- <div style="float: right; width: 38%;"> -->
 
-* **Seed plant ancestors extinct**
-    + oldest fossils in Carboniferous
-  
-<br/>
+<!-- * **Seed plant ancestors extinct** -->
+<!--     + oldest fossils in Carboniferous -->
 
-* **~300-250 mya climate become drier**
-    + Carboniferous &rarr; Permian
-    + gymnosperms replaced lycophytes
+<!-- <br/> -->
 
-<br/>
+<!-- * **~300-250 mya climate become drier** -->
+<!--     + Carboniferous &rarr; Permian -->
+<!--     + gymnosperms replaced lycophytes -->
+
+<!-- <br/> -->
 
 
-* **Gymnosperms with thin needles thrived till ~ 60 mya**
-    + earliest evidence of insect pollination with gymnosperms
-    
-</div>
+<!-- * **Gymnosperms with thin needles thrived till ~ 60 mya** -->
+<!--     + earliest evidence of insect pollination with gymnosperms -->
+
+<!-- </div> -->
 
 ## 4 living lineages of gymnosperms
 <hr>
@@ -162,7 +156,7 @@ runtime: shiny
 <br/>
 
 * **Ginkos**: *Ginkgo biloba* is only species left!
-    + landscapers only plant males because...NSFW
+    + landscapers only plant males because...
     
 <br/>
 
@@ -183,48 +177,50 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Male and female cones on same plant**
-    + Cone = strobilus
-    + wind pollinated
+    + sporophyll &rarr; sporangia &rarr; spores
+    + pollen and ovulate cones
+    + scales = modified leaves
 
 <br/>
 
 * **Male cones house microsporangium**
-    + microsporangium holds microsporocyte (2N)
-    + microsporocyte produce pollen grains (1N)
+    + microsporangium produces microspores
+    + microspores develop into pollen grains
+    + male gametophyte inside pollen grain
+    + pollen dispersed by wind
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/malecone.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:560px; WIDTH:500px; HEIGHT:350px" SRC="images/malecone.png">
 
 
 ## Gymnosperm reproduction: basics
 <hr>
 <br/>
 <br/>
+
+<div style="float: left; width: 48%;">
+
+* **Female cones have 2 ovules per scale**
+    + each ovule has megasproangium
+    + megasporangium produce 4 megaspores
+    + 1 megaspore makes a gametophyte
+
 <br/>
 
-<div style="float: left; width: 50%;">
-
-* **Female cones house megasporangium**
-    + megasporangium holds megasporocyte (2N)
-    + megasporocyte produce 4 megaspores
-    + 1 megaspore (1N) makes it
-
-<br/>
-
-* **Pollen grain reach ovule and germinates**
+* **Pollen grain reaches ovule and germinates**
     + pollen tube grows toward megaspore
     + megaspore develops archegonium with eggs
     + sperm &rarr; pollen tube &rarr; egg
+    + seed forms, dispersed by wind
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/femalecone.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:520px; WIDTH:550px; HEIGHT:350px" SRC="images/femalecone.jpg">
 
 ##
 
@@ -242,7 +238,7 @@ runtime: shiny
 <div style="float: left; width: 49%;">
 
 * **Most diverse living group of plants**
-    + 14,000 genera, 300,000 species
+    + 14,000 genera, 250,000 species
 
 </div>
 
@@ -254,16 +250,17 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:325px; LEFT:150px; WIDTH:800px; HEIGHT:375px" SRC="images/angios.jpg">
+<IMG STYLE="position:absolute; TOP:310px; LEFT:200px; WIDTH:700px; HEIGHT:375px" SRC="images/angios.jpg">
 
 ## Angiosperm evolution: Bugs and animals
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/beetlevolution.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/butterfly.jpg">
 
-## Flowers
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/ants.jpg">
+
+## Angiosperm reproduction: Flowers
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
@@ -281,6 +278,10 @@ runtime: shiny
 * **Petals: colored leaves to attract pollinators**
     + less colored if wind pollinated
     
+<br/>
+
+* **Two types of fertile organs to make spores**
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/flower.jpg">
@@ -288,18 +289,18 @@ runtime: shiny
 ## Flowers - Male
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 55%;">
 
 * **Stamens: microsporophylls**
     + produce microspores that develop into pollen
-    + contain anther + filament
     
 <br/>    
 
 * **Anther: where microsporangia develop**
-    + aka Pollen
+    + microspores produce
+    + microspores &rarr; pollen
+    + pollen &rarr; male gametophyte
 
 <br/>
     
@@ -314,10 +315,10 @@ runtime: shiny
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:600px; HEIGHT:450px" SRC="images/flower.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:375px; HEIGHT:450px" SRC="images/flower2.jpg">
 
 
-<div style="float: right; width: 35%;">
+<div style="float: right; width: 50%;">
 
 * **Stigma: receives pollen**
     + sticky
@@ -329,8 +330,9 @@ runtime: shiny
     
 <br/>
 
-* **Ovary: contains ovule**
-    + ovule contains female gametophyte
+* **Ovary: contains ovules**
+    + megasporangium inside ovule produce 4 megaspores
+    + 1 megaspore survives to make female gametophyte
 
 </div>
 
@@ -339,9 +341,9 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/doublefert.png">
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/angiolife.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/angiolife.jpg"> -->
 
 ## Comparing seed plant reproduction
 <hr>
