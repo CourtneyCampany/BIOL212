@@ -40,7 +40,9 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:525px; HEIGHT:350px" SRC="images/flowers3.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:250px; HEIGHT:350px" SRC="images/elkplant.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:800px; WIDTH:250px; HEIGHT:350px" SRC="images/elkplant.jpg">
 
 ## Why seeds matter so much...
 <hr>
