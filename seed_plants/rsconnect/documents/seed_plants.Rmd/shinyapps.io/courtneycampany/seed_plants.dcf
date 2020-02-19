@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1830026
-bundleId: 2810427
+bundleId: 2812045
 url: https://courtneycampany.shinyapps.io/seed_plants/
-when: 1582067456.77352
+when: 1582120761.45694
 asMultiple: FALSE
 asStatic: FALSE
