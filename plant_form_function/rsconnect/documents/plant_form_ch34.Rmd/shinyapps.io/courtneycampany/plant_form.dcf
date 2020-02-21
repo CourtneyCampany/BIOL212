@@ -1,0 +1,12 @@
+name: plant_form
+title: plant_form
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 439220
+bundleId: 1648196
+url: https://courtneycampany.shinyapps.io/plant_form/
+when: 1539802126.77712
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,235 @@
+---
+title: "Plant form and function"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## How do we view plants in the real world?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400px" SRC="images/acacia.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/urban.png">
+
+## Are plants as advanced (> or =) as humans?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/whatplantsdo.jpg">
+
+## Plants pull all of this off while...
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:125px; WIDTH:400px; HEIGHT:300px" SRC="images/baby-groot.jpeg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/ent_lor.jpg">
+
+## Plants as sessile organisms
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Mostly defined by their total inability to move**
+
+<br/>
+
+* **Is this a good thing or a bad thing?**
+
+<br/>
+
+* *Their Darwinian struggle for growth, survival and reproduction in very different arenas has resulted in an extremely wide variety of form and function (Diaz et al 2016)*
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/plantscool.png">
+
+## Themes in plant form
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 38%;">
+
+* **Plants gather materials to grow**
+    * soil
+    * atmosphere
+    * materials can be limiting
+
+<br/> 
+
+* **Above and belowground body plan**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:500px; HEIGHT:450px" SRC="images/plantbody.jpg">
+
+## Themes in plant form
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 38%;">
+
+* **Plants gather materials to grow**
+    * soil
+    * atmosphere
+    * materials can be limiting
+
+<br/> 
+
+* **Above and belowground body plan**
+  
+<br/> 
+
+* **Plants exhibit _indeterminate growth_**
+    * "foragers"
+    * diversity of size & shape
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/raunkiaer.jpg">
+
+## Diversity in plant form via uptake and structure
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/areavolume.png">
+
+## Diversity in plant form via evolution
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:900px; HEIGHT:400px" SRC="images/angioradiation.png">
+
+## Diversity in plant form via environment
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/leafsize.jpg">
+
+## How do plants create such dynamic structures?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cell_types.png">
+
+## Parenchyma cells: living, dividing with metabolic function
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/parenchyma.jpg">
+
+## Collenchyma (flexible) & Sclerenchyma (rigid) for support
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/celery.png">
+
+## Plants have 3 tissue systems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:300px; HEIGHT:450px" SRC="images/tissues.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:300px; HEIGHT:300px" SRC="images/tissue_structure.jpg">
+
+## Dynamic root growth integral for plant function
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:185px; WIDTH:700px; HEIGHT:500px" SRC="images/root_roles.jpg">
+
+## Root morphology is super diverse
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:10px; WIDTH:750px; HEIGHT:500px" SRC="images/rootsystems1.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/roots.jpg">
+
+## Roots are a member of the the biotic soil community
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/plants-fungi2.jpg">
+
+<!-- ## Root exudation: Who's in charge? -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:450px; HEIGHT:400px" SRC="images/exudates.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/mycorr.jpg"> -->
+
+## Roots supply key nutrients & water to plant
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/rootuptake.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
+
+## Vascular tissue system: Moving the good stuff
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/xylem2.jpg">
+
+## Vascular tissue system: Moving the good stuff
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:700px; HEIGHT:450px" SRC="images/phloem2.jpg">
+
+## Primary plant growth through meristems
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:300px; HEIGHT:500px" SRC="images/root_growth.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/meristem.jpg">
+
+## Cambium produce secondary growth
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:90px; WIDTH:500px; HEIGHT:400px" SRC="images/vascular_cambium.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:585px; WIDTH:400px; HEIGHT:400px" SRC="images/woodgrowth.jpg">
+
+## Annual growth rings
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/growthrings.png">
+
+<div style="float: right; width: 50%;">
+
+* **Plants record what happens on the planet**
+
+<br/>
+
+* **Complete cycle of seasons**
+    * record atmospheric conditions
+
+<br/>
+
+* **Agreement on solar storms on a global scale!**
+    * Wang et al. 2017. Nature Communications
+        
+ </div> 
+ 
+## Plant form: building the perfect plant...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/perfect_plant.png">
+ 
+## Sessile plants alter form to make a living
+<hr>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:450px; HEIGHT:350px" SRC="images/forest.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/spectrum_plantform.jpg">
