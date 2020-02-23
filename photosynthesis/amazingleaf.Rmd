@@ -111,12 +111,9 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <br/>
 
-* **Plant biomass comes from photosynthesis**
-
-<br/>
-
 * **Photosynthesis is an energy pathway**
-    * 2 linked reactions
+    + 2 linked reactions
+    + light + Calvin
 
  </div>
  
@@ -127,7 +124,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/chlroplasts4.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/chlroplasts3.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/chlroplasts3.png">
 
 ## The nature of light
 <hr>
@@ -142,25 +139,25 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/pigments.jpg">
 
-## When pigments absorbing photons an election gets excited
+## When pigments absorb photons an election gets excited
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/excite.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/excite.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/resonance.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/resonance.jpg">
 
 ## Photosystems (2) convert light energy to chemical energy
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/photosystem.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:425px; HEIGHT:450px" SRC="images/photosystem.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/lightreaction3.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:450px; WIDTH:650px; HEIGHT:325px" SRC="images/lightreaction3.png">
 
 ## Light reactions: make ATP + NADPH for Calvin cycle
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/photosystems2.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/photosystems2.png">
 
 ## 
 
@@ -169,21 +166,40 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 ## Dark Reactions (aka Calvin cycle)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/calvin3.jpg">
 
-<IMG STYLE="position:absolute; TOP:290px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/leaf_structure2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.png">
 
 ## Calvin cycle is a 3-step process
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/calvin3.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **1. Fixation: CO~2~ reacts with 5C molecule (RUBP)**
+    + new 6C split into 2 acids (3C each)
+    + catalyzed by Rubisco enzyme
+
+<br/>
+
+* **2. ATP and NADPH turn 3C acids into sugars**
+    + reduction of acids
+
+<br/>
+
+* **3. Some 3C sugars recycled to make RUBP (5C)**
+    + one 3C sugar leaves to make glucose
+    + recycling needs ATP
+    
+ </div>
 
 ## Making sugars requires several cycles
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/calvin2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin2.jpg">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
 
@@ -258,7 +274,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:325px; HEIGHT:450px" SRC="images/atmosphere.png">
 
-## Calvin Benson won a Nobel prize, is TA won best practical joke
+## Calvin Benson won a Nobel prize, his TA won best practical joke
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bensonwilson.png">
