@@ -10,6 +10,12 @@ runtime: shiny
 ---
 
 ##
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:400px; HEIGHT:600px" SRC="images/plantbiomass.png">
 
@@ -26,9 +32,9 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 ## Leaves exchange gases via stomata
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/stomata.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:350px; HEIGHT:350px" SRC="images/stomata.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:350px; HEIGHT:450px" SRC="images/stomatal_evolution.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:450px; WIDTH:600px; HEIGHT:300px" SRC="images/stomata6.jpg">
 
 ## How stomata work...
 <hr>
@@ -45,7 +51,6 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 ## Vascular tissues in leaves are confined to veins
 <hr>
 <br/>
-<br/>
 
 <div style="float: right; width: 65%;">
 * **_Transpiration_ is a by‐product of opening stomatal pores**
@@ -59,12 +64,12 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:80px; WIDTH:250px; HEIGHT:350px" SRC="images/leafveins.jpg">
 
-<IMG STYLE="position:absolute; TOP:365px; LEFT:395px; WIDTH:600px; HEIGHT:300px" SRC="images/venation.jpg">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:395px; WIDTH:600px; HEIGHT:300px" SRC="images/venation.jpg">
 
 ## How leaf veins changed the world....
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
 
 ## Are plants intelligent? Leaf economic theory
 <hr>
@@ -77,18 +82,20 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:185px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/scholar.jpg">
 
-## What do we do when we are hungry?
-<hr>
-<br/>
+<!-- ## What do we do when we are hungry? -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:350px; HEIGHT:250x" SRC="images/hangry.png">
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:350px; HEIGHT:250x" SRC="images/hangry.png"> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/fastfood.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/fastfood.jpg"> -->
 
 ## What do plants do when they are hungry?
 <hr>
     
-<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:950px; HEIGHT:350px" SRC="images/candy.png">
+<IMG STYLE="position:absolute; TOP:185px; LEFT:75px; WIDTH:950px; HEIGHT:350px" SRC="images/candy.png">
+
+<IMG STYLE="position:absolute; TOP:555px; LEFT:250px; WIDTH:600px; HEIGHT:100px" SRC="images/equation.jpg">
 
 ## Photosynthesis is the basis for most life on Earth
 <hr>
