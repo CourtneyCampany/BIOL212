@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 530507
-bundleId: 1947928
+bundleId: 2829636
 url: https://courtneycampany.shinyapps.io/photo_evolve/
-when: 1552920755.20353
+when: 1582669940.87585
 asMultiple: FALSE
 asStatic: FALSE

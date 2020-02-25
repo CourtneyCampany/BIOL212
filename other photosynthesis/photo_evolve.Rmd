@@ -33,7 +33,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg">
 
-## Dark Reactions (aka Calvin cycle)
+## Calvin cycle
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/calvin3.jpg">
@@ -102,21 +102,24 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 59%;">
 
 * **Only 3-10 reactions per second**
-
+    + limits photosynthesis
+    
 <br/>
 
 * **20% error rate**
-    * gets worse at high temperatures
+    + gets worse at high temperatures
 
 <br/>
 
-* **Performs carboxylation and OXYGENATION**
-    + Like having a really good friend with a disgusting habit
+* **Also reacts with O~2~**
+    + O~2~ reaction called *Photorespiration*
+    + uses ATP and NADPH to make CO~2~
+
+  
 
 </div>
 
@@ -127,20 +130,21 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 55%;">
 
-* **Evolution doesn't necessarily create the best solution**
+* **Evolution doesn't always create the best solution**
 
 <br/>
 
-* **Oxygenation products are completely wasteful**
+* **Photorespiration is completely wasteful**
+    + 2x energy to produce the same amount of sugar than if Rubisco only reacted with CO~2~
 
 <br/>
 
-* **2x energy to produce the same amount of sugar than if Rubisco just reacted with CO~2~**
-    + atmosphere has and is changing!!
+* **Currently, Rubisco has higher affinity for CO~2~ (80x)** 
+    + compare to the composition of the atmosphere...
+    + compare to global warming...
 
  </div>
 
@@ -168,12 +172,12 @@ runtime: shiny
 
 <!-- <IMG STYLE="position:absolute; TOP:170px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco2.jpg"> -->
 
-## Why has Rubsico not been replaced?
+## Why has Rubisco not been replaced?
 <hr>
 <br/>
-<br/>
+ 
+<div style="float: left; width: 55%;">
 
-<div style="float: left; width: 50%;">
 * **Evolution of enzymes difficult**
     * trade-offs between activity and stability
  
@@ -184,17 +188,21 @@ runtime: shiny
 
 <br/>
 
-* **RubisCO → RubisC**
-    * requires a decrease in fitness 
-    * "heartbeat" of photosynthesis
+* **RubisCO → RubisC???**
+    + requires a decrease in fitness 
+    + plants are stuck with Rubisco
+    
+ <br/>
+ 
+* **Natural selection increased affinity for CO~2~**
+    + makes it slow
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/rubisco_mutations.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:475px; HEIGHT:450px" SRC="images/calvin2.jpg">
 
 ## Evolution tinkers with other parts of photosynthesis
 <hr>
-<br/>
 <br/>
 <br/>
 
@@ -203,23 +211,20 @@ runtime: shiny
 <div style="float: right; width: 55%;">
 
 * **Improved and recombined existing parts and pieces**
+    + work around the photorespiration issue
  
 <br/>
 
 * **In response to environmental change**
-    * lower [CO~2~]
-    * high temperatures 
-    * water limitations 
+    + lower [CO~2~] & higher [O~2~]
+    + high temperatures 
+    + water limitations 
 
 <br/>
 
-* **Allowed plants to exploit new habitats**
+* **Evolution of new photosynthesis pathways**
+    + Allowed plants to exploit new habitats
 </div>
-
-## C4 photosynthesis: Evolved many times
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/c4map.png">
 
 ## Evolution of C4 photosynthesis
 <hr>
@@ -227,41 +232,14 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
-<br/>
 
-<div style="float: right; width: 53%;">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/c4cell.jpg">
 
-* **C3 plants use CO~2~ directly in the Calvin cycle**
+<div style="float: right; width: 45%;">
 
-<br/>
-
-* **C4 plants first fix CO~2~ to PEP**
-
-<br/>
-
-* **Mesophyll cells @ top are CO~2~ pumps**
-    * flood Rubsico in **bundle sheath cells** with CO~2~
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/c3vsc4.jpg">
-
-## Functional change in bundle sheath cells (C3 → C4)
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:500px; HEIGHT:250px" SRC="images/c4cell.jpg">
-
-<div style="float: right; left: 45%;">
-
-* **Calvin cycle now occurs in BSC cells around leaf veins**
+* **Calvin cycle moved to *Bundle Sheath Cells* surrounding leaf veins**
     * chloroplasts now present
 
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -289,9 +267,9 @@ runtime: shiny
 <br/>
 
 * **New enzyme, phosphoenolpyruvate carboxlylase (PEPC)**
-    * fixes CO~2~ to PEP
-    * no affinity for O~2~
-    * 4C malate carries CO~2~ to Calvin cycle
+    * fixes CO~2~ to PEP (no affinity for O~2~)
+    * new 4C malate pumped to bundle sheath cells
+    * malate broken down to release CO~2~
 
 <br/>
 
@@ -300,11 +278,10 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:215px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
 
 ## Why is C4 photosynthesis not dominant?
 <hr>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -312,6 +289,7 @@ runtime: shiny
 <div style="float: right; width: 50%;">
 
 * **Regeneration of PEP expensive (ATP)**
+    + in addition to ATP needed for Calvin cycle
  
 <br/>
  
@@ -324,14 +302,19 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:185px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4_2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:550px; HEIGHT:450px" SRC="images/c4khan.png">
 
 ##
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
 
 <div class="item-absolute2"> In hot conditions, the benefits of reduced photorespiration likely exceed the ATP cost of moving CO~2~ from the mesophyll cell to the bundle-sheath cell </div>
 
-## CAM (Crassulacean Acid Metabolism) photosynthesis
+## C4 photosynthesis: Evolved many times
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/c4map.png">
+
+## Evolution of CAM photosynthesis
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
@@ -349,7 +332,7 @@ runtime: shiny
 <br/>
  
 * **4C compounds produced in large quantities**
-    + store CO~2~ when Rubisco is inactive
+    + stored when Rubisco is inactive
 
 <br/>
 
@@ -384,7 +367,7 @@ runtime: shiny
 * **Are CAM plants fast or slow growing?**
 </div>
 
-## C3 vs C4 vs CAM
+## C3 vs C4 vs CAM: Know advantages/disadvantages of each
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/c3c4cam.jpeg">
