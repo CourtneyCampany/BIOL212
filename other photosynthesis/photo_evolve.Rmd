@@ -49,9 +49,10 @@ runtime: shiny
 
 <div style="float: right; width: 50%;">
 
-* **1. Fixation: CO~2~ reacts with 5C molecule (RUBP)**
-    + new 6C split into 2 acids (3C each)
+* **1. Fixation: CO~2~ reacts with 5C molecule (RuBP)**
     + catalyzed by Rubisco enzyme
+    + new 6C split into 2 acids (3C each)
+
 
 <br/>
 
@@ -60,7 +61,7 @@ runtime: shiny
 
 <br/>
 
-* **3. Some 3C sugars recycled to make RUBP (5C)**
+* **3. Some 3C sugars recycled to make RuBP (5C)**
     + one 3C sugar leaves to make glucose
     + recycling needs ATP
     
@@ -142,7 +143,7 @@ runtime: shiny
 
 <br/>
 
-* **Currently, Rubisco has higher affinity for CO~2~ (80x)** 
+* **Rubisco evolved high affinity for CO~2~ (80x > O~2~)** 
     + compare to the composition of the atmosphere...
     + compare to global warming...
 
@@ -199,7 +200,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:475px; HEIGHT:450px" SRC="images/calvin2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:595px; WIDTH:475px; HEIGHT:450px" SRC="images/calvin2.jpg">
 
 ## Evolution tinkers with other parts of photosynthesis
 <hr>
@@ -254,7 +255,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c4_cs.gif">
 
-## C4 plants concentrate CO~2~ around Rubisco spatially
+## C4 plants concentrate CO~2~ around Rubisco *spatially*
 <hr>
 <br/>
 <br/>
@@ -282,6 +283,7 @@ runtime: shiny
 
 ## Why is C4 photosynthesis not dominant?
 <hr>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -314,12 +316,12 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/c4map.png">
 
-## Evolution of CAM photosynthesis
+## Evolution of CAM photosynthesis (C4 pathway w/out BSC)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
 
-## CAM concentrates CO~2~ around Rubisco temporally
+## CAM concentrates CO~2~ around Rubisco *temporally*
 <hr>
 <br/>
 <br/>
