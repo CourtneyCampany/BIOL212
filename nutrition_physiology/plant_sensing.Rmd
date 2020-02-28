@@ -21,7 +21,7 @@ runtime: shiny
 
 * **Do plants sense their environment?**
     * changes in essential resources
-    * herbivory
+    * herbivory/disturbance
 
 <br/>
 
@@ -30,7 +30,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:500px; HEIGHT:500px" SRC="images/brains.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="images/brains.jpg">
 
 ## Sensory cell systems
 <hr>
@@ -42,7 +42,7 @@ runtime: shiny
 
 <div style="float: right; left: 55%;">
 
-* **What external factors elicit responses from plants?**
+* **Cell to cell signal networks**
 
 <br/>
 
@@ -78,7 +78,7 @@ runtime: shiny
 <br/>
 
 * **Are their limitations to plant height?**
-      + Redwoods = 116 m
+    + Redwoods = 116 m
       
 <br/>
 
@@ -86,7 +86,7 @@ runtime: shiny
 
 </div> 
 
-## Plant Water Movements: Soil - Root - Stem - Leaf - **Air**
+## Plant Water Transport: Soil - Root - Stem - Leaf - **Air**
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/spad_water.jpg">
@@ -109,12 +109,12 @@ runtime: shiny
 
 * **Gravity**
     + harder and harder to move water
+    + xylem less efficient @ top
     + theoretically, limits growth to 122-130 m
 
 <br/>
 
-* **Efficiency of xylem elements**
-    + width gets smaller as tree gets taller
+* **Drying soil adds tension**
 
 </div> 
 
@@ -145,7 +145,7 @@ runtime: shiny
 
 <br/>
 
-* **Transpiraton pulls water under tension**
+* **Transpiration pulls water under tension**
 </div> 
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
@@ -154,12 +154,10 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 55%;">
 
-* **H~2~O is pulled in zig zag motion**
+* **H~2~O also pulled in zig zag motion**
     + pits and perforations
     + tracheids are twisted
 
@@ -168,6 +166,10 @@ runtime: shiny
 * **Vascular tissue is tough**
     + high resistance of lignified walls
     + built not to collapse
+  
+<br/>
+
+* **Redwoods near theoretical limit!** 
   
 </div> 
 
