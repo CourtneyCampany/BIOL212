@@ -10,30 +10,7 @@ runtime: shiny
 
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/phylo.png">
-
-## Fossil Fungi
-<hr>
-<br/>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:250px; HEIGHT:250px" SRC="images/fossil_fungi.gif">
-
-
-<div style="float: right; width: 65%;">
-
-* **Oldest fungal fossils appear ~900 mya**
-
-<br/>
-
-* **In 2000, fossils of fungal spores and threads found in Wisconsin dated to 460 mya**
-    + changed the origin of land-based fungi (Dirk Redecker)
-
-<br/>
-
-* **Fungi and green plants moved from water onto land at same time**
-    + helped plants invade the land!** 
-</div>
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:600px" SRC="images/phylo.png">
 
 ## The big picture: Fungi are essential for ecosystem function
 <hr>
@@ -54,7 +31,7 @@ runtime: shiny
 
 * **Cell walls made of chitin**
     + mushrooms are only a part of the body
-    + filmanets belowground absorb things
+    + filaments belowground absorb things
 
 <br/>
 
@@ -64,28 +41,55 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:525px; HEIGHT:400px" SRC="images/body.jpg">
 
-## Chitin and Heterotrophs = Animals
+## Chitin and Heterotrophs &rarr; Animals & Fungi 
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/simple_fungi_phylo.jpg">
 
-## Fungi share traits related to nutrition
+## Fossil Fungi
 <hr>
 <br/>
 <br/>
 <br/>
 
-<div style="float: right; width: 50%;">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:50px; WIDTH:250px; HEIGHT:250px" SRC="images/fossil_fungi.gif">
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:50px; WIDTH:250px; HEIGHT:250px" SRC="images/fossil_fungi2.jpg">
+
+
+<div style="float: right; width: 65%;">
+
+* **Oldest undisputed fungal fossils appear ~900 mya**
+
+<br/>
+
+* **In 2000, fossils of fungal spores and threads found in Wisconsin dated to 460 mya**
+    + changed the origin of land-based fungi (Dirk Redecker)
+
+<br/>
+
+* **Fungi and green plants moved onto land around same time**
+    + helped plants invade the land! 
+    + mycorrhizal symbiosis @ 405mya
+</div>
+
+## All Fungi share traits related to nutrition
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 58%;">
+
+* **Use enzymes to break down compounds**
+    + diverse enzymes for diverse food sources
+    
+<br/>
 
 * **Heterotrophs: absorb nutrients from environment**
     + decomposers: break down dead things
     + parasites: absorb from host
     + mutualist: absorb/share with host
-    
-<br/>
-
-* **Use enzymes to break down compounds**
-    + diverse enzymes for diverse food sources
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/fungienzymes.png">
 
@@ -109,7 +113,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hypae.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:325px; HEIGHT:450px" SRC="images/hypae2.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:625px; WIDTH:350px; HEIGHT:300px" SRC="images/hypae2.jpg">
 
 ## Mycelium: huge surface and volume for absorption
 <hr>
@@ -118,8 +122,13 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/popart.jpg">
 
+##
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E_Cy7KkwmWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Specialized hypae in mycorrhizal fungi
 <hr>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -177,11 +186,8 @@ runtime: shiny
 
 <div style="float: left; width: 53%;">
 
-* **Reproductive structures vary among different fungal groups**
-
-<br/>
-
-* **Life cycles can be complex and structures vary among different major groups**
+* **Life cycles can be complex**
+    + Reproductive structures vary among groups
 
 <br/>
 
@@ -189,11 +195,14 @@ runtime: shiny
 
 <br/>
 
-1.**Plasmogany: Fusion of cytoplasm from different individuals**
-    + mycelia come together, nuclei do not fuse
+* **Spores and nuclei of hypae are haploid (1N)**
 
-2. **Karyogamy: parent nuclei fuse (2N)**
-    + meosis returns cells to 1N, makes spores
+<br/>
+
+**1. Plasmogamy: Fusion of cytoplasm from different individuals**
+
+**2. Karyogamy: parent nuclei fuse (2N)**
+
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:410px; HEIGHT:450px" SRC="images/FungalLifeCycle.jpg">
     
@@ -212,7 +221,14 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/fungi2.png">
 
-## Fungi rule the world: zombie apocalypse
+## Fungal-animal mutualisms
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/leafcutter.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/leafcutter2.jpg">
+
+## Fungal-animal parasitism: zombie apocalypse
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XuKjBIBBAL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
