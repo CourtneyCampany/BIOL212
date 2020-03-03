@@ -59,7 +59,7 @@ runtime: shiny
 
 <div style="float: right; width: 65%;">
 
-* **Oldest undisputed fungal fossils appear ~900 mya**
+* **Oldest fungal fossils appear ~900 mya**
 
 <br/>
 
@@ -85,6 +85,7 @@ runtime: shiny
     + diverse enzymes for diverse food sources
     
 <br/>
+<br/>
 
 * **Heterotrophs: absorb nutrients from environment**
     + decomposers: break down dead things
@@ -108,7 +109,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/body.jpg">
 
-## Most *hyphae* divided into cells by *septae*
+## Most *hyphae* divided into cells by *septa*
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hypae.jpg">
@@ -131,12 +132,12 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
-<br/>
 
 <div style="float: right; width: 60%;">
 
 * **Specialized hyphae for feeding on live animals**
-
+    + hoops
+    
 <br/>
 
 * **Specialized hyphae that allow them to extract nutrients from plants**
@@ -170,7 +171,8 @@ runtime: shiny
 <br/>
 
 * **Association now key for plants to thrive**
-
+    + fungi more efficient @ nutrient uptake
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr.png">
@@ -187,17 +189,16 @@ runtime: shiny
 <div style="float: left; width: 53%;">
 
 * **Life cycles can be complex**
-    + Reproductive structures vary among groups
+    + spores are produced sexually or asexually
+    + spores and nuclei of hypae are haploid (1N)
 
 <br/>
 
-* **Spores are produced sexually or asexually**
+* **Lots of spores are produced**
 
 <br/>
 
-* **Spores and nuclei of hypae are haploid (1N)**
-
-<br/>
+**Sexual Reproduction:**
 
 **1. Plasmogamy: Fusion of cytoplasm from different individuals**
 

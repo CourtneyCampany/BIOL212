@@ -1,0 +1,12 @@
+name: fungi
+title: fungi
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1888288
+bundleId: 2843780
+url: https://courtneycampany.shinyapps.io/fungi/
+when: 1583157700.55911
+asMultiple: FALSE
+asStatic: FALSE

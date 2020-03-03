@@ -1,0 +1,169 @@
+---
+title: "The History of Life on Earth"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Primordial soup
+
+Oparin and Haldane
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/volcano_amino.jpg">
+    
+## Geologic Time Scale
+
+
+## key events
+unicellular, multicellular land
+
+## Evolution of Eukaryotes
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/endo1.jpg">
+
+## Evolution of Eukaryotes
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/endo2.jpg">
+
+
+## Oxygen revolution
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/oxygen.jpg">
+    
+
+## Evolution of Animals
+
+<div style="float: left; width: 55%;">
+
+
+<br/>
+
+
+<br/>
+
+    
+</div>
+
+## Early animal life and the Cambrian explosion
+<hr>
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/cambiran.jpg"
+
+## Early animal life and the Cambrian explosion
+<hr>
+
+Spectacular diversification of
+animals ~ 540 million years ago!
+– seemingly abrupt: 10-20 million
+years!
+– bizarre creatures, both hard
+skeletons and soft bodies
+– diverse, not in numbers of
+species, but in body morphology
+(bilaterally symmetrical animals)
+
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/ardi.jpg">
+
+## Burgess Shale
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo.png">
+
+## Nearly all major animal groups in Burgess Shale!!!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/brain.gif">
+
+## Did the Cambrian really explode?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/jaw_bone.png">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:635px; WIDTH:400px; HEIGHT:450px" SRC="images/bite.png">
+
+## Ediacaran fauna – 550-650 MYA
+<hr>
+
+Prediction: Animal fossils will be
+found in deposits much older than
+the Burgess Shale
+
+As predicted, fossils support
+diversification of animal groups
+before the Cambrian!
+
+## molecular clocks
+
+Differences in DNA sequences support
+extended diversification of
+major animals groups
+before the Cambrian!
+
+Amount of genetic difference between
+sequences is a function of time since
+separation.
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/bipedalism.jpg">
+
+## Cambiran species
+
+There were many new adaptations!
+– hard skeletons and soft bodies.
+– small, medium, large, and extra large!
+– crawlers, burrowers, swimmers,…
+– predators, mud eaters, scavengers,
+plankton feeders, …
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/bipedalism2.jpg">
+
+## What caused the Cambrian explosion
+<hr>
+<br/>
+
+• Geologic causes:
+– Increased oxygen levels in seawater?
+– Snowball Earth??
+• Ecological causes:
+– Predator-prey “arms race”?
+• Genetic causes:
+– Evolution of complex Hox genes that regulate
+body morphology (e.g., segmentation genes)?
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/lucy.jpg">
+
+## Life on Land
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/mycorr.jpg">
+
+## Continental Drift
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/drift.jpg">
+
+## Continental Drift
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/tectonic.jpg">
+
+## Adaptitive radatiation
+
+… “the historical product of the interplay
+between genetic possibility and
+environmental opportunity, amplified
+by ecological interactions to extend
+across all of biology.”
+– Knoll and Carroll (1999)
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/mammal.jpg">
+
+# Rise and Fall of organisms
+
+# Extinctions
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/extinct1.jpg">
+
+# Extinctions
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/extinct2.jpg">
+
+##
+
+https://www.youtube.com/watch?v=qNtQwUO9ff8
