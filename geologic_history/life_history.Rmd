@@ -138,31 +138,103 @@ body morphology (e.g., segmentation genes)?
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/mycorr.jpg">
 
 ## Continental Drift
+<hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/drift.jpg">
+<div style="float: left; width: 49%;">
 
-## Continental Drift
+* **Landmasses came togehter 3 times over last billion years**
+    + yields new contintents
+    + new super continent in ~250 million years
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/tectonic.jpg">
+<br/>
 
-## Adaptitive radatiation
+* **Continents = floating plates of Earth's crust**
+    + plate movement = *continental drift*
+    + a few cm a year
+    
+<br/>
+  
+* **Mountains and islands form at boundaries**
+    + Inidan + Eurasia = Himalayan Mtn (45 mya)
 
-… “the historical product of the interplay
-between genetic possibility and
-environmental opportunity, amplified
-by ecological interactions to extend
-across all of biology.”
-– Knoll and Carroll (1999)
+</div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/mammal.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/drift.jpg">
 
-# Rise and Fall of organisms
+## Continental Drift.... so what?
+<hr>
+
+<div style="float: right; width: 50%;">
+
+* **Landmass change alters livable habitats**
+    + Oceans basins change
+    + species distributions change (Pangea)
+
+<br/>
+
+* **Landmass change alters climate**
+    + Canada used to be tropical
+    
+<br/>
+  
+* **Continental drift drives speciation**
+    + new opportunites for species
+    + some species driven to extinction
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:250px; HEIGHT:450px" SRC="images/tectonic.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/marsupial.gif">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:350px; HEIGHT:450px" SRC="images/marsupial2.png">
 
 # Extinctions
+<hr>
+
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/extinct1.jpg">
 
 # Extinctions
+<hr>
+
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/extinct2.jpg">
+
+## Adaptitive radiation
+<hr>
+
+<div style="float: right; width: 50%;">
+
+* **“the historical product of the interplay between genetic possibility and environmental opportunity, amplified by ecological interactions to extend across all of biology.” – Knoll and Carroll (1999)**
+
+<br/>
+
+* **Adaptive Radiation: **
+
+<br/>
+
+* ** Occur on large scale after each extinction event**
+    + many vacant habitats
+    + favor evolutionary innovations
+
+<br/>
+
+  
+* **Dinosaur extinction &rarr; mammal diversification**
+    + small and nocturnal &rarr; ...
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:2000px" SRC="images/mammal.jpg">
+
+# Regional Adaptive Radiation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:700px; HEIGHT:450px" SRC="images/hawaii.jpg">
+
+# Rise and Fall of organisms
+
 
 ##
 
