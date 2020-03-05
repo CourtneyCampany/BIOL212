@@ -1,5 +1,5 @@
 ---
-title: "The History of Life on Earth"
+title: "The Geologic History of Animals"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -8,142 +8,221 @@ output:
 runtime: shiny
 ---
 
-## Primordial soup
-
-Oparin and Haldane
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/volcano_amino.jpg">
-    
-## Geologic Time Scale
-
-
-## key events
-unicellular, multicellular land
-
-## Evolution of Eukaryotes
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/endo1.jpg">
-
-## Evolution of Eukaryotes
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/endo2.jpg">
-
-
-## Oxygen revolution
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/oxygen.jpg">
-    
-
-## Evolution of Animals
+## Oparin and Haldane hypothesis
+<hr>
+<br/>
 
 <div style="float: left; width: 55%;">
 
+**Chemical and physical processes combine to make cells**
+<br/>
+
+1. abiotic synthesis of small organic molecules (amino acids)
+2. small molecules join together (proteins)
+3. molecules packaged into protocells
+4. origin of self-replicating molecules
 
 <br/>
 
+* **Oparin & Haldane: early earth had water vapor and compounds from volcanic eruptions (CO~2~, CH~4~, NH~3~)**
+    + atmosphere was *reducing*
+    + energy from UV or lightning
+    + oceans = primordial soup of organic molecules
 
-<br/>
-
-    
 </div>
 
-## Early animal life and the Cambrian explosion
+<IMG STYLE="position:absolute; TOP:240px; LEFT:610px; WIDTH:450px; HEIGHT:350px" SRC="images/origin.jpg">
+
+## Miller and Urey experiments
 <hr>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/cambiran.jpg"
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/miller_urey.gif">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/volcano_amino.jpg">
+  
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:25px; WIDTH:400px; HEIGHT:600px" SRC="images/geologic.jpg">
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:550px; WIDTH:500px; HEIGHT:600px" SRC="images/fossil_record.jpg">
+
+## Fossils are key to understanding evolution
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/mammal.jpg">
+
+## Progression of life on earth
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Fossils help divide geologic record into 4 eons**
+1. Hadean
+2. Archaen
+3. Proterozoic
+
+<br/>
+
+* **4. Phanerozoic Era: last 500 million years**
+    + time animals existed on Earth
+
+<br/>
+
+* **3 important geologic ages, each with unique animal life**
+1. Paleozoic
+2. Mesozoic
+3. Cenozoic
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/timescale.jpg">
+
+## Review: Evolution of Eukaryotes and the Great Oxygenation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:400px; HEIGHT:450px" SRC="images/endo1.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:500px; HEIGHT:450px" SRC="images/oxygen.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:350px; WIDTH:450px; HEIGHT:600px" SRC="images/animal_record.jpg">
 
 ## Early animal life and the Cambrian explosion
 <hr>
+<br/>
+<br/>
 
-Spectacular diversification of
-animals ~ 540 million years ago!
-– seemingly abrupt: 10-20 million
-years!
-– bizarre creatures, both hard
-skeletons and soft bodies
-– diverse, not in numbers of
-species, but in body morphology
-(bilaterally symmetrical animals)
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/cambrian.jpg">
 
+<div style="float: right; width: 55%;">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/ardi.jpg">
+* **Prior to Cambrian all large animals had soft body**
+    + little evidence of predation
+    + grazers, scavengers, filter feeders
+
+<br/>
+
+* **Large predators evolve in early Cambrian (535-525 mya)**
+    + predator vs prey evolution
+    + evolution of eyes
+
+<br/>
+
+* **Spectacular diversification of animals**
+
+</div>
+
+## Cambrian explosion = bizarre aquatic creatures
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Spectacular diversification of animals**
+    + 540 million years ago!
+
+<br/>
+
+* **Abrupt period: only 10-20 million years!**
+
+<br/>
+
+* **hard skeletons and soft bodies**
+    + diverse body morphology (Hox genes)
+    + bilaterally symmetrical animals
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/creatures.jpg">
 
 ## Burgess Shale
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo.png">
+<div style="float: left; width: 50%;">
+
+* **British Columbia's Yoho National Park**
+    + Canada was below equator!!!
+    + one of the most diverse and well-preserved fossil sites
+ 
+<br/>
+ 
+* **Creatures from the Cambrian explosion**
+    + origins dating 545 to 525 million years ago
+
+<br/>
+
+* **Mudslides from barren land buried marine organisms**
+    + sediment  deposited in deep-water basin next to enormous algal reef 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:560px; WIDTH:500px; HEIGHT:400px" SRC="images/burgess.jpg">
 
 ## Nearly all major animal groups in Burgess Shale!!!
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/brain.gif">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/burgess_creatures.png">
 
-## Did the Cambrian really explode?
-<hr>
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/creatures.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/jaw_bone.png">
+##
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:635px; WIDTH:400px; HEIGHT:450px" SRC="images/bite.png">
+**Did the Cambrian really explode?**
 
-## Ediacaran fauna – 550-650 MYA
-<hr>
 
-Prediction: Animal fossils will be
-found in deposits much older than
-the Burgess Shale
+<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:500px; HEIGHT:250px" SRC="images/edicar2.jpg">
 
-As predicted, fossils support
-diversification of animal groups
-before the Cambrian!
+<IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/edicar3.jpg">
 
-## molecular clocks
-
-Differences in DNA sequences support
-extended diversification of
-major animals groups
-before the Cambrian!
-
-Amount of genetic difference between
-sequences is a function of time since
-separation.
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/bipedalism.jpg">
-
-## Cambiran species
-
-There were many new adaptations!
-– hard skeletons and soft bodies.
-– small, medium, large, and extra large!
-– crawlers, burrowers, swimmers,…
-– predators, mud eaters, scavengers,
-plankton feeders, …
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/bipedalism2.jpg">
-
-## What caused the Cambrian explosion
+## Animal colonization of land
 <hr>
 <br/>
 
-• Geologic causes:
-– Increased oxygen levels in seawater?
-– Snowball Earth??
-• Ecological causes:
-– Predator-prey “arms race”?
-• Genetic causes:
-– Evolution of complex Hox genes that regulate
-body morphology (e.g., segmentation genes)?
+* **Arthropods (insects/spiders): 450 mya**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/lucy.jpg">
+<br/>
 
-## Life on Land
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/mycorr.jpg">
+* **Tetrapods: 350 mya**
+    + evolved from lobe-finned fishes
+    
+<IMG STYLE="position:absolute; TOP:400px; LEFT:125px; WIDTH:850px; HEIGHT:225px" SRC="images/fishland.jpg">
+
+## Rise and Fall of organisms
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Speciation rates: how many species in a lineage are created**
+
+<br/>
+
+* **Extinction rates: how many species in a lineage are lost**
+
+<br/>
+
+* **The fate of a lineage depends on this rise and fall**
+    + plate tectonics
+    + mass extinctions
+    + adaptive radiations
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:350px; HEIGHT:450px" SRC="images/diverse.jpg">
 
 ## Continental Drift
 <hr>
+<br/>
 
-<div style="float: left; width: 49%;">
+<div style="float: left; width: 65%;">
 
-* **Landmasses came togehter 3 times over last billion years**
-    + yields new contintents
+* **Landmasses came together 3 times over last billion years**
+    + yields new continents
     + new super continent in ~250 million years
 
 <br/>
@@ -155,87 +234,96 @@ body morphology (e.g., segmentation genes)?
 <br/>
   
 * **Mountains and islands form at boundaries**
-    + Inidan + Eurasia = Himalayan Mtn (45 mya)
+    + Indian + Eurasia = Himalayan Mtn (45 mya)
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/drift.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:725px; WIDTH:300px; HEIGHT:450px" SRC="images/drift.jpg">
 
 ## Continental Drift.... so what?
 <hr>
+<br/>
+<br/>
 
 <div style="float: right; width: 50%;">
 
 * **Landmass change alters livable habitats**
-    + Oceans basins change
-    + species distributions change (Pangea)
+    + species distributions change
+    + oceans change (Valley of Whales)
+    + Pangaea (250 mya) drained shallow oceans
 
 <br/>
 
 * **Landmass change alters climate**
-    + Canada used to be tropical
+    + Canada was once tropical
     
 <br/>
   
 * **Continental drift drives speciation**
-    + new opportunites for species
-    + some species driven to extinction
+    + adapt, move or die
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:250px; HEIGHT:450px" SRC="images/tectonic.jpg">
+<IMG STYLE="position:absolute; TOP:215px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/tectonic.jpg">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/marsupial.gif">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:350px; HEIGHT:450px" SRC="images/marsupial2.png">
-
-# Extinctions
+## Allopatric speciation: Australian marsupials
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/extinct1.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/marsupial2.png">
 
-# Extinctions
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:350px; HEIGHT:450px" SRC="images/marsupial.gif">
+
+## Mass Extinctions
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/extinct2.jpg">
 
-## Adaptitive radiation
+<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:575px; HEIGHT:400px" SRC="images/extinct1.jpg">
+
+<div style="float: right; width: 44%;">
+
+* **5 mass extinctions in fossil record**
+    + >50% of marine species extinct
+    
+<br/>
+
+* **Permian extinction: 96% marine loss**
+    + most recent: Cretaceous (bye bye Dino)
+    
+<br/>
+  
+* **Causes are varied**
+    + volcanoes & meteors
+    + massive climate change
+    + ocean chemistry
+
+</div>
+
+## Adaptive Radiation
 <hr>
+<br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: left; width: 50%;">
 
-* **“the historical product of the interplay between genetic possibility and environmental opportunity, amplified by ecological interactions to extend across all of biology.” – Knoll and Carroll (1999)**
+* **AR:**
 
 <br/>
 
-* **Adaptive Radiation: **
-
-<br/>
-
-* ** Occur on large scale after each extinction event**
+* **Occur on large scale after extinction events**
     + many vacant habitats
-    + favor evolutionary innovations
+    + favors evolutionary innovations (seeds)
 
 <br/>
 
   
-* **Dinosaur extinction &rarr; mammal diversification**
+* **Dinosaur extinction &rarr; mammals**
     + small and nocturnal &rarr; ...
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:2000px" SRC="images/mammal.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:550px; HEIGHT:300px" SRC="images/mammal.jpg">
 
-# Regional Adaptive Radiation
+## Regional Adaptive Radiation
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:700px; HEIGHT:450px" SRC="images/hawaii.jpg">
-
-# Rise and Fall of organisms
-
-
-##
-
-https://www.youtube.com/watch?v=qNtQwUO9ff8
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/hawaii.jpg">

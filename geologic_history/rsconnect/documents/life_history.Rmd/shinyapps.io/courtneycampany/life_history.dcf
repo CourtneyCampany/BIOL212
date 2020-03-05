@@ -1,0 +1,12 @@
+name: life_history
+title: life_history
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1910780
+bundleId: 2855404
+url: https://courtneycampany.shinyapps.io/life_history/
+when: 1583448265.49733
+asMultiple: FALSE
+asStatic: FALSE
