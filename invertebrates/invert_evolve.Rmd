@@ -68,11 +68,16 @@ runtime: shiny
 
 ** Categoized based on ----**
 
-## Poferifera (Sponges)
+## Porifera (Sponges)
 <hr>
 
-* **Most basal animal group**
+<div style="float: left; width: 50%;">
 
+* **Most basal animal group**
+    + do not move and marine
+    + filter feeders
+    + hermaphroditic (alternate)
+    
 <br/>
 
 * **Share similarties with Chonaflagellates**
@@ -80,25 +85,235 @@ runtime: shiny
 
 <br/>    
 
-* **Lots of cells, but no tissue layers
+* **Lots of cells, but no tissue layers**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/sponge.jpg">
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/sponge.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/choana.jpg">
+
+## Similarites suggest Choanaflagellates closet living relative
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/choana2.jpg">
 
 ## Cnidaria
+<hr>
 
-## Lophotrochozoa
+<div style="float: left; width: 50%;">
+
+* **All animals except sponges are considered "True Animals"**
+    + contain tissues
+    
+</div>    
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/early_invert.jpg">
+
+## Cnidaria
+<hr>
+
+<div style="float: right; width: 50%;">
+
+* **All animals except sponges are considered "True Animals"**
+    + contain tissues
+    
+<br/>
+
+* **First lineage to diverse were Cnidarians**
+    + corals, hydras and jellyfish
+    
+<br/>
+
+* **Simple diploblastic radial body plan**
+    + motile and sessile
+    + polyp or medusa
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/cnidarian.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cnidarian2.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/cnidarian3.jpg">
+
+## Most animals are *triploblastic*, *bilaterians*
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/triplo.jpg">
+
+<div style="float: right; width: 40%;">
+
+* **Triplobalsty = 3 germ layers**
+    + digestive tract with mouth and anus
+    
+<br/>
+
+* **Bilateral = symmetircal in 2 halves**
+    + corals, hydras and jellyfish
+    
+</div>
+
+## Most animals are *triploblastic*, *bilaterians*
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/triplo_phylo.jpg">
+
+<div style="float: right; width: 40%;">
+
+* **Triplobalsty = 3 germ layers**
+    + digestive tract with mouth and anus
+    
+<br/>
+
+* **Bilateral = symmetircal in 2 halves**
+    + corals, hydras and jellyfish
+    
+<br/>
+
+* **3 major clades of bilaterians**
+1. Lophotrochozoa
+2. Ecdysozoa
+3. Deuterostomia
+
+</div>
+
+## Lophotrochozoa: Most share 2 structures
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/lopho.jpg">
+
+## Lophotrochozoa - 18 total phyla
+<hr>
+<br/>
+
+* **Most common phyla:**
+1. Platyhelminthes (flatworms)
+2. Syndermata (rotifers and acanthocephalans)
+3. Ectoprocts ()
+4. Brachiopods (lamp shells)
+5. Mollusca (snails, slugs, oysters, clams, octopuses, squids)
+6. Annelids (segmented worms)
+
+<br/>
+
+* **Many phyla appeared in Cambrian explosions**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:250px; HEIGHT:250px" SRC="images/octo.jpg">
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:250px; HEIGHT:250px" SRC="images/tapeworm.jpg">
+
+## Cnidaria: free-living planaria
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/planaria.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/planaria2.jpg">
+
+## Mollusca: Mollusc
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/mollusc.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mollusc2.jpg">
+
+## Annelids: Earthworm
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/earthworm.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/earthworm2.jpg">
 
 ## Ecdysozoa
+<hr>
 
-## Deuterosomia
+<div style="float: right; width: 40%;">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/choama.jpg">
+* **Animals with cuticle**
+    + shed tough external coat
+    + shed as grow; molting; *ecdysis*
+    
+<br/>
 
+* **8 total phyla**
+    + more species than all other groups
+    
+<br/>
 
-## Choanoflagellates are sister to Animals
+* **2 major phyla**
+1. Nematoda (roundworms)
+2. Arthropods (mostly insects)
 
-## Cindaria
+</div>
 
-* **Corals, jellys and hydras**
+## Nematoda
+<hr>
 
-* **
+<div style="float: left; width: 40%;">
+
+* **Cylinder bodies from 1mm to 1m**
+
+<br/>
+
+* **Aquatic, soil, plant tissues, animals tissues**
+    + many parasitic species
+    + humans are host to 50 species
+
+<br/>
+
+* **Longitudinal muscles; thrashing motion**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/nematode.jpg">
+
+## C. elegans: model animal species
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/celegans.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/celegans2.jpg">
+
+## Arthropoda: Rulers of the animal world
+<hr>
+
+div style="float: left; width: 50%;">
+
+* **A billion billion arthropods estimated**
+    + 1 million species described
+    + nearly all habitats on Earth
+    
+<br/>
+
+* **Segmented body, hard exoskeleton, jointed appendages**
+    + likely led to success
+    
+<br/>
+
+* **Early arthopods are the trilobytes**
+    + little variation in body plant
+
+<br/>
+
+* **Evolution selected for functional body regions**
+    + feeding, walking, swimming
+    + efficient division of labor
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/trilobyte.jpg">
+
+## Arthopod body plans: Hox genes?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/lobster.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:465px; WIDTH:450px; HEIGHT:450px" SRC="images/spider.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:450px; HEIGHT:450px" SRC="images/grasshopper.jpg">
+
+## Phylum Echinoderms: Next time
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/seastar.jpg">
