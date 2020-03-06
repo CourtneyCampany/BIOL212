@@ -49,7 +49,7 @@ runtime: shiny
 ## Fossils are key to understanding evolution
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/mammal.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/mammal2.jpg">
 
 ## Progression of life on earth
 <hr>
@@ -63,12 +63,11 @@ runtime: shiny
 
 <br/>
 
-* **4. Phanerozoic Era: last 500 million years**
-    + time animals existed on Earth
+**4. Phanerozoic: last 500 million years**
 
 <br/>
 
-* **3 important geologic ages, each with unique animal life**
+* **Recent geologic ages (3), each with unique animal life**
 1. Paleozoic
 2. Mesozoic
 3. Cenozoic
@@ -92,6 +91,7 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/cambrian.jpg">
 
@@ -103,13 +103,10 @@ runtime: shiny
 
 <br/>
 
-* **Large predators evolve in early Cambrian (535-525 mya)**
+* **Large predators evolve in early Cambrian**
+    + 545-525 mya
     + predator vs prey evolution
     + evolution of eyes
-
-<br/>
-
-* **Spectacular diversification of animals**
 
 </div>
 
@@ -122,7 +119,7 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **Spectacular diversification of animals**
-    + 540 million years ago!
+    + troubled Darwin
 
 <br/>
 
@@ -130,7 +127,7 @@ runtime: shiny
 
 <br/>
 
-* **hard skeletons and soft bodies**
+* **Hard skeletons and soft bodies**
     + diverse body morphology (Hox genes)
     + bilaterally symmetrical animals
 
@@ -145,7 +142,7 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **British Columbia's Yoho National Park**
-    + Canada was below equator!!!
+    + 60,000 unique fossils
     + one of the most diverse and well-preserved fossil sites
  
 <br/>
@@ -172,12 +169,11 @@ runtime: shiny
 ##
 <br/>
 <br/>
-<br/>
 
 **Did the Cambrian really explode?**
 
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:500px; HEIGHT:250px" SRC="images/edicar2.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:550px; HEIGHT:275px" SRC="images/edicar2.jpg">
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/edicar3.jpg">
 
@@ -221,15 +217,15 @@ runtime: shiny
 
 <div style="float: left; width: 65%;">
 
-* **Landmasses came together 3 times over last billion years**
-    + yields new continents
-    + new super continent in ~250 million years
-
-<br/>
-
 * **Continents = floating plates of Earth's crust**
     + plate movement = *continental drift*
     + a few cm a year
+    
+<br/>
+
+* **Landmasses came together 3 times over last billion years**
+    + yields new continents
+    + new super continent in ~250 million years
     
 <br/>
   
@@ -275,8 +271,6 @@ runtime: shiny
 
 ## Mass Extinctions
 <hr>
-<br/>
-
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:575px; HEIGHT:400px" SRC="images/extinct1.jpg">
 
@@ -296,6 +290,10 @@ runtime: shiny
     + volcanoes & meteors
     + massive climate change
     + ocean chemistry
+    
+<br/>
+
+* **What if early primates went extinct?**
 
 </div>
 

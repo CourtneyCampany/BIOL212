@@ -1,0 +1,104 @@
+---
+title: "Invertebrate Evolution"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## History of animals ~700 million years old
+<hr>
+<br/>
+
+* **Spronges maybe 
+
+* **accepted fossils Ediacaran (pre cambrain)
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:400px; HEIGHT:450px" SRC="images/edicar.jpg">
+
+## Animals are monophyletic
+<hr>
+
+<div style="float: right; width: 50%;">
+
+* **All share 3 traits**
+1. Multoi-cellular
+2. Motile (adults or larvae)
+3. Heterotrophy
+
+<br/>
+
+* **All animals, excepts sponges, have:
+1. Nerve cells called neurons
+2. Muscle cells
+
+<br/>
+
+* **Animals are incredibly diverse**
+    + 35 majoy phyla
+    + 1/3 are marine
+    + most phyla have marine members
+    
+    * **Microevolution happens at the population level (review)**
+</div>
+
+## Fungi and animal common ancestors
+<hr>
+
+## Invertebrate Phylogeny
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/invert.jpg">
+
+## Invertebrates: lacking a bacbone
+
+* **95% of known animal species**
+
+<br/>
+
+* **Occupy ever habitat on Earth**
+
+<br/>
+
+* **Small to huge**
+
+<br/>
+
+** Categoized based on ----**
+
+## Poferifera (Sponges)
+<hr>
+
+* **Most basal animal group**
+
+<br/>
+
+* **Share similarties with Chonaflagellates**
+    + feed using cells called *choanocytes**
+
+<br/>    
+
+* **Lots of cells, but no tissue layers
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/sponge.jpg">
+
+## Cnidaria
+
+## Lophotrochozoa
+
+## Ecdysozoa
+
+## Deuterosomia
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/choama.jpg">
+
+
+## Choanoflagellates are sister to Animals
+
+## Cindaria
+
+* **Corals, jellys and hydras**
+
+* **
