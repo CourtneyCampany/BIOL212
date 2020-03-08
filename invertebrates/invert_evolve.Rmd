@@ -11,48 +11,69 @@ runtime: shiny
 ## History of animals ~700 million years old
 <hr>
 <br/>
+<br/>
 
-* **Spronges maybe 
+<div style="float: left; width: 48%;">
 
-* **accepted fossils Ediacaran (pre cambrain)
+* **Chemical evidence in sediments of fossils that is found in modern sponges**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:400px; HEIGHT:450px" SRC="images/edicar.jpg">
+<br/>
+
+* **Accepted fossils from Ediacaran (pre-Cambrian)**
+    + mollusks, cnidarians and sponges
+
+<br/>
+
+* **Animals diversify across Paleozoic, Mesozoic and Cenozoic**
+    + punctuated by mass extinctions
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/edicar.jpg">
 
 ## Animals are monophyletic
 <hr>
 
-<div style="float: right; width: 50%;">
+<div style="float: left; width: 50%;">
 
 * **All share 3 traits**
-1. Multoi-cellular
+1. Multi-cellular
 2. Motile (adults or larvae)
 3. Heterotrophy
 
 <br/>
 
-* **All animals, excepts sponges, have:
+* **All animals, excepts sponges, have:**
 1. Nerve cells called neurons
 2. Muscle cells
 
 <br/>
 
 * **Animals are incredibly diverse**
-    + 35 majoy phyla
+    + 35 major phyla
     + 1/3 are marine
     + most phyla have marine members
-    
-    * **Microevolution happens at the population level (review)**
+ 
 </div>
 
-## Fungi and animal common ancestors
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/animals.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:400px; HEIGHT:250px" SRC="images/fungi.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:400px; HEIGHT:250px" SRC="images/fungi.jpg">
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:450px; WIDTH:600px; HEIGHT:600px" SRC="images/invert.jpg">
+
+## Invertebrates: lacking a backbone
 <hr>
+<br/>
+<br/>
 
-## Invertebrate Phylogeny
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/invert.jpg">
-
-## Invertebrates: lacking a bacbone
+<div style="float: left; width: 45%;">
 
 * **95% of known animal species**
 
@@ -66,10 +87,16 @@ runtime: shiny
 
 <br/>
 
-** Categoized based on ----**
+* **Groupings characterized by tissue layers and symmetry**
 
-## Porifera (Sponges)
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/simple_phylo2.jpg">
+
+## Phylum Porifera (Sponges)
 <hr>
+<br/>
+<br/>
 
 <div style="float: left; width: 50%;">
 
@@ -78,45 +105,46 @@ runtime: shiny
     + filter feeders
     + hermaphroditic (alternate)
     
-<br/>
-
-* **Share similarties with Chonaflagellates**
-    + feed using cells called *choanocytes**
-
 <br/>    
 
 * **Lots of cells, but no tissue layers**
+    + produce many antibiotics
+    
+<br/>
+
+* **Share similarities with Chonaflagellates**
+    + feed using cells called *choanocytes*
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/sponge.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:300px; HEIGHT:450px" SRC="images/choana3.jpg">
 
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/choana.jpg">
 
-## Similarites suggest Choanaflagellates closet living relative
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/choana2.jpg">
-
-## Cnidaria
+## Phylum Cnidarian
 <hr>
+<br/>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 45%;">
 
-* **All animals except sponges are considered "True Animals"**
+* **Animals except sponges are considered "True Animals"**
     + contain tissues
     
 </div>    
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/early_invert.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/cnidarian.jpg">
 
-## Cnidaria
+## Phylum Cnidarian
 <hr>
+<br/>
+<br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: left; width: 45%;">
 
-* **All animals except sponges are considered "True Animals"**
+* **Animals except sponges are considered "True Animals"**
     + contain tissues
     
 <br/>
@@ -132,43 +160,48 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/cnidarian.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/cnidarian.jpg">
 
-## 
+## Basic Cnidarian body plan (*Nematocyst* on phylogeny)
+<hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cnidarian2.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:700px; HEIGHT:400px" SRC="images/cnidarian2.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/cnidarian3.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:730px; WIDTH:350px; HEIGHT:350px" SRC="images/cnidarian3.jpg">
 
 ## Most animals are *triploblastic*, *bilaterians*
+<hr>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/triplo.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/triplo.jpg">
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 45%;">
 
-* **Triplobalsty = 3 germ layers**
+* **Triploblasty = 3 germ layers**
     + digestive tract with mouth and anus
     
 <br/>
 
-* **Bilateral = symmetircal in 2 halves**
-    + corals, hydras and jellyfish
+* **Bilateral = symmetrical in 2 halves**
     
 </div>
 
 ## Most animals are *triploblastic*, *bilaterians*
+<hr>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/triplo_phylo.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/triplo_phylo.jpg">
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 45%;">
 
-* **Triplobalsty = 3 germ layers**
+* **Triploblasty = 3 germ layers**
     + digestive tract with mouth and anus
     
 <br/>
 
-* **Bilateral = symmetircal in 2 halves**
-    + corals, hydras and jellyfish
+* **Bilateral = symmetrical in 2 halves**
     
 <br/>
 
@@ -181,54 +214,73 @@ runtime: shiny
 
 ## Lophotrochozoa: Most share 2 structures
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/lopho.jpg">
+<div style="float: left; width: 40%;">
+
+* **Lophophore: crown of ciliated tentacles for feeding**
+
+<br/>
+<br/>
+
+* **Trophophore: distinctive larval stage**
+    + beating cilia
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/lopho.jpg">
 
 ## Lophotrochozoa - 18 total phyla
 <hr>
 <br/>
+<br/>
+<br/>
 
-* **Most common phyla:**
+* **Common phyla to know:**
 1. Platyhelminthes (flatworms)
 2. Syndermata (rotifers and acanthocephalans)
-3. Ectoprocts ()
-4. Brachiopods (lamp shells)
-5. Mollusca (snails, slugs, oysters, clams, octopuses, squids)
-6. Annelids (segmented worms)
+3. Brachiopods (lamp shells)
+4. Mollusca (snails, slugs, oysters, clams, octopuses, squids)
+5. Annelids (segmented worms)
 
 <br/>
 
-* **Many phyla appeared in Cambrian explosions**
+* **Many phyla appeared in Cambrian explosion**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:250px; HEIGHT:250px" SRC="images/octo.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:250px; HEIGHT:250px" SRC="images/octo.jpg">
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:250px; HEIGHT:250px" SRC="images/tapeworm.jpg">
+<IMG STYLE="position:absolute; TOP:385px; LEFT:650px; WIDTH:250px; HEIGHT:250px" SRC="images/tapeworm.jpg">
 
-## Cnidaria: free-living planaria
+## Phylum Platyhelminthes (flatworms)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/planaria.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/planaria.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/planaria2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/planaria2.jpg">
 
-## Mollusca: Mollusc
+## Phylum Mollusca: Snails through squid
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/mollusc.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:600px; HEIGHT:400px" SRC="images/mollusc.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mollusc2.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:400px; HEIGHT:300px" SRC="images/mollusc2.jpg">
 
-## Annelids: Earthworm
+## Phylum Annelida: Earthworms (*segmentation* on phylogeny)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/earthworm.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/earthworm.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/earthworm2.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/earthworm2.jpg">
 
-## Ecdysozoa
+## Ecdysozoans
 <hr>
+<br/>
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 50%;">
 
 * **Animals with cuticle**
     + shed tough external coat
@@ -247,10 +299,15 @@ runtime: shiny
 
 </div>
 
-## Nematoda
-<hr>
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/bugs.jpg">
 
-<div style="float: left; width: 40%;">
+## Phylum Nematoda (round worms)
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
 
 * **Cylinder bodies from 1mm to 1m**
 
@@ -266,19 +323,19 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/nematode.jpg">
+<IMG STYLE="position:absolute; TOP:275x; LEFT:510px; WIDTH:550px; HEIGHT:300px" SRC="images/nematode.jpg">
 
 ## C. elegans: model animal species
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/celegans.jpg">
+<IMG STYLE="position:absolute; TOP:375px; LEFT:25px; WIDTH:500px; HEIGHT:100px" SRC="images/celegans.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/celegans2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/celegans2.jpg">
 
-## Arthropoda: Rulers of the animal world
+## Phylum Arthropoda: Rulers of the animal world
 <hr>
 
-div style="float: left; width: 50%;">
+<div style="float: left; width: 50%;">
 
 * **A billion billion arthropods estimated**
     + 1 million species described
@@ -291,29 +348,25 @@ div style="float: left; width: 50%;">
     
 <br/>
 
-* **Early arthopods are the trilobytes**
-    + little variation in body plant
+* **Early arthropods (*Trilobites*) had little variation in body plan**
 
 <br/>
 
 * **Evolution selected for functional body regions**
-    + feeding, walking, swimming
-    + efficient division of labor
+    + specialized functions
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/trilobyte.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/trilobyte.jpg">
 
-## Arthopod body plans: Hox genes?
+## Arthropod body plans: Hox genes?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/lobster.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:465px; WIDTH:450px; HEIGHT:450px" SRC="images/spider.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:450px; HEIGHT:450px" SRC="images/grasshopper.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:1050px; HEIGHT:350px" SRC="images/insect_body.jpg">
 
 ## Phylum Echinoderms: Next time
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/seastar.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/seastar.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/urchin.jpg">
