@@ -1,0 +1,217 @@
+---
+title: "Vertebrate Evolution"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Deutrostome Clade
+<hr>
+
+<div style="float: left; width: 48%;">
+
+* **Includes phylum Echinoderns (Inverts) and phylum Chordata (Verterbrates)**
+    + DNA evidence points to relatedness between these groups
+    + Independent evolution of each group
+
+<br/>
+
+* **Deutrostome = Developmental similarities**
+    + radial cleavage
+    + anus from blastophore
+
+<br/>
+
+* **HOWEVER: other animal phyla share some of these traits**
+    + Deutrostomes now mostly DNA (modern)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/brittle.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/reptile.jpg">    
+  
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/deutro.jpg">
+
+## Phylum Echinoderms
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/urchin.jpg">
+
+<div style="float: left; width: 48%;">
+
+* **Translates to 'Spiny Skin'**
+    + sea stars and urchins
+    + slow moving and marine
+    + adult = radial, larval = bilateral
+
+<br/>
+
+* **Thin epidermis covered in hard plates**
+    + often with bumps or spines
+
+<br/>    
+    
+* **Possess a unique water vascular system**
+    + hydarulic canals = *tube feet*
+
+</div>
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/tubefeet.jpg">
+
+## History of bacbones: ~500 million years old
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Evolved while large predators where developing**
+    + Cambian period
+    + Ocean origins (first 150 mya)
+    
+<br/>
+
+* **Vertebrate: series of bones that make up the vertebral column**
+    + 57,000 species
+
+<br/>
+
+* **Vertrebrates colonized land 365 mya**
+1. Amphibians
+2. Reptiles (w/ birds)
+3. Mammals
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/verts.jpg">
+
+## Phylum Chordata
+<hr>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Bilateral symmetry and deuterostomes**
+
+<br/>
+
+* **2 invertebrates groups that are more related to vertebrates**
+    + Cephalchordata (lacelets)
+    + Urchordates (tunicates)
+
+<br/>
+
+* **All chordates shared specific traits, however, some only in embryo stages**
+1. Notochord
+2. Dorsal, hollow nerve cord
+3. Pharyngeal slots
+4. Muscular, Post-anal tail
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/chordate2.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/Chordates.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/squirts.jpg">
+
+## Vertebrates are chordates with a backbone
+<hr>
+<br/>
+<br/>
+
+* **Possess skeletal and nervous systems**
+    + simple to complex backbones
+    + lots of unique genes (eg HOX)
+
+<br/>
+
+* **Derived traits = neural crest**
+    + special cells near neural tube in embryo
+    + give rise to many verterbrate traits
+    + eg. teeth, skull cartilidge, etc
+
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/brach.jpg">
+
+## Hagfish and Lampreys
+<hr>
+
+* **Only members of vertebrates without jaws**
+    + sister groups
+
+<br/>
+
+* **Have rudimentay backbones**
+    + more cartilidge than bone
+
+<br/>
+
+* **Hagfish escape by releasing slime**
+    + researched to stop bleeding in surgery
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:350px; HEIGHT:450px" SRC="images/hagfish.jpg">
+    
+## Hagfish and Lampreys
+<hr>
+
+* **Only members of vertebrates without jaws**
+    + sister groups
+
+<br/>
+
+* **Have rudimentay backbones**
+    + more cartilidge than bone
+
+<br/>
+
+* **Hagfish escape by releasing slime**
+    + researched to stop bleeding in surgery
+
+<br/>
+
+* **Many Lampreys are parasitic on fish**
+    + invaded Great Lakes
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:350px; HEIGHT:450px" SRC="images/lamprey.jpg">
+
+## Vertebrates with jaws
+<hr>
+
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/jaws.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:250px; HEIGHT:250px" SRC="images/jaws.jpg">
+
+
+## Sharks and rays
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:350px; HEIGHT:450px" SRC="images/sharks.jpg">
+
+## Coelacanths and Lungfishes
+<hr>
+
+## Amphibians (frogs and salamanders)
+<hr>
+
+## Reptiles (tutles, snakes, crocodiles)
+<hr>
+
+
+## Mammals
