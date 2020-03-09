@@ -37,9 +37,9 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **All share 3 traits**
-1. Multi-cellular
-2. Motile (adults or larvae)
-3. Heterotrophy
+1. 
+2. 
+3. 
 
 <br/>
 
@@ -70,6 +70,7 @@ runtime: shiny
 
 ## Invertebrates: lacking a backbone
 <hr>
+<br/>
 <br/>
 <br/>
 
@@ -112,7 +113,7 @@ runtime: shiny
     
 <br/>
 
-* **Share similarities with Chonaflagellates**
+* **Share similarities with protist Chonaflagellates**
     + feed using cells called *choanocytes*
 
 </div>
@@ -149,7 +150,7 @@ runtime: shiny
     
 <br/>
 
-* **First lineage to diverse were Cnidarians**
+* **First lineage to diversify were Cnidarians**
     + corals, hydras and jellyfish
     
 <br/>
@@ -229,6 +230,7 @@ runtime: shiny
 
 * **Trophophore: distinctive larval stage**
     + beating cilia
+    + cylinder body
     
 </div>
 
@@ -242,7 +244,7 @@ runtime: shiny
 
 * **Common phyla to know:**
 1. Platyhelminthes (flatworms)
-2. Syndermata (rotifers and acanthocephalans)
+2. Syndermata (rotifers)
 3. Brachiopods (lamp shells)
 4. Mollusca (snails, slugs, oysters, clams, octopuses, squids)
 5. Annelids (segmented worms)
