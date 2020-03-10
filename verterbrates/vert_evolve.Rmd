@@ -8,31 +8,31 @@ output:
 runtime: shiny
 ---
 
-## Deutrostome Clade
+## Deuterostome clade
 <hr>
+<br/>
 
 <div style="float: left; width: 48%;">
 
-* **Includes phylum Echinoderns (Inverts) and phylum Chordata (Verterbrates)**
-    + DNA evidence points to relatedness between these groups
+* **Phylum Echinoderms (Inverts) & phylum Chordata (Vertebrates)**
     + Independent evolution of each group
 
 <br/>
 
-* **Deutrostome = Developmental similarities**
+* **Deuterostome = Developmental similarities**
     + radial cleavage
     + anus from blastophore
 
 <br/>
 
 * **HOWEVER: other animal phyla share some of these traits**
-    + Deutrostomes now mostly DNA (modern)
+    + Deuterostomes now defined by DNA
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/brittle.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/brittle.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/reptile.jpg">    
+<IMG STYLE="position:absolute; TOP:375px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/reptile.jpg">    
   
 ##
 
@@ -42,11 +42,11 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/urchin.jpg">
+<IMG STYLE="position:absolute; TOP:375px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/urchin.jpg">
 
-<div style="float: left; width: 48%;">
+<div style="float: right; width: 50%;">
 
 * **Translates to 'Spiny Skin'**
     + sea stars and urchins
@@ -61,23 +61,45 @@ runtime: shiny
 <br/>    
     
 * **Possess a unique water vascular system**
-    + hydarulic canals = *tube feet*
+    + hydraulic canals = *tube feet*
 
 </div>
 
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/tubefeet.jpg">
-
-## History of bacbones: ~500 million years old
+## Phylum Echinoderms
 <hr>
 <br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg">
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/tubefeet2.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **Translates to 'Spiny Skin'**
+    + sea stars and urchins
+    + slow moving and marine
+    + adult = radial, larval = bilateral
+
+<br/>
+
+* **Thin epidermis covered in hard plates**
+    + often with bumps or spines
+
+<br/>    
+    
+* **Possess a unique water vascular system**
+    + hydraulic canals = *tube feet*
+
+</div>
+
+## History of backbones: ~500 million years old
+<hr>
 <br/>
 
 <div style="float: left; width: 48%;">
 
-* **Evolved while large predators where developing**
-    + Cambian period
+* **Evolved while predators where developing**
+    + Cambrian period
     + Ocean origins (first 150 mya)
     
 <br/>
@@ -87,7 +109,7 @@ runtime: shiny
 
 <br/>
 
-* **Vertrebrates colonized land 365 mya**
+* **Vertebrates colonized land 365 mya**
 1. Amphibians
 2. Reptiles (w/ birds)
 3. Mammals
@@ -100,27 +122,23 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: left; width: 48%;">
+<div style="float: left; width: 45%;">
 
-* **Bilateral symmetry and deuterostomes**
-
-<br/>
-
-* **2 invertebrates groups that are more related to vertebrates**
-    + Cephalchordata (lacelets)
-    + Urchordates (tunicates)
-
-<br/>
-
-* **All chordates shared specific traits, however, some only in embryo stages**
+* **All chordates shared specific traits, some only in embryo stages**
 1. Notochord
 2. Dorsal, hollow nerve cord
 3. Pharyngeal slots
 4. Muscular, Post-anal tail
 
+<br/>
+
+* **2 invertebrates groups that are more related to vertebrates**
+    + Cephlachordata (lancelets)
+    + Urochordates (tunicates)
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/chordate2.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:500px; HEIGHT:250px" SRC="images/chordate2.jpg">
 
 ##
 
@@ -134,49 +152,62 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
+
+<div style="float: left; width: 50%;">
 
 * **Possess skeletal and nervous systems**
     + simple to complex backbones
-    + lots of unique genes (eg HOX)
+    + lots of unique genes (eg. HOX)
 
+<br/>
 <br/>
 
 * **Derived traits = neural crest**
     + special cells near neural tube in embryo
-    + give rise to many verterbrate traits
-    + eg. teeth, skull cartilidge, etc
+    + give rise to many vertebrate traits
+    + e.g.. teeth, skull cartilage, etc
 
+</div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/brach.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/brach.jpg">
 
 ## Hagfish and Lampreys
 <hr>
+<br/>
+
+<div style="float: left; width: 50%;">
 
 * **Only members of vertebrates without jaws**
     + sister groups
 
 <br/>
 
-* **Have rudimentay backbones**
-    + more cartilidge than bone
+* **Have rudimentary backbones**
+    + more cartilage than bone
 
 <br/>
 
 * **Hagfish escape by releasing slime**
     + researched to stop bleeding in surgery
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:350px; HEIGHT:450px" SRC="images/hagfish.jpg">
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:350px; HEIGHT:450px" SRC="images/hagfish.jpg">
     
 ## Hagfish and Lampreys
 <hr>
+<br/>
+
+<div style="float: left; width: 50%;">
 
 * **Only members of vertebrates without jaws**
     + sister groups
 
 <br/>
 
-* **Have rudimentay backbones**
-    + more cartilidge than bone
+* **Have rudimentary backbones**
+    + more cartilage than bone
 
 <br/>
 
@@ -188,30 +219,222 @@ runtime: shiny
 * **Many Lampreys are parasitic on fish**
     + invaded Great Lakes
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:350px; HEIGHT:450px" SRC="images/lamprey.jpg">
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:350px; HEIGHT:450px" SRC="images/lamprey.jpg">
 
 ## Vertebrates with jaws
 <hr>
 
-
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/jaws.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:250px; HEIGHT:250px" SRC="images/jaws.jpg">
-
+<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:400px; HEIGHT:350px" SRC="images/jaws2.jpg">
 
 ## Sharks and rays
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:350px; HEIGHT:450px" SRC="images/sharks.jpg">
+<div style="float: left; width: 50%;">
 
-## Coelacanths and Lungfishes
+* **'Cartilage fishes': skeletons mostly cartilage**
+    + originated 400 mya
+    + often with calcium
+
+<br/>
+
+* **Streamlined body for swift swimming**
+    + poor maneuverability
+
+<br/>
+
+* **Birth via eggs or young develop inside mother**
+
+<br/>
+
+* **Modern species diversity shrinking**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:350px; HEIGHT:450px" SRC="images/sharks.jpg">
+
+## Ray-finned and Lobe-finned fishes
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Phylogeny: large new vertebrate group with bony endoskeletion**
+    + fishes = aquatic groups
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/fishes.jpg">
+
+## Ray-finned and Lobe-finned fishes
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Important derived traits for fishes:**
+    + operculum:
+    + swim bladder:
+
+<br/>
+
+* **Ray-finned: bony rays that support fins**
+  + trout, sea horses, eels
+
+<br/>
+
+* **Lobe-finned: rod-shaped bone surrounded by muscle in fins**
+  + lungfish, *Coelacanths*, tetrapods
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/fishes.jpg">
+
+## Evolution of Tetrapods
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Fins gradually evolved into limbs**
+    + Tetrapods colonized land 365 mya
+    + move away from fish-like vertebrates
+
+<br/>
+<br/>
+
+* **Tetrapods derived traits = limbs with digits**
+    + supports weight
+    + digits efficiently support movement
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/tiktak2.jpg">
+
+## Tiktaalik fossil (land transition?)
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:600px; HEIGHT:450px" SRC="images/tiktak3.jpg">
+
+<div style="float: right; width: 43%;">
+
+* **New selection of many terrestrial traits**
+    + head separated from body by a neck
+    + add vertebrate to allow head to swing
+    + bones of pelvis fuse to backbone
+    + many species lost gills (became ears)
+    
+</div>
 
 ## Amphibians (frogs and salamanders)
 <hr>
+<br/>
 
-## Reptiles (tutles, snakes, crocodiles)
+<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:350px; HEIGHT:450px" SRC="images/frogs.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Include salamanders, frogs and caecilians**
+    + >6,000 species
+    + caecilians lost legs 
+
+<br/>
+
+* **Rely on skin for gas exchange**
+    + live in moist habitats
+    
+<br/>
+
+* **Name means 'dual life'**
+    + some have aquatic tadpole larvae
+    + more related to metamorphosis;
+    + gills &rarr; legs, lungs, eardrums
+
+</div>
+
+## Amniotes: tetrapod with terrestrial egg (also rib cage)
 <hr>
 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/amnio.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/amnio2.jpg">
+
+## Reptiles (turtles, snakes, crocodiles)
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Lizards, snakes, turtles, crocs and BIRDS**
+    + many extinct groups
+    + small (16mm) to large (12m)
+
+<br/>
+
+* **Scales with keratin**
+
+<br/>
+
+* **Lay shelled eggs on land**
+
+<br/>
+
+* **Most reptiles are ectothermic**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/reptiles.jpg">
+
+## The origin of birds
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/birds.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/birds2.jpg">
 
 ## Mammals
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Large adaptive radiation post dinosaurs**
+    + predators, herbivores, flying, aquatic
+    + *Monotremes* = platypus
+    + *Maruspials* = pouched mammals
+    + *Eutherians* = placental mammals
+
+<br/>
+
+* **Derived Trait: Mammary glands**
+    + produce milk for offspring
+<br/>
+
+* **Derived Trait: Hair**
+    + insulation/water saver
+<br/>
+
+* **Derived Trait: Kidney**
+    + waste removing/water saving organ
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/mammals.jpg">
