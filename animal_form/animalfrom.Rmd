@@ -90,17 +90,24 @@ runtime: shiny
 
 * **Sponges (0), Diplomasts (2), Triploblasts (3)**
     + study your phylogeney!!!
-
-* **Ectoderm: **
-
-<br/>
-
-* **Endoderm: **
+    + germ layers develop into tissus and organs
 
 <br/>
 
-* **Mesoderm: **
+* **Ectoderm: layer at surface of embryo**
+    + turns into outer covering of animal
+    
+<br/>
 
+* **Endoderm: innermost layer**
+    + turns into lining of digestive tract
+    + turns into lining of liver and lungs
+
+<br/>
+
+* **Mesoderm: fill space between ecto and endo**
+    + forms muscles and many organs
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:350px; HEIGHT:450px" SRC="images/cross_tissues.jpg">
@@ -109,193 +116,177 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/germlayers.jpg">
 
-## Fossil Fungi
+## Body Cavities
 <hr>
 <br/>
 <br/>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:50px; WIDTH:250px; HEIGHT:250px" SRC="images/fossil_fungi.gif">
+<div style="float: left; width: 40%;">
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:50px; WIDTH:250px; HEIGHT:250px" SRC="images/fossil_fungi2.jpg">
+* **Fluid/air spaces between endoderm and body wall**
+    + digestive track and body wall
+    
+<br/>   
+    
+* **Body cavity called coelom**
+    + cushions organs
+    + may provide fluis resistance for muscles
 
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/coelom.jpg">
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:575px; WIDTH:375px; HEIGHT:250px" SRC="images/coelom2.gif">
+    
+## Form and function in biology
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/rabbits.png">
+
+
+## Evolution of animal size and shape
+<hr>
 
 <div style="float: right; width: 65%;">
 
-* **Oldest fungal fossils appear ~900 mya**
+* **Animal body plans are expressions of the genome, but the product of millions of years of evolution**
 
 <br/>
 
-* **In 2000, fossils of fungal spores and threads found in Wisconsin dated to 460 mya**
-    + changed the origin of land-based fungi (Dirk Redecker)
+* **Animals body plans are constrined by physical laws**
+    + diffusion, movement, heat exchange
 
 <br/>
 
-* **Fungi and green plants moved onto land around same time**
-    + helped plants invade the land! 
-    + mycorrhizal symbiosis @ 405mya
-</div>
-
-## All Fungi share traits related to nutrition
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: right; width: 58%;">
-
-* **Use enzymes to break down compounds**
-    + diverse enzymes for diverse food sources
-    
-<br/>
-<br/>
-
-* **Heterotrophs: absorb nutrients from environment**
-    + decomposers: break down dead things
-    + parasites: absorb from host
-    + mutualist: absorb/share with host
-    
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/fungienzymes.png">
-
-## Fungal derived enzymes and humans
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:750px; HEIGHT:400px" SRC="images/stonewash.jpg">
-
-## Fungal derived enzymes and humans
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/medicines.png">
-
-## Fungal body plan: Not-motile
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/body.jpg">
-
-## Most *hyphae* divided into cells by *septa*
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hypae.jpg">
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:625px; WIDTH:350px; HEIGHT:300px" SRC="images/hypae2.jpg">
-
-## Mycelium: huge surface and volume for absorption
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mycelium.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/popart.jpg">
-
-##
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E_Cy7KkwmWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Specialized hypae in mycorrhizal fungi
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: right; width: 60%;">
-
-* **Specialized hyphae for feeding on live animals**
-    + hoops
-    
-<br/>
-
-* **Specialized hyphae that allow them to extract nutrients from plants**
-
-<br/>
-
-* **Mutualistic fungi have branching hyphae they use to exchange nutrients with plant hosts**
-    + *Arbuscules* invade cell walls
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/hypae3.jpg">
-
-## Mycorrhizal fungi: sharing with plants
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-* **~80-90% of plants have association with fungus**
-    + fungi grown in/around plant roots
-    + share resources
-
-<br/>
-
-* **2 main types:**
-    + Ecto and Arbsucular mycorrhizae
-
-<br/>
-
-* **Association now key for plants to thrive**
-    + fungi more efficient @ nutrient uptake
+* **Example: Properties of water and animal shape**
+    + water more dense = surface bumps cause drag
+    + natural selection favored tapered bodies
+    + covergent selection across aquatic mammals
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:225px; HEIGHT:450px" SRC="images/swimmers">
 
-## Fungi rule the world: plants and fungi talk
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mycorr2.jpg">
-
-## Fungal life cycles
+## Exchange with environment limits animal bodies
 <hr>
 <br/>
 
-<div style="float: left; width: 53%;">
+<div style="float: left; width: 50%;">
 
-* **Life cycles can be complex**
-    + spores are produced sexually or asexually
-    + spores and nuclei of hypae are haploid (1N)
+* **Animals must uptake nutrients, lose waste and exchange gases**
+    + occurs across plasma membrane of cells
+    
+<br/>
+
+* **Simple internal body plan: Hydra**
+    + body wall and cavity open to environment
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:250px; HEIGHT:450px" SRC="images/hydra.jpg">
+
+## Exchange with environment limits animal bodies
+<hr>
+<br/>
+
+<div style="float: right; left: 50%;">
+
+* **Animals must uptake nutrients, lose waste and exchange gases**
+    + occurs across plasma membrane of cells
+    
+<br/>
+
+* **Simple internal body plan: Hydra**
+    + body wall and cavity open to environment
+    
+<br/>
+
+* **Body plan optimized for surface area: tapeworms**
+    + thin, flat shape
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/tapeworm.jpg">
+
+## Exchange with environment limits animal bodies
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Animals must uptake nutrients, lose waste and exchange gases**
+    + occurs across plasma membrane of cells
 
 <br/>
 
-* **Lots of spores are produced**
+* **Many animals (like humans) have more complex internal bodies**
+    + reduces total # of cells on outer surface
+    + 'think' whale versus flea
+    
+<br/>
+
+* **Internal structures for exchange evolve...**
+    + highly branched or folded
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/internal.jpg">
+
+## Exchange with environment limits animal bodies
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Animals must uptake nutrients, lose waste and exchange gases**
+    + occurs across plasma membrane of cells
 
 <br/>
 
-**Sexual Reproduction:**
-
-**1. Plasmogamy: Fusion of cytoplasm from different individuals**
-
-**2. Karyogamy: parent nuclei fuse (2N)**
-
+* **Many animals (like humans) have more complex internal bodies**
+    + reduces total # of cells on outer surface
+    + 'think' whale versus flea
     
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:410px; HEIGHT:450px" SRC="images/FungalLifeCycle.jpg">
-    
-## Fungal life cycle: basic
+<br/>
+
+* **Internal structures for exchange evolve...**
+    + highly branched or folded
+    + digestion, respiration and circulation
+    + fluids connect structures to other cells
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:300px; HEIGHT:450px" SRC="images/tapeworm.jpg">
+
+## What are the advantages of a complex body plan?
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/lifecyle.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:45px; HEIGHT:450px" SRC="images/complexbody.jpg">
 
-## Fungal lineages (no longer clean groups)
+<div style="float: right; width: 50%;">
+
+* **External skeleton...**
+
+<br/>
+
+* **Sensory organs (eyes, ears, etc.)...**
+
+<br/>
+
+* **Internal digestion organs...**
+
+<br/>
+
+* **Specialized filtration systems...**
+
+<br/>
+
+* **Variable External environment (land) &rarr; internal environment...**
+
+</div>
+
+## Hierarchy of animal body plans
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/fungi1.png">
-
-## Fungal lineages (no longer clean groups)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/fungi2.png">
-
-## Fungal-animal mutualisms
-<hr>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/leafcutter.jpg">
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/leafcutter2.jpg">
-
-## Fungal-animal parasitism: zombie apocalypse
-<hr>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XuKjBIBBAL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-    
