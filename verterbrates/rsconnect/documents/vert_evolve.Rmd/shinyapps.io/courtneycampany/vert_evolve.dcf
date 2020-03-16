@@ -1,0 +1,12 @@
+name: vert_evolve
+title: vert_evolve
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1933928
+bundleId: 2878645
+url: https://courtneycampany.shinyapps.io/vert_evolve/
+when: 1584111751.13128
+asMultiple: FALSE
+asStatic: FALSE
