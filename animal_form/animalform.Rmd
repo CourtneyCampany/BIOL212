@@ -8,11 +8,11 @@ output:
 runtime: shiny
 ---
 
-## Animal form and function hashtags
+## Animal form and function hash-tags
 <hr>
 <br/>
 
-* **This lecture will cover animal from, by examining the development and diversity of body plans across the animal phylogeny**
+* **This lecture will cover animal form, by examining the development and diversity of body plans across the animal phylogeny**
 
 <br/>
 
@@ -51,9 +51,9 @@ runtime: shiny
 
 <br/>
 
-* **Cells orgainzed into tissues**
+* **Cells organized into tissues**
     + similar cells acting as a unit
-    + muscle & nervouse tissue allows animals to move
+    + muscle & nervous tissue allows animals to move
 
 </div>
 
@@ -73,12 +73,12 @@ runtime: shiny
 <br/>
 
 * **Early multicellular stage called a blastula (hollow ball)**
-    + protostome or deuetrosome = alignment of cells
+    + protostome or deuterostome = alignment of cells
     
 <br/>
 
 * **Tissue layers develop in next stage**
-    + gastrulation resuts in gastrula
+    + gastrulation results in gastrula
 
 <br/>
 
@@ -92,7 +92,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:900px; HEIGHT:600px" SRC="images/deutro.jpg">
 
-## Protostomes vs Deutrostomes and the blastopore
+## Protostomes vs Deuterostomes and the blastopore
 <hr>
 <br/>
 
@@ -123,7 +123,7 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **Sponges (0), Diploblasts (2), Triploblasts (3)**
-    + germ layers develop into tissus and organs
+    + germ layers develop into tissues and organs
 
 <br/>
 
@@ -189,7 +189,7 @@ runtime: shiny
 
 <br/>
 
-* **Animals body plans are constrined by physical laws**
+* **Animals body plans are constrained by physical laws**
     + diffusion, movement, heat exchange
 
 <br/>
@@ -197,7 +197,7 @@ runtime: shiny
 * **Example: Properties of water and animal shape**
     + water more dense = surface bumps cause drag
     + natural selection favored tapered bodies
-    + covergent selection across aquatic mammals
+    + convergent selection across aquatic mammals
     
 </div>
 

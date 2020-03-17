@@ -1,0 +1,345 @@
+---
+title: "Animal Form and Function (part 2)"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Animal form and function hash-tags
+<hr>
+<br/>
+
+* **This lecture will cover animal function, by examining the mechanisms of homeostasis.**
+
+<br/>
+
+* **#Homeostasis.**
+
+<br/>
+
+
+* **#CircadianClocks**
+
+<br/>
+
+
+* **#ThermoregulationBasics**
+
+## Coordination and Control
+<hr>
+
+<div style="float: left; width: 60%;">
+
+* **Animal tissues and organs must be synced**
+    + hunting predator: nose &rarr; brain &rarr; muscles
+
+<br/>
+
+* **Animals have 2 systems for stimulus response**
+1. Endocrine system: signal molecules released in bloodstream
+2. Nervous system: neurons transmit signals throughout body
+
+<br/>
+
+* **Endocrine signalling via hormones**
+    + many hormones with unique receptors
+    
+<br/>
+
+* **Nervous system signalling via pathways**
+    + nerve impulses travel to destination
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/signals.jpg">
+
+## Animals need to maintain internal environment
+<hr>
+
+<div style="float: left; width: 48%;">
+
+* **The external environment (especially land) is highly variable**
+    + fluctuates daily, seasonally, annually, etc
+
+<br/>
+
+* **Animals must maintain internal stability**
+    + organ systems manage internal environment
+    
+<br/>
+
+* **Regulators: use internal mechanisms to control internal change**
+
+<br/>
+
+* **Conformers: allows internal change in sync with external change**
+
+<br/>  
+    
+* **Animals may use both mechanisms**
+    + depends on variable
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/regulators.jpg">
+
+## Homeostasis: maintenance of internal balance
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:375px; WIDTH:350px; HEIGHT:450px" SRC="images/room.jpg">
+
+## Homeostasis: maintenance of internal balance
+<hr>
+<br/>
+<br/>
+
+* **Animals exhibit *homeostasis* for a range of properties**
+    + temperature, pH, blood glucose, etc. 
+    + body or organs
+
+<br/>
+
+* **Fluctuation in one of these properties is a *stimulus* **
+
+<br/>
+
+* **Animal detect stimulus by a *receptor*, which triggers a response**
+    + goal is to return the property to target value
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:350px; WIDTH:350px; HEIGHT:450px" SRC="images/homeostasis.png">
+
+## Homeostasis: Negative feedbacks
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:300px; WIDTH:525px; HEIGHT:400px" SRC="images/negativefeed.png">
+
+## Homeostasis is not constant
+<hr>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Regulated changes occur @ different life stages**
+    + i.e. hormones at puberty
+
+<br/>
+
+* **Regulated changes can be cyclical**
+    + i.e. hormones and menstruation
+
+<br/>
+
+* **Regulated changes on 24 cycle = *Circadian Rhythms* **
+    + Why do we get jet lag?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:375px" SRC="images/circadian.jpg">
+
+## Many human metabolic activities are on circadian clock
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/circadian2.jpg">
+
+## Acclimatization: Animal's temporary adjustment to new environment
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/acclimate.jpg">
+
+<div style="float: left; width: 55%;">
+
+* **Animals often move into different environments**
+    + changes in elevation, temperature, salinity, etc. 
+
+<br/>
+
+* **May need to adjust *homeostasis* to new conditions**
+    + not permanent (or would be 'adaptation')
+    
+<br/>
+ 
+* **Example: animals reach high altitude**
+    + lower O~2~ causes animals to breath rapid and deeply
+    + more CO~2~ is lost when exhaling, changing blood pH
+    + over days, kidneys change urine output to fix blood
+
+</div>
+
+## Form and function together: *Thermoregulation* case study
+<hr>
+<br/>
+
+<div style="float: left; width: 53%;">
+
+* **Thermoregulation: maintaining body temperature within a range**
+    + impacts enzyme activity, cellular fluids, biochemistry
+    + outside range may be fatal
+    
+<br/>   
+    
+* **Heat for thermoregulation can come from 2 sources**
+1. Internal metabolism: *Endothermic*
+2. External sources: *Ectothermic*
+
+<br/> 
+
+* **Endotherms can maintain temperatures in fluctuating environments**
+    + ability to heat or cool themselves
+    
+<br/> 
+
+* **Ectotherms adjust temperature via behaviors**
+    + seeking shade or sun
+    + ectotherms need to eat less!!
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:2250px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/endoecto.jpg">
+
+## Stop saying animals are 'Cold or Warm blooded'!!!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190x; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/coldblood.jpg">
+
+## Thermoregulation: Balancing heat loss and gain
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190x; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/heatexchange.jpg">
+
+## Endotherms must produce heat: *Thermogenesis*
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 49%;">
+
+* **Endotherms bodies are constantly losing heat**
+    + thermogenesis matches rates of heat loss
+    
+<br/>
+ 
+* **Thermogenesis increased by muscle activity**
+    + moving
+    + shivering
+ 
+<br/>
+ 
+* **Shivering common in birds and flying insects**
+    + 'warmed up' flight muscles
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/chicadee.jpg">
+    
+## Thermoregulation: Insulation
+<hr>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+* **Insulation reduces flow of heat at body surface**
+    + hair, feathers, fat, oils
+    + important for mammals and birds
+
+<br/>
+
+* **Insulation may be altered**
+    + raising fur or feathers when cold
+    + goose bumps in humans!!!
+
+<br/>
+
+* **Insulation key for marine mammals**
+    + water colder than body core
+    + heat transfer faster in water than air
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:550px; HEIGHT:450px" SRC="images/blubber.png">
+
+## Thermoregulation: Circulatory Adaptations
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Animals can alter blood flow when temperatures change**
+    + between internal body and skin
+    
+<br/>
+
+* **Blood vessels can relax, making them wider**
+    + increases blood flow
+    
+<br/>
+
+* **Blood vessels can also constrict**
+    + reduces blood flow
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/vaso.jpg">
+
+## Counter current heat exchange
+<hr>>
+<br/>
+
+<div style="float: left; width: 40%;">
+
+**Birds, mammals, sharks, insects often transfer heat between fluids moving in opposite direction **
+
+<br/>
+
+**Arteries and veins located next to each other**
+
+<br/>
+
+**Heat transferred from warm blood (artery) to cold blood (vein) returning from extremities** 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/counter.jpg">
+
+## Thermoregulation: Evaporative cooling (sweat glands)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/sweat.png">
+
+## Thermoregulation: Social behavior
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Group mechanisms to heat or cool**
+    + Huddling for warmth
+    + Fanning to cool
+
+<br/>
+
+* **Emperor Penguins**
+    + dark plumage facing out
+    + overlapping feathers
+    + shivering 
+    + fat insulation
+    + feet tipped up
+
+<br/>
+    
+* **Social thermoregulation common in bees**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/penguin.jpg">
+
+## The *hypothalamus* is the mammal thermostat
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/hypo1.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:500px; HEIGHT:300px" SRC="images/hypo2.jpg">
