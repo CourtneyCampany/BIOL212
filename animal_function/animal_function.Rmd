@@ -198,7 +198,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:2250px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/endoecto.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/endoecto.jpg">
 
 ## Stop saying animals are 'Cold or Warm blooded'!!!
 <hr>

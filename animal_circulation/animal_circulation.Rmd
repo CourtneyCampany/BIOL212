@@ -1,0 +1,386 @@
+---
+title: "Animal circulation and gas exchange"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Animal circulation and gas exchange hash-tags
+<hr>
+<br/>
+
+* **This lecture will cover animal circulation and gas exchange by examining species across the animal phylogeny**
+
+<br/>
+
+* **#GasExchangeDiveristy**
+
+<br/>
+
+* **CirculatoryBasics**
+
+<br/>
+
+* **#RespiratoryStructures**
+
+<br/>
+
+* **#MammalHeart**
+
+## The big picture: circulation and gas exchange
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Direct exchange between every cell and the environment is not possible in multi-cellular organisms**
+    + specialized structures for exchange and transport needed
+
+<br/>
+
+* **Respiratory systems: exchange with the environment**
+
+<br/>
+
+* **Circulatory systems: transport between exchange sites and body**
+
+<br/>
+
+* **Internal transport and gas exchange functionally related**
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:670px; WIDTH:350px; HEIGHT:450px" SRC="images/circ_system.png">
+
+## Molecule trading
+<hr>
+
+<div style="float: left; width: 53%;">
+
+* **Small molecules can move between cells and their surroundings by *diffusion* **
+    + concentration gradients = net movement
+
+<br/>
+
+* **Diffusion is only efficient over small distances** 
+    + much slower over long distances
+    
+<br/>
+
+* **Molecular trading in animals occurs for every cell!**
+    + gain O~2~ and nutrients
+    + release CO~2~ and waste products
+    
+<br/>
+    
+* **Simple body plans: most cells in contact with environment**
+* **Not simple body requires circulatory system**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/worms.png">
+
+## Animals with gastrovascular cavities
+<hr>
+
+<div style="float: right; width: 48%;">
+
+* **Many animals have lots of cells in contact with environment**
+    + hydras, jellyfish, flatworms
+
+<br/>
+
+* **Central *gastrovascular cavity* functions to distribute substances**
+    + opening at one end connects cavity to water
+    + allows fluid to bath inner and outer tissues
+    + diffusion distance kept short
+
+<br/>
+
+* **Gastrovascular cavity can be highly branched**
+    + extends into tentacles of cnidarians
+    + covers high surface area of flatworms
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:325px; HEIGHT:450px" SRC="images/gastro.jpg">
+
+## Animals with circulatory systems
+<hr>
+<br/>
+<br/>
+
+* **Circulatory systems have 3 components**
+1. *Heart*
+2. Interconnecting *vessels*
+3. Circulatory *fluid*
+
+<br/>
+
+* **Fluid transport connects cytoplasm of cells to organs for gas exchange **
+
+<br/>
+
+* **Mammals &rarr; O~2~ diffuses over 2 cell layers in lungs to reach blood**
+    + system then transports O~2~ rich blood to body 
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:350px; HEIGHT:450px" SRC="images/basic.jpg">
+
+## Open and closed circulatory systems (hemolymph vs blood)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/openclose.jpg">
+
+## Vertebrate Circulatory systems
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Cardiovascular system: blood &rarr; heart &rarr; vessels**
+    + length of vessels can be staggering
+
+<br/>
+
+* **3 main types of vessels**
+1. Arteries: carry blood from heart to organs
+2. Veins: carry blood back to heart
+3. Capillaries: microscopic vessels with pores that infiltrate tissues
+
+<br/>
+
+* **Hearts of vertebrates have 2+ muscular chambers**
+    + *atria* are chambers that receive blood
+    + *ventricles* pump blood out
+    
+<br/>
+
+* **Number of chambers related to form and function via natural selection**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:425px; HEIGHT:400px" SRC="images/circsystem.jpg">
+
+## Single vs Double circulation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/vertebrate.jpg">
+
+## Evolutionary variation: 3 chambered heart
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:300px; HEIGHT:450px" SRC="images/3chamber.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Amphibians and reptile hearts have 1 ventricle**
+    + still use double circulation
+
+<br/>
+
+* **Do not always fill their lungs**
+    + pass long periods without gas exchange
+    + or use another tissue (skin)
+    
+<br/>
+ 
+* **Example: frogs use skin when underwater**
+* **Example: crocodiles shunt blood from lungs when underwater**
+
+</div>
+
+## Mammalian Circulation (2 circuits)
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 53%;">
+
+* **Right ventricle pumps blood to the lungs via arteries**
+
+<br/>
+
+* **Blood flows through capillaries into lungs and loads O~2~ and unloads CO~2~**
+
+<br/>
+
+* **O~2~ rich blood returns from lungs via veins to the left atrium**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:585px; WIDTH:425px; HEIGHT:450px" SRC="images/mammal1.jpg">
+
+## Mammalian Circulation (2 circuits)
+<hr>
+
+<div style="float: left; width: 50%;">
+
+<br/>   
+
+* **Blood flows to left ventricle and pumped to tissues via arteries into capillaries**
+    + First branches supply the heart muscle
+    + Further branches lead to organs and hind limbs
+
+<br/>   
+
+* **O~2~ diffuses from blood to tissues, and CO~2~ diffuses from tissues to blood**
+
+<br/>   
+
+* **Capillaries rejoin conveying blood to veins**
+    + O~2~ poor blood from the head, neck, and forelimbs is emptied into right atrium
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:585px; WIDTH:425px; HEIGHT:450px" SRC="images/mammal1.jpg">
+
+## Mammalian heart 
+<hr>
+<br/> 
+<br/> 
+
+<div style="float: right; width: 55%;">
+
+* **Atria (2) have thin walls and serve as collect blood returning to the heart**
+
+<br/> 
+
+* **Ventricles have thicker walls and contract much more forcefully**
+
+<br/>   
+
+* **The heart contracts and relaxes in a rhythmic cycle called the cardiac cycle**
+    + 4 valves prevent back flow of blood in the heart
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:400px" SRC="images/mammal2.jpg">
+
+## Blood flow
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Physical laws govern movement of fluids through pipes**
+    + affect blood flow and pressure
+    
+<br/> 
+
+* **Blood flows from areas of higher pressure to lower pressure**
+    + resistance to flow in narrow diameters capillaries dissipates pressure
+
+<br/>
+
+* **Blood flow is slowest in the capillaries**
+    + over large cross-sectional area
+    + necessary for gas exchange
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190x; LEFT:625px; WIDTH:350px; HEIGHT:450px" SRC="images/flow.jpeg">
+
+## Gas exchange over respiratory surfaces
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+* **Gas exchange = uptake of O~2~ from environment and release of CO~2~**
+    + O~2~ is abundant in the air (21%)
+    + fairly easily to 'breath'
+    
+<br/>
+ 
+* **O~2~ is abundant in the air (21%), thus fairly easily to 'breath'**
+    + water is more demanding for gas exchange
+    + dissolved O~2~ is variable but always less than air
+    
+<br/>
+ 
+* **Efficient surfaces for gas exchange have evolved**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/gasexchange.jpg">
+    
+## Respiratory Surfaces
+<hr>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+* **Differs across animal phylogeny**
+    + sponges, cnidaria, flatworm &rarr; cells directly
+    + earthworms, amphibians &rarr; skin
+    
+<br/>
+
+* **Other animals lack enough surface area**
+    + to much volume to supply with O~2~
+
+<br/>
+
+* **Respiratory organs evolve**
+    + Gills &rarr; aquatic animals
+    + Trachea &rarr; insects
+    + lungs &rarr; reptiles and mammals
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/newt.jpg">
+
+## Gills
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/gills.jpg">
+
+## Trachea in insects
+<hr>>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/trachae.png">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:525px; HEIGHT:250px" SRC="images/trachae2.jpg">
+
+## Lungs in mammals, reptiles and birds
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/lungs_human.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/lungs_bird.jpg">
+
+## Coordination of circulation and gas exchange
+<hr>
+<br/>
+
+<div style="float: left; width: 53%;">
+
+* **Most animals need to exchange large amounts of O~2~ and CO~2~**
+    + to meet metabolic needs
+
+<br/>
+
+* **During inhalation, fresh air fills in lung**
+    + air mixture has more O~2~ than blood
+    + blood has less CO~2~ than mixture
+    + diffusion occurs
+
+<br/>
+    
+* **Blood is then pumped through circuit**
+    + O~2~ carried in pigments (metal bound to protein)
+    + gradients of O~2~ and CO~2~ drive diffusion in body
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:585px; WIDTH:425px; HEIGHT:450px" SRC="images/respiratorygas.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/bloodchemistry.jpg">
+
