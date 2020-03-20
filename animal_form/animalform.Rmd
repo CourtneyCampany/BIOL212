@@ -31,12 +31,13 @@ runtime: shiny
 <br/>
 
 
-* **#WhyAnimalShape**
+* **#TissueTypes**
 
 <br/>
 
 
-* **#TissueTypes**
+* **#WhyAnimalShape**
+
 
 ## Review: Animals are mutlticellular, eukaryotic heterotrophs 
 <hr>
