@@ -1,5 +1,5 @@
 ---
-title: "Animal Form and Function (part 1)"
+title: "Animal Form and Function (Part 1)"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -8,7 +8,7 @@ output:
 runtime: shiny
 ---
 
-## Animal Form and Function (part 1)
+## Animal Form and Function (Part 1)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/picture_phylo.jpg">
@@ -31,7 +31,7 @@ runtime: shiny
 <br/>
 
 
-* **#TissueTypes**
+* **#BodyPlans**
 
 <br/>
 
@@ -84,7 +84,7 @@ runtime: shiny
 <br/>
 
 * **Tissue layers develop in next stage**
-    + gastrulation results in gastrula
+    + developinto adult body parts
 
 <br/>
 
@@ -107,8 +107,6 @@ runtime: shiny
 <div style="float: right; width: 48%;">
 
 * **Blastopore: opening of central cavity of an embryo**
-    + early development
-    + rapid division but overall size stays same
 
 <br/>
 
@@ -345,15 +343,13 @@ runtime: shiny
 
 <br/>
 
-* **Organ systems are built from a limited set of cells and tissues**
-1. epithelial: sheets of cells lining body or organs
-2. connective: tissue that holds tissues and organs together
-3. muscle: tissues responsible for movement
-4. nervous: receipt, processing and transmission of info
-
+* **There are a limited set of cells and tissues**
+1. *epithelial*: sheets of cells lining body or organs
+2. *connective*: tissue that holds tissues and organs together
+3. *muscle*: tissues responsible for movement
+4. *nervous*: receipt, processing and transmission of info
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/tissues2.jpg">
-
 
 ##
 
