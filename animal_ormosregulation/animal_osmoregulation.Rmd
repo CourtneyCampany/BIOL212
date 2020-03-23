@@ -1,0 +1,351 @@
+---
+title: "Animal osmoregulation and excretion"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Do albatross drink salt water?
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **An albatross remains at sea throughout the year**
+    + only returns to land to reproduce
+    
+<br/>
+
+* **Albatross can survive by drinking seawater**
+    + humans would die of dehydration
+<br/>
+
+* **Both humans and albatross must maintain balance of fluids and solutes**
+    + levels of ions (Na, Cl, Ca) too
+    
+<br/>
+
+* **Homeostasis thus requires osmoregulation: process by which animals control solute concentrations**
+    + Balance water gain and loss
+ 
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:250px; LEFT:570px; WIDTH:500px; HEIGHT:350px" SRC="images/albatross.jpg">
+    
+## Osmoregulation and Excretion hash-tags
+<hr>
+<br/>
+
+* **This lecture will cover animal osmoregulation and excretion, which are necessary for homeostasis in different environments**
+
+<br/>
+
+* **#SoluteMovement**
+
+<br/>
+
+* **#ConformRegulate**
+
+<br/>
+
+* **#PoopTypes**
+
+<br/>
+
+* **#KidneyBasics**
+
+## The big picture: Osmoregulation and excretion
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/bird_poop.png">
+
+<div style="float: right; width: 60%;">
+
+* **Different habitats present osmoregulation challenges**
+    + deserts, oceans and even freshwater
+
+<br/>
+
+* **Regulating chemical composition of fluids depends on balance of uptake and loss of water and solutes**
+    + excessive water uptake = cells burst
+    + substantial water loss = cells shrivel
+    
+
+<br/>
+
+* **Animals must also get rid of ammonia, which can be toxic**
+    + *excretion* = ridding the body of waste products
+    
+<br/>
+
+</div>
+
+## Osmosis and Osmolarity
+<hr>
+
+<div style="float: left; width: 52%;">
+
+* **Water enters and leaves the cells by osmosis**
+    + 2 solutions on either side of a membrane with different solute concentrations
+    + *osmolarity* = the # mols of solute / liter of solution
+    
+<br/>
+
+* **2 solutions with same osmolarity are *isoosmotic* ** 
+    + no net movement across membrane
+    
+<br/>
+
+* **If osmolarity differs, water moves from high solute concentration to low**
+    + hyperosmotic = solution with higher [solutes]
+    + hypoosmotic = solution with lower [solutes]
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:555px; WIDTH:545px; HEIGHT:300px" SRC="images/osmosis.jpg">
+
+## To conform or to regulate.....
+<hr>
+<br/>
+
+<div style="float: right; width: 48%;">
+
+* **Animals maintain water balance by *conforming* to surroundings**
+    + become isoosmotic with environment
+    + internal osmolarity = environment
+    + many marine animals
+    
+<br/>
+
+* **Animals maintain water balance by *regulating* internal osmolarity**
+    + may have discharge or uptake water
+    + common for freshwater/terrestrial animals
+
+<br/>
+
+* **Animals can be tolerant or sensitive to changes in osmolarity**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/salmon.jpg">
+
+## Marine Animals (drink lots of seawater!)
+<hr>
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/marinefish.jpg">
+
+## Freshwater Animals (lots of excretion!)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/freshwaterfish.jpg">
+
+## Land Animals
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Dehydration is main issue for terrestrial animals**
+    + lots of adaptions to reduce water loss
+
+<br/>
+
+* **Body coverings prevent dehydration**
+    + wax layer, shells or keratin scales
+
+<br/>
+
+* **Animal behaviors also adapt**
+    + many desert animals are nocturnal
+    
+<br/>
+
+* **Animals always losing water**
+    + urine, feces & gas exchange organs
+    + must drink, eat or produce water metabolically
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/camels.jpg">
+
+## Being a 'regulator' is expensive
+<hr>
+<br/>
+
+<div style="float: left; width: 53%;">
+
+* **Diffusion tends to equalize fluids**
+    + regulators expend energy to move water in/out
+
+<br/>
+
+* **Amount of energy depends on difference with surroundings**
+    + 5% of metabolism in many fish
+    + 30% of metabolism in shrimp in salty lakes
+
+<br/>
+
+* **Body fluids are adapted to habitat**
+    + lower [solute] in freshwater
+    + higher [solute] in marine
+    + minimizes energy costs
+    
+<br/>
+
+* **Animals always losing water**
+    + urine, feces & gas exchange organs
+    + must drink, eat or produce water metabolically
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:375px" SRC="images/bodyfluid.jpg">
+
+## Poop has a large impact on water balance
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/wastes.jpg">
+
+<div style="float: left; width: 50%;">
+
+* **Waste excreted as ammonia, urea or uric acid**
+    + vary in toxicity & cost to make
+    
+<br/>
+ 
+* **Ammonia: (NH~3~) is toxic, so needs to be diluted**
+    + common waste product in aquatic animal
+
+<br/>
+
+* **Urea: NH~3~ + CO~2~ in liver**
+    + less toxic + energy expensive to make
+
+<br/>
+
+* **Uric Acid: non-toxic and not dissoluble**
+    + excreted with little water loss
+    + most expensive to make
+    
+</div>
+
+## Excretory systems are tubular
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Excretory systems regulate solute movement**
+    + internal fluids &larr; &rarr; environment
+    
+<br/>
+
+* **Many animals produce urine (fluid waste)**
+1. Body fluid brought in contact to excretory system
+2. 'Blood pressure' drives filtration
+3. Only small molecules and water cross membranes
+4. This *filtrate*  converted to waste fluid
+5. Some good molecules and water reabsorbed
+6. leftover urine excreted
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:250px; HEIGHT:450px" SRC="images/tubular.jpg">
+
+## Excretory systems are diverse in animals
+<hr>
+<br/>  
+<br/>  
+<br/>  
+
+<div style="float: left; width: 55%;">
+
+* **Generally built as network of tubes with large surface area**
+    + allows for large exchange of water, solutes & wastes
+    + in insects; nearly all water reabsorbed
+    + in vertebrates; kidney used for osmoregulation & excretion
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/worm.jpg">
+
+## Excretory systems are diverse in animals
+<hr>
+<br/>  
+<br/> 
+<br/> 
+
+<div style="float: left; width: 55%;">
+
+* **Mammalian Kidneys: supplied by blood which is filtered**
+    + inner and outer regions (cortex & medulla)
+    + regions packed with excretory tubules
+    + tubules create filtrate from blood
+    + fluid reabsorbed and leaves via vein
+    + filtrate leaves ureter as urine
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/kidney.jpg">
+
+## Vertebrate/Mammalian kidney is key for life on land
+<hr>
+<br/> 
+
+<div style="float: left; width: 65%;">
+
+* **Humans blood osmolarity = 300 mOsm/L**
+    + Human urine osmolarity = 1,200 mOsm/L
+    + urine 4x as concentrated
+    
+<br/> 
+
+* **Desert mammals can concentrate urine 25x**
+
+<br/>   
+
+* **Energy spent to transport solutes against gradient**
+    
+<br/>
+
+* **Variety of complex mechanisms used to concentrate filtrate**
+    + Example: loop of Henle
+    + kidney function adapted to habitats
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:685px; WIDTH:375px; HEIGHT:400px" SRC="images/loop.png">
+
+## Case Study: Kidney function in Vampire bats
+<hr>
+
+<div style="float: left; width: 60%;">
+
+* **Bats feed on blood at night**
+    
+<br/> 
+
+* **Drinks more than half body weight in blood each night**
+    + may make it too heavy to fly!
+
+<br/>
+
+* **Blood food mostly protein**
+    + digested proteins become Urea
+    + Urea needs some water to dilute
+    + roosting bats do not drink!
+    
+<br/>   
+
+* **Kidneys shift to produce concentrated urine**
+    + conserves water
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:350px; HEIGHT:350px" SRC="images/bat.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:265px; WIDTH:585px; HEIGHT:600px" SRC="images/summary.jpg">
