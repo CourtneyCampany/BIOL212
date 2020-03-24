@@ -8,6 +8,11 @@ output:
 runtime: shiny
 ---
 
+## How can japenese macaques live in the snow and the jungle?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/monkeys.jpg">
+
 ## Animal form and function hash-tags
 <hr>
 <br/>
@@ -16,7 +21,7 @@ runtime: shiny
 
 <br/>
 
-* **#Homeostasis.**
+* **#Homeostasis**
 
 <br/>
 
@@ -28,7 +33,7 @@ runtime: shiny
 
 * **#ThermoregulationBasics**
 
-## Coordination and Control
+## Coordination and control of tisses and organs
 <hr>
 
 <div style="float: left; width: 60%;">
@@ -39,8 +44,8 @@ runtime: shiny
 <br/>
 
 * **Animals have 2 systems for stimulus response**
-1. Endocrine system: signal molecules released in bloodstream
-2. Nervous system: neurons transmit signals throughout body
+1. Endocrine: signal molecules released in bloodstream
+2. Nervous: neurons transmit signals throughout body
 
 <br/>
 
@@ -67,15 +72,15 @@ runtime: shiny
 <br/>
 
 * **Animals must maintain internal stability**
-    + organ systems manage internal environment
+    + organs manage internal environment
     
 <br/>
 
-* **Regulators: use internal mechanisms to control internal change**
+* **Regulators: internal mechanisms control internal change**
 
 <br/>
 
-* **Conformers: allows internal change in sync with external change**
+* **Conformers: internal change in sync with external change**
 
 <br/>  
     
@@ -96,20 +101,24 @@ runtime: shiny
 <br/>
 <br/>
 
-* **Animals exhibit *homeostasis* for a range of properties**
+<div style="float: left; width: 45%;">
+
+* **Animals exhibit *homeostasis* for many properties**
     + temperature, pH, blood glucose, etc. 
     + body or organs
 
 <br/>
 
-* **Fluctuation in one of these properties is a *stimulus* **
+* **Fluctuation in properties is a *stimulus* **
 
 <br/>
 
-* **Animal detect stimulus by a *receptor*, which triggers a response**
-    + goal is to return the property to target value
-    
-<IMG STYLE="position:absolute; TOP:190px; LEFT:350px; WIDTH:350px; HEIGHT:450px" SRC="images/homeostasis.png">
+* **Animal detect stimulus by a *receptor*, which triggers a *response* **
+    + returns property to target value
+ 
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:560px; HEIGHT:450px" SRC="images/glucose.jpg">
 
 ## Homeostasis: Negative feedbacks
 <hr>
@@ -122,7 +131,7 @@ runtime: shiny
 
 <div style="float: left; width: 48%;">
 
-* **Regulated changes occur @ different life stages**
+* **Regulation occurs @ different life stages**
     + i.e. hormones at puberty
 
 <br/>
@@ -132,7 +141,7 @@ runtime: shiny
 
 <br/>
 
-* **Regulated changes on 24 cycle = *Circadian Rhythms* **
+* ** *Circadian Rhythms* = regulated changes on 24 cycle**
     + Why do we get jet lag?
 
 </div>
@@ -144,13 +153,13 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/circadian2.jpg">
 
-## Acclimatization: Animal's temporary adjustment to new environment
+## *Acclimatization*: temporary adjustment to new environment
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/acclimate.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:350px; HEIGHT:450px" SRC="images/acclimate.jpg">
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 58%;">
 
 * **Animals often move into different environments**
     + changes in elevation, temperature, salinity, etc. 
@@ -203,12 +212,12 @@ runtime: shiny
 ## Stop saying animals are 'Cold or Warm blooded'!!!
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190x; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/coldblood.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/coldblood.jpg">
 
 ## Thermoregulation: Balancing heat loss and gain
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190x; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/heatexchange.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:275px; WIDTH:550px; HEIGHT:450px" SRC="images/heatexchange.jpg">
 
 ## Endotherms must produce heat: *Thermogenesis*
 <hr>
@@ -241,14 +250,14 @@ runtime: shiny
 
 <div style="float: left; width: 49%;">
 
-* **Insulation reduces flow of heat at body surface**
-    + hair, feathers, fat, oils
+* **Insulation reduces flow of heat**
+    + fur, feathers, fat, oils
     + important for mammals and birds
 
 <br/>
 
 * **Insulation may be altered**
-    + raising fur or feathers when cold
+    + raising hair or feathers when cold
     + goose bumps in humans!!!
 
 <br/>
@@ -259,7 +268,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:550px; HEIGHT:450px" SRC="images/blubber.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:535px; WIDTH:550px; HEIGHT:450px" SRC="images/blubber.png">
 
 ## Thermoregulation: Circulatory Adaptations
 <hr>
@@ -283,10 +292,12 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/vaso.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:520px; WIDTH:550px; HEIGHT:400px" SRC="images/vaso.jpg">
 
 ## Counter current heat exchange
-<hr>>
+<hr>
+<br/>
+<br/>
 <br/>
 
 <div style="float: left; width: 40%;">
@@ -295,7 +306,7 @@ runtime: shiny
 
 <br/>
 
-**Arteries and veins located next to each other**
+**Arteries and veins located near each other**
 
 <br/>
 
@@ -335,9 +346,9 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/penguin.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:480px; WIDTH:600px; HEIGHT:450px" SRC="images/penguin.jpg">
 
-## The *hypothalamus* is the mammal thermostat
+## FUN FACT: The *hypothalamus* is the mammal thermostat
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/hypo1.jpg">

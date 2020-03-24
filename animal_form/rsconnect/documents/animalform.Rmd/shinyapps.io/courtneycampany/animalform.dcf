@@ -1,0 +1,12 @@
+name: animalform
+title: animalform
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1987643
+bundleId: 2918421
+url: https://courtneycampany.shinyapps.io/animalform/
+when: 1585061346.33041
+asMultiple: FALSE
+asStatic: FALSE

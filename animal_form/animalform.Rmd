@@ -84,7 +84,7 @@ runtime: shiny
 <br/>
 
 * **Tissue layers develop in next stage**
-    + developinto adult body parts
+    + develop into adult body parts
 
 <br/>
 
