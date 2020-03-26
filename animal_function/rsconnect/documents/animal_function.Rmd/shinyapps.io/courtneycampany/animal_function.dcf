@@ -1,0 +1,12 @@
+name: animal_function
+title: animal_function
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2000361
+bundleId: 2927705
+url: https://courtneycampany.shinyapps.io/animal_function/
+when: 1585234691.44031
+asMultiple: FALSE
+asStatic: FALSE

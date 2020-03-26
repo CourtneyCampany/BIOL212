@@ -8,6 +8,11 @@ output:
 runtime: shiny
 ---
 
+## What are those crazy feathers for?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/newt.jpg">
+
 ## Animal circulation and gas exchange hash-tags
 <hr>
 <br/>
@@ -20,7 +25,7 @@ runtime: shiny
 
 <br/>
 
-* **CirculatoryBasics**
+* **#CirculatoryBasics**
 
 <br/>
 
@@ -36,8 +41,8 @@ runtime: shiny
 
 <div style="float: left; width: 60%;">
 
-* **Direct exchange between every cell and the environment is not possible in multi-cellular organisms**
-    + specialized structures for exchange and transport needed
+* **Direct exchange between every cell and the environment is not possible in all animals**
+    + special structures for exchange & transport needed
 
 <br/>
 
@@ -52,12 +57,12 @@ runtime: shiny
 * **Internal transport and gas exchange functionally related**
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:670px; WIDTH:350px; HEIGHT:450px" SRC="images/circ_system.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:685px; WIDTH:350px; HEIGHT:450px" SRC="images/circ_system.png">
 
 ## Molecule trading
 <hr>
 
-<div style="float: left; width: 53%;">
+<div style="float: left; width: 58%;">
 
 * **Small molecules can move between cells and their surroundings by *diffusion* **
     + concentration gradients = net movement
@@ -75,17 +80,18 @@ runtime: shiny
     
 <br/>
     
-* **Simple body plans: most cells in contact with environment**
+* **Simple body: most cells in contact with environment**
 * **Not simple body requires circulatory system**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/worms.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:645px; WIDTH:400px; HEIGHT:450px" SRC="images/worms.png">
 
 ## Animals with gastrovascular cavities
 <hr>
+<br/>
 
-<div style="float: right; width: 48%;">
+<div style="float: right; width: 64%;">
 
 * **Many animals have lots of cells in contact with environment**
     + hydras, jellyfish, flatworms
@@ -105,12 +111,13 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:325px; HEIGHT:450px" SRC="images/gastro.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:70px; WIDTH:275px; HEIGHT:450px" SRC="images/gastro.jpg">
 
 ## Animals with circulatory systems
 <hr>
 <br/>
-<br/>
+
+<div style="float: left; width: 50%;">
 
 * **Circulatory systems have 3 components**
 1. *Heart*
@@ -119,13 +126,15 @@ runtime: shiny
 
 <br/>
 
-* **Fluid transport connects cytoplasm of cells to organs for gas exchange **
+* **Fluid transport, via vessels, connects cytoplasm of cells to organs for gas exchange **
 
 <br/>
 
 * **Mammals &rarr; O~2~ diffuses over 2 cell layers in lungs to reach blood**
     + system then transports O~2~ rich blood to body 
-    
+
+</div>
+
 <IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:350px; HEIGHT:450px" SRC="images/basic.jpg">
 
 ## Open and closed circulatory systems (hemolymph vs blood)
@@ -171,10 +180,11 @@ runtime: shiny
 ## Evolutionary variation: 3 chambered heart
 <hr>
 <br/>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:300px; HEIGHT:450px" SRC="images/3chamber.jpg">
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 64%;">
 
 * **Amphibians and reptile hearts have 1 ventricle**
     + still use double circulation
@@ -198,7 +208,7 @@ runtime: shiny
 <br/>
 <br/>
 
-<div style="float: left; width: 53%;">
+<div style="float: left; width: 48%;">
 
 * **Right ventricle pumps blood to the lungs via arteries**
 
@@ -212,12 +222,12 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:585px; WIDTH:425px; HEIGHT:450px" SRC="images/mammal1.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/mammal1.jpg">
 
 ## Mammalian Circulation (2 circuits)
 <hr>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 52%;">
 
 <br/>   
 
@@ -236,16 +246,17 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:585px; WIDTH:425px; HEIGHT:450px" SRC="images/mammal1.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/mammal1.jpg">
 
 ## Mammalian heart 
 <hr>
 <br/> 
 <br/> 
+<br/> 
 
 <div style="float: right; width: 55%;">
 
-* **Atria (2) have thin walls and serve as collect blood returning to the heart**
+* **Atria have thin walls and serve to collect blood returning to the heart**
 
 <br/> 
 
@@ -263,15 +274,16 @@ runtime: shiny
 ## Blood flow
 <hr>
 <br/>
+<br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 57%;">
 
 * **Physical laws govern movement of fluids through pipes**
     + affect blood flow and pressure
     
 <br/> 
 
-* **Blood flows from areas of higher pressure to lower pressure**
+* **Blood flows from areas of higher pressure to low**
     + resistance to flow in narrow diameters capillaries dissipates pressure
 
 <br/>
@@ -282,14 +294,15 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190x; LEFT:625px; WIDTH:350px; HEIGHT:450px" SRC="images/flow.jpeg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:690px; WIDTH:350px; HEIGHT:450px" SRC="images/flow.jpeg">
 
 ## Gas exchange over respiratory surfaces
 <hr>
 <br/>
 <br/>
+<br/>
 
-<div style="float: left; width: 49%;">
+<div style="float: left; width: 55%;">
 
 * **Gas exchange = uptake of O~2~ from environment and release of CO~2~**
     + O~2~ is abundant in the air (21%)
@@ -297,8 +310,7 @@ runtime: shiny
     
 <br/>
  
-* **O~2~ is abundant in the air (21%), thus fairly easily to 'breath'**
-    + water is more demanding for gas exchange
+* **Water is more demanding for gas exchange**
     + dissolved O~2~ is variable but always less than air
     
 <br/>
@@ -307,7 +319,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/gasexchange.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:450px; HEIGHT:400px" SRC="images/gasexchange.jpg">
     
 ## Respiratory Surfaces
 <hr>
@@ -352,7 +364,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/lungs_human.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/lungs_bird.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/airsac.jpg">
 
 ## Coordination of circulation and gas exchange
 <hr>
@@ -378,7 +390,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:585px; WIDTH:425px; HEIGHT:450px" SRC="images/respiratorygas.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/respiratorygas.jpg">
 
 ## 
 

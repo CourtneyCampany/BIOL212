@@ -100,12 +100,12 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
 
 <div style="float: left; width: 45%;">
 
 * **Animals exhibit *homeostasis* for many properties**
     + temperature, pH, blood glucose, etc. 
-    + body or organs
 
 <br/>
 
@@ -128,8 +128,9 @@ runtime: shiny
 ## Homeostasis is not constant
 <hr>
 <br/>
+<br/>
 
-<div style="float: left; width: 48%;">
+<div style="float: left; width: 46%;">
 
 * **Regulation occurs @ different life stages**
     + i.e. hormones at puberty
@@ -141,12 +142,12 @@ runtime: shiny
 
 <br/>
 
-* ** *Circadian Rhythms* = regulated changes on 24 cycle**
+* **Circadian Rhythms = regulated changes on 24 cycle**
     + Why do we get jet lag?
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:375px" SRC="images/circadian.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:520px; WIDTH:550px; HEIGHT:375px" SRC="images/circadian.jpg">
 
 ## Many human metabolic activities are on circadian clock
 <hr>
@@ -182,7 +183,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: left; width: 53%;">
+<div style="float: left; width: 54%;">
 
 * **Thermoregulation: maintaining body temperature within a range**
     + impacts enzyme activity, cellular fluids, biochemistry
@@ -207,7 +208,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/endoecto.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:610px; WIDTH:475px; HEIGHT:375px" SRC="images/endoecto.jpg">
 
 ## Stop saying animals are 'Cold or Warm blooded'!!!
 <hr>
@@ -346,7 +347,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:480px; WIDTH:600px; HEIGHT:450px" SRC="images/penguin.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:490px; WIDTH:600px; HEIGHT:450px" SRC="images/penguin.jpg">
 
 ## FUN FACT: The *hypothalamus* is the mammal thermostat
 <hr>
