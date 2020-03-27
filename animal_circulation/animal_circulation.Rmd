@@ -21,7 +21,7 @@ runtime: shiny
 
 <br/>
 
-* **#GasExchangeDiveristy**
+* **#ExchangeTransportLink**
 
 <br/>
 
@@ -29,11 +29,11 @@ runtime: shiny
 
 <br/>
 
-* **#RespiratoryStructures**
+* **#CirculatoryMammal**
 
 <br/>
 
-* **#MammalHeart**
+* **#RespiratoryStructures**
 
 ## The big picture: circulation and gas exchange
 <hr>

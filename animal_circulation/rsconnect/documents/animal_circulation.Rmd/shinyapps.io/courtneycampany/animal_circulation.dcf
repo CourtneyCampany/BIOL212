@@ -1,0 +1,12 @@
+name: animal_circulation
+title: animal_circulation
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2007861
+bundleId: 2932794
+url: https://courtneycampany.shinyapps.io/animal_circulation/
+when: 1585327116.29013
+asMultiple: FALSE
+asStatic: FALSE
