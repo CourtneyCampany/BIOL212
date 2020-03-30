@@ -1,0 +1,420 @@
+---
+title: "Animal Sensory Mechanisms"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## The fastest predator on Earth: star-nosed mole
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/mole.jpg">
+
+## Animal form and function hash-tags
+<hr>
+<br/>
+
+* **This lecture unpacks the mechanisms by which animals detect and process behaviors**
+
+<br/>
+
+* **#**
+
+<br/>
+
+
+* **# **
+
+<br/>
+
+
+* **# **
+
+<br/>
+
+
+* **# **
+
+
+## The Big Picture:
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Sensory processes begin with stimuli**
+    + stimuli are forms of energy
+
+<br/>
+
+* **Receptors alert central nervous system**
+    + use action potentials
+    + results in a 'sensation'
+
+<br/>
+
+* **After a stimulus is processed, a motor response may be generated**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mole_sense.jpg">
+
+## Sensory Reception
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:475px; HEIGHT:375px" SRC="images/skin.jpg">
+
+<div style="float: left; width: 53%;">
+
+* **Sensory pathway: chain of neurons, from receptor organ to nervous system**   
+    + *neurons* = cells transmitting nerve impulses
+    + perception of sensations
+
+<br/>
+
+* **Sensory pathways have four basic functions:**
+    + Sensory reception, transduction, transmission, perception
+
+<br/>
+
+* **Sensory reception: detection of stimulus by sensory cells**
+    + sensory cells are specialized neurons
+    + inside or outside body
+
+</div>
+
+## Sensory Transduction: Converting signals
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Transduction: conversion of stimulus into change in membrane potential**
+    + strength of stimulus determine how much
+
+<br/>
+
+* **Stimulus receptors change flow of ions across membranes**
+    + opens/closes ion channels
+    + Ca^2+^, Na^+^, K^+^
+
+<br/>
+
+* **Membrane potential: gradient that forces ions to passively move in one direction**
+    + can be processed by central nervous system
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/radio.jpg">
+
+## Sensory Transmission: action potentials (nerve impulse)
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:475px; HEIGHT:250px" SRC="images/actionpot.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Sensory information travels through nervous system as action potentials**
+
+<br/>
+
+* **Action potential: explosion of electrical activity created by a depolarizing current**
+    + caused by change in membrane potential
+    + remember 'ion channels'
+
+<br/>
+
+* **Receptor generates action potentials that travel to central nervous system**
+    + large stimulus = more action potentials
+    + frequency of action potentials matter
+
+</div>
+
+## Action Potential further explained...
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+https://www.youtube.com/watch?v=XnksofQN8_s
+
+## Sensory Perception: Processing the stimulus
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 54%;">
+
+* **Perception: brain processes stimuli from sensory receptors**
+
+<br/>
+
+* **How does the brain know the difference in stimuli?**
+    + action potentials are just electrical signals...
+    
+<br/>
+
+* **Action potentials reach brain via dedicated neural pathways**
+    + brain distinguishes stimuli on the path they arrive
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:215px; LEFT:600px; WIDTH:475px; HEIGHT:375px" SRC="images/brain.png">
+
+## If a tree falls in the woods......
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:350px; HEIGHT:450px" SRC="images/giftree.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/giftree2.jpg">
+
+## Animal sensory receptors: Mechanoreceptors
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 57%;">
+
+* **Response to touch, stretch, motion and sound**
+    + Receptors sense physical deformation
+
+<br/>
+
+* **Ion channels linked to structures that end outside cell**
+    + hair or cilia
+    + bending/stretching structure generates response
+
+<br/>
+
+* **Touch receptors often embedded in tissue**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:640px; WIDTH:400px; HEIGHT:400px" SRC="images/skin2.jpg">
+
+## Diversity of mechanoreceptors on mouse face
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:750px; HEIGHT:450px" SRC="images/moseface.jpg">
+
+## Animal sensory receptors: Chemoreceptors
+<hr>
+
+<div style="float: right; width: 55%;">
+
+* **Transmit information about solute concentration**
+    + detect change in blood solutes &rarr; stimulate thirst
+
+<br/>
+
+* **Respond to individual kinds of molecules**
+    + glucose, O~2~, CO~2~, amino acids
+
+<br/>
+
+* **Stimulus molecule binds to a chemoreceptor**
+* **Chemoreceptor becomes more or less permeable to ions**
+    + silk worms detect pheromones from females several kilometers away
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/chemo.jpg">
+
+## Animal sensory receptors: Electromagnetic
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Receptors that detect light, energy and magnetism**
+    + may also create & detect electromagnetic energy
+
+<br/>
+<br/>
+
+* **Used by animal kingdom to migrate**
+    + proteins can sense Earth's magnetic fields
+    + insects, birds & mammals
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/migrate.jpg">
+
+
+## Animal sensory receptors: Electromagnetic
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Receptors that detect light, energy and magnetism**
+    + may also create & detect electromagnetic energy
+
+<br/>
+<br/>
+
+* **Used by animal kingdom to sense prey**
+    + 16% of fish species use electroreceptors to detect bioelectric fields from prey
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:300px; HEIGHT:450px" SRC="images/electro3.jpg">
+
+## Animal sensory receptors: Thermoreceptors
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Receptors detect heat and cold**
+
+<br/>
+
+* **Hot pepper science has really helped!!!**
+    + Receptors that respond to capsaicin also respond to high temperatures 
+    + open a calcium channels
+    + taste 'hot": activate same receptors as hot soup
+    + opposite for 'cold' flavor
+
+<br/>
+
+* **Mammals have thermoreceptors for specific temperatures**
+* **Venomous snakes have infrared receptors to detect 'warm' prey**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:620px; WIDTH:400px; HEIGHT:450px" SRC="images/thermo3.png">
+
+## Animal sensory receptors: Pain
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Pain receptors detect stimuli that reflect harmful conditions**
+    + gene mutations can cause C.I.P.
+    
+<br/>
+
+* **Respond to excess heat, pressure, or chemicals released from damaged/inflamed tissues**
+    + trigger defenses (withdraw or perception of pain)
+
+<br/>
+
+* **Chemicals produced in animal’s sometimes enhance perception of pain**
+    + inflammation
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:215px; LEFT:625px; WIDTH:400px; HEIGHT:375px" SRC="images/pain.gif">
+
+## Equilibrium and hearing: Mechanoreceptors
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 53%;">
+
+* **Hearing is closely related to balance in animals**
+
+<br/>
+
+* **Invertebrates use *statocysts* to sense gravity**
+    + sand in a chamber with cilia and receptors
+    + sand re-positions when animal moves
+    
+<br/>
+
+* **Insects have hairs that vibrate with sound waves**
+    + tuning fork for mating
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/stato.jpg">
+
+## Equilibrium and hearing: Mechanoreceptors
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Hearing is closely related to balance in animals**
+    + *Ear*: mammal sensory organ for hearing and equilibrium
+    
+<br/>
+
+* **Hearing: vibrating objects create pressure waves**
+    + ear *transduces* this stimulus into nerve impulses
+    + involves 'hair' cells
+    + brain perceives as sound
+
+<br/>
+
+* **Equilibrium: organs in inner ear**
+    + hair cells, gels and canals
+    + detect movement, position, and balance  
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:265px; LEFT:570px; WIDTH:500px; HEIGHT:300px" SRC="images/ear.jpg">
+
+## Equilibrium and hearing: lateral line
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/lateralline.jpg">
+
+## Evolution of visual perception
+<hr>
+<br/>
+<br/>
+
+* **Light detectors ranges from clusters of cells to complex organs**
+    + detecting light intensity &rarr; forming images
+    
+<br/>
+
+* **Photoreceptors: sensory cells with light absorbing pigments**
+    + many conserved genes across animals
+
+<br/>
+
+* **Many invertebrates have light-detecting organs**
+    + eye spots, single lens & compound eyes
+    + may 'see' color or UV
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/compound.jpg">
+
+## Single lens eye in vertebrates
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:450px; HEIGHT:400px" SRC="images/eye.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/rodscones.jpg">
+
+## Taste and smell rely on chemoreceptors
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/taste2.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/taste3.jpg">
+
+## Taste and smell rely on chemoreceptors
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:750px; HEIGHT:450px" SRC="images/smell.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/motor.jpg">
