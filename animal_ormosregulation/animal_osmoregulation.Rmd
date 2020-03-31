@@ -10,9 +10,8 @@ runtime: shiny
 
 ## Do albatross drink salt water?
 <hr>
-<br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 51%;">
 
 * **An albatross remains at sea throughout the year**
     + only returns to land to reproduce
@@ -21,6 +20,7 @@ runtime: shiny
 
 * **Albatross can survive by drinking seawater**
     + humans would die of dehydration
+    
 <br/>
 
 * **Both humans and albatross must maintain balance of fluids and solutes**
@@ -115,7 +115,6 @@ runtime: shiny
 <div style="float: right; width: 48%;">
 
 * **Animals maintain water balance by *conforming* to surroundings**
-    + become isoosmotic with environment
     + internal osmolarity = environment
     + many marine animals
     
@@ -136,12 +135,12 @@ runtime: shiny
 ## Marine Animals (drink lots of seawater!)
 <hr>
     
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/marinefish.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/marinefish.jpg">
 
 ## Freshwater Animals (lots of excretion!)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/freshwaterfish.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/freshwaterfish.jpg">
 
 ## Land Animals
 <hr>
@@ -175,7 +174,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: left; width: 53%;">
+<div style="float: left; width: 51%;">
 
 * **Diffusion tends to equalize fluids**
     + regulators expend energy to move water in/out
@@ -216,7 +215,7 @@ runtime: shiny
 <br/>
  
 * **Ammonia: (NH~3~) is toxic, so needs to be diluted**
-    + common waste product in aquatic animal
+    + common waste product in animals
 
 <br/>
 
@@ -231,7 +230,7 @@ runtime: shiny
     
 </div>
 
-## Excretory systems are tubular
+## Excretory systems are filter body fluids
 <hr>
 <br/>
 
@@ -248,7 +247,7 @@ runtime: shiny
 3. Only small molecules and water cross membranes
 4. This *filtrate*  converted to waste fluid
 5. Some good molecules and water reabsorbed
-6. leftover urine excreted
+6. Leftover urine excreted
 
 </div>
 
@@ -260,16 +259,16 @@ runtime: shiny
 <br/>  
 <br/>  
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 52%;">
 
-* **Generally built as network of tubes with large surface area**
-    + allows for large exchange of water, solutes & wastes
-    + in insects; nearly all water reabsorbed
-    + in vertebrates; kidney used for osmoregulation & excretion
+* **Generally, network of tubes with large surface area**
+    + large exchange of water, solutes & wastes
+    + Insects: nearly all water reabsorbed
+    + Vertebrates: kidney used for osmoregulation & excretion
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/worm.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:585px; WIDTH:500px; HEIGHT:350px" SRC="images/worm.jpg">
 
 ## Excretory systems are diverse in animals
 <hr>
@@ -279,7 +278,7 @@ runtime: shiny
 
 <div style="float: left; width: 55%;">
 
-* **Mammalian Kidneys: supplied by blood which is filtered**
+* **Mammalian Kidneys: filters blood**
     + inner and outer regions (cortex & medulla)
     + regions packed with excretory tubules
     + tubules create filtrate from blood
@@ -311,7 +310,7 @@ runtime: shiny
 <br/>
 
 * **Variety of complex mechanisms used to concentrate filtrate**
-    + Example: loop of Henle
+    + example: loop of Henle
     + kidney function adapted to habitats
 
 </div>
@@ -323,17 +322,18 @@ runtime: shiny
 
 <div style="float: left; width: 60%;">
 
-* **Bats feed on blood at night**
+* **Vampire bats feed on blood at night**
     
 <br/> 
 
 * **Drinks more than half body weight in blood each night**
     + may make it too heavy to fly!
+    + kidneys excrete lots of dilute urine
 
 <br/>
 
 * **Blood food mostly protein**
-    + digested proteins become Urea
+    + digested proteins become lots of Urea
     + Urea needs some water to dilute
     + roosting bats do not drink!
     
