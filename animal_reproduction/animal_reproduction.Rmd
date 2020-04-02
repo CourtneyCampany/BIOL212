@@ -148,14 +148,9 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 <br/>
 
 * **Ovulation: release of eggs at midpoint of female cycle**
-    + cycles are variable in length
+    + cycles are variable in length, synced with seasons
     + sheep: cycle + pregnancy = birth in spring
-
-<br/>
-
-* **Seasonal breeders mate during certain times of the year**
     + temperature, food and water availability and predation
-    + often synced with ovulation
 
 <br/>
 
@@ -177,7 +172,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 <br/>
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 50%;">
 
 * **Union of egg and sperm = *Fertilization* **
     + can be external or internal
@@ -199,7 +194,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 <br/>
 <br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 55%;">
 
 * **Union of egg and sperm = *Fertilization* **
     + can be external or internal
@@ -326,14 +321,14 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 ## Hormonal control of male system (negative feedbacks)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190x; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/male.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/male.jpg">
 
 ## 2 linked cycles in females
 <hr>
 <br/>
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 58%;">
 
 * **Changes in the ovaries define the ovarian cycle**
     + preparation of endocrine tissues and release of eggs
@@ -352,7 +347,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/anatomy.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:620px; WIDTH:500px; HEIGHT:400px" SRC="images/anatomy.jpg">
     
 ##
 
@@ -394,27 +389,27 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/gestationmass.jpeg">
 
-## Placental mammals (embryo develops in uterus): *Birth*
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- ## Placental mammals (embryo develops in uterus): *Birth* -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 53%;">
-  
-* **Childbirth begins with labor, contractions that push the fetus and placenta out of the body**
+<!-- <div style="float: left; width: 53%;"> -->
 
-<br/>
-<br/>
-<br/>
+<!-- * **Childbirth begins with labor, contractions that push the fetus and placenta out of the body** -->
 
-* **Labor regulated by hormones**
-    + estradiol and oxytocin
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-</div>
+<!-- * **Labor regulated by hormones** -->
+<!--     + estradiol and oxytocin -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/labor.jpg">
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/labor.jpg"> -->
 
 ## Differences between the 3 types of mammals
 <hr>
