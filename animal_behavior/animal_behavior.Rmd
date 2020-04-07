@@ -50,11 +50,11 @@ runtime: shiny
 
 <br/>
 
-* **Circulatory systems: transport between exchange sites and body**
+* ****
 
 <br/>
 
-* **Internal transport and gas exchange functionally related**
+* ****
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:685px; WIDTH:350px; HEIGHT:450px" SRC="images/circ_system.png">
@@ -82,168 +82,169 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:645px; WIDTH:400px; HEIGHT:450px" SRC="images/niko.jpg">
 
-## Tigger behavior
+## Tinbergen: Hieracry of animal behavior
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/niko.jpg">
+
+## Fixed action patterns
 <hr>
 <br/>
 
 <div style="float: right; width: 64%;">
 
-* **Many animals have lots of cells in contact with environment**
-    + hydras, jellyfish, flatworms
+* **Q1: stimuli that trigger behavior**
+    + Tinbergen kept fish tanks with stickleback fish
+    + Males = red belly; Females= no red belly
 
 <br/>
 
-* **Central *gastrovascular cavity* functions to distribute substances**
-    + opening at one end connects cavity to water
-    + allows fluid to bath inner and outer tissues
-    + diffusion distance kept short
+* **Male territorial behavior related to red color**
+    + males also behaved aggrevisly when a red truck passed by!
 
 <br/>
 
-* **Gastrovascular cavity can be highly branched**
-    + extends into tentacles of cnidarians
-    + covers high surface area of flatworms
+* **Fixed Action Pattern: sequence of unlearned acts linked to a simple stimulus**
+    + developmentally 'fixed' &rarr; *innate* behavior
+    + trigger = *sign stimulus* (i.e. red color)
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:70px; WIDTH:275px; HEIGHT:450px" SRC="images/gastro.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:200px" SRC="images/stickleback.jpg">
 
-## Migration
+<IMG STYLE="position:absolute; TOP:395px; LEFT:550px; WIDTH:300px; HEIGHT:300px" SRC="images/stickleback2.gif">
+
+## Enivronmental cues for behavior: Migration
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/migration.jpg">
 
-* **Circulatory systems have 3 components**
-1. *Heart*
-2. Interconnecting *vessels*
-3. Circulatory *fluid*
 
-<br/>
+<div style="float: right; width: 50%;">
 
-* **Fluid transport, via vessels, connects cytoplasm of cells to organs for gas exchange **
+* **Environmental sitimuli trigger and guide animal behaviors**
 
 <br/>
 
-* **Mammals &rarr; O~2~ diffuses over 2 cell layers in lungs to reach blood**
-    + system then transports O~2~ rich blood to body 
+* **Birds, fishes, mammals (+ more) use cues to *migrate* long distances**
+    + Why do animals not get lost in new habitats?
+
+<br/>
+
+* **Animals may use sun or moon position to navigate**
+    + adjust route with circadian clocks!
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:350px; HEIGHT:450px" SRC="images/basic.jpg">
+## Migration: What happens if it is cloudy?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/pigeon2.jpg">
+
 
 ## Rhythm is gonna get you
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/openclose.jpg">
+* **Animal behvaiors often reflect biological rhtyms**
+    + circadian clocks or longer cycles
+ 
+ <br/>
+ 
+* **Migration and reproduction cued by yearly seasonal cycles**
+    + periods of daylength and darkness
+    
+ <br/>
+ 
+* **Behaviors rhythms related to lunar cycles**
+    + includes tides (e.g. crab reproduction)
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/turtles.jpg">
 
 ## Froms of animal communication
 <hr>
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 50%;">
 
-* **Cardiovascular system: blood &rarr; heart &rarr; vessels**
-    + length of vessels can be staggering
-
-<br/>
-
-* **3 main types of vessels**
-1. Arteries: carry blood from heart to organs
-2. Veins: carry blood back to heart
-3. Capillaries: microscopic vessels with pores that infiltrate tissues
+* **Signal: stimulus transmitted from one animal to another**
+    + male waving claw at female crab
 
 <br/>
 
-* **Hearts of vertebrates have 2+ muscular chambers**
-    + *atria* are chambers that receive blood
-    + *ventricles* pump blood out
+* **Communication: transmission and reception of signals**
+    + plays a role in proximate causes ('the How')
+
+<br/>
+
+* **4 common modes of animal communication**
+    + visual, chemical, tactile & auditory
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:500px; HEIGHT:350px" SRC="images/sheep.jpg">
+
+## Fruit fly courtship
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Step 1: Male *sees* female and orients towards her**
+    + uses olfactory *chemical* system to make sure she is right species
     
 <br/>
 
-* **Number of chambers related to form and function via natural selection**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:425px; HEIGHT:400px" SRC="images/circsystem.jpg">
-
-## Single vs Double circulation
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/vertebrate.jpg">
-
-## Evolutionary variation: 3 chambered heart
-<hr>
-<br/>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:300px; HEIGHT:450px" SRC="images/3chamber.jpg">
-
-<div style="float: right; width: 64%;">
-
-* **Amphibians and reptile hearts have 1 ventricle**
-    + still use double circulation
-
-<br/>
-
-* **Do not always fill their lungs**
-    + pass long periods without gas exchange
-    + or use another tissue (skin)
+* **Step 2: Male approaches female and *touches* female with foreleg**
+    + alerts female to his presence
     
 <br/>
- 
-* **Example: frogs use skin when underwater**
-* **Example: crocodiles shunt blood from lungs when underwater**
 
+* **Step 3: Male vibrate wing in coursthip song**
+    + *auditory* behaviors tells female he is of right species
+    
+<br/>
+
+* **If all communications are successful &rarr; sexy time**
+    
 </div>
 
-## Mammalian Circulation (2 circuits)
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/vertebrate.jpg">
+
+## Fruit fly courtship: https://www.youtube.com/watch?v=KzWIuhXMUko
 <hr>
-<br/>
-<br/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KzWIuhXMUko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Forms of communcation evolve with animal's environment
+<hr>
 <br/>
 
 <div style="float: left; width: 48%;">
 
-* **Right ventricle pumps blood to the lungs via arteries**
+* **Many terrestrial mammals are nocturnal**
+    + use olfactory and auditory forms
+    + usually are color blind
+    
+<br/>
+
+* **Humans and most birds are diurnals**
+    + use visual and auditory forms
+    + lack many chemical cues
 
 <br/>
 
-* **Blood flows through capillaries into lungs and loads O~2~ and unloads CO~2~**
-
-<br/>
-
-* **O~2~ rich blood returns from lungs via veins to the left atrium**
-
+* **The amount of information communicated is variable**
+    + regardless of form
+    
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/mammal1.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:425px; HEIGHT:450px" SRC="images/nocturnal.png">
 
-## Mammalian Circulation (2 circuits)
-<hr>
+## 
 
-<div style="float: left; width: 52%;">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/honeybeedance.jpg">
 
-<br/>   
-
-* **Blood flows to left ventricle and pumped to tissues via arteries into capillaries**
-    + First branches supply the heart muscle
-    + Further branches lead to organs and hind limbs
-
-<br/>   
-
-* **O~2~ diffuses from blood to tissues, and CO~2~ diffuses from tissues to blood**
-
-<br/>   
-
-* **Capillaries rejoin conveying blood to veins**
-    + O~2~ poor blood from the head, neck, and forelimbs is emptied into right atrium
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/mammal1.jpg">
-
-## Mammalian heart 
+## Phermones: How animals communicate through odors/taste
 <hr>
 <br/> 
 <br/> 
@@ -251,47 +252,46 @@ runtime: shiny
 
 <div style="float: right; width: 55%;">
 
-* **Atria have thin walls and serve to collect blood returning to the heart**
-
-<br/> 
-
-* **Ventricles have thicker walls and contract much more forcefully**
-
-<br/>   
-
-* **The heart contracts and relaxes in a rhythmic cycle called the cardiac cycle**
-    + 4 valves prevent back flow of blood in the heart
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:400px" SRC="images/mammal2.jpg">
-
-## Blood flow
-<hr>
-<br/>
-<br/>
-
-<div style="float: left; width: 57%;">
-
-* **Physical laws govern movement of fluids through pipes**
-    + affect blood flow and pressure
+* **Phermones are chemical substances emitted by animals**
+    + common among animals and insects
+    + species detection in fruit flies
     
 <br/> 
 
-* **Blood flows from areas of higher pressure to low**
-    + resistance to flow in narrow diameters capillaries dissipates pressure
+* **Permones can signal behaviors over longs distances**
+    + Male silkworms can detect female phermones miles away 
+    
+<br/>   
 
-<br/>
+* **Phermones maintain social behaviors in bees**
+    + Queen substances &rarr; brings workers, inhibits ovaries in workers and attracts male drones
 
-* **Blood flow is slowest in the capillaries**
-    + over large cross-sectional area
-    + necessary for gas exchange
+<br/>  
+
+* **Phermones serve as alarms**
+    + release injury signals to warn nearby animals
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/alarm.jpg">
+
+## Experince and behavior
+<hr>
+
+<div style="float: left; width: 57%;">
+
+* **Tinebergs Q2 How does the animal’s experience during growth and development influence the response?**
+    
+<br/> 
+
+* **What behavariors are innate and what are learned?**
+    + cross-fostering & human twin studies
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:690px; WIDTH:350px; HEIGHT:450px" SRC="images/flow.jpeg">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:200px; WIDTH:500px; HEIGHT:350px" SRC="images/crossmice.jpeg">
 
-## Gas exchange over respiratory surfaces
+## The capacity to *learn* in the animal kingdow
 <hr>
 <br/>
 <br/>
@@ -299,95 +299,56 @@ runtime: shiny
 
 <div style="float: left; width: 55%;">
 
-* **Gas exchange = uptake of O~2~ from environment and release of CO~2~**
-    + O~2~ is abundant in the air (21%)
-    + fairly easily to 'breath'
-    
-<br/>
- 
-* **Water is more demanding for gas exchange**
-    + dissolved O~2~ is variable but always less than air
-    
-<br/>
- 
-* **Efficient surfaces for gas exchange have evolved**
+* ** **
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:450px; HEIGHT:400px" SRC="images/gasexchange.jpg">
+
+## Trouble with assembling IKEA furniture? Call a crow...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:450px; HEIGHT:400px" SRC="images/crow.jpg">
     
-## Respiratory Surfaces
+## Social learning in animals
 <hr>
 <br/>
 
 <div style="float: left; width: 49%;">
 
-* **Differs across animal phylogeny**
-    + sponges, cnidaria, flatworm &rarr; cells directly
-    + earthworms, amphibians &rarr; skin
-    
-<br/>
-
-* **Other animals lack enough surface area**
-    + to much volume to supply with O~2~
-
-<br/>
-
-* **Respiratory organs evolve**
-    + Gills &rarr; aquatic animals
-    + Trachea &rarr; insects
-    + lungs &rarr; reptiles and mammals
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/newt.jpg">
 
-## Gills
+## Evolution of foraging (Tineberg Q3: Why?)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/gills.jpg">
 
-## Trachea in insects
+## Evolution of mate choice (Tineberg Q3: Why?)
 <hr>>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/trachae.png">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:525px; HEIGHT:250px" SRC="images/trachae2.jpg">
 
-## Lungs in mammals, reptiles and birds
+## How have behaviors evolved (Tinbergen Q4)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/lungs_human.jpg">
+* **Behaviors have a genetic basis**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/airsac.jpg">
 
-## Coordination of circulation and gas exchange
+## Are all behaviors evolved to be selfish?
 <hr>
 <br/>
 
 <div style="float: left; width: 53%;">
 
-* **Most animals need to exchange large amounts of O~2~ and CO~2~**
-    + to meet metabolic needs
 
-<br/>
-
-* **During inhalation, fresh air fills in lung**
-    + air mixture has more O~2~ than blood
-    + blood has less CO~2~ than mixture
-    + diffusion occurs
-
-<br/>
-    
-* **Blood is then pumped through circuit**
-    + O~2~ carried in pigments (metal bound to protein)
-    + gradients of O~2~ and CO~2~ drive diffusion in body
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/respiratorygas.jpg">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/bloodchemistry.jpg">
 
