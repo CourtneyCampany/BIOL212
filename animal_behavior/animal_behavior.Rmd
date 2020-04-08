@@ -11,32 +11,37 @@ runtime: shiny
 ## Why is that crab waving at me?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/crab2.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:400px" SRC="images/crab2.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fidcrab.png">
 
 ## Animal behavior hash-tags
 <hr>
 <br/>
 
-* **This lecture will cover the evolution of classic animal behaviors across the animal phylogeny**
+* **This lecture will cover the evolution of animal behaviors across the animal phylogeny**
+    + understand each of Tinbergen's questions and know examples for each
 
 <br/>
 
-* **#**
+* **#TinbergenQ1**
 
 <br/>
 
-* **#**
+* **#TinbergenQ2**
 
 <br/>
 
-* **#**
+* **#TinbergenQ3**
 
 <br/>
 
-* **#**
+* **#TinbergenQ4**
 
 ## The big picture: Animal behavior
 <hr>
+<br/>
+<br/>
 <br/>
 
 <div style="float: left; width: 60%;">
@@ -45,22 +50,22 @@ runtime: shiny
 
 <br/>
 
-* **Behaviors and the anatomical structures related to their performance are subject to natural selection**
-
-
-<br/>
-
-* ****
+* **Learning connects experience and behavior **
 
 <br/>
 
-* ****
+* **Behaviors have a genetic basis**
+    + allows evolution of natural selection
+    + based on the fitness of *who*?
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:685px; WIDTH:350px; HEIGHT:450px" SRC="images/circ_system.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:350px; HEIGHT:450px" SRC="images/roo.jpg">
 
 ## Niko Tinbergen: Understanding animal behavior...
 <hr>
+<br/>
+<br/>
 
 <div style="float: left; width: 58%;">
 
@@ -82,16 +87,11 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:645px; WIDTH:400px; HEIGHT:450px" SRC="images/niko.jpg">
 
-## Tinbergen: Hieracry of animal behavior
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/niko.jpg">
-
 ## Fixed action patterns
 <hr>
 <br/>
 
-<div style="float: right; width: 64%;">
+<div style="float: left; width: 50%;">
 
 * **Q1: stimuli that trigger behavior**
     + Tinbergen kept fish tanks with stickleback fish
@@ -100,7 +100,7 @@ runtime: shiny
 <br/>
 
 * **Male territorial behavior related to red color**
-    + males also behaved aggrevisly when a red truck passed by!
+    + males also behaved aggressively when a red truck passed by!
 
 <br/>
 
@@ -110,12 +110,11 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:200px" SRC="images/stickleback.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:375px; HEIGHT:450px" SRC="images/stickleback.jpg">
 
-<IMG STYLE="position:absolute; TOP:395px; LEFT:550px; WIDTH:300px; HEIGHT:300px" SRC="images/stickleback2.gif">
-
-## Enivronmental cues for behavior: Migration
+## Environmental cues for behavior: Migration
 <hr>
+<br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/migration.jpg">
@@ -123,7 +122,7 @@ runtime: shiny
 
 <div style="float: right; width: 50%;">
 
-* **Environmental sitimuli trigger and guide animal behaviors**
+* **Environmental stimuli trigger and guide animal behaviors**
 
 <br/>
 
@@ -140,32 +139,35 @@ runtime: shiny
 ## Migration: What happens if it is cloudy?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/pigeon2.jpg">
-
+<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:750px; HEIGHT:400px" SRC="images/pigeon2.jpg">
 
 ## Rhythm is gonna get you
 <hr>
-
-* **Animal behvaiors often reflect biological rhtyms**
+<br/>
+<br/>
+ 
+* **Animal behaviors often reflect biological rhythms**
     + circadian clocks or longer cycles
  
  <br/>
  
 * **Migration and reproduction cued by yearly seasonal cycles**
-    + periods of daylength and darkness
+    + periods of day length and darkness
     
  <br/>
  
 * **Behaviors rhythms related to lunar cycles**
     + includes tides (e.g. crab reproduction)
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/turtles.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:660px; WIDTH:400px; HEIGHT:400px" SRC="images/turtles.jpg">
 
-## Froms of animal communication
+## Forms of animal communication
 <hr>
 <br/>
+<br/>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 57%;">
 
 * **Signal: stimulus transmitted from one animal to another**
     + male waving claw at female crab
@@ -182,24 +184,25 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:500px; HEIGHT:350px" SRC="images/sheep.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT: 615px; WIDTH:450px; HEIGHT:300px" SRC="images/sheep.jpg">
 
 ## Fruit fly courtship
 <hr>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 60%;">
 
 * **Step 1: Male *sees* female and orients towards her**
-    + uses olfactory *chemical* system to make sure she is right species
+    + uses olfactory *chemical* system to determine species
     
 <br/>
 
-* **Step 2: Male approaches female and *touches* female with foreleg**
+* **Step 2: Male *touches* female with foreleg**
     + alerts female to his presence
     
 <br/>
 
-* **Step 3: Male vibrate wing in coursthip song**
+* **Step 3: Male vibrate wing in courtship song**
     + *auditory* behaviors tells female he is of right species
     
 <br/>
@@ -208,14 +211,14 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/vertebrate.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:620px; WIDTH:450px; HEIGHT:300px" SRC="images/flies.png">
 
-## Fruit fly courtship: https://www.youtube.com/watch?v=KzWIuhXMUko
+## https://www.youtube.com/watch?v=KzWIuhXMUko
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KzWIuhXMUko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Forms of communcation evolve with animal's environment
+## Forms of communication evolve with animal's environment
 <hr>
 <br/>
 
@@ -227,7 +230,7 @@ runtime: shiny
     
 <br/>
 
-* **Humans and most birds are diurnals**
+* **Humans and most birds are diurnal**
     + use visual and auditory forms
     + lack many chemical cues
 
@@ -244,111 +247,204 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/honeybeedance.jpg">
 
-## Phermones: How animals communicate through odors/taste
+## Pheromones: How animals communicate through odors/taste
 <hr>
 <br/> 
-<br/> 
-<br/> 
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 60%;">
 
-* **Phermones are chemical substances emitted by animals**
+* **Pheromones: chemical substances emitted by animals**
     + common among animals and insects
-    + species detection in fruit flies
     
 <br/> 
 
-* **Permones can signal behaviors over longs distances**
-    + Male silkworms can detect female phermones miles away 
+* **Can signal behaviors over longs distances**
+    + Male silkworms detect female pheromones miles away 
     
 <br/>   
 
-* **Phermones maintain social behaviors in bees**
-    + Queen substances &rarr; brings workers, inhibits ovaries in workers and attracts male drones
+* **Maintain social behaviors in bees**
+    + 'Queen substance' &rarr; brings workers, inhibits ovaries in workers and attracts male drones
 
 <br/>  
 
-* **Phermones serve as alarms**
+* **Serve as alarms**
     + release injury signals to warn nearby animals
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/alarm.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:400px; HEIGHT:450px" SRC="images/alarm.jpg">
 
-## Experince and behavior
+## Experience and behavior
 <hr>
 
-<div style="float: left; width: 57%;">
-
-* **Tinebergs Q2 How does the animal’s experience during growth and development influence the response?**
+* **Tinbergen Q2: How does the animal’s experience during growth and development influence behavior?**
     
 <br/> 
 
-* **What behavariors are innate and what are learned?**
+* **What behaviors are innate and what are learned?**
     + cross-fostering & human twin studies
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:200px; WIDTH:500px; HEIGHT:350px" SRC="images/crossmice.jpeg">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:225px; WIDTH:600px; HEIGHT:350px" SRC="images/crossmice.jpg">
 
-## The capacity to *learn* in the animal kingdow
+## The capacity to *learn* in the animal kingdom
 <hr>
 <br/>
-<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Learning:  modification of behavior as a result of specific experiences**
+
 <br/>
 
-<div style="float: left; width: 55%;">
+* **Learning capacity &rarr; nervous system organization during development**
+    + genome encoded
 
-* ** **
+<br/>
+
+* **Both nature (genes) vs nurture (environment)**
+
+<br/>
+
+* **Types: Imprinting, Spatial, Associative, Cognitive, Social**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:450px; HEIGHT:400px" SRC="images/gasexchange.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:375px; HEIGHT:250px" SRC="images/imprint.png">
+
+## Landmarks (Spatial) + Trial and Error (Associative)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:400px; HEIGHT:450px" SRC="images/spatialwasps.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:600px; HEIGHT:375px" SRC="images/bluejay.jpg">
 
 ## Trouble with assembling IKEA furniture? Call a crow...
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:450px; HEIGHT:400px" SRC="images/crow.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:450px; HEIGHT:425px" SRC="images/crow.png">
     
-## Social learning in animals
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:275px" SRC="images/crow2.jpg">    
+    
+## Social learning in animals: root of culture
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/social.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/social2.jpg">
+
+## Evolution of foraging (Tinbergen Q3: Why?)
 <hr>
 <br/>
 
-<div style="float: left; width: 49%;">
+<div style="float: left; width: 54%;">
 
+* **Q3: How does the behavior aid survival and reproduction?**
+
+<br/>
+
+* **Food behaviors: eating, searching, recognizing & capture**
+    + how did foraging behavior evolve?
+
+<br/>
+
+* **Fruit flies: variation in an forging gene (*for*) dictates larva travel when foraging**
+    + *for^R^* (rover) vs *for^S^* (sitter)
+    
+<br/>
+    
+* **Which allele will be selected for in a population?**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/newt.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:585px; WIDTH:500px; HEIGHT:300px" SRC="images/fruitfly.jpg">
 
-## Evolution of foraging (Tineberg Q3: Why?)
+## Optimal Foraging (*new Extra Credit*)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/gills.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:500px; HEIGHT:400px" SRC="images/marginal.jpg">
 
-## Evolution of mate choice (Tineberg Q3: Why?)
-<hr>>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:350px; HEIGHT:400px" SRC="images/risso.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/trachae.png">
+## Evolution of mate choice (Tinbergen Q3: Why?)
+<hr>
+<br/>
 
+<div style="float: left; width: 65%;">
+
+* **Mate choice and mating behavior influence reproductive success**
+
+<br/>
+
+* **Seeking, attracting & choosing mates**
+    + mate competition
+
+<br/>
+
+* **Evolution of parental care produces more viable offspring**
+    + monogamy vs polygamy
+    + certainty of paternity
+
+<br/>
+
+* **Mate choice behavior leads to *sexual* and *intrasexual* selection**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/monogamy.png">
 
 ## How have behaviors evolved (Tinbergen Q4)
 <hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:300px; HEIGHT:400px" SRC="images/courtfly.jpg">
+
+<div style="float: right; width: 60%;">
 
 * **Behaviors have a genetic basis**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/airsac.jpg">
-
-## Are all behaviors evolved to be selfish?
-<hr>
 <br/>
 
-<div style="float: left; width: 53%;">
+* **Courtship fruit fly: series of behaviors in male flies**
+    + single gene (*flu*) controls entire ritual
+    + if *flu* mutated &rarr; no mating
+    + can be reversed in male and female!!!
+    + variation in gene &rarr; variation in behavior
+    
+<br/>
 
-
+* **Variation in environment may cause behavior to evolve**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/respiratorygas.jpg">
+## Are all behaviors evolved to be selfish?
+<hr>
+
+<div style="float: left; width: 58%;">
+
+* **Behaviors should be mostly selfish**
+    + individual vs competitors
+
+<br/>
+
+* **Altruism: behavior that reduces one's fitness but increases fitness of others**
+    + sterile male bees
+    + animals that vocalize warning calls
+
+<br/>    
+    
+* **Can unselfishness arise through natural selection?**
+    + offspring survival: yours and relatives
+
+<br/>
+
+* **Inclusive fitness: increases genetic representation of related offspring**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:500px; HEIGHT:275px" SRC="images/prarie.jpg">
 
 
