@@ -21,22 +21,17 @@ runtime: shiny
 
 <br/>
 
-* **#**
+* **#SensoryPath**
 
 <br/>
 
 
-* **# **
+* **#ReceptorTypes**
 
 <br/>
 
 
-* **# **
-
-<br/>
-
-
-* **# **
+* **#HowAnimalsHear**
 
 
 ## The Big Picture:
@@ -236,10 +231,12 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 <div style="float: left; width: 50%;">
 
-* **Receptors that detect light, energy and magnetism**
-    + may also create & detect electromagnetic energy
+* **Receptors that detect light, electricity and magnetism**
 
 <br/>
+
+* **Animals create & detect electromagnetic energy to hunt**
+
 <br/>
 
 * **Used by animal kingdom to migrate**
@@ -264,7 +261,7 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 <br/>
 <br/>
 
-* **Used by animal kingdom to sense prey**
+* **Used widely by animals to sense prey**
     + 16% of fish species use electroreceptors to detect bioelectric fields from prey
     
 </div>
@@ -298,21 +295,19 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 ## Animal sensory receptors: Pain
 <hr>
 <br/>
+<br/>
+<br/>
 
 <div style="float: left; width: 55%;">
 
-* **Pain receptors detect stimuli that reflect harmful conditions**
+* **Pain receptors (nocioreceptors) detect stimuli that reflect harmful conditions**
     + gene mutations can cause C.I.P.
     
 <br/>
 
-* **Respond to excess heat, pressure, or chemicals released from damaged/inflamed tissues**
-    + trigger defenses (withdraw or perception of pain)
-
-<br/>
-
-* **Chemicals produced in animal’s sometimes enhance perception of pain**
-    + inflammation
+* **Respond to damaged/inflamed tissues**
+    + perceived as pain
+    + trigger defenses (withdraw)
 
 </div>
 
