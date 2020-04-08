@@ -370,46 +370,46 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/lateralline.jpg">
 
-## Evolution of visual perception
-<hr>
-<br/>
-<br/>
+<!-- ## Evolution of visual perception -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Light detectors ranges from clusters of cells to complex organs**
-    + detecting light intensity &rarr; forming images
-    
-<br/>
+<!-- * **Light detectors ranges from clusters of cells to complex organs** -->
+<!--     + detecting light intensity &rarr; forming images -->
 
-* **Photoreceptors: sensory cells with light absorbing pigments**
-    + many conserved genes across animals
+<!-- <br/> -->
 
-<br/>
+<!-- * **Photoreceptors: sensory cells with light absorbing pigments** -->
+<!--     + many conserved genes across animals -->
 
-* **Many invertebrates have light-detecting organs**
-    + eye spots, single lens & compound eyes
-    + may 'see' color or UV
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/compound.jpg">
+<!-- * **Many invertebrates have light-detecting organs** -->
+<!--     + eye spots, single lens & compound eyes -->
+<!--     + may 'see' color or UV -->
 
-## Single lens eye in vertebrates
-<hr>
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/compound.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:450px; HEIGHT:400px" SRC="images/eye.jpg">
+<!-- ## Single lens eye in vertebrates -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/rodscones.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:450px; HEIGHT:400px" SRC="images/eye.jpg"> -->
 
-## Taste and smell rely on chemoreceptors
-<hr>
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/rodscones.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/taste2.jpg">
+<!-- ## Taste and smell rely on chemoreceptors -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/taste3.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/taste2.jpg"> -->
 
-## Taste and smell rely on chemoreceptors
-<hr>
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/taste3.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:750px; HEIGHT:450px" SRC="images/smell.jpg">
+<!-- ## Taste and smell rely on chemoreceptors -->
+<!-- <hr> -->
 
-##
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:750px; HEIGHT:450px" SRC="images/smell.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/motor.jpg">
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/motor.jpg"> -->
