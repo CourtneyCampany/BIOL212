@@ -117,10 +117,10 @@ runtime: shiny
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/migration.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:35px; WIDTH:500px; HEIGHT:350px" SRC="images/migration.jpg">
 
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 48%;">
 
 * **Environmental stimuli trigger and guide animal behaviors**
 
@@ -254,7 +254,7 @@ runtime: shiny
 <div style="float: right; width: 60%;">
 
 * **Pheromones: chemical substances emitted by animals**
-    + common among animals and insects
+    + common among mammals and insects
     
 <br/> 
 
@@ -339,7 +339,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: left; width: 54%;">
+<div style="float: left; width: 50%;">
 
 * **Q3: How does the behavior aid survival and reproduction?**
 
@@ -350,7 +350,7 @@ runtime: shiny
 
 <br/>
 
-* **Fruit flies: variation in an forging gene (*for*) dictates larva travel when foraging**
+* **Fruit flies: variation in an foraging gene (*for*) dictates larva travel when foraging**
     + *for^R^* (rover) vs *for^S^* (sitter)
     
 <br/>
@@ -372,7 +372,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: left; width: 65%;">
+<div style="float: left; width: 67%;">
 
 * **Mate choice and mating behavior influence reproductive success**
 
@@ -393,7 +393,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/monogamy.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:740px; WIDTH:325px; HEIGHT:450px" SRC="images/monogamy.png">
 
 ## How have behaviors evolved (Tinbergen Q4)
 <hr>

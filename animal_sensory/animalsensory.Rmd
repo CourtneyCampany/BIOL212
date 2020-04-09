@@ -203,8 +203,9 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 ## Animal sensory receptors: Chemoreceptors
 <hr>
+<br/>
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 59%;">
 
 * **Transmit information about solute concentration**
     + detect change in blood solutes &rarr; stimulate thirst
@@ -222,7 +223,7 @@ https://www.youtube.com/watch?v=XnksofQN8_s
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/chemo.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:440px; HEIGHT:450px" SRC="images/chemo.jpg">
 
 ## Animal sensory receptors: Electromagnetic
 <hr>
@@ -245,7 +246,7 @@ https://www.youtube.com/watch?v=XnksofQN8_s
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/migrate.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:555px; WIDTH:500px; HEIGHT:450px" SRC="images/migrate.jpg">
 
 
 ## Animal sensory receptors: Electromagnetic
@@ -266,12 +267,13 @@ https://www.youtube.com/watch?v=XnksofQN8_s
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:300px; HEIGHT:450px" SRC="images/electro3.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/electro3.jpg">
 
 ## Animal sensory receptors: Thermoreceptors
 <hr>
+<br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 62%;">
 
 * **Receptors detect heat and cold**
 
@@ -285,12 +287,12 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 <br/>
 
-* **Mammals have thermoreceptors for specific temperatures**
-* **Venomous snakes have infrared receptors to detect 'warm' prey**
+* **Mammals: thermoreceptors for specific temperatures**
+* **Venomous snakes: infrared receptors to detect 'warm' prey**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:620px; WIDTH:400px; HEIGHT:450px" SRC="images/thermo3.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:670px; WIDTH:400px; HEIGHT:450px" SRC="images/thermo3.png">
 
 ## Animal sensory receptors: Pain
 <hr>
@@ -362,7 +364,7 @@ https://www.youtube.com/watch?v=XnksofQN8_s
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:265px; LEFT:570px; WIDTH:500px; HEIGHT:300px" SRC="images/ear.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:570px; WIDTH:500px; HEIGHT:300px" SRC="images/ear.jpg">
 
 ## Equilibrium and hearing: lateral line
 <hr>
