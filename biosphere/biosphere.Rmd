@@ -8,6 +8,11 @@ output:
 runtime: shiny
 ---
 
+## Ecology and the biosphere
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/title.jpg">
+
 ## Ecology: interactions between organisms & their environment
 <hr>
 
@@ -23,19 +28,19 @@ runtime: shiny
 
 <br/>
 
-* **#**
+* **#RoundEarth**
 
 <br/>
 
-* **#**
+* **#ClimateControl**
 
 <br/>
 
-* **#**
+* **#WhatMakesABiome**
 
 <br/>
 
-* **#**
+* **#SpeciesWhereWhy**
 
 ## The big picture: Earth's climate controls species distributions
 <hr>
@@ -279,36 +284,37 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/aquaticbiomes.jpg">
 
-## Aquatic biomes are also layered
-<hr>
+<!-- ## Aquatic biomes are also layered -->
+<!-- <hr> -->
 
-<div style="float: left; width: 50%;">
+<!-- <div style="float: left; width: 50%;"> -->
 
-* **Physically and chemically layered**
-    + vertically or horizontally
-    
-<br/> 
+<!-- * **Physically and chemically layered** -->
+<!--     + vertically or horizontally -->
 
-* **Light penetration decreases rapidly with depth**
-    + organisms performing photosynthesis...
- 
-<br/>
+<!-- <br/>  -->
 
-* **Benthic zones are the bottom of aquatic biomes**
-    + layer of sand and sediment
-    + organisms that feed on dead stuff
+<!-- * **Light penetration decreases rapidly with depth** -->
+<!--     + organisms performing photosynthesis... -->
 
-<br/>
+<!-- <br/> -->
 
-* **Layers of temperature also exist**
-    + depends on sun, mixing, currents
+<!-- * **Benthic zones are the bottom of aquatic biomes** -->
+<!--     + layer of sand and sediment -->
+<!--     + organisms that feed on dead stuff -->
 
-</div>
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:570px; WIDTH:500px; HEIGHT:400px" SRC="images/layers_water.jpg">
+<!-- * **Layers of temperature also exist** -->
+<!--     + depends on sun, mixing, currents -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:570px; WIDTH:500px; HEIGHT:400px" SRC="images/layers_water.jpg"> -->
 
 ## Species distributions: Where and Why?
 <hr>
+<br/>
 <br/>
 <br/>
 
@@ -328,7 +334,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:400px" SRC="images/roo.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/roo.jpg">
     
 ## Kangaroos evolved in Australia
 <hr>
