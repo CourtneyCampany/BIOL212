@@ -1,0 +1,392 @@
+---
+title: "Community Ecology"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Mmmmmm Shrimp....
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/eel.jpg">
+
+## Community ecology hash-tags
+<hr>
+<br/>
+
+* **This lecture will cover the diversity if interactions possible within a community of organisms**
+
+<br/>
+
+* **#**
+
+<br/>
+
+* **#**
+
+<br/>
+
+* **#**
+
+<br/>
+
+* **#**
+
+## The big picture: Community ecology
+<hr>
+<br/>
+
+<div style="float: left; width: 54%;">
+
+* **Biological community: groups of populations of different species living close enough together to interact**
+    + small scale: decomposers on a fallen log
+    + Large scale: flowers and pollinators in a national park
+
+<br/>
+
+* **Community interactions can help, harm or have no effect**
+    + predation &rarr; competition &rarr; mutualaisms
+    
+<br/>
+
+* **Community interactions determine which species are present and how many**
+    + biotic control of species distribution
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/communitywater.jpg">
+
+## Interspecific Competition (-/-)
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Individual sharing space will compete for resources**
+    + limits fitness for each species
+    
+<br/>
+
+* **Resources can mean man things:**
+    + prey items, water, nutrients, space
+    
+<br/>
+
+* **Competitve exclusion: If 2 organims completely overlap in space, there will be a winner and a loser**
+    + local extinction
+    + rare in nature
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:560px; WIDTH:500px; HEIGHT:350px" SRC="images/competition.jpg">
+
+## Natural selection favors those that do not compete
+<hr>
+<br/>
+
+<div style="float: left; width: 57%;">
+
+* **Ecological niche: set of abiotic + biotic resources that organisms use**
+    + temperature range, time active, prey choice, nest sites
+    + competition can occur for any of these resources
+
+<br/>
+
+* **Natural selection reduces overlap between species niches!**
+    + *resource paritioning*: division of limited resources
+    + feed @ different times, switching food source, etc.
+
+<br/>
+
+* **Resource paritioning allows for coexistence**
+    + partial niche overlap
+    + why competitve exclusion is rare!
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:450px; HEIGHT:350px" SRC="images/anole.jpg">
+
+## Resource partitioning in *Anolis* lizards
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:925px; HEIGHT:450px" SRC="images/lizards.jpg">
+
+## There is serious DRAMA in the animal kingdown!!!
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:500px; HEIGHT:350px" SRC="images/drama.jpg">
+
+
+<div style="float: right; width: 52%;">
+
+* **Review: all animals are heterotrophic....**
+    + we all gots to eat
+    
+<br/>
+
+* **All animals must eat, which means that most organims are at the risk of being eaten**
+
+<br/>
+
+* **Exploitation: +/- species interactions relating to feeding**
+    + predation, herbivory & parasitism
+    + a lot of drama causes a lot of evolution!
+
+</div>
+
+## Predation (+/-)
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **One species (predator) kills and eats other (prey)**
+    + does not have to be animal on animal
+    
+<br/>
+
+* **Lot of feeding adapatation in the animal world**
+    + reprdocutive success depends on feeding
+
+<br/>
+
+* **Fangs, claws, echo-location, poison, etc. etc. etc.**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cougar.jpg">
+
+## Predation (+/-)
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Not getting eaten is just as important as eating**
+    + powerful driver of natural selection
+    
+<br/>
+
+* **Behavioral adapataions**
+    + hiding, fleeing, herding
+    + active self defense less common
+
+<br/>
+
+* **Morphological adaptations**
+    + spines, odors, toxin accumulation
+    + mimicry and camoflauge
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/groundhog.jpg">
+
+## Defenses &rarr; Co-evolutionary arms race
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/defense.jpg">
+
+## https://youtube/w-K_YtWqMro
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-K_YtWqMro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Herbivory (+/-)
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Organism (herbivore) eats part of plant or alga**
+    + harms the plant
+    
+<br/>
+
+* **Herbivores are large & small, terrestrial & aquatic**
+
+    
+<br/>
+
+* **Like predators, many specilial adaptations**
+    + chemical sensors to identify toxins
+    + specialized teeth or digestive systems
+    
+<br/>
+
+* **Review: Plants dont move**
+    + just as many defensive adaptations
+    + thorns, toxins, etc. 
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:570px; WIDTH:500px; HEIGHT:400px" SRC="images/herbivory.jpg">
+
+## Parasitism (+/-)
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Organism (parasite) gets nourishment from host**
+    + host harmed in process
+    + ~1/3 of all species are parasites!!
+    
+<br/>
+
+* **Parasites live inside or outside body of host*
+    + tapeworms &rarr; ticks
+    
+<br/>
+
+* **Parasite usually have complex life cycles**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/parasite.jpg">
+    
+## Species interactions are not all bad!
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Positive interactions occur where one at least one species benefits and their other is not harmed**
+    
+<br/>
+
+* **Postive interactions affect diversity of ecological communities**
+
+<br/>
+
+* **Mutulalisms and commensalism are the most common**
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:350px; HEIGHT:350px" SRC="images/mutualmeme.jpg">
+
+## Mutualism (+/+)
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Mutualism occur when both species benefit from the interaction**
+    + common in nature
+    
+<br/>
+
+* **Often, the 2 speies depend on each other for survival/reproduction**
+    + plants + insects = pollination + food
+    
+<br/>
+
+* **Usually still a cost, but benefit > costs**
+    + carbon - nitrogen tradeoff between plants and fungi
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/ants.jpg">
+
+## Commensalism (+/0)
+<hr>
+<br/> 
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Commensalism are interactions where one benefits but doesnt harm nor help the other**
+    + also common in nature
+    
+<br/> 
+
+* **Some biologists argue that any close interaction between two organisms is unlikely to be completely neutral for either party**
+    + especially over time
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:15px; WIDTH:530px; HEIGHT:300px" SRC="images/remora.jpg">
+
+## Trophic Structure
+<hr>
+<br/> 
+<br/> 
+
+<div style="float: left; width: 55%;">
+
+* **Structure and drynamics of a community depend on feeding relationships**
+    
+<br/> 
+
+* **Energy is transferred upward, plants &rarr; consumers**
+
+<br/> 
+
+* **What an organims eats/produces determines its *trophic level* in a food web**
+    + many organinsm can exists on the same trophic level
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/food1.jpg">
+
+## Trophic Structure
+<hr>
+<br/> 
+<br/> 
+
+<div style="float: left; width: 55%;">
+
+* **Structure and drynamics of a community depend on feeding relationships**
+    
+<br/> 
+
+* **Energy is transferred upward; plants &rarr; consumers**
+
+<br/> 
+
+* **What an organims eats/produces determines its *trophic level* in a food web**
+    + many organinsm can exists on the same trophic level
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/food2.jpg">
+
+## Food webs are multi-dimensional
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/web1.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/web2.jpg">
+
+## Some species in a community are more impactful than others
+<hr>
+<br/> 
+<br/> 
+
+<div style="float: left; width: 60%;">
+
+* **Dominant species**
+    
+<br/> 
+
+* **Keystone Species**
+    + ecosystem engineers:
+<br/> 
+
+* **Rare species:**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/beaver.jpg">   
+    
+    
+## Who controls the trohic structure: Top?
+<hr>
+
+## Who controls the trohic structure: Bottom?
+<hr>
