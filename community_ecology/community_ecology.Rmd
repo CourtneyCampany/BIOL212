@@ -21,45 +21,47 @@ runtime: shiny
 
 <br/>
 
-* **#**
+* **#PostiveInteractions**
 
 <br/>
 
-* **#**
+* **#NegativeInteractions**
 
 <br/>
 
-* **#**
+* **#FoodWeb**
 
 <br/>
 
-* **#**
+* **#SpeciesTypes**
 
 ## The big picture: Community ecology
 <hr>
 <br/>
 
-<div style="float: left; width: 54%;">
+<div style="float: left; width: 57%;">
 
-* **Biological community: groups of populations of different species living close enough together to interact**
-    + small scale: decomposers on a fallen log
-    + Large scale: flowers and pollinators in a national park
+* **Community: groups of populations of different species living close enough together to interact**
+    + small scale: decomposes on a fallen log
+    + large scale: flowers + pollinators in a national park
 
 <br/>
 
-* **Community interactions can help, harm or have no effect**
-    + predation &rarr; competition &rarr; mutualaisms
+* **Interactions can help, harm or have no effect**
     
 <br/>
 
-* **Community interactions determine which species are present and how many**
-    + biotic control of species distribution
+* **Interactions determine which species are present**
+
+<br/>
+
+* **Interactions determine how an ecosystem functions**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/communitywater.jpg">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:610px; WIDTH:450px; HEIGHT:300px" SRC="images/communitywater.jpg">
 
-## Interspecific Competition (-/-)
+## Inter-specific Competition (-/-)
 <hr>
 <br/>
 <br/>
@@ -76,7 +78,7 @@ runtime: shiny
     
 <br/>
 
-* **Competitve exclusion: If 2 organims completely overlap in space, there will be a winner and a loser**
+* **Competitive exclusion: If 2 organisms completely overlap in space, there will be a winner and a loser**
     + local extinction
     + rare in nature
     
@@ -91,20 +93,20 @@ runtime: shiny
 <div style="float: left; width: 57%;">
 
 * **Ecological niche: set of abiotic + biotic resources that organisms use**
-    + temperature range, time active, prey choice, nest sites
-    + competition can occur for any of these resources
+    + temperature, time active, prey choice, nest sites
+    + competition occurs for these resources
 
 <br/>
 
-* **Natural selection reduces overlap between species niches!**
-    + *resource paritioning*: division of limited resources
+* **Natural selection reduces overlap between niches!**
+    + *resource partitioning*: division of limited resources
     + feed @ different times, switching food source, etc.
 
 <br/>
 
-* **Resource paritioning allows for coexistence**
+* **Resource partitioning allows for coexistence**
     + partial niche overlap
-    + why competitve exclusion is rare!
+    + why competitive exclusion is rare!
 
 </div>
 
@@ -115,8 +117,9 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:925px; HEIGHT:450px" SRC="images/lizards.jpg">
 
-## There is serious DRAMA in the animal kingdown!!!
+## There is serious DRAMA in the animal king down!!!
 <hr>
+<br/>
 <br/>
 <br/>
 
@@ -130,11 +133,11 @@ runtime: shiny
     
 <br/>
 
-* **All animals must eat, which means that most organims are at the risk of being eaten**
+* **All animals must eat, which means that most organisms are at the risk of being eaten**
 
 <br/>
 
-* **Exploitation: +/- species interactions relating to feeding**
+* **Exploitation: species feeding interactions (+/-)**
     + predation, herbivory & parasitism
     + a lot of drama causes a lot of evolution!
 
@@ -144,22 +147,23 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 52%;">
 
 * **One species (predator) kills and eats other (prey)**
     + does not have to be animal on animal
     
 <br/>
 
-* **Lot of feeding adapatation in the animal world**
-    + reprdocutive success depends on feeding
+* **Lot of feeding adaptation in the animal world**
+    + reproductive success depends on feeding
 
 <br/>
 
-* **Fangs, claws, echo-location, poison, etc. etc. etc.**
+* **Fangs, claws, echo-location, venom, etc. etc. etc.**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cougar.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:500px; HEIGHT:400px" SRC="images/cougar.jpg">
 
 ## Predation (+/-)
 <hr>
@@ -173,7 +177,7 @@ runtime: shiny
     
 <br/>
 
-* **Behavioral adapataions**
+* **Behavioral adaptations**
     + hiding, fleeing, herding
     + active self defense less common
 
@@ -181,9 +185,9 @@ runtime: shiny
 
 * **Morphological adaptations**
     + spines, odors, toxin accumulation
-    + mimicry and camoflauge
+    + mimicry and camouflage
     
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/groundhog.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/groundhog.jpg">
 
 ## Defenses &rarr; Co-evolutionary arms race
 <hr>
@@ -211,19 +215,19 @@ runtime: shiny
     
 <br/>
 
-* **Like predators, many specilial adaptations**
+* **Like predators, many special adaptations**
     + chemical sensors to identify toxins
     + specialized teeth or digestive systems
     
 <br/>
 
-* **Review: Plants dont move**
+* **Review: Plants don't move**
     + just as many defensive adaptations
     + thorns, toxins, etc. 
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:570px; WIDTH:500px; HEIGHT:400px" SRC="images/herbivory.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/herbivory.jpg">
 
 ## Parasitism (+/-)
 <hr>
@@ -237,28 +241,29 @@ runtime: shiny
     
 <br/>
 
-* **Parasites live inside or outside body of host*
+* **Parasites live inside or outside body of host**
     + tapeworms &rarr; ticks
     
 <br/>
 
 * **Parasite usually have complex life cycles**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/parasite.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:560px; WIDTH:500px; HEIGHT:400px" SRC="images/parasite.jpg">
     
 ## Species interactions are not all bad!
 <hr>
 <br/>
 <br/>
 <br/>
+<br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 65%;">
 
 * **Positive interactions occur where one at least one species benefits and their other is not harmed**
     
 <br/>
 
-* **Postive interactions affect diversity of ecological communities**
+* **Postie interactions affect diversity of ecological communities**
 
 <br/>
 
@@ -266,7 +271,7 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:350px; HEIGHT:350px" SRC="images/mutualmeme.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:720px; WIDTH:350px; HEIGHT:315px" SRC="images/mutualmeme.jpg">
 
 ## Mutualism (+/+)
 <hr>
@@ -280,13 +285,13 @@ runtime: shiny
     
 <br/>
 
-* **Often, the 2 speies depend on each other for survival/reproduction**
+* **Often, the 2 species depend on each other for survival/reproduction**
     + plants + insects = pollination + food
     
 <br/>
 
 * **Usually still a cost, but benefit > costs**
-    + carbon - nitrogen tradeoff between plants and fungi
+    + carbon - nitrogen trade-off between plants and fungi
     
 </div>
 
@@ -300,7 +305,7 @@ runtime: shiny
 
 <div style="float: right; width: 50%;">
 
-* **Commensalism are interactions where one benefits but doesnt harm nor help the other**
+* **Commensalism are interactions where one benefits but doesn't harm nor help the other**
     + also common in nature
     
 <br/> 
@@ -310,7 +315,7 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:15px; WIDTH:530px; HEIGHT:300px" SRC="images/remora.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:530px; HEIGHT:300px" SRC="images/remora.jpg">
 
 ## Trophic Structure
 <hr>
@@ -319,7 +324,7 @@ runtime: shiny
 
 <div style="float: left; width: 55%;">
 
-* **Structure and drynamics of a community depend on feeding relationships**
+* **Structure and dynamics of a community depend on feeding relationships**
     
 <br/> 
 
@@ -327,8 +332,8 @@ runtime: shiny
 
 <br/> 
 
-* **What an organims eats/produces determines its *trophic level* in a food web**
-    + many organinsm can exists on the same trophic level
+* **What an organism eats/produces determines its *trophic level* in a food web**
+    + many organisms exists on the same trophic level
 
 </div>
 
@@ -341,7 +346,7 @@ runtime: shiny
 
 <div style="float: left; width: 55%;">
 
-* **Structure and drynamics of a community depend on feeding relationships**
+* **Structure and dynamics of a community depend on feeding relationships**
     
 <br/> 
 
@@ -349,8 +354,8 @@ runtime: shiny
 
 <br/> 
 
-* **What an organims eats/produces determines its *trophic level* in a food web**
-    + many organinsm can exists on the same trophic level
+* **What an organism eats/produces determines its *trophic level* in a food web**
+    + many organisms can exists on the same trophic level
 
 </div>
 
@@ -368,25 +373,22 @@ runtime: shiny
 <br/> 
 <br/> 
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 45%;">
 
-* **Dominant species**
+* **Dominant species: members with most abundance or biomass**
+    + better @ obtaining resources
+    + defense wins championships
     
 <br/> 
 
-* **Keystone Species**
-    + ecosystem engineers:
+* **Keystone Species: play a pivotal role**
+    + ecosystem engineers: alter habitats
+    
 <br/> 
 
-* **Rare species:**
+* **Rare species: may perform a critical job**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/beaver.jpg">   
+<IMG STYLE="position:absolute; TOP:220px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/beaver.jpg">   
     
-    
-## Who controls the trohic structure: Top?
-<hr>
-
-## Who controls the trohic structure: Bottom?
-<hr>
