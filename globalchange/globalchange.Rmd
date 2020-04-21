@@ -8,50 +8,55 @@ output:
 runtime: shiny
 ---
 
-## Mmmmmm Shrimp....
+## Global Biodiversity
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/eel.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/map.jpg">
 
-## Community ecology hash-tags
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/deforest.jpg">
+
+## Global Change hash-tags
 <hr>
 <br/>
 
-* **This lecture will cover the diversity if interactions possible within a community of organisms**
+* **This lecture will cover the changes in Earth's system via biodiversity and global change**
 
 <br/>
 
-* **#**
+* **#BiodiversityTypes**
 
 <br/>
 
-* **#**
+* **#BiodiversityThreats**
 
 <br/>
 
-* **#**
+* **#ConBioTypes**
 
 <br/>
 
-* **#s**
+* **#GlobalChangeBasics**
 
-## The big picture: The Earth & 
+## The big picture: Earth's systems and humans interact
 <hr>
 <br/>
 
 <div style="float: left; width: 57%;">
 
-* **Biodiversity can be meausured at many scales**
+* **Biodiversity can be measured at many scales**
+    + maintaining high biodiversity has huge benefits
 
 <br/>
 
 * **Conservation biology focuses on the population level**
+    + small populations have genetic problems
     
 <br/>
 
-* **Global Change is occuring at unprecendented rates**
+* **Global Change is occurring at unprecedented rates**
     + Yes, change has occurred over Earth's history
-    + No, it has never occured this quickly
+    + No, it has never occurred this quickly
     
 <br/>
 
@@ -59,32 +64,33 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:610px; WIDTH:450px; HEIGHT:300px" SRC="images/communitywater.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:350px; HEIGHT:450px" SRC="images/sixth.jpg">
 
-## What is biodiveristy?
+## What is biodiversity?
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
 
-* **Individual sharing space will compete for resources**
-    + limits fitness for each species
+* **Level 1: Genetic Diversity**
+    + within and among populations
+    + loss reduces adaptive potential
     
 <br/>
 
-* **Resources can mean man things:**
-    + prey items, water, nutrients, space
+* **Level 2: Species Diversity**
+    + number of species in a system
+    + local or whole extinctions possible
     
 <br/>
 
-* **Competitive exclusion: If 2 organisms completely overlap in space, there will be a winner and a loser**
-    + local extinction
-    + rare in nature
+* **Level 3: Ecosystem Diversity**
+    + variety of ecosystems on Earth
+    + provide services to living things
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:560px; WIDTH:500px; HEIGHT:350px" SRC="images/competition.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/biodiversity.jpg">
 
 ## How do we measure biodiversity?
 <hr>
@@ -92,78 +98,86 @@ runtime: shiny
 
 <div style="float: left; width: 57%;">
 
-* **Ecological niche: set of abiotic + biotic resources that organisms use**
-    + temperature, time active, prey choice, nest sites
-    + competition occurs for these resources
-
+* **Genetic Diversity: alleles in populations**
+    + what happens when a population disappears?
+    
 <br/>
 
-* **Natural selection reduces overlap between niches!**
-    + *resource partitioning*: division of limited resources
-    + feed @ different times, switching food source, etc.
-
+* **Species Diversity**
+    + how many species?
+    + how *even* are the species?
+    + roles of dominant, keystone & rare species
+    
 <br/>
 
-* **Resource partitioning allows for coexistence**
-    + partial niche overlap
-    + why competitive exclusion is rare!
+* **Ecosystem Diversity**
+    + what services does an ecosystem provide?
+    + are the abiotic variables changing?
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:450px; HEIGHT:350px" SRC="images/anole.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:225px; HEIGHT:450px" SRC="images/richness.jpg">
 
-## What does biodiversity provide?
+## The selfish view: what does biodiversity provide us?
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:925px; HEIGHT:450px" SRC="images/lizards.jpg">
+<div style="float: left; width: 50%;">
+
+* **Moral code: Each species belongs**
+    + what happens when a population disappears?
+    
+<br/>
+
+* **Practical benefits for all 3 biodiversity types**
+    + genetic diversity a tool for medicines
+    + species diversity feed, cloth and house humans
+  
+<br/>
+
+* **Ecosystem Services to humans**
+    + raw goods
+    + health and well being
+    + regulation of air, water, etc
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:535px; WIDTH:525px; HEIGHT:425px" SRC="images/services.jpg">
 
 ## Why is biodiversity changing?
 <hr>
 <br/>
-<br/>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:500px; HEIGHT:350px" SRC="images/drama.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/habitat.jpg">
 
 
-<div style="float: right; width: 52%;">
+<div style="float: right; width: 50%;">
 
-* **Review: all animals are heterotrophic....**
-    + we all gots to eat
+* **Human activities threaten biodiversity**
+    + at each scale
     
 <br/>
 
-* **All animals must eat, which means that most organisms are at the risk of being eaten**
+* **Threats posed by humans fall into 4 categories**
+1. habitat loss
+2. species introductions
+3. over-harvesting
+4. global change
 
 <br/>
 
-* **Exploitation: species feeding interactions (+/-)**
-    + predation, herbivory & parasitism
-    + a lot of drama causes a lot of evolution!
+* **Landscape change by humans is largest threat**
+    + nearly all land surface has been altered
+    + causes fragmentation or loss of habitat
 
 </div>
 
-## Why is biodiversity changing?
+## Introduced species and over-harvesting
 <hr>
-<br/>
-<br/>
-<br/>
 
-<div style="float: right; width: 52%;">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/kudzu.jpg">
 
-* **One species (predator) kills and eats other (prey)**
-    + does not have to be animal on animal
-    
-<br/>
-
-* **Lot of feeding adaptation in the animal world**
-    + reproductive success depends on feeding
-
-<br/>
-
-* **Fangs, claws, echo-location, venom, etc. etc. etc.**
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:500px; HEIGHT:400px" SRC="images/cougar.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/overharvest.jpg">
 
 ## How does conservation biology work? 
 <hr>
@@ -172,106 +186,51 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Not getting eaten is just as important as eating**
-    + powerful driver of natural selection
+* **Small populations are the most vulnerable**
+    + population getting pushed to extinction 
     
 <br/>
 
-* **Behavioral adaptations**
-    + hiding, fleeing, herding
-    + active self defense less common
+* **Small populations vulnerable to inbreeding**
+    + genetic issues of non-random mating
 
 <br/>
 
-* **Morphological adaptations**
-    + spines, odors, toxin accumulation
-    + mimicry and camouflage
+* **Small populations vulnerable to genetic drift**
+    + genetic issues of non-random mating
     
-<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/groundhog.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/vortex.jpg">
 
-## Case Study: Prarie Chicken
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/defense.jpg">
-
-## https://youtube/w-K_YtWqMro
-<hr>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w-K_YtWqMro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## ## How does conservation biology work? 
+## How does conservation biology work? 
 <hr>
 <br/>
 
 <div style="float: left; width: 60%;">
 
-* **Organism (herbivore) eats part of plant or alga**
-    + harms the plant
+* **Detect downward trends in population sizes**
+    + may be a large population
     
 <br/>
 
-* **Herbivores are large & small, terrestrial & aquatic**
-
-    
+* **Prioritize the factors causing decline**
+    + habitat loss or climate change   
+        
 <br/>
 
-* **Like predators, many special adaptations**
-    + chemical sensors to identify toxins
-    + specialized teeth or digestive systems
-    
-<br/>
-
-* **Review: Plants don't move**
-    + just as many defensive adaptations
-    + thorns, toxins, etc. 
+* **What are the environmental needs of the species?**
+    + What causes the decline
+    + How do we stop it?
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/herbivory.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/woodpecker.jpg">
 
-## Case study: Woodpecker
+## Landscape conservation: Building habitat corridors
 <hr>
-<br/>
-<br/>
-<br/>
 
-* **Organism (parasite) gets nourishment from host**
-    + host harmed in process
-    + ~1/3 of all species are parasites!!
-    
-<br/>
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/corridor.jpg">
 
-* **Parasites live inside or outside body of host**
-    + tapeworms &rarr; ticks
-    
-<br/>
-
-* **Parasite usually have complex life cycles**
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:560px; WIDTH:500px; HEIGHT:400px" SRC="images/parasite.jpg">
-    
-## ConBio: managing large scale diversity
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 65%;">
-
-* **Positive interactions occur where one at least one species benefits and their other is not harmed**
-    
-<br/>
-
-* **Postie interactions affect diversity of ecological communities**
-
-<br/>
-
-* **Mutulalisms and commensalism are the most common**
-    
-</div>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:720px; WIDTH:350px; HEIGHT:315px" SRC="images/mutualmeme.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/corridor2.jpg">
 
 ## Global Change: What is in a name?
 <hr>
@@ -280,115 +239,111 @@ runtime: shiny
 
 <div style="float: left; width: 60%;">
 
-* **Mutualism occur when both species benefit from the interaction**
-    + common in nature
+* **Global warming: long term warming since industrial revolution**
     
 <br/>
 
-* **Often, the 2 species depend on each other for survival/reproduction**
-    + plants + insects = pollination + food
+* **Climate change: change in global/regional climate patterns related to increases in atmospheric CO~2~**
+    + more than just temperature
+    + mostly related to post 1950's
     
 <br/>
 
-* **Usually still a cost, but benefit > costs**
-    + carbon - nitrogen trade-off between plants and fungi
+* **Global change: Climate change & changes to other processes**
+    + e.g. nutrient cycles, biodiversity, land use, sea level rise, ice loss
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/ants.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/words.jpg">
 
 ## Global Change: Nutrients
 <hr>
-<br/> 
-<br/>
-<br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: left; width: 47%;">
 
-* **Commensalism are interactions where one benefits but doesn't harm nor help the other**
-    + also common in nature
-    
-<br/> 
-
-* **Some biologists argue that any close interaction between two organisms is unlikely to be completely neutral for either party**
-    + especially over time
+* **Humans move key nutrients around too much**
+    + mostly to support agriculture
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:530px; HEIGHT:300px" SRC="images/remora.jpg">
+    
+<div style="float: right; width: 53%;">
 
-##Global Change: Toxins
+* **Ecosystems may reach *critical load* of a nutrient**
+    + nutrient cannot be taken up by plants
+    + excess N on crops, leaches to aquatic systems
+    + excess N impacts area not intended
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:75px; WIDTH:350px; HEIGHT:350px" SRC="images/fert.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/bllom.jpg">
+
+## Global Change: Toxins
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/pcb.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mercury.png">
+
+## Global Change: Climate change
 <hr>
 <br/> 
-<br/> 
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 58%;">
 
-* **Structure and dynamics of a community depend on feeding relationships**
+* **Climate change is strongly related to the chemistry of the atmosphere**
+    + greenhouse gas effect 
+    + CO~2~, CH~4~ & NO~x~
     
 <br/> 
 
-* **Energy is transferred upward, plants &rarr; consumers**
-
-<br/> 
-
-* **What an organism eats/produces determines its *trophic level* in a food web**
-    + many organisms exists on the same trophic level
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/food1.jpg">
-
-## Global Change: Climate
-<hr>
-<br/> 
-<br/> 
-
-<div style="float: left; width: 55%;">
-
-* **Structure and dynamics of a community depend on feeding relationships**
+* **Greenhouse gases intercept and absorb radiation**
+    + more greenhouse gases = higher temperatures
     
 <br/> 
 
-* **Energy is transferred upward; plants &rarr; consumers**
-
-<br/> 
-
-* **What an organism eats/produces determines its *trophic level* in a food web**
-    + many organisms can exists on the same trophic level
-
+* **Burning of fossil fuels has increased atmospheric CO~2~**
+    + makes biosphere warmer
+    + impacts wind patterns and precipitation
+    
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/food2.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/co2.jpg">
 
-##Global Change: Climate
+## Greenhouse effect is a natural process!
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/web1.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/web2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/greenhouse.jpg">
 
 ## Global Change: What can we do?
 <hr>
 <br/> 
-<br/> 
 
 <div style="float: left; width: 45%;">
 
-* **Dominant species: members with most abundance or biomass**
-    + better @ obtaining resources
-    + defense wins championships
+* **We cannot save all habitats**
+    + which patches are most crucial
     
 <br/> 
 
-* **Keystone Species: play a pivotal role**
-    + ecosystem engineers: alter habitats
+* **Sustainable development**
+    + better engineer artificial ecosystems
+    + food security while reducing nutrient/chemical impacts
+    + food security while maintaining ecosystem services
     
 <br/> 
 
-* **Rare species: may perform a critical job**
+* **Curb global emissions**
+    + can we do it?
+    + technology?
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/beaver.jpg">   
-    
+<IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:525px; HEIGHT:400px" SRC="images/emissions.jpg">   
+
+## Future of the Biosphere
+<hr> 
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/extinction2.jpg">  
