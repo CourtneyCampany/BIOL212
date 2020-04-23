@@ -1,0 +1,12 @@
+name: FACE
+title: FACE
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2164126
+bundleId: 3049674
+url: https://courtneycampany.shinyapps.io/FACE/
+when: 1587559260.79567
+asMultiple: FALSE
+asStatic: FALSE
