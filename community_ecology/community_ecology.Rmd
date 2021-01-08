@@ -117,7 +117,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:925px; HEIGHT:450px" SRC="images/lizards.jpg">
 
-## There is serious DRAMA in the animal king down!!!
+## There is serious DRAMA in the animal kingdom!!!
 <hr>
 <br/>
 <br/>

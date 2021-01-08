@@ -25,17 +25,18 @@ runtime: shiny
 * **Bryophytes ruled for <100 million years**
     + vascular plants show up ~425mya
 
-<br/>
-
-* **First vascular plants lacked seeds**
-    + sperm still needed to swim 
-    + ferns and lycophytes
 
 <br/>
 
 * **Developed a vascular system**
     + grow taller than bryophytes
     + leaves & roots
+    
+<br/>
+
+* **First vascular plants lacked seeds**
+    + sperm still needed to swim 
+    + ferns and lycophytes
     
 </div>
 
@@ -84,7 +85,7 @@ runtime: shiny
 
 <div style="float: right; width: 25%;">
 
-**Vascular elements evolved indepedently several times**
+**Vascular elements evolved independently several times**
 </div>
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/vascular_evolve.jpg">
@@ -284,7 +285,7 @@ runtime: shiny
 
 <br/>
 
-* **What	does natural selection favor diploid	 dominant	lifecycles?**
+* **What	does natural selection favor diploid dominant	lifecycles?**
 
 </div>
 

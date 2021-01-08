@@ -13,7 +13,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/mole.jpg">
 
-## Animal form and function hash-tags
+## Animal Sensory hash-tags
 <hr>
 <br/>
 
