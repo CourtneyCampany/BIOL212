@@ -2,10 +2,9 @@
 title: "Evolution Happens!"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Sedimentary rocks reveal the vastness of geologic time

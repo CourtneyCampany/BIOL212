@@ -1,0 +1,12 @@
+name: evolhappens
+title: evolhappens
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3491380
+bundleId: 4118181
+url: https://courtneycampany.shinyapps.io/evolhappens/
+when: 1611081808.70752
+asMultiple: FALSE
+asStatic: FALSE
