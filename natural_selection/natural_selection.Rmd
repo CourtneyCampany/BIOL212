@@ -24,7 +24,6 @@ runtime: shiny
 <font size="8"> **generational time** </font></div>
 
 ## How would you define a *population*?
-
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/penguins.jpg">
 
 ## *Population* = group of individuals of same species coexisting in the same time and place with the potential of interbreeding 
@@ -251,6 +250,7 @@ runtime: shiny
 
 <div align="center">
 **Humans	=	~25	years	**
+<br/>
 **Bacteria = ~20 minutes**
 
 <br/>
