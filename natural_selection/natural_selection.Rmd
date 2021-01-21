@@ -63,9 +63,10 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:380px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/beak.png">
 
-##
+## Adaptation viewed through homology
+<hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/elephanttree.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:180px; WIDTH:700px; HEIGHT:450px" SRC="images/homology.jpg">
 
 <!-- descent with modification -->
 
@@ -168,7 +169,7 @@ runtime: shiny
 
 * **Penicillin used in 1943 to stop *S.aureus* **
     + by 1945 20% of *S.aureus* resistant
-    + due to enzyme 'penicilinase"
+    + due to new enzyme 'penicilinase"
 
 <br/>
 
