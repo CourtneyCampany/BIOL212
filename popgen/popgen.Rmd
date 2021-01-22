@@ -11,20 +11,23 @@ runtime: shiny
 ## The smallest unit of evolution: Populations
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 48%;">
 
-* **Change in allele frequencies in a population over generations**
+* **EVOLUTION: Change in allele frequencies in a population over generations**
     + aka 'Evolution'
     + not the individual
  
 <br/>
 
+* **What is an ALLELE?**
+
+<br/>
+
 * **Expression of trait variation**
     + allelic differences among individuals
     + may lead to reproductive success in current environment, via selection
-    + allele frequencies in population change
+    + allele frequencies change in populations
     
 </div>
 
@@ -51,7 +54,7 @@ runtime: shiny
 <br/>
 
 * **Letters 'A' and 'a' indicate there are two different alleles at this locus in the population**
-    + *Homozygous* or *Heterozygous*
+    + *Homozygous* or *Heterozygous* (2 copies on paried chromosomes)
 
 ## Phenotypic variation reflects genetic variation
 <hr>
@@ -73,7 +76,7 @@ runtime: shiny
 
 * **Changes in genetic variation provide the raw materials for evolution**
     + inherit one copy of locus from mother & father
-    + which flower gets pollinated more?
+    + environment selects flower color phenotypes
     
 </div>
 
@@ -142,7 +145,10 @@ AA or Aa or aa
 <hr>
 <br/>
 <br/>
-<br/>
+
+* **Fertilization from haploid gametes (1N)**
+    + gametes = reproductive cells
+    
 <br/>
 
 * **In Aa genotypes:**
@@ -245,8 +251,8 @@ AA or Aa or aa
 
 <br/>
 
-* **It is common that some loci may be in HW**
-    + selection is likely always happening on many loci
+* **It is common for some loci to be in Hardy Weinberg equilibrium**
+    + selection is likely happening on many loci
  
 <br/>
 
