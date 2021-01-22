@@ -2,10 +2,9 @@
 title: "Evolution by Natural Selection"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## What does 'Descent with modification' really mean?
@@ -26,7 +25,7 @@ runtime: shiny
 ## How would you define a *population*?
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/penguins.jpg">
 
-## *Population* = group of individuals of same species coexisting in the same time and place with the potential of interbreeding 
+## *Population* = group of individuals of same species, coexisting in the same time and place, with the potential of interbreeding 
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/penguins.jpg">
 
@@ -150,7 +149,7 @@ runtime: shiny
 <br/>
 
 * **Average beak depth increases over time because deep-beaked individuals had greater reproductive success**
-    + *the individuals during drought do not change beak size!*
+    + *the individuals during drought do not adapt beak size!*
 
 </div>
 
