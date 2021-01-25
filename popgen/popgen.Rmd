@@ -2,20 +2,19 @@
 title: "Population Genetics"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom3.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## The smallest unit of evolution: Populations
 <hr>
 <br/>
+<br/>
 
 <div style="float: left; width: 48%;">
 
-* **EVOLUTION: Change in allele frequencies in a population over generations**
-    + aka 'Evolution'
+* **EVOLUTION: Change in *allele frequencies* in a population over generational time**
     + not the individual
  
 <br/>
@@ -27,7 +26,7 @@ runtime: shiny
 * **Expression of trait variation**
     + allelic differences among individuals
     + may lead to reproductive success in current environment, via selection
-    + allele frequencies change in populations
+    + *allele frequencies* change in populations
     
 </div>
 
@@ -74,7 +73,7 @@ runtime: shiny
 
 <br/>
 
-* **Changes in genetic variation provide the raw materials for evolution**
+* **Changes in genetic variation, via alleles, provide the raw materials for evolution**
     + inherit one copy of locus from mother & father
     + environment selects flower color phenotypes
     
@@ -203,7 +202,7 @@ AA or Aa or aa
 
 <br/>
 
-* <span style="color:blue">**Is evolution occuring at the CFTR locus?**</span>
+* <span style="color:blue">**Is evolution occurring at the CFTR locus?**</span>
 
 </div>
 

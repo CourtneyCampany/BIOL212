@@ -78,9 +78,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **In generation, 2 brown beetles have 4 offspring that survive**
+* **In a generation, 2 brown beetles have 4 offspring that survive**
     + several green beetles get stepped on by Dr. C
     + next generation has more brown than previous, by chance
+    + did it matter if alleles were dominant or recessive?
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/beetlesmush.png">
 
