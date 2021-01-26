@@ -2,10 +2,9 @@
 title: "Population Genetics"
 output: 
   ioslides_presentation:
-    css: custom2.css
+    css: custom4.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
