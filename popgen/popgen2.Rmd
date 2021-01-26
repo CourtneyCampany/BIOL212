@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: left; width: 45%;">
 
-* **Re-examine are beetles population**
+* **Re-examine the beetle populations**
     + color: one locus, 2 alleles
  
 <br/>
@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **What does this mean**
+* **What does this mean?**
 
 </div>
 
@@ -78,9 +78,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **In a generation, 2 brown beetles have 4 offspring that survive**
+* **In a small population, beetles are green or brown**
     + several green beetles get stepped on by Dr. C
-    + next generation has more brown than previous, by chance
+    + next generation has more brown beetles, by chance
     + did it matter if alleles were dominant or recessive?
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/beetlesmush.png">
@@ -105,8 +105,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Occurs frequently on islands**
-    + diseases may increase in frequency
-    + frequency of recessive allele = ?
+    + what could happen with bad alleles?
 
 </div>
 
