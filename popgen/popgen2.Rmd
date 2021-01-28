@@ -84,7 +84,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/beetlesmush.png">
 
-## Coin flips to choose 2 alleles
+## Hypothetical coin flips to choose 2 alleles
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/genetic-drift-chart.jpg">
