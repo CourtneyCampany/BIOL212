@@ -2,10 +2,9 @@
 title: "Sexual Selection"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Does having 'Good Genes' make you sexy?
@@ -17,7 +16,7 @@ runtime: shiny
 
 <div style="float: left; width: 58%;">
 
-* **Natural Selections tenant #4:**
+* **Natural Selections rule #4:**
     + If variation in a heritable trait is associated with variation in reproductive success...
     + those traits accumulate in population
 
@@ -27,14 +26,10 @@ runtime: shiny
 
 <br/>
 
-* **Natural selection is *way* more broad than you thought!**
+* **Natural selection is *way* broader than you thought!**
+    + Darwin proposed models of sexual selection
 
 </div>
-
-## Sexual selection is one kind of natural selection
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/matechoice.jpg">
 
 ## Sexual selection is one kind of natural selection
 <hr>
@@ -54,7 +49,7 @@ runtime: shiny
 
 <br/>
 
-* **Often male 'showiness' in nature**
+* **Often: male 'showiness' in nature**
     + benefits versus risks...
 </div>
 
@@ -148,11 +143,13 @@ runtime: shiny
 ## Why is there sexual dimorphism?
 <hr>
 <br/>
-<br/>
 
 * **Why be choosy?**
     + what are the real rewards for the female?
-    + mate choice versus chance?
+
+<br/>
+
+* **How common is choosiness??**
 
 <br/>
 
