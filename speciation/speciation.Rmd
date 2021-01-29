@@ -2,10 +2,9 @@
 title: "The Origin of Species"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Macroevolution
