@@ -67,7 +67,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/finches.png">
 
-## Biological Species Concept
+## Biological Species Concept: Unity of reproduction
 <hr>
 <br/>
 
@@ -89,6 +89,12 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:325px; HEIGHT:450px" SRC="images/speciesconcept.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:450px; HEIGHT:600px" SRC="images/barrier.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/snail.jpg">
 
 ## Mechanisms of reproductive isolation? (Fig 24.3)
 <hr>
@@ -121,7 +127,7 @@ reproduced sexually for > 80 million years
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:625px; WIDTH:400px; HEIGHT:200px" SRC="images/rotifer.jpg">
 
-## Alternate species concepts: morphological
+## Morphological Species Concept: Unity of body plans
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:750px; HEIGHT:450px" SRC="images/morph.png">
@@ -149,7 +155,7 @@ reproduced sexually for > 80 million years
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:500px; HEIGHT:400px" SRC="images/mimic.png">
 
-## Alternate species concepts: phylogenetic
+## Phylogenetic Species Concept: Unity of ancestry
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/phylo.jpg">
@@ -193,10 +199,10 @@ reproduced sexually for > 80 million years
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/fossils.jpg">
 
-## What factors impact speciation rates?
-<hr>
+<!-- ## What factors impact speciation rates? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/punc.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/punc.png"> -->
 
 ## How much genetic change does it take?
 <hr>
