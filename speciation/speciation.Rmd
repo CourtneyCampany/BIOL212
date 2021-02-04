@@ -100,7 +100,7 @@ output:
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/lark.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:460px" SRC="images/lark.png">
 
 ## Issues with the biological species concept
 <hr>
@@ -136,21 +136,21 @@ reproduced sexually for > 80 million years
 <hr>
 <br/>
 <br/>
+<br/>
 
 <div style="float: right; width: 50%;">
-* **Can do with all organisms but.... what kinds of traits & how many?**
-
+* **Applies to all organisms but.... what kinds of traits & how many?**
+    + Subjective to the scientist!
+    
 <br/>
 
 * **Species can change their form: Polymorphisms**
 
 <br/>
 
-* **Cryptic species that do not differ in morphology (e.g., fossil shells)**
+* **Cryptic species that do not differ in morphology**
+    + lots of mimics in nature!
 
-<br/>
-
-* **Subjective to the scientist!**
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:500px; HEIGHT:400px" SRC="images/mimic.png">
@@ -182,7 +182,7 @@ reproduced sexually for > 80 million years
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:350px" SRC="images/symp.png">
 
-## Sympatric speciation via selection pressures
+## Sympatric speciation via selection pressures: Lake Victoria
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/symp2.jpg">
