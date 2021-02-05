@@ -2,10 +2,9 @@
 title: "Evolutionary Trees"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Connecting classification with phylogeny
@@ -36,6 +35,10 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/tree.jpg">
 
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/polytomy.gif">
+
 ## How to draw phylogenies: branch shape and length
 <hr>
 
@@ -46,27 +49,46 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/shape2.png">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/polytomy.gif">
-
 ## Mapping traits on a tree
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/clade.jpg">
 
+##
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<div style="float: right ; width: 45%;">
+
+* **Critical innovations: Derived traits**
+    + adaptive traits that define new taxa
+    + marked with 'slashes' on tree
+    + 'shared derived character' in book
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:50px; WIDTH:525px; HEIGHT:600px" SRC="images/bird_evo.jpg">
+
 ## 
 
 <IMG STYLE="position:absolute; TOP:45px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/parapoly.jpg">
 
-##
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:275px; WIDTH:525px; HEIGHT:600px" SRC="images/bird_evo.jpg">
-
-## Convergent evolution in marine mammals
+## Convergent evolution in marine mammals (analogous traits)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:500px; HEIGHT:450px" SRC="images/convergent.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:290px; WIDTH:520px; HEIGHT:470px" SRC="images/convergent.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/crabs.png">
 
 ## How to use derived characters to infer phylogeny
 <hr>
@@ -79,14 +101,16 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:500px; HEIGHT:450px" SRC="images/chractertable.jpg">
 
 <div style="float: right; width: 45%;">
 
-* **Parsimony = A logical way to identify synapomorphies and homoplasies**
+* **Parsimony = Simplest solution is the likely path of evolution**
+
+<br/>
+
+* **A logical way to identify homologous and analogous traits**
 
 <br/>
 
@@ -94,7 +118,7 @@ runtime: shiny
 
 </div>
 
-## Let's draw it
+## How to draw a phylogeny...
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:500px; HEIGHT:450px" SRC="images/chractertable.jpg">
@@ -113,11 +137,12 @@ runtime: shiny
 <br/>
 
 * **Atiodactyl: mammals - cows, deer and hippos** 
-    + hooves, even number of toes, and an unusual pulley-shaped ankle bone
+    + hooves, even number of toes
+    + unusual pulley-shaped ankle bone
 
 <br/>
 
-* **Astragalus ankle bone is a synapomorphy shared by all artiodactyls**
+* **Astragalus ankle bone is a synapomorphy (shared derived trait) shared by all artiodactyls**
 
 </div>
 
@@ -131,22 +156,22 @@ runtime: shiny
 
 <div style="float: right ; width: 50%;">
 
-* **How do we determine these relationships?**
+* **How do we determine evol'n relationships?**
     + morphology - presence/absence of weird ankle bone
     + DNA sequences - shared gene families
 
 <br/>
 
-* **Depends on what you have!**
-    + poor fossils 
+* **Depends on what data you have!**
+    + poor fossil record 
 
 <br/>
 
-* **Sequence data suggests a closer relationship between whales and hippos...**
+* **Molecular data suggests a closer relationship between whales and hippos...**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:475px; HEIGHT:350px" SRC="images/ankle.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:250px" SRC="images/ankle.jpg">
 
 ## Whale Evolution: Whales and Hippos share common ancestor
 <hr>
