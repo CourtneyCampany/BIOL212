@@ -18,7 +18,7 @@ runtime: shiny
 <br/>
 
 * **Human evolution = series of steps from ancestor to *Homo sapiens*: <span style="color: red;">WRONG!</span>**
-    + <span style="color: green;">RIGHT</span>: Human phylogeny is more like bush than a ladder
+    + <span style="color: green;">RIGHT</span>: Hominid phylogeny is more like bush than a ladder
     + *Homo sapiens* is a twig on the bush
     
 <br/>
@@ -57,7 +57,7 @@ runtime: shiny
 
 <br/>
 
-* **These characters are not unique to *Homo sapiens* **
+* **These characters are not unique to *Homo sapiens*! **
     
 </div>
 
@@ -73,13 +73,11 @@ runtime: shiny
 
 <br/>
 
-* **More closely related to humans than chimps**
-
-<br/>
-
 * **Really old fossils**
     + *Sahelantrophus tchadensis* (Toumai): 6.5mya
+        + fossil connection to *Homo* missing
     + *Ardipithecus ramidus* (Ardi): 4.4 mya
+        + lived in trees & on ground
 
 <br/>  
    
@@ -92,10 +90,10 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo.png">
 
-## Skull evolution: brain volume
+## Hominin evolution: brain volume
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/brain.gif">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:290px; WIDTH:520px; HEIGHT:520px" SRC="images/brain.gif">
 
 ## Skull evolution: The jaw
 <hr>
@@ -121,7 +119,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: right; width: 65%;">
+<div style="float: right; width: 72%;">
 
 * **All but the 4 most recent species are found on the African continent**
 
@@ -136,18 +134,20 @@ runtime: shiny
 * **Hominin diversity increased ~4-2 mya**
     + *Australopithecus* spp
     + 'Lucy' fossil in Ethiopia
+        + more diverse diet
     + definitely bipedal
     + gorilla-like shoulders: climbers
+    + possible tool use
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/lucy.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:250px; HEIGHT:450px" SRC="images/lucy.jpg">
 
-## Lucy (*Australopithecus afirensis*) our direct ancestor?
+## Lucy (*Australopithecus afirensis*) direct ancestor of *Homo*?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo2.png">
 
-## *Homo* genus fossil record
+## *Homo* genus in the fossil record
 <hr>
 <br/>
 
@@ -175,7 +175,7 @@ runtime: shiny
 ## Brain volume in *Homo* species increased disproportionately
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/brain_body.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/brain_body.jpg">
 
 ## Species of Hominins and *Homo* overlapped!
 <hr>
@@ -191,14 +191,16 @@ runtime: shiny
 <hr>
 <br/>
 
-* **Descended from a *more recent* wave of emigration out of Africa**
-    + ~200,000 ya
+* **Descended from a *2^nd^* wave of immigration out of Africa**
+    + 'Out of Africa' hypothesis
+    + ~100,000 ya
     + fossil and DNA evidence
+    + not the first species to leave
 
 <br/>
 
 * **1 population left Africa, split into 3 groups**
-    + 'Out of Africa' hypothesis
+    +  2,000 generations ago
 
 <br/>
 
@@ -206,13 +208,14 @@ runtime: shiny
     + Increased tool use and language
     + resulted in larger brains 
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:200px" SRC="images/symbols.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/outafrica.jpg">
 
 ## *H.neandertalensis* and *H.sapiens* co-occured
 <hr>
 <br/>
 
-* **Split from a common ancestor ~ 500,000 ya**
+* **Neanderthals evolved in Eurasia**
+    + Split from a common ancestor ~ 500,000 ya
     + buried dead
     + used art
 
@@ -236,7 +239,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/interbred.png">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:700px; WIDTH:250px; HEIGHT:250px" SRC="images/variants.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:350px; HEIGHT:350px" SRC="images/variants.png">
 
 ## Recent findings: new modern species?
 <hr>
@@ -257,7 +260,7 @@ runtime: shiny
 
 <br/>
 
-* **Controversy: disease *H.sapiens*?** 
+* **Controversy: diseased *H.sapiens*?** 
 
 </div>
 
