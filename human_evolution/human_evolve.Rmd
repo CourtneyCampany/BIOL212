@@ -2,14 +2,14 @@
 title: "Human Evolution"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Common **Mis**conceptions of human evolution
 <hr>
+<br/>
 <br/>
 
 * **Our ancestors were chimpanzees: <span style="color: red;">WRONG!</span>** 
@@ -85,7 +85,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/ardi.jpg">
 
-## Human evolution was not a linear process
+## Hominin evolution was not a linear process
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo.png">
@@ -95,7 +95,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:290px; WIDTH:520px; HEIGHT:520px" SRC="images/brain.gif">
 
-## Skull evolution: The jaw
+## Hominin evolution: The jaw
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/jaw_bone.png">
