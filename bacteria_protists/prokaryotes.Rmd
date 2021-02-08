@@ -2,19 +2,20 @@
 title: "Prokaryotes (Bacteria and Archaea)"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Prokaryotes: The big picture
 <hr>
+<br/>
 
 <div style="float: left; width: 58%;">
 
 * **'Prokaryotes' are not a monopheyltic group**
     + Kingdoms Bacteria & Archaea; each with unique traits
+    + most species diverse groups on Earth
 
 <br/>
 
@@ -31,7 +32,9 @@ runtime: shiny
     + *prokaryotes are most abundant organisms on Earth!*
 </div>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/yellowstone.jpg">
+<IMG STYLE="position:absolute; TOP:145px; LEFT:650px; WIDTH:450px; HEIGHT:350px" SRC="images/diversitywit.png">
+
+<IMG STYLE="position:absolute; TOP:490px; LEFT:700px; WIDTH:300px; HEIGHT:200px" SRC="images/yellowstone.jpg">
 
 ##
 
@@ -87,6 +90,7 @@ runtime: shiny
 <br/>
 
 * **Small**
+    + microscopic to poppy seed
 
 <br/>
 
@@ -127,6 +131,11 @@ runtime: shiny
     + sunlight
     + organic molecules
     + inorganic molecules
+    
+<br/>
+
+* **Picture: Bacteria work together**
+    + photosynthesis and N fixation
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/photonitro.jpg">
 
@@ -134,6 +143,12 @@ runtime: shiny
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/gram2.jpg">
+
+## Hospitals: Gram negative are more antibiotic resistant
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/anti.png">
+
 
 <!-- ## Evolution of traditional groups: -->
 <!-- <hr> -->
