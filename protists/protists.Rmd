@@ -2,10 +2,9 @@
 title: "Protists and the evolution of Eukaryotes"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Van Leeuwenoek: First microbiologist
@@ -93,12 +92,14 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:350px; HEIGHT:400px" SRC="images/mitochloro.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:350px; HEIGHT:250px" SRC="images/bacteria.jpg">
 
-## Endosymbiosis Theory
+<IMG STYLE="position:absolute; TOP:405px; LEFT:660px; WIDTH:350px; HEIGHT:350px" SRC="images/Cell_animal.jpg">
+
+## Endosymbiosis Theory: Origin of eukaryotic cells
 <hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:125px; WIDTH:850px; HEIGHT:250px" SRC="images/endosymb.jpeg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:950px; HEIGHT:350px" SRC="images/endosymb.jpeg">
 
 <!-- ## Origin of the nuclear envelope/membrane -->
 <!-- <hr> -->
@@ -108,7 +109,7 @@ runtime: shiny
 ## Endomembrane system: Outside in or Inside out?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/outin.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/outin.jpg">
 
 
 <!-- ##  -->
@@ -138,7 +139,7 @@ runtime: shiny
     + proteobacteria for mitrochondria
     
 ## 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/chloroplast2.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/chloroplast3.jpg">
 
 ## Red and green algae underwent secondary endosymbiosis
 <hr>
@@ -160,7 +161,7 @@ runtime: shiny
     + HINT: # of membranes around organelles = ____
   
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/secondendo.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:625px; WIDTH:450px; HEIGHT:500px" SRC="images/secondendo.png">
 
 ## *Euglena*: chloroplast with triple membrane
 <hr>
@@ -192,7 +193,7 @@ runtime: shiny
 
 * **There are more....Read about *Paramecium* in text book**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:775px; WIDTH:150px; HEIGHT:450px" SRC="images/protistsex.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:775px; WIDTH:200px; HEIGHT:500px" SRC="images/protistsex.jpg">
 
 ## Life cycles in Eukaryotes: Alternation of Generations
 <hr>
