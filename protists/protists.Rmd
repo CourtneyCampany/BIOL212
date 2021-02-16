@@ -49,6 +49,7 @@ output:
 * **First undisputed fossils ~1.8 bya**
     + many have no hard parts
     + spherical algal protists
+    + ancestry unresolved
 
 </div>
 
@@ -56,7 +57,9 @@ output:
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/compare.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/compare.jpg"> -->
+
+<IMG STYLE="position:absolute; TOP:10px; LEFT:200px; WIDTH:725px; HEIGHT:675px" SRC="images/cells.png">
 
 ## Basic protist cell: *Euglena*
 <hr>
@@ -95,6 +98,35 @@ output:
 <IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:350px; HEIGHT:250px" SRC="images/bacteria.jpg">
 
 <IMG STYLE="position:absolute; TOP:405px; LEFT:660px; WIDTH:350px; HEIGHT:350px" SRC="images/Cell_animal.jpg">
+
+## How did Eukaryotic cells evolve?
+<hr>
+
+<div style="float: left; width: 60%;">
+
+* **Origin of the nuclear membrane?**
+
+<br/>
+
+* **Origin of mitochondria?**
+    + *All* eukaryotic cells have mitochondria 
+    + so mitochondria is common ancestor?
+
+<br/>
+
+* **Origin of chloroplasts?**
+    + Photosynthetic eukaryotes have chloroplasts
+    + some from common ancestor
+    + others....?
+
+<br/>
+
+* **Endosymbiosis: Organisms of one species living inside an organism of another species**
+    + proposed in 1905 but way too crazy
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/mitochloro.jpg">
 
 ## Endosymbiosis Theory: Origin of eukaryotic cells
 <hr>
