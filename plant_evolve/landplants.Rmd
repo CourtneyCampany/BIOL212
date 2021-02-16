@@ -112,7 +112,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
 * **Freshwater species**
 
@@ -125,17 +125,20 @@ runtime: shiny
 <br/>
 
 * **More shared traits with land plants:**
-    + circular protein rings in plasma membrane; make cellulose fibers in cell wall
+    + circular protein rings in plasma membrane
+    + make cellulose fibers in cell wall
     + swimming sperm with similar structure
     + phragmoplast (something with cell division)
+    + ROS genes
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/chara.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/chara.jpg">
 
-##
+## Living on Land: The Wild Wild West
+<hr>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/transition.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/transition.jpg">
 
 ## Land plants are a monophyletic group
 <hr>
@@ -149,20 +152,23 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:245px; LEFT:535px; WIDTH:500px; HEIGHT:400px" SRC="images/allplants.jpg">
 
+## Multi-cellular, Dependent embryos (placental transfer)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/embryo.jpg">
+
 ## Waxy cuticle and stomata
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/waxystomata.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:25px; WIDTH:625px; HEIGHT:500px" SRC="images/waxystomata.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:670px; WIDTH:400px; HEIGHT:350px" SRC="images/cuticle.jpg">
 
 ## Multi-cellular Gametangia
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/game.jpg">
 
-## Multi-cellular, Dependent embryos (placental transfer)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/embryo.jpg">
 
 ## Photosynthesis with unique pigments (chlorophyll A & B)
 <hr>
@@ -193,7 +199,7 @@ runtime: shiny
 ## Alternation of generations
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/mossex.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/mossex.jpg">
 
 ## First plant group: non-vascular bryophytes (mosses)
 <hr>
