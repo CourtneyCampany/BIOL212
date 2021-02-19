@@ -2,10 +2,9 @@
 title: "Vascular Plant Evolution"
 output: 
   ioslides_presentation: 
-    css: custom.css
+    css: custom2.css
     smaller: yes
     widescreen: yes
-runtime: shiny
 ---
 
 ## Vascular plants were the next evolutionary step
@@ -14,6 +13,11 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/plantevol.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/fossil_lyco.jpg">
+
+## The Devonian Period: First forests
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/devonian.jpg">
 
 ## The big picture: Vascular plants now dominate Earth
 <hr>
@@ -35,17 +39,21 @@ runtime: shiny
 <br/>
 
 * **First vascular plants lacked seeds**
-    + sperm still needed to swim 
+    + sperm still need water to swim 
     + ferns and lycophytes
+
+<br/>
+
+* **Fern and lycophyte diversity now diminished**
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/manyangio.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:575px; WIDTH:450px; HEIGHT:500px" SRC="images/manyangio.jpg">
 
 ## Give thanks to extinct seedless vascular plants: Coal
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/carbon.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/carbon.jpg">
 
 ## Vascular system: the basics
 <hr>
@@ -54,20 +62,21 @@ runtime: shiny
 <br/>
 
 * **Xylem	=	water	conducting	(one	way)**	
-
-<br/>
-
 * **Phloem	=	sugar conducting (multi-directional)**	
 
 <br/>
 
-* **Conducting cells evolved structural support**
+* **Vascular elements move liquid under tension**
+
+<br/>
+
+* **Conducting cells evolved *biomechanical* support**
     + *lignin* in cell walls
     + does not rot easily
     + does not collapse easily
     + think bundles of rigid straws or pipes
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:250px; HEIGHT:450px" SRC="images/vascular.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:650px; WIDTH:300px; HEIGHT:545px" SRC="images/vascular.png">
 
 ## 
 
@@ -88,7 +97,7 @@ runtime: shiny
 **Vascular elements evolved independently several times**
 </div>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/vascular_evolve.jpg">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:25px; WIDTH:750px; HEIGHT:550px" SRC="images/vascular_evolve.jpg">
 
 ## Evolution of roots
 <hr>
@@ -100,7 +109,7 @@ runtime: shiny
 <br/>
 
 * **Absorb water and nutrients**
-    + explore
+    + active explorers
 
 <br/>
 
@@ -110,7 +119,7 @@ runtime: shiny
 <br/>
 
 * **Fossils show roots in lycophytes ~ 400mya**
-    + convergent evolution?
+    + convergent evolution in ferns
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/earlyroots.jpg">
 
@@ -120,6 +129,7 @@ runtime: shiny
 <br/>
 
 * **Photosynthetic organ on plants**
+    + maximize surface area
 
 <br/>
 
@@ -158,7 +168,7 @@ runtime: shiny
 
 <br/>
 
-* **What is the ploidy of each cell type?**
+* **What is the ploidy of each cell type in this picture?**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/sporophyll.jpg">
 
@@ -167,7 +177,7 @@ runtime: shiny
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:200px; HEIGHT:450px" SRC="images/lyco.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:125px; WIDTH:250px; HEIGHT:500px" SRC="images/lyco.jpg">
 
 <div style="float: right; width: 55%;">
 
@@ -186,7 +196,7 @@ runtime: shiny
 <br/>
 
 * **Some	with	heterospory	(*Selaginella/Isoetes*)**
-
+    + male and female spores
 </div>
 
 ## Ferns
@@ -197,6 +207,27 @@ runtime: shiny
 
 * **Whisk Ferns, Equisetum & Ferns**
     + mostly homosporous
+    + whisk ferns do not have roots
+    
+<br/>
+
+* **Leaves are megaphylls**
+    + whisk ferns lost leaf (enation)
+    + Equistem has simplified megaphylls
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:550px; HEIGHT:450px" SRC="images/strob.png">
+
+## Ferns
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Whisk Ferns, Equisetum & Ferns**
+    + mostly homosporous
+    + whisk ferns do not have roots
     
 <br/>
 
@@ -215,12 +246,12 @@ runtime: shiny
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/ferns.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/ferns.jpg">
 
 ## Homosphorous life cycle (mostly) with dominant sporophytes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/fernlife.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/fernlife.jpg">
 
 ## The consequences of homospory
 <hr>
@@ -252,9 +283,9 @@ runtime: shiny
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:700px; HEIGHT:450px" SRC="images/della.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:700px; HEIGHT:450px" SRC="images/della.jpg">
 
-<div style="float: right; width: 30%;">
+<div style="float: right; width: 34%;">
 
 * **Turn other gametophytes male**
     + sperm from everywhere!
