@@ -32,9 +32,9 @@ output:
 
 <br/>
 
-* **Developed a vascular system**
+* **Plants evolved vascular tissues**
     + grow taller than bryophytes
-    + leaves & roots
+    + connects leaves & roots
     
 <br/>
 
@@ -66,15 +66,15 @@ output:
 
 <br/>
 
-* **Vascular elements move liquid under tension**
-
-<br/>
-
-* **Conducting cells evolved *biomechanical* support**
+* **Conducting cells provide *biomechanical* support**
     + *lignin* in cell walls
     + does not rot easily
     + does not collapse easily
     + think bundles of rigid straws or pipes
+    
+<br/>
+
+* **Vascular elements move liquid under tension**
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:650px; WIDTH:300px; HEIGHT:545px" SRC="images/vascular.png">
 
@@ -139,7 +139,7 @@ output:
 <br/>
 
 * **Megaphylls: leaves with branched veins**
-    + almost all existing plants
+    + majority of vascular plants
   
 <br/>
 
@@ -159,7 +159,8 @@ output:
 
 * **Sporagnium:  spore container**
     + ferns: clusters of sporagnia called 'sori'
-    + lycophytes: stobilus holds many sporogania (like a cone)
+    + lycophytes: stobilus holds many sporagnia (like a cone)
+    + angiosperms: structures in flowers
 
 <br/>
 
@@ -196,7 +197,7 @@ output:
 <br/>
 
 * **Some	with	heterospory	(*Selaginella/Isoetes*)**
-    + male and female spores
+    + male (micro-) and female (mega-) spores
 </div>
 
 ## Ferns
@@ -277,7 +278,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:515px; WIDTH:550px; HEIGHT:400px" SRC="images/homospory.jpg">
 
-## How spore bearing plants avoid self-fertilization...
+## How spore-bearing plants avoid self-fertilization...
 <hr>
 <br/>
 <br/>

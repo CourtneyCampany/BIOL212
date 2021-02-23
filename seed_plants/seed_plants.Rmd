@@ -2,10 +2,9 @@
 title: "Seed Plant Evolution"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Seed plants were the next evolutionary step
@@ -22,8 +21,9 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **Seeds changed the course of plant evolution**
-    + Seed plants show up ~360 mya
+    + Gymnosperms evolve ~360 mya
     + climate became drier
+    + *Elkensia* first fossil seed plant
     
 <br/>
 
@@ -111,7 +111,7 @@ runtime: shiny
 
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/gamspor2.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/gamspor2.jpg">
 
 <!-- ## Gymnosperms take over -->
 <!-- <hr> -->
@@ -183,7 +183,7 @@ runtime: shiny
 * **Male and female cones on same plant**
     + sporophyll &rarr; sporangia &rarr; spores
     + scales &rarr; modified leaves &rarr; sporophyll
-    + pollen and ovulate cones
+    + pollen (male) and ovulate (female) cones
 
 <br/>
 
