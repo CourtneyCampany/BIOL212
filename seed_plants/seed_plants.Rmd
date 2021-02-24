@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## Seed plants were the next evolutionary step
+## Seed plants were the most recent evolutionary step
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:500px" SRC="images/phylo.jpg">
@@ -22,7 +22,7 @@ output:
 
 * **Seeds changed the course of plant evolution**
     + Gymnosperms evolve ~360 mya
-    + climate became drier
+    + climate became drier = selection pressures
     + *Elkensia* first fossil seed plant
     
 <br/>
@@ -49,7 +49,7 @@ output:
 <br/>
 
 * **Before seeds, spore was only protective structure** 
-    + super small so spread all over Earth
+    + embryo exposed
 
 <br/>
 
@@ -74,7 +74,7 @@ output:
 
 * **Reduction of gametophyte**
     + mosses &rarr; ferns &rarr; seed plants
-    + gametophytes become microscopic
+    + gametophyte become microscopic
 
 <br/>
 
@@ -220,11 +220,11 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:520px; WIDTH:550px; HEIGHT:350px" SRC="images/femalecone.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:530px; WIDTH:550px; HEIGHT:350px" SRC="images/femalecone.jpg">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/pinelife.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/pinelife.jpg">
 
 <!-- ## Gymnosperms seeds -->
 <!-- <hr> -->
@@ -238,7 +238,8 @@ output:
 <div style="float: left; width: 49%;">
 
 * **Most diverse living group of plants**
-    + 14,000 genera, 250,000 species
+    + 14,000 genera, 350,000 species
+    + 94% of plant diversity
 
 </div>
 
@@ -252,7 +253,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:310px; LEFT:200px; WIDTH:700px; HEIGHT:375px" SRC="images/angios.jpg">
 
-## Angiosperm evolution: Bugs and animals
+## Angiosperm evolution: plants and insects
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/butterfly.jpg">
@@ -281,7 +282,7 @@ output:
 <br/>
 
 * **Two types of fertile organs to make spores**
-    + sporophylls
+    + sporophylls (male and female)
     
 </div>
 
@@ -354,3 +355,4 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/seedsex.jpg">
+
