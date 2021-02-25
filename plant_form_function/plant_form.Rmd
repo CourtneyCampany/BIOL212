@@ -3,10 +3,9 @@ title: "Plant form and function"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## How do we view plants in the real world?
@@ -27,9 +26,9 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:125px; WIDTH:400px; HEIGHT:300px" SRC="images/baby-groot.jpeg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100x; WIDTH:450px; HEIGHT:350px" SRC="images/baby-groot.jpeg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/ent_lor.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/ent_lor.jpg">
 
 ## Plants as sessile organisms
 <hr>
@@ -54,21 +53,26 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/plantscool.png">
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/biomass2.jpg">
+
 ## Themes in plant form
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 38%;">
 
-* **Plants gather materials to grow**
-    * soil
+* **Plants extract materials from environment**
+    * ~18 essential elements
+    * soil (most)
     * atmosphere
     * materials can be limiting
 
 <br/> 
 
-* **Above and belowground body plan**
+* **Above- and belowground body plan**
+    * connected via vascular tissues
 
 </div>
 
@@ -77,7 +81,6 @@ runtime: shiny
 ## Themes in plant form
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 38%;">
 
@@ -88,29 +91,33 @@ runtime: shiny
 
 <br/> 
 
-* **Above and belowground body plan**
+* **Above- and belowground body plan**
   
 <br/> 
 
 * **Plants exhibit _indeterminate growth_**
     * "foragers"
     * diversity of size & shape
+    
+<br/> 
+
+* **BRAINSTORM: What factors drive change in plant form?**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/raunkiaer.jpg">
 
-## Diversity in plant form via uptake and structure
+## Diversity in plant form via resource uptake and support
 <hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/areavolume.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/areavolume.png">
 
-## Diversity in plant form via evolution
+## Diversity in plant form via evolutionary history
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:900px; HEIGHT:400px" SRC="images/angioradiation.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:950px; HEIGHT:400px" SRC="images/angioradiation.png">
 
-## Diversity in plant form via environment
+## Diversity in plant form via environment (abiotic and biotic)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/leafsize.jpg">
@@ -120,22 +127,42 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cell_types.png">
 
-## Parenchyma cells: living, dividing with metabolic function
+## Plants have 3 tissue systems connecting all plant organs
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/parenchyma.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:300px; HEIGHT:450px" SRC="images/tissues.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:375px; WIDTH:200px; HEIGHT:200px" SRC="images/tissue_structure.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/organ.jpg">
+
+## Parenchyma cells: living, dividing with metabolic function
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div style="float: right; width: 50%;">
+
+**Parenchyma cells in leaves = Mesophyll cells**
+**Contain chloroplast and carry out photosynthesis**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/parenchyma.jpg">
 
 ## Collenchyma (flexible) & Sclerenchyma (rigid) for support
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/celery.png">
-
-## Plants have 3 tissue systems
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:300px; HEIGHT:450px" SRC="images/tissues.jpg">
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:300px; HEIGHT:300px" SRC="images/tissue_structure.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/celery.png">
 
 ## Dynamic root growth integral for plant function
 <hr>
@@ -151,8 +178,9 @@ runtime: shiny
 
 ## Roots are a member of the the biotic soil community
 <hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/rootsfungi.jpg">
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/plants-fungi2.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:450px" SRC="images/plants-fungi3.jpg">
 
 <!-- ## Root exudation: Who's in charge? -->
 <!-- <hr> -->
@@ -169,17 +197,17 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
 
-## Vascular tissue system: Moving the good stuff
+## Vascular tissues: Xylem composed of water conducted cells
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/xylem2.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:650px; HEIGHT:500px" SRC="images/xylem2.jpg">
 
-## Vascular tissue system: Moving the good stuff
+## Vascular tissues: Phloem composed of sugar conducting cells
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:700px; HEIGHT:450px" SRC="images/phloem2.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:650px; HEIGHT:500px" SRC="images/phloem2.jpg">
 
 ## Primary plant growth through meristems
 <hr>
