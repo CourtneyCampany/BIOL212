@@ -26,9 +26,9 @@ output:
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100x; WIDTH:450px; HEIGHT:350px" SRC="images/baby-groot.jpeg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:140x; WIDTH:450px; HEIGHT:350px" SRC="images/baby-groot.jpeg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/ent_lor.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:580px; WIDTH:450px; HEIGHT:350px" SRC="images/ent_lor.jpg">
 
 ## Plants as sessile organisms
 <hr>
@@ -84,14 +84,16 @@ output:
 
 <div style="float: left; width: 38%;">
 
-* **Plants gather materials to grow**
-    * soil
+* **Plants extract materials from environment**
+    * ~18 essential elements
+    * soil (most)
     * atmosphere
     * materials can be limiting
 
 <br/> 
 
 * **Above- and belowground body plan**
+    * connected via vascular tissues
   
 <br/> 
 
@@ -121,6 +123,13 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/leafsize.jpg">
+
+## Plants adapt form to persist in different environments
+<hr>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:450px; HEIGHT:350px" SRC="images/forest.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/spectrum_plantform.jpg">
 
 ## How do plants create such dynamic structures?
 <hr>
@@ -152,17 +161,18 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
 <div style="float: right; width: 50%;">
 
 **Parenchyma cells in leaves = Mesophyll cells**
 **Contain chloroplast and carry out photosynthesis**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/parenchyma.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/parenchyma.jpg">
 
 ## Collenchyma (flexible) & Sclerenchyma (rigid) for support
 <hr>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/celery.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/celery.png">
 
 ## Dynamic root growth integral for plant function
 <hr>
@@ -176,8 +186,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/roots.jpg">
 
-## Roots are a member of the the biotic soil community
+## Roots are a member of a living soil community
 <hr>
+
 <IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/rootsfungi.jpg">
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:450px" SRC="images/plants-fungi3.jpg">
@@ -225,39 +236,34 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:585px; WIDTH:400px; HEIGHT:400px" SRC="images/woodgrowth.jpg">
 
-## Annual growth rings
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- ## Annual growth rings -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/growthrings.png">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/growthrings.png"> -->
 
-<div style="float: right; width: 50%;">
+<!-- <div style="float: right; width: 50%;"> -->
 
-* **Plants record what happens on the planet**
+<!-- * **Plants record what happens on the planet** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Complete cycle of seasons**
-    * record atmospheric conditions
+<!-- * **Complete cycle of seasons** -->
+<!--     * record atmospheric conditions -->
 
-<br/>
+<!-- <br/> -->
 
-* **Agreement on solar storms on a global scale!**
-    * Wang et al. 2017. Nature Communications
-        
- </div> 
+<!-- * **Agreement on solar storms on a global scale!** -->
+<!--     * Wang et al. 2017. Nature Communications -->
+
+<!--  </div>  -->
+
+<!-- ## Plant form: building the perfect plant... -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/perfect_plant.png"> -->
  
-## Plant form: building the perfect plant...
-<hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/perfect_plant.png">
- 
-## Sessile plants alter form to make a living
-<hr>
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:450px; HEIGHT:350px" SRC="images/forest.jpg">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/spectrum_plantform.jpg">
