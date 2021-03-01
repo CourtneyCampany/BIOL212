@@ -42,7 +42,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/stomata4b.jpg">
 
-## Leaf gas exchange impacts global ecology
+## Leaf gas exchange impacts the global atmopshere
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/maunaloa.png">
@@ -65,7 +65,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:395px; WIDTH:600px; HEIGHT:300px" SRC="images/venation.jpg">
 
-## How leaf veins changed the world....
+## Leaf gas exchange impacts the global atmopshere
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
@@ -162,7 +162,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg">
 
-## Dark Reactions (aka Calvin cycle)
+## Calvin cycle
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/calvin3.jpg">
@@ -192,7 +192,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 * **3. Some 3C sugars recycled to make RUBP (5C)**
     + one 3C sugar leaves to make glucose
     + recycling needs ATP
-    
+
  </div>
 
 ## Making sugars requires several cycles
