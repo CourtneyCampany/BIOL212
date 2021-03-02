@@ -116,7 +116,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:225px" SRC="images/photorespiration.jpeg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/photorespiration.jpeg">
 
 ## C3 photosynthesis how did we get here...
 <hr>
@@ -135,9 +135,8 @@ output:
 
 <br/>
 
-* **Rubisco evolved high affinity for CO~2~ (80x > O~2~)** 
+* **Rubisco has evolved high affinity for CO~2~ (80x > O~2~)** 
     + compare to the composition of the atmosphere...
-    + compare to global warming...
 
  </div>
 
@@ -157,8 +156,28 @@ output:
 
 ## Rubisco and plant evolution: How did we get here?
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco3.jpg">
+<div style="float: right; width: 40%;">
+
+* **Why is there so much Rubsico?**
+
+<br/>
+
+* **Why is it so big and slow?**
+
+<br/>
+
+* **Was it Rubisco always a cheater?** 
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:150px; LEFT:25px; WIDTH:600px; HEIGHT:500px" SRC="images/atmosphere2.jpg">
+
+<!-- <IMG STYLE="position:absolute; TOP:170px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco3.jpg"> -->
 
 <!-- ## Plant evolution tied to atmospheric shifts in CO~2~:O~2~  -->
 <!-- <hr> -->
@@ -168,15 +187,12 @@ output:
 ## Why has Rubisco not been replaced?
 <hr>
 <br/>
- 
+<br/>
+
 <div style="float: left; width: 55%;">
 
 * **Evolution of enzymes difficult**
     * trade-offs between activity and stability
- 
- <br/>
- 
-* **Removing the oxygenation capability breaks Rubisco**
     * selection against modifying mutations
 
 <br/>
@@ -192,7 +208,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:595px; WIDTH:475px; HEIGHT:450px" SRC="images/calvin2.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:595px; WIDTH:350px; HEIGHT:500px" SRC="images/c3plants_crop.png">
 
 ## Evolution tinkers with other parts of photosynthesis
 <hr>
@@ -211,12 +227,12 @@ output:
 * **In response to environmental change**
     + lower [CO~2~] & higher [O~2~]
     + high temperatures 
-    + water limitations 
+    + water limitations (stomata)
 
 <br/>
 
 * **Evolution of new photosynthesis pathways**
-    + Allowed plants to exploit new habitats
+    + Allowed plants to exploit drier habitats
 </div>
 
 ## Evolution of C4 photosynthesis
@@ -260,7 +276,7 @@ output:
 <br/>
 
 * **New enzyme, phosphoenolpyruvate carboxlylase (PEPC)**
-    * fixes CO~2~ to PEP (no affinity for O~2~)
+    * fixes CO~2~ to PEP (**no affinity for O~2~**)
     * new 4C malate pumped to bundle sheath cells
     * malate broken down to release CO~2~
 
@@ -291,22 +307,23 @@ output:
 
 <br/>
 
-* **Where should C4 plants live**
-    * efficiency vs dehydration
+* **Where should C4 plants exist?**
     
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:550px; HEIGHT:450px" SRC="images/c4khan.png">
 
 ##
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
-
 <div class="item-absolute2"> In hot conditions, the benefits of reduced photorespiration likely exceed the ATP cost of moving CO~2~ from the mesophyll cell to the bundle-sheath cell </div>
 
-## C4 photosynthesis: Evolved many times
-<hr>
+<IMG STYLE="position:absolute; TOP:165px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/c4map.png">
+
+
+<!-- ## C4 photosynthesis: Evolved many times -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/c4map.png"> -->
 
 ## Evolution of CAM photosynthesis (C4 pathway w/out BSC)
 <hr>
