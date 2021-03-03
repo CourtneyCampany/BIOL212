@@ -25,14 +25,14 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg"> -->
 
-## Calvin cycle
+## Calvin cycle (in stroma)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/calvin3.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/calvin3.jpg">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.png">
 
-## Calvin cycle is a 3-step process
+## Calvin cycle is a 3-step process 
 <hr>
 <br/>
 
@@ -53,7 +53,7 @@ output:
 
 <br/>
 
-* **3. Some 3C sugars recycled to make RuBP (5C)**
+* **3. Some 3C sugars recycled to re-make RuBP (5C)**
     + one 3C sugar leaves to make glucose
     + recycling needs ATP
     
@@ -99,7 +99,7 @@ output:
 <div style="float: left; width: 59%;">
 
 * **Only 3-10 reactions per second**
-    + limits photosynthesis
+    + limits rate of photosynthesis
     
 <br/>
 
@@ -108,7 +108,7 @@ output:
 
 <br/>
 
-* **Also reacts with O~2~**
+* **Also reacts with O~2~ (cheater!)**
     + O~2~ reaction called *Photorespiration*
     + uses ATP and NADPH to make CO~2~
 
@@ -171,7 +171,11 @@ output:
 
 <br/>
 
-* **Was it Rubisco always a cheater?** 
+* **Was Rubisco always a cheater?** 
+
+<br/>
+
+* **Why did the atmosphere change?**
 
  </div>
  
@@ -192,7 +196,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Evolution of enzymes difficult**
-    * trade-offs between activity and stability
+    * favors stability
     * selection against modifying mutations
 
 <br/>
@@ -204,7 +208,7 @@ output:
  <br/>
  
 * **Natural selection increased affinity for CO~2~**
-    + makes it slow
+    + made Rubisco slow
 
 </div>
 
@@ -219,7 +223,7 @@ output:
 
 <div style="float: right; width: 55%;">
 
-* **Improved and recombined existing parts and pieces**
+* **Changed existing parts and pieces**
     + work around the photorespiration issue
  
 <br/>
@@ -267,7 +271,6 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: right; width: 55%;">
 
@@ -275,10 +278,12 @@ output:
 
 <br/>
 
-* **New enzyme, phosphoenolpyruvate carboxlylase (PEPC)**
+* **New fixation pathway in mesophyll cells**
+    * New enzyme, phosphoenolpyruvate carboxlylase (PEPC)
     * fixes CO~2~ to PEP (**no affinity for O~2~**)
     * new 4C malate pumped to bundle sheath cells
     * malate broken down to release CO~2~
+    * 3C molecule transported back to mesophyll
 
 <br/>
 
