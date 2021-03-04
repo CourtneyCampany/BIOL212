@@ -3,10 +3,9 @@ title: "Plant environmental physiology"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Plant cognition
@@ -49,6 +48,16 @@ runtime: shiny
 * **Ca^2+^ based signals are common**
 
 </div>
+
+## Wounding triggers transmission of Ca^2+^ to start defense
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/science_paper.jpg">
+
+##
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Plants grow towards light:  Phototropism via Auxin
 <hr>
@@ -175,23 +184,25 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/vessels_pits.jpg">
 
-##
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/heart_attack.png">
-
 ## Cavitation: When water breaks 
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/embolism2.jpg">
- 
-## Do plants sense cavitation events and repair them? 
-<hr>
 
-<IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism3.jpg">
+##
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/xylemdead.jpg">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:50px; WIDTH:500px; HEIGHT:650px" SRC="images/heart_attack.png">
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/xylemdead.jpg">
+
+<!-- ## Do plants sense cavitation events and repair them?  -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism3.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/xylemdead.jpg"> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/studying_caviatation.jpg"> -->
 
@@ -208,42 +219,33 @@ runtime: shiny
 ## How do plants avoid water problems #2
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:750px; HEIGHT:450px" SRC="images/soil_refilling.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:15px; WIDTH:750px; HEIGHT:450px" SRC="images/soil_refilling.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/waterlift.jpg">
 
 ## How do plants avoid water problems #3
 <hr>
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art2.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:450px; HEIGHT:500px" SRC="images/diameter.png">
 
-## Don't mess with the acacia tree!
-<hr>
+<!-- ## Don't mess with the acacia tree! -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/acacia.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/acacia.jpg"> -->
 
-## Plant herbivore defenses: Ethylene 
-<hr>
+<!-- ## Plant herbivore defenses: Ethylene  -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/acacia2.png">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/acacia2.png"> -->
  
-## Signalling herbivory
-<hr>
-<br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- ## Protective perfumes -->
+<!-- <hr> -->
 
-## Wounding triggers transmission of Ca^2+^ to start defense
-<hr>
-<br/>
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/protective_perfumes.png"> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/science_paper.jpg">
+<!-- ##  -->
 
-## Protective perfumes
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/protective_perfumes.png">
-
-## 
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/plant_smart.png">
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/plant_smart.png"> -->
