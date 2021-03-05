@@ -21,6 +21,7 @@ output:
 * **Do plants sense their environment?**
     * changes in essential resources
     * herbivory/disturbance
+    * external stimulus
 
 <br/>
 
@@ -39,7 +40,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/signals2.jpg">
 
-<div style="float: right; left: 55%;">
+<div style="float: right; left: 50%;">
 
 * **Cell to cell signal networks**
 
@@ -106,13 +107,13 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/vessels.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:550px; WIDTH:600px; HEIGHT:500px" SRC="images/vessels.jpg">
 
 <div style="float: left; width: 45%;">
 
 * **Large trees move hundreds of gallons of water a day**
+    + only small amounts needed for growth/photosynthesis
 
 <br/>
 
@@ -123,14 +124,16 @@ output:
 
 <br/>
 
-* **Drying soil adds tension**
+* **Drying soil adds opposite tension**
 
 </div> 
 
 ## How long a straw could Superman use?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:400px; WIDTH:300px; HEIGHT:450px" SRC="images/straw.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:300px; HEIGHT:450px" SRC="images/straw.jpg">
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:600px; WIDTH:300px; HEIGHT:450px" SRC="images/superman.png">
  
 ## How can redwood trees grow so tall?
 <hr>
@@ -150,7 +153,7 @@ output:
 
 * **Adhesion: water sticks to non water molecules**
     + stick to sides of xylem tissues
-    + is not pulled straight up!
+    + H~2~0 not pulled straight up!
 
 <br/>
 
@@ -206,7 +209,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/studying_caviatation.jpg"> -->
 
-## How do plants avoid water problems #1
+## How plants avoid water problems: Close stomata
 <hr>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/closed_stomata.jpg">
@@ -214,21 +217,21 @@ output:
 ## Risky stomatal behavior
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:230px; WIDTH:640px; HEIGHT:540px" SRC="images/gs_vpd.jpg">
 
-## How do plants avoid water problems #2
+## How plants avoid water problems: Refill Soil
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:15px; WIDTH:750px; HEIGHT:450px" SRC="images/soil_refilling.png">
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/waterlift.jpg">
 
-## How do plants avoid water problems #3
+## How plants avoid water problems: Alter xylem cells
 <hr>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:450px; HEIGHT:500px" SRC="images/diameter.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/diameter.png">
 
 <!-- ## Don't mess with the acacia tree! -->
 <!-- <hr> -->
