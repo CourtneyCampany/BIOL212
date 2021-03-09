@@ -2,10 +2,9 @@
 title: "Fungi"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ##
@@ -18,14 +17,14 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **100,000 species described**
-    + estimated 1.5 millions species
+    + estimated 1.5 million species
     + diverse size, morphology and habitats
 
 <br/>
 
 * **Heterotrophic: eat via absorption**
     + parasites, decomposers, mutualists
-    + cycle nutrients via decomposition
+    + recycle nutrients via decomposition
 
 <br/>
 
@@ -63,17 +62,18 @@ runtime: shiny
 
 <br/>
 
-* **In 2000, fossils of fungal spores and threads found in Wisconsin dated to 460 mya**
-    + changed the origin of land-based fungi (Dirk Redecker)
+* **Fossils of fungal spores and threads found in Wisconsin dated to 460 mya**
+    + changed the origin of land-based fungi
 
 <br/>
 
 * **Fungi and green plants moved onto land around same time**
-    + helped plants invade the land! 
-    + mycorrhizal symbiosis @ 405mya
+    + what was the benefit for fungi?
+    + helped vascular plants invade the land! 
+    + mycorrhizal symbiosis @ 405mya during Devonian period
 </div>
 
-## All Fungi share traits related to nutrition
+## All fungi share traits related to nutrition
 <hr>
 <br/>
 <br/>
@@ -81,16 +81,19 @@ runtime: shiny
 
 <div style="float: right; width: 58%;">
 
-* **Use enzymes to break down compounds**
-    + diverse enzymes for diverse food sources
-    
-<br/>
-<br/>
-
 * **Heterotrophs: absorb nutrients from environment**
     + decomposers: break down dead things
     + parasites: absorb from host
     + mutualist: absorb/share with host
+
+<br/>
+<br/>
+
+* **Use enzymes to break down compounds**
+    + diverse enzymes for diverse food sources
+    
+
+
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/fungienzymes.png">
 
@@ -104,7 +107,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/medicines.png">
 
-## Fungal body plan: Not-motile
+## Fungal body plan: Not-motile and mostly multi-cellular
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/body.jpg">
@@ -136,11 +139,11 @@ runtime: shiny
 <div style="float: right; width: 60%;">
 
 * **Specialized hyphae for feeding on live animals**
-    + hoops
+    + hoops that can snare prey
     
 <br/>
 
-* **Specialized hyphae that allow them to extract nutrients from plants**
+* **Specialized hyphae that allow extraction of nutrients from plants**
 
 <br/>
 
@@ -155,13 +158,13 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 55%;">
 
 * **~80-90% of plants have association with fungus**
     + fungi grown in/around plant roots
-    + share resources
+    + share what resources?
+    + how much sharing is not known
 
 <br/>
 
@@ -177,7 +180,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr.png">
 
-## Fungi rule the world: plants and fungi talk
+## Fungi rule the world: plants evolution linked to symbiosis
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mycorr2.jpg">
