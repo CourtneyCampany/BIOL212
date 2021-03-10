@@ -30,7 +30,7 @@ output:
 
 * **Cell walls made of chitin**
     + mushrooms are only a part of the body
-    + filaments belowground absorb things
+    + filaments belowground for absorption
 
 <br/>
 
@@ -43,11 +43,12 @@ output:
 ## Chitin and Heterotrophs &rarr; Animals & Fungi 
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/simple_fungi_phylo.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/simple_fungi_phylo.jpg">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:675px; WIDTH:400px; HEIGHT:500px" SRC="images/chitin.png">
 
 ## Fossil Fungi
 <hr>
-<br/>
 <br/>
 <br/>
 
@@ -56,13 +57,14 @@ output:
 <IMG STYLE="position:absolute; TOP:400px; LEFT:50px; WIDTH:250px; HEIGHT:250px" SRC="images/fossil_fungi2.jpg">
 
 
-<div style="float: right; width: 65%;">
+<div style="float: right; width: 70%;">
 
 * **Oldest fungal fossils appear ~900 mya**
+    + split from aquatic protist ancestor 1 bya(?)
 
 <br/>
 
-* **Fossils of fungal spores and threads found in Wisconsin dated to 460 mya**
+* **Fossils of fungal spores found in Wisconsin dated to 460 mya**
     + changed the origin of land-based fungi
 
 <br/>
@@ -91,18 +93,18 @@ output:
 
 * **Use enzymes to break down compounds**
     + diverse enzymes for diverse food sources
-    
+    + secreted outside the cell
 
 
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/fungienzymes.png">
 
-## Fungal derived enzymes and humans
+## Fungal derived enzymes and humans: Cellulase
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:750px; HEIGHT:400px" SRC="images/stonewash.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/stonewash.jpg">
 
-## Fungal derived enzymes and humans
+## Fungal derived enzymes and humans: Statins
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/medicines.png">
@@ -185,7 +187,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mycorr2.jpg">
 
-## Fungal life cycles
+## Fungal life cycles (Haplonic)
 <hr>
 <br/>
 
@@ -208,7 +210,7 @@ output:
 **2. Karyogamy: parent nuclei fuse (2N)**
 
     
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:410px; HEIGHT:450px" SRC="images/FungalLifeCycle.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/FungalLifeCycle.jpg">
     
 ## Fungal life cycle: basic
 <hr>
