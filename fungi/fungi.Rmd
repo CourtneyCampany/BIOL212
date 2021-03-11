@@ -60,7 +60,7 @@ output:
 <div style="float: right; width: 70%;">
 
 * **Oldest fungal fossils appear ~900 mya**
-    + split from aquatic protist ancestor 1 bya(?)
+    + split from aquatic eukaryotic ancestor 1 bya(?)
 
 <br/>
 

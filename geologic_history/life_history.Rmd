@@ -2,10 +2,9 @@
 title: "The Geologic History of Animals"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Oparin and Haldane hypothesis
@@ -33,7 +32,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:610px; WIDTH:450px; HEIGHT:350px" SRC="images/origin.jpg">
 
-## Miller and Urey experiments
+## Miller & Urey experiments: Testing Oparin & Haldane
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/miller_urey.gif">
@@ -46,13 +45,19 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:550px; WIDTH:500px; HEIGHT:600px" SRC="images/fossil_record.jpg">
 
-## Fossils are key to understanding evolution
+## Fossils are biased
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/bias.gif">
+
+## Fossils are key to understanding animal evolution
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/mammal2.jpg">
 
 ## Progression of life on earth
 <hr>
+<br/>
 
 <div style="float: left; width: 50%;">
 
@@ -83,19 +88,18 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:500px; HEIGHT:450px" SRC="images/oxygen.jpg">
 
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:350px; WIDTH:450px; HEIGHT:600px" SRC="images/animal_record.jpg">
-
 ## Early animal life and the Cambrian explosion
 <hr>
-<br/>
 <br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/cambrian.jpg">
 
 <div style="float: right; width: 55%;">
+
+* **2^nd^ oxygen revolution tied to evolution of animals**
+
+<br/>
 
 * **Prior to Cambrian all large animals had soft body**
     + little evidence of predation
@@ -113,23 +117,26 @@ runtime: shiny
 ## Cambrian explosion = bizarre aquatic creatures
 <hr>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Spectacular diversification of animals**
-    + troubled Darwin
 
 <br/>
 
 * **Abrupt period: only 10-20 million years!**
+    + troubled Darwin
 
 <br/>
 
 * **Hard skeletons and soft bodies**
     + diverse body morphology (Hox genes)
-    + bilaterally symmetrical animals
+
+<br/>
+
+* **Bilaterally symmetrical animals**
+    + possible formation of 'head' region
+    + organized sensory organs
 
 </div>
 
@@ -177,6 +184,12 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/edicar3.jpg">
 
+## Geologic history of plants and animals on land
+<hr>
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:480px; HEIGHT:500px" SRC="images/animal_record2.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:525px; HEIGHT:350px" SRC="images/animal_record3.gif">
+
 ## Animal colonization of land
 <hr>
 <br/>
@@ -190,7 +203,7 @@ runtime: shiny
     
 <IMG STYLE="position:absolute; TOP:400px; LEFT:125px; WIDTH:850px; HEIGHT:225px" SRC="images/fishland.jpg">
 
-## Rise and Fall of organisms
+## Rise and fall of animal diversity
 <hr>
 <br/>
 <br/>
@@ -208,6 +221,10 @@ runtime: shiny
     + plate tectonics
     + mass extinctions
     + adaptive radiations
+    
+<br/>
+
+* **Example: first tetrapods &rarr; dinosaurs &rarr; mammals**
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:350px; HEIGHT:450px" SRC="images/diverse.jpg">
 
@@ -293,7 +310,9 @@ runtime: shiny
     
 <br/>
 
-* **What if early primates went extinct?**
+* **Evolution favors innovation but...**
+    + innovations can be wiped out
+    + What if early primates went extinct?
 
 </div>
 
@@ -303,7 +322,7 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **AR:**
+* **Define:**
 
 <br/>
 
@@ -313,15 +332,20 @@ runtime: shiny
 
 <br/>
 
-  
+* **Innovation leds to diversification**
+
+<br/>
+
 * **Dinosaur extinction &rarr; mammals**
     + small and nocturnal &rarr; ...
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:550px; HEIGHT:300px" SRC="images/mammal.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:400px; HEIGHT:200px" SRC="images/KTextinction.gif">
 
-## Regional Adaptive Radiation
+<IMG STYLE="position:absolute; TOP:380px; LEFT:525px; WIDTH:550px; HEIGHT:300px" SRC="images/mammal.jpg">
+
+## Regional Adaptive Radiation: Hawaiian islands born 'naked'
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/hawaii.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/hawaii.jpg">
