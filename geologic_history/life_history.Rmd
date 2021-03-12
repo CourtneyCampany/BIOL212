@@ -23,7 +23,7 @@ output:
 
 <br/>
 
-* **Oparin & Haldane: early earth had water vapor and compounds from volcanic eruptions (CO~2~, CH~4~, NH~3~)**
+* **Early earth had water vapor and compounds from volcanic eruptions (CO~2~, CH~4~, NH~3~)**
     + atmosphere was *reducing*
     + energy from UV or lightning
     + oceans = primordial soup of organic molecules
@@ -50,7 +50,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/bias.gif">
 
-## Fossils are key to understanding animal evolution
+## Fossils trace the steps of animal evolution
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/mammal2.jpg">
@@ -161,6 +161,7 @@ output:
 
 * **Mudslides from barren land buried marine organisms**
     + sediment  deposited in deep-water basin next to enormous algal reef 
+    + soft and hard body fossils
 
 </div>
 
@@ -206,7 +207,9 @@ output:
 ## Rise and fall of animal diversity
 <hr>
 <br/>
-<br/>
+
+* **Diversification is not a smooth process**
+
 <br/>
 
 * **Speciation rates: how many species in a lineage are created**
@@ -328,11 +331,11 @@ output:
 
 * **Occur on large scale after extinction events**
     + many vacant habitats
-    + favors evolutionary innovations (seeds)
+    + favors evolutionary innovations
 
 <br/>
 
-* **Innovation leds to diversification**
+* **Innovation leads to diversification**
 
 <br/>
 

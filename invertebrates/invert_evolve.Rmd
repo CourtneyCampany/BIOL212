@@ -2,10 +2,9 @@
 title: "Invertebrate Evolution"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## History of animals ~700 million years old
@@ -180,7 +179,10 @@ runtime: shiny
 <div style="float: right; width: 45%;">
 
 * **Triploblasty = 3 germ layers**
-    + digestive tract with mouth and anus
+
+<br/>
+
+* **Digestive tract with mouth and anus**
     
 <br/>
 
@@ -264,7 +266,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/planaria2.jpg">
 
-## Phylum Mollusca: Snails through squid
+## Phylum Mollusca: Snails, slugs, clams, mussels, octopus & squid
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:600px; HEIGHT:400px" SRC="images/mollusc.jpg">
