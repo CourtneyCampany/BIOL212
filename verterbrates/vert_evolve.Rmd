@@ -2,11 +2,33 @@
 title: "Vertebrate Evolution"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
+
+## Protostome vs Deutrostomes
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/phyla2.jpg">
+
+<div style="float: right; width: 40%;">
+
+* **Protostome = First Mouth**
+
+<br/>
+
+* **Deuterostome = Second Mouth**
+
+<br/>
+
+* **Two groups differ by embryonic development**
+    
+</div>
 
 ## Deuterostome clade
 <hr>
@@ -33,7 +55,12 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/brittle.jpg">
 
 <IMG STYLE="position:absolute; TOP:375px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/reptile.jpg">    
-  
+
+## Sexual reproduction in animals results in diploid zygote
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:480px" SRC="images/clevage.png">
+
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/deutro.jpg">
@@ -87,7 +114,7 @@ runtime: shiny
 
 </div>
 
-## Phylum Chordata
+## Phylum Chordata (mostly vertebrates)
 <hr>
 <br/>
 

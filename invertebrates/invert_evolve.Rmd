@@ -87,7 +87,7 @@ output:
 
 <br/>
 
-* **Groupings characterized by tissue layers and symmetry**
+* **Groupings characterized by tissue layers,symmetry and unique structures**
 
 </div>
 
@@ -101,7 +101,8 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Most basal animal group**
-    + do not move and marine
+    + marine
+    + adults do not move
     + filter feeders
     + hermaphroditic (alternate)
     
@@ -151,6 +152,7 @@ output:
 
 * **First lineage to diversify were Cnidarians**
     + corals, hydras and jellyfish
+    + pre-Cambrian
     
 <br/>
 
@@ -182,7 +184,8 @@ output:
 
 <br/>
 
-* **Digestive tract with mouth and anus**
+* **Complete digestive tract**
+    + mouth and anus
     
 <br/>
 
@@ -200,7 +203,11 @@ output:
 <div style="float: right; width: 45%;">
 
 * **Triploblasty = 3 germ layers**
-    + digestive tract with mouth and anus
+
+<br/>
+
+* **Complete digestive tract**
+    + mouth and anus
     
 <br/>
 
