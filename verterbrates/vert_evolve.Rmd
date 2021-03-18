@@ -1,5 +1,5 @@
 ---
-title: "Vertebrate Evolution"
+title: "Evolution of Phylum Chordata"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -7,144 +7,145 @@ output:
     smaller: true
 ---
 
-## Protostome vs Deutrostomes
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- ## Protostome vs Deuterostome -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/phyla2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/phyla2.jpg"> -->
 
-<div style="float: right; width: 40%;">
+<!-- <div style="float: right; width: 40%;"> -->
 
-* **Protostome = First Mouth**
+<!-- * **Protostome = First Mouth** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Deuterostome = Second Mouth**
+<!-- * **Deuterostome = Second Mouth** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Two groups differ by embryonic development**
-    
-</div>
+<!-- * **Two groups differ by embryonic development** -->
 
-## Deuterostome clade
-<hr>
-<br/>
+<!-- </div> -->
 
-<div style="float: left; width: 48%;">
+<!-- ## Deuterostome clade -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **Phylum Echinoderms (Inverts) & phylum Chordata (Vertebrates)**
-    + Independent evolution of each group
+<!-- <div style="float: left; width: 48%;"> -->
 
-<br/>
+<!-- * **Phylum Echinoderms (Invertebrates)** -->
+<!-- * **Phylum Chordata (mostly Vertebrates)** -->
+<!--     + Independent evolution of each group -->
 
-* **Deuterostome = Developmental similarities**
-    + radial cleavage
-    + anus from blastophore
+<!-- <br/> -->
 
-<br/>
+<!-- * **Deuterostome = Developmental similarities** -->
+<!--     + radial cleavage -->
+<!--     + anus from blastopore -->
 
-* **HOWEVER: other basal animal phyla share some of these traits**
-    + Deuterostomes now defined by DNA
+<!-- <br/> -->
 
-</div>
+<!-- * **HOWEVER: other basal animal phyla share some of these traits** -->
+<!--     + Deuterostomes now defined by DNA -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/brittle.jpg">
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:375px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/reptile.jpg">    
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/brittle.jpg"> -->
 
-## Sexual reproduction in animals results in diploid zygote
-<hr>
+<!-- <IMG STYLE="position:absolute; TOP:375px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/reptile.jpg">     -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:480px" SRC="images/clevage.png">
+<!-- ## Sexual reproduction in animals results in diploid zygote -->
+<!-- <hr> -->
 
-##
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:480px" SRC="images/clevage.png"> -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/deutro.jpg">
+<!-- ## -->
 
-## Phylum Echinoderms
-<hr>
-<br/>
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/deutro.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg">
+<!-- ## Phylum Echinoderms -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:385px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/urchin.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg"> -->
 
-<div style="float: right; width: 50%;">
+<!-- <IMG STYLE="position:absolute; TOP:385px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/urchin.jpg"> -->
 
-* **Translates to 'Spiny Skin'**
-    + sea stars and urchins
-    + slow moving and marine
-    + adult = radial, larval = bilateral
+<!-- <div style="float: right; width: 50%;"> -->
 
-<br/>
+<!-- * **Translates to 'Spiny Skin'** -->
+<!--     + sea stars and urchins -->
+<!--     + slow moving and marine -->
+<!--     + adult = radial, larval = bilateral -->
 
-* **Thin epidermis covered in hard plates**
-    + often with bumps or spines
+<!-- <br/> -->
 
-</div>
+<!-- * **Thin epidermis covered in hard plates** -->
+<!--     + often with bumps or spines -->
 
-## Phylum Echinoderms
-<hr>
-<br/>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg">
+<!-- ## Phylum Echinoderms -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:385px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/tubefeet2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg"> -->
 
-<div style="float: right; width: 50%;">
+<!-- <IMG STYLE="position:absolute; TOP:385px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/tubefeet2.jpg"> -->
 
-* **Translates to 'Spiny Skin'**
-    + sea stars and urchins
-    + slow moving and marine
-    + adult = radial, larval = bilateral
+<!-- <div style="float: right; width: 50%;"> -->
 
-<br/>
+<!-- * **Translates to 'Spiny Skin'** -->
+<!--     + sea stars and urchins -->
+<!--     + slow moving and marine -->
+<!--     + adult = radial, larval = bilateral -->
 
-* **Thin epidermis covered in hard plates**
-    + often with bumps or spines
+<!-- <br/> -->
 
-<br/>    
-    
-* **Possess a unique water vascular system**
-    + flexible hydraulic canals = *tube feet*
+<!-- * **Thin epidermis covered in hard plates** -->
+<!--     + often with bumps or spines -->
 
-</div>
+<!-- <br/>     -->
 
-## Phylum Chordata (mostly vertebrates)
-<hr>
-<br/>
+<!-- * **Possess a unique water vascular system** -->
+<!--     + flexible hydraulic canals = *tube feet* -->
 
-<div style="float: left; width: 45%;">
+<!-- </div> -->
 
-* **All chordates share 4 traits**
-* **Some only in embryo stages**
-1. Notochord
-2. Dorsal, hollow nerve cord
-3. Pharyngeal slits
-4. Muscular, Post-anal tail
+<!-- ## Phylum Chordata (mostly vertebrates) -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<br/>
+<!-- <div style="float: left; width: 45%;"> -->
 
-* **2 invertebrates groups that are more related to vertebrates**
-    + Cephlachordata (lancelets)
-    + Urochordates (tunicates)
+<!-- * **All chordates share 4 traits** -->
+<!-- * **Some only in embryo stages** -->
+<!-- 1. Notochord -->
+<!-- 2. Dorsal, hollow nerve cord -->
+<!-- 3. Pharyngeal slits -->
+<!-- 4. Muscular, Post-anal tail -->
 
-</div>
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:500px; HEIGHT:250px" SRC="images/chordate2.jpg">
+<!-- * **2 invertebrates groups that are more related to vertebrates** -->
+<!--     + Cephlachordata (lancelets) -->
+<!--     + Urochordates (tunicates) -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:500px; HEIGHT:250px" SRC="images/chordate2.jpg"> -->
 
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/Chordates.jpg">
 
-## Lancelets and Tunicates
-<hr>
+<!-- ## Lancelets and Tunicates -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/squirts.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/squirts.jpg"> -->
 
 ## Vertebrates are chordates with a backbone
 <hr>
@@ -179,7 +180,7 @@ output:
 * **Evolved while predators where developing**
     + Cambrian period
     + Ocean origins (first 150 mya)
-    
+
 <br/>
 
 * **Vertebrate: series of bones that make up the vertebral column**
@@ -218,7 +219,7 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:350px; HEIGHT:450px" SRC="images/hagfish.jpg">
-    
+
 ## Hagfish and Lampreys
 <hr>
 <br/>
@@ -281,7 +282,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:350px; HEIGHT:450px" SRC="images/sharks.jpg">
 
-## Ray-finned and Lobe-finned fish 
+## Ray-finned and Lobe-finned fish
 <hr>
 <br/>
 <br/>
@@ -318,12 +319,40 @@ output:
 
 <br/>
 
-* **Lobe-finned: rod-shaped bone surrounded by muscle in fins**
+* **Lobe-finned: rod-shaped bone surrounds by muscle in fins**
   + lungfish, *Coelacanths*, tetrapods
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/fishes.jpg">
+
+## Evolution had to solve a density problem for bony fishes
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **A fish has a density of about 1.076**
+    + freshwater has a density of 1.0
+    + saltwater has a density of 1.026
+
+<br/>
+
+* **Bone is nearly twice as dense as cartilage**
+
+<br/>
+
+* **Swimming is energy expensive**
+  + resting on the bottom may not be practical
+ 
+ <br/>
+ 
+* **Evolution of the swim bladder set fish free**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/swimbladder.png">
 
 ## Evolution of Tetrapods
 <hr>
@@ -346,7 +375,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/tiktak2.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:525px; WIDTH:475px; HEIGHT:475px" SRC="images/tiktak2.jpg">
 
 ## Tiktaalik fossil (aka 'Fishapod')
 <hr>
@@ -361,12 +390,12 @@ output:
 
 <div style="float: right; width: 43%;">
 
-* **New selection of many terrestrial traits**
+* **Selection of many terrestrial traits**
     + head separated from body by a neck
     + add vertebrate to allow head to swing
     + bones of pelvis fuse to backbone
     + many species lost gills (became ears)
-    
+
 </div>
 
 ## Amphibians (frogs and salamanders)
@@ -379,13 +408,13 @@ output:
 
 * **Include salamanders, frogs and caecilians**
     + >6,000 species
-    + caecilians lost legs 
+    + caecilians lost legs
 
 <br/>
 
 * **Rely on skin for gas exchange**
     + live in moist habitats
-    
+
 <br/>
 
 * **Name means 'dual life'**
