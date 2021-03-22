@@ -171,11 +171,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/brach.jpg">
 
-## History of backbones: ~500 million years old
+## History of backbones: ~525 million years old
 <hr>
 <br/>
 
-<div style="float: left; width: 48%;">
+<div style="float: left; width: 50%;">
 
 * **Evolved while predators where developing**
     + Cambrian period
@@ -188,14 +188,14 @@ output:
 
 <br/>
 
-* **Vertebrates colonized land 365 mya**
+* **Vertebrates with limbs colonized land 365 mya**
 1. Amphibians
 2. Reptiles (w/ birds)
 3. Mammals
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/verts.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:570px; WIDTH:500px; HEIGHT:450px" SRC="images/verts.jpg">
 
 ## Hagfish and Lampreys
 <hr>
@@ -204,7 +204,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Only members of vertebrates without jaws**
-    + sister group
+    + sister group of jawless fish
 
 <br/>
 
@@ -262,14 +262,15 @@ output:
 <div style="float: left; width: 50%;">
 
 * **'Cartilage fishes': skeletons mostly cartilage**
-    + originated 400 mya
     + often with calcium
-
+    + originated 400 mya
+    
 <br/>
 
 * **Streamlined body for swift swimming**
     + poor maneuverability
-
+    + near constant motion
+    
 <br/>
 
 * **Birth via eggs or young develop inside mother**
@@ -306,7 +307,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 48%;">
+<div style="float: left; width: 45%;">
 
 * **Important derived traits for fishes:**
     + operculum:
@@ -319,7 +320,7 @@ output:
 
 <br/>
 
-* **Lobe-finned: rod-shaped bone surrounds by muscle in fins**
+* **Lobe-finned: rod-shaped bone surrounded by muscle in fins**
   + lungfish, *Coelacanths*, tetrapods
 
 </div>
@@ -383,12 +384,14 @@ output:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:600px; HEIGHT:450px" SRC="images/tiktak3.jpg">
 
 <div style="float: right; width: 43%;">
+
+* **Fossil found in river bed**
+
+<br/>
 
 * **Selection of many terrestrial traits**
     + head separated from body by a neck
