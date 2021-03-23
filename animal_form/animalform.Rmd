@@ -2,46 +2,48 @@
 title: "Animal Form and Function (Part 1)"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
-## Animal Form and Function (Part 1)
+<!-- ## Animal Form and Function (Part 1) -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/picture_phylo.jpg"> -->
+
+<!-- ## Animal form and function hash-tags -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- * **This lecture will cover animal form, by examining the development and diversity of body plans across the animal phylogeny** -->
+
+<!-- <br/> -->
+
+<!-- * **#EmbyroDevelop** -->
+
+<!-- <br/> -->
+
+
+<!-- * **#GermLayer** -->
+
+<!-- <br/> -->
+
+
+<!-- * **#BodyPlans** -->
+
+<!-- <br/> -->
+
+
+<!-- * **#WhyAnimalShape** -->
+
+## Body plans are coordinated to optimize biological function
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/picture_phylo.jpg">
-
-## Animal form and function hash-tags
-<hr>
-<br/>
-
-* **This lecture will cover animal form, by examining the development and diversity of body plans across the animal phylogeny**
-
-<br/>
-
-* **#EmbyroDevelop**
-
-<br/>
-
-
-* **#GermLayer**
-
-<br/>
-
-
-* **#BodyPlans**
-
-<br/>
-
-
-* **#WhyAnimalShape**
-
+<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bodyplan.png">
 
 ## Review: Animals are mutlticellular, eukaryotic heterotrophs 
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 65%;">
@@ -60,6 +62,10 @@ runtime: shiny
 * **Cells organized into tissues**
     + similar cells acting as a unit
     + muscle & nervous tissue allows animals to move
+
+<br/>    
+
+* **Body plan = programmed development driven by evolution**
 
 </div>
 
@@ -83,12 +89,12 @@ runtime: shiny
     
 <br/>
 
-* **Tissue layers develop in next stage**
+* **Tissue layers develop in next stage (gastrulation)**
     + develop into adult body parts
 
 <br/>
 
-* **Many animals then have larval and adult stage**
+* **Many animals have larval and adult stage**
     + larva are sexually immature
     + larva look, live and eat differently
 
@@ -100,6 +106,8 @@ runtime: shiny
 
 ## Protostomes vs Deuterostomes and the blastopore
 <hr>
+<br/>
+<br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:525px; HEIGHT:400px" SRC="images/gastrula.jpg">
@@ -131,19 +139,19 @@ runtime: shiny
 
 <br/>
 
-* **Ectoderm: layer at surface of embryo**
-    + turns into outer covering of animal
+* **Ectoderm: **
+    <!-- + turns into outer covering of animal -->
     
 <br/>
 
-* **Endoderm: innermost layer**
-    + turns into lining of digestive tract
-    + turns into lining of liver and lungs
+* **Endoderm: **
+    <!-- + turns into lining of digestive tract -->
+    <!-- + turns into lining of liver and lungs -->
 
 <br/>
 
-* **Mesoderm: fill space between ecto and endo**
-    + forms muscles and many organs
+* **Mesoderm: **
+    <!-- + forms muscles and many organs -->
     
 </div>
 
@@ -153,9 +161,8 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:900px; HEIGHT:600px" SRC="images/germlayers.jpg">
 
-## Body Cavities
+## Body Cavities in Triploblasts
 <hr>
-<br/>
 <br/>
 <br/>
 
@@ -163,13 +170,17 @@ runtime: shiny
 
 * **Fluid/air spaces between endoderm and body wall**
     + digestive track and body wall
-    
+
 <br/>   
-<br/>
-    
+
 * **Body cavity called coelom**
     + cushions organs
     + fluid resistance for muscles
+    + allows organs to move independently
+
+<br/>
+
+* **Not all triploblasts have a coelom**
 
 </div>
 
@@ -195,12 +206,13 @@ runtime: shiny
 
 * **Animals body plans are constrained by physical laws**
     + diffusion, movement, heat exchange
+    + gravity
 
 <br/>
 
 * **Example: Properties of water and animal shape**
     + water more dense = surface bumps cause drag
-    + natural selection favored tapered bodies
+    + natural selection favored tapered smooth bodies
     + convergent selection across aquatic mammals
     
 </div>
@@ -243,6 +255,7 @@ runtime: shiny
 
 * **Body plan optimized for surface area: tapeworms**
     + thin, flat shape
+    + lots of outer cells exposed to environment
 
 </div>
 
@@ -261,6 +274,7 @@ runtime: shiny
 
 * **Many animals (like humans) have more complex internal bodies**
     + reduces total # of cells on outer surface
+    + volume > surface area
     + 'think' whale versus flea
     
 <br/>
@@ -344,10 +358,10 @@ runtime: shiny
 <br/>
 
 * **There are a limited set of cells and tissues**
-1. *epithelial*: sheets of cells lining body or organs
-2. *connective*: tissue that holds tissues and organs together
-3. *muscle*: tissues responsible for movement
-4. *nervous*: receipt, processing and transmission of info
+1. *epithelial*: 
+2. *connective*: 
+3. *muscle*: 
+4. *nervous*: 
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/tissues2.jpg">
 
