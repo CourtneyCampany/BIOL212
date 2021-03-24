@@ -42,7 +42,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bodyplan.png">
 
-## Review: Animals are mutlticellular, eukaryotic heterotrophs 
+## Animals are mutlticellular, eukaryotic heterotrophs 
 <hr>
 <br/>
 
@@ -55,7 +55,7 @@ output:
 
 * **Lack structural support from cell walls**
     + external proteins connect and strengthen cells
-    + most abundant are *collagen* (not found in plants/animals)
+    + most abundant are *collagen* (not found in plants/fungi)
 
 <br/>
 
