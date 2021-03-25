@@ -2,33 +2,32 @@
 title: "Animal Form and Function (part 2)"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
-## How can japenese macaques live in the snow and the jungle?
-<hr>
+<!-- ## How can japenese macaques live in the snow and the jungle? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/monkeys.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/monkeys.jpg"> -->
 
-## Animal form and function hash-tags
-<hr>
-<br/>
+<!-- ## Animal form and function hash-tags -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **This lecture will cover animal function, by examining the mechanisms of homeostasis.**
+<!-- * **This lecture will cover animal function, by examining the mechanisms of homeostasis.** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#Homeostasis**
+<!-- * **#Homeostasis** -->
 
-<br/>
+<!-- <br/> -->
 
 
-* **#CircadianClocks**
+<!-- * **#CircadianClocks** -->
 
-<br/>
+<!-- <br/> -->
 
 
 * **#ThermoregulationBasics**
@@ -66,21 +65,21 @@ runtime: shiny
 
 <div style="float: left; width: 48%;">
 
-* **The external environment (especially land) is highly variable**
-    + fluctuates daily, seasonally, annually, etc
+* **The external environment is highly variable**
+    + fluctuates daily, seasonally, annually
+    + pronounced on land
 
 <br/>
 
 * **Animals must maintain internal stability**
-    + organs manage internal environment
     
 <br/>
 
-* **Regulators: internal mechanisms control internal change**
+* **Regulators: **
 
 <br/>
 
-* **Conformers: internal change in sync with external change**
+* **Conformers: **
 
 <br/>  
     
@@ -128,12 +127,12 @@ runtime: shiny
 ## Homeostasis is not constant
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 46%;">
 
 * **Regulation occurs @ different life stages**
-    + i.e. hormones at puberty
+    + hormones at puberty
+    + larva vs adults
 
 <br/>
 
@@ -142,8 +141,11 @@ runtime: shiny
 
 <br/>
 
-* **Circadian Rhythms = regulated changes on 24 cycle**
-    + Why do we get jet lag?
+* **Circadian Rhythms = **
+
+<br/>
+
+* **Why do humans get jet lag?**
 
 </div>
 
@@ -181,11 +183,10 @@ runtime: shiny
 
 ## Form and function together: *Thermoregulation* case study
 <hr>
-<br/>
 
 <div style="float: left; width: 54%;">
 
-* **Thermoregulation: maintaining body temperature within a range**
+* **Thermoregulation: **
     + impacts enzyme activity, cellular fluids, biochemistry
     + outside range may be fatal
     
@@ -204,13 +205,12 @@ runtime: shiny
 
 * **Ectotherms adjust temperature via behaviors**
     + seeking shade or sun
-    + ectotherms need to eat less!!
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:610px; WIDTH:475px; HEIGHT:375px" SRC="images/endoecto.jpg">
 
-## Stop saying animals are 'Cold or Warm blooded'!!!
+## Stop saying animals are 'Cold' or 'Warm' blooded
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/coldblood.jpg">
@@ -239,7 +239,7 @@ runtime: shiny
 <br/>
  
 * **Shivering common in birds and flying insects**
-    + 'warmed up' flight muscles
+    + 'warming up' flight muscles
 
 </div>
 
