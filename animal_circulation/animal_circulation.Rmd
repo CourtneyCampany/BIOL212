@@ -2,38 +2,37 @@
 title: "Animal circulation and gas exchange"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
-## What are those crazy feathers for?
-<hr>
+<!-- ## What are those crazy feathers for? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/newt.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/newt.jpg"> -->
 
-## Animal circulation and gas exchange hash-tags
-<hr>
-<br/>
+<!-- ## Animal circulation and gas exchange hash-tags -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **This lecture will cover animal circulation and gas exchange by examining species across the animal phylogeny**
+<!-- * **This lecture will cover animal circulation and gas exchange by examining species across the animal phylogeny** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#ExchangeTransportLink**
+<!-- * **#ExchangeTransportLink** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#CirculatoryBasics**
+<!-- * **#CirculatoryBasics** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#CirculatoryMammal**
+<!-- * **#CirculatoryMammal** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#RespiratoryStructures**
+<!-- * **#RespiratoryStructures** -->
 
 ## The big picture: circulation and gas exchange
 <hr>
@@ -46,11 +45,11 @@ runtime: shiny
 
 <br/>
 
-* **Respiratory systems: exchange with the environment**
+* **Respiratory systems: **
 
 <br/>
 
-* **Circulatory systems: transport between exchange sites and body**
+* **Circulatory systems: **
 
 <br/>
 
@@ -61,16 +60,15 @@ runtime: shiny
 
 ## Molecule trading
 <hr>
+<br/>
 
 <div style="float: left; width: 58%;">
 
 * **Small molecules can move between cells and their surroundings by *diffusion* **
-    + concentration gradients = net movement
 
 <br/>
 
 * **Diffusion is only efficient over small distances** 
-    + much slower over long distances
     
 <br/>
 
@@ -80,8 +78,8 @@ runtime: shiny
     
 <br/>
     
-* **Simple body: most cells in contact with environment**
-* **Not simple body requires circulatory system**
+* **Simple body plans: **
+* **Complex body plans: **
 
 </div>
 
@@ -120,9 +118,9 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **Circulatory systems have 3 components**
-1. *Heart*
-2. Interconnecting *vessels*
-3. Circulatory *fluid*
+1. 
+2. 
+3. 
 
 <br/>
 
@@ -131,7 +129,7 @@ runtime: shiny
 <br/>
 
 * **Mammals &rarr; O~2~ diffuses over 2 cell layers in lungs to reach blood**
-    + system then transports O~2~ rich blood to body 
+    + molecule trading works like a circuit 
 
 </div>
 
@@ -154,9 +152,9 @@ runtime: shiny
 <br/>
 
 * **3 main types of vessels**
-1. Arteries: carry blood from heart to organs
-2. Veins: carry blood back to heart
-3. Capillaries: microscopic vessels with pores that infiltrate tissues
+1. Arteries: 
+2. Veins: 
+3. Capillaries: 
 
 <br/>
 
@@ -166,7 +164,7 @@ runtime: shiny
     
 <br/>
 
-* **Number of chambers related to form and function via natural selection**
+* **Number of chambers related to form and function**
 
 </div>
 
@@ -206,9 +204,12 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 48%;">
+
+* **The heart contracts and relaxes in a rhythmic cycle called the cardiac cycle**
+
+<br/>
 
 * **Right ventricle pumps blood to the lungs via arteries**
 
@@ -248,28 +249,28 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/mammal1.jpg">
 
-## Mammalian heart 
-<hr>
-<br/> 
-<br/> 
-<br/> 
+<!-- ## Mammalian heart  -->
+<!-- <hr> -->
+<!-- <br/>  -->
+<!-- <br/>  -->
+<!-- <br/>  -->
 
-<div style="float: right; width: 55%;">
+<!-- <div style="float: right; width: 55%;"> -->
 
-* **Atria have thin walls and serve to collect blood returning to the heart**
+<!-- * **Atria have thin walls and serve to collect blood returning to the heart** -->
 
-<br/> 
+<!-- <br/>  -->
 
-* **Ventricles have thicker walls and contract much more forcefully**
+<!-- * **Ventricles have thicker walls and contract much more forcefully** -->
 
-<br/>   
+<!-- <br/>    -->
 
-* **The heart contracts and relaxes in a rhythmic cycle called the cardiac cycle**
-    + 4 valves prevent back flow of blood in the heart
+<!-- * **The heart contracts and relaxes in a rhythmic cycle called the cardiac cycle** -->
+<!--     + 4 valves prevent back flow of blood in the heart -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:400px" SRC="images/mammal2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:400px" SRC="images/mammal2.jpg"> -->
 
 ## Blood flow
 <hr>
@@ -284,7 +285,7 @@ runtime: shiny
 <br/> 
 
 * **Blood flows from areas of higher pressure to low**
-    + resistance to flow in narrow diameters capillaries dissipates pressure
+    + narrow diameters capillaries decrease pressure
 
 <br/>
 
@@ -304,7 +305,7 @@ runtime: shiny
 
 <div style="float: left; width: 55%;">
 
-* **Gas exchange = uptake of O~2~ from environment and release of CO~2~**
+* **Gas exchange = uptake of O~2~ and release of CO~2~**
     + O~2~ is abundant in the air (21%)
     + fairly easily to 'breath'
     
@@ -341,7 +342,7 @@ runtime: shiny
 * **Respiratory organs evolve**
     + Gills &rarr; aquatic animals
     + Trachea &rarr; insects
-    + lungs &rarr; reptiles and mammals
+    + Lungs &rarr; reptiles and mammals
 
 </div>
 
@@ -369,6 +370,7 @@ runtime: shiny
 ## Coordination of circulation and gas exchange
 <hr>
 <br/>
+<br/>
 
 <div style="float: left; width: 53%;">
 
@@ -378,15 +380,12 @@ runtime: shiny
 <br/>
 
 * **During inhalation, fresh air fills in lung**
-    + air mixture has more O~2~ than blood
-    + blood has less CO~2~ than mixture
-    + diffusion occurs
+    + molecule trading occurs via diffusion
 
 <br/>
     
 * **Blood is then pumped through circuit**
     + O~2~ carried in pigments (metal bound to protein)
-    + gradients of O~2~ and CO~2~ drive diffusion in body
 
 </div>
 
@@ -394,5 +393,5 @@ runtime: shiny
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/bloodchemistry.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/bloodchemistry.jpg">
 

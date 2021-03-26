@@ -30,7 +30,7 @@ output:
 <!-- <br/> -->
 
 
-* **#ThermoregulationBasics**
+<!-- * **#ThermoregulationBasics** -->
 
 ## Coordination and control of tisses and organs
 <hr>
@@ -188,7 +188,6 @@ output:
 
 * **Thermoregulation: **
     + impacts enzyme activity, cellular fluids, biochemistry
-    + outside range may be fatal
     
 <br/>   
     
