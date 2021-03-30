@@ -159,8 +159,8 @@ output:
 <br/>
 
 * **Hearts of vertebrates have 2+ muscular chambers**
-    + *atria* are chambers that receive blood
-    + *ventricles* pump blood out
+    + *atria*:
+    + *ventricles*:
     
 <br/>
 
@@ -173,7 +173,7 @@ output:
 ## Single vs Double circulation
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/vertebrate.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:950px; HEIGHT:450px" SRC="images/vertebrate.jpg">
 
 ## Evolutionary variation: 3 chambered heart
 <hr>
@@ -200,7 +200,7 @@ output:
 
 </div>
 
-## Mammalian Circulation (2 circuits)
+## Mammalian Circulation (1st circuit)
 <hr>
 <br/>
 <br/>
@@ -225,7 +225,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/mammal1.jpg">
 
-## Mammalian Circulation (2 circuits)
+## Mammalian Circulation (2nd circuit)
 <hr>
 
 <div style="float: left; width: 52%;">
@@ -285,7 +285,7 @@ output:
 <br/> 
 
 * **Blood flows from areas of higher pressure to low**
-    + narrow diameters capillaries decrease pressure
+    + narrow diameter capillaries decrease pressure
 
 <br/>
 
@@ -320,7 +320,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:450px; HEIGHT:400px" SRC="images/gasexchange.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:595px; WIDTH:500px; HEIGHT:450px" SRC="images/gasexchange.jpg">
     
 ## Respiratory Surfaces
 <hr>

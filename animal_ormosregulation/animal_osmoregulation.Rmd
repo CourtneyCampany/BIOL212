@@ -2,10 +2,9 @@
 title: "Animal osmoregulation and excretion"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Do albatross drink salt water?
@@ -28,34 +27,34 @@ runtime: shiny
     
 <br/>
 
-* **Homeostasis thus requires osmoregulation: process by which animals control solute concentrations**
+* **Homeostasis requires *osmoregulation*: **
     + Balance water gain and loss
  
  </div>
  
 <IMG STYLE="position:absolute; TOP:250px; LEFT:570px; WIDTH:500px; HEIGHT:350px" SRC="images/albatross.jpg">
     
-## Osmoregulation and Excretion hash-tags
-<hr>
-<br/>
+<!-- ## Osmoregulation and Excretion hash-tags -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **This lecture will cover animal osmoregulation and excretion, which are necessary for homeostasis in different environments**
+<!-- * **This lecture will cover animal osmoregulation and excretion, which are necessary for homeostasis in different environments** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#SoluteMovement**
+<!-- * **#SoluteMovement** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#ConformRegulate**
+<!-- * **#ConformRegulate** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#PoopTypes**
+<!-- * **#PoopTypes** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#KidneyBasics**
+<!-- * **#KidneyBasics** -->
 
 ## The big picture: Osmoregulation and excretion
 <hr>
@@ -70,9 +69,9 @@ runtime: shiny
 
 <br/>
 
-* **Regulating chemical composition of fluids depends on balance of uptake and loss of water and solutes**
-    + excessive water uptake = cells burst
-    + substantial water loss = cells shrivel
+* **Animals will have 'cell problems' if they do not regulate solutes**
+    + excessive water uptake = 
+    + substantial water loss = 
     
 
 <br/>
@@ -86,12 +85,13 @@ runtime: shiny
 
 ## Osmosis and Osmolarity
 <hr>
+<br/>
 
 <div style="float: left; width: 52%;">
 
 * **Water enters and leaves the cells by osmosis**
     + 2 solutions on either side of a membrane with different solute concentrations
-    + *osmolarity* = the # mols of solute / liter of solution
+    + *osmolarity* = 
     
 <br/>
 
@@ -101,8 +101,8 @@ runtime: shiny
 <br/>
 
 * **If osmolarity differs, water moves from high solute concentration to low**
-    + hyperosmotic = solution with higher [solutes]
-    + hypoosmotic = solution with lower [solutes]
+    + hyperosmotic = 
+    + hypoosmotic = 
 
 </div>
 
@@ -142,8 +142,16 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/freshwaterfish.jpg">
 
+## What happens in migrating salmon?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/salmon.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/salmonrun.jpg">
+
 ## Land Animals
 <hr>
+<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -158,7 +166,7 @@ runtime: shiny
 <br/>
 
 * **Animal behaviors also adapt**
-    + many desert animals are nocturnal
+    + many desert animals are...
     
 <br/>
 
@@ -177,11 +185,11 @@ runtime: shiny
 <div style="float: left; width: 51%;">
 
 * **Diffusion tends to equalize fluids**
-    + regulators expend energy to move water in/out
+    + regulators expend energy to avoid this
 
 <br/>
 
-* **Amount of energy depends on difference with surroundings**
+* **Amount of energy depends on surroundings**
     + 5% of metabolism in many fish
     + 30% of metabolism in shrimp in salty lakes
 
@@ -191,12 +199,6 @@ runtime: shiny
     + lower [solute] in freshwater
     + higher [solute] in marine
     + minimizes energy costs
-    
-<br/>
-
-* **Animals always losing water**
-    + urine, feces & gas exchange organs
-    + must drink, eat or produce water metabolically
 
 </div>
 
@@ -205,7 +207,9 @@ runtime: shiny
 ## Poop has a large impact on water balance
 <hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/wastes.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/wastes.jpg">
+
+<IMG STYLE="position:absolute; TOP:500px; LEFT:650px; WIDTH:300px; HEIGHT:200px" SRC="images/tadpole.jpg">
 
 <div style="float: left; width: 50%;">
 
@@ -214,27 +218,30 @@ runtime: shiny
     
 <br/>
  
-* **Ammonia: (NH~3~) is toxic, so needs to be diluted**
-    + common waste product in animals
+* **Ammonia: (NH~3~) is toxic, needs to be diluted**
+    + common waste in aquatic animals
 
 <br/>
 
 * **Urea: NH~3~ + CO~2~ in liver**
-    + less toxic + energy expensive to make
+    + less toxic
+    + energy expensive to produce
 
 <br/>
 
-* **Uric Acid: non-toxic and not dissoluble**
+* **Uric Acid: non-toxic and insoluble**
     + excreted with little water loss
     + most expensive to make
     
 </div>
 
-## Excretory systems are filter body fluids
+## Excretory systems filter body fluids
 <hr>
 <br/>
+<br/>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
 * **Excretory systems regulate solute movement**
     + internal fluids &larr; &rarr; environment
@@ -242,16 +249,14 @@ runtime: shiny
 <br/>
 
 * **Many animals produce urine (fluid waste)**
-1. Body fluid brought in contact to excretory system
-2. 'Blood pressure' drives filtration
-3. Only small molecules and water cross membranes
-4. This *filtrate*  converted to waste fluid
-5. Some good molecules and water reabsorbed
-6. Leftover urine excreted
+1. *Filtration*:
+2. *Reabsorption*:
+3. *Secretion*:
+4. *Excretion*:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:250px; HEIGHT:450px" SRC="images/tubular.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:275px; HEIGHT:475px" SRC="images/tubular.jpg">
 
 ## Excretory systems are diverse in animals
 <hr>
@@ -259,16 +264,16 @@ runtime: shiny
 <br/>  
 <br/>  
 
-<div style="float: left; width: 52%;">
+<div style="float: right; width: 52%;">
 
-* **Generally, network of tubes with large surface area**
+* **Network of tubes with large surface area**
     + large exchange of water, solutes & wastes
-    + Insects: nearly all water reabsorbed
-    + Vertebrates: kidney used for osmoregulation & excretion
+    + *Insects*: nearly all water reabsorbed
+    + *Vertebrates*: kidney used for osmoregulation & excretion
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:585px; WIDTH:500px; HEIGHT:350px" SRC="images/worm.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:5px; WIDTH:500px; HEIGHT:350px" SRC="images/worm.jpg">
 
 ## Excretory systems are diverse in animals
 <hr>
@@ -279,11 +284,12 @@ runtime: shiny
 <div style="float: left; width: 55%;">
 
 * **Mammalian Kidneys: filters blood**
-    + inner and outer regions (cortex & medulla)
+    + *cortex*:
+    + *medulla*:
     + regions packed with excretory tubules
     + tubules create filtrate from blood
-    + fluid reabsorbed and leaves via vein
-    + filtrate leaves ureter as urine
+    + fluid reabsorbed and exits via vein
+    + *ureter*:
 
 </div>
 
