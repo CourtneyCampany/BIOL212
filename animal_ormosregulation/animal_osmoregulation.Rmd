@@ -100,7 +100,7 @@ output:
     
 <br/>
 
-* **If osmolarity differs, water moves from high solute concentration to low**
+* **Water moves from low to high osmolarity**
     + hyperosmotic = 
     + hypoosmotic = 
 
@@ -114,13 +114,13 @@ output:
 
 <div style="float: right; width: 48%;">
 
-* **Animals maintain water balance by *conforming* to surroundings**
+* **Animals maintain water balance by *osmoconforming* to surroundings**
     + internal osmolarity = environment
     + many marine animals
     
 <br/>
 
-* **Animals maintain water balance by *regulating* internal osmolarity**
+* **Animals maintain water balance by *osmoregulating* internal osmolarity**
     + may have discharge or uptake water
     + common for freshwater/terrestrial animals
 
@@ -135,7 +135,7 @@ output:
 ## Marine Animals (drink lots of seawater!)
 <hr>
     
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/marinefish.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:235px; WIDTH:625px; HEIGHT:475px" SRC="images/marinefish.jpg">
 
 ## Freshwater Animals (lots of excretion!)
 <hr>
@@ -185,7 +185,7 @@ output:
 <div style="float: left; width: 51%;">
 
 * **Diffusion tends to equalize fluids**
-    + regulators expend energy to avoid this
+    + osmoregulators expend energy to avoid this
 
 <br/>
 
@@ -226,7 +226,8 @@ output:
 * **Urea: NH~3~ + CO~2~ in liver**
     + less toxic
     + energy expensive to produce
-
+    + requires less water
+    
 <br/>
 
 * **Uric Acid: non-toxic and insoluble**
@@ -245,6 +246,7 @@ output:
 
 * **Excretory systems regulate solute movement**
     + internal fluids &larr; &rarr; environment
+    + key for water balance
     
 <br/>
 

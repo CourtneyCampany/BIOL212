@@ -2,37 +2,37 @@
 title: "Animal Reproduction"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
+
 ---
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/coral_spawn.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/coral_spawn.jpg"> -->
 
-## Animal reproduction hash-tags
-<hr>
-<br/>
+<!-- ## Animal reproduction hash-tags -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **This lecture will cover general animal reproduction, with a specific focus on reproductive systems in mammals**
+<!-- * **This lecture will cover general animal reproduction, with a specific focus on reproductive systems in mammals** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#AsexualTypes**
+<!-- * **#AsexualTypes** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#SexualDiversity**
+<!-- * **#SexualDiversity** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#Gamete Basics**
+<!-- * **#Gamete Basics** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#MammalHormones**
+<!-- * **#MammalHormones** -->
 
 ## The big picture: Variation in animal reproduction
 <hr>
@@ -48,8 +48,8 @@ runtime: shiny
 <br/>
 
 * **Two modes of reproduction in animal kingdom**
-    1. Sexual: fusion of haploid gametes
-    2. Asexual: no fusion of haploid gametes
+    1. Sexual: 
+    2. Asexual: 
 
 <br/>
 
@@ -70,24 +70,24 @@ runtime: shiny
 
 <div style="float: left; width: 65%;">
 
-* **Budding: individuals arise from outgrowths of existing one**
+* **Budding: **
     + found among invertebrates
     
 <br/>
 
-* **Fission: separation of a parent into 2+ individuals**
+* **Fission: **
     + about the same size
     + found among invertebrates
 
 <br/>
 
-* **Fragmentation: break body into pieces, develop into adults**
+* **Fragmentation: **
     + accompanied by regeneration of lost body parts
     + sponges, worms, starfish
 
 <br/>
     
-* **Parthenogenesis: development from unfertilized egg**
+* **Parthenogenesis: **
     + found among invertebrates and vertebrates
 
 </div>
@@ -150,7 +150,6 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 * **Ovulation: release of eggs at midpoint of female cycle**
     + cycles are variable in length, synced with seasons
     + sheep: cycle + pregnancy = birth in spring
-    + temperature, food and water availability and predation
 
 <br/>
 
@@ -174,7 +173,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <div style="float: left; width: 50%;">
 
-* **Union of egg and sperm = *Fertilization* **
+* **Fertilization =  **
     + can be external or internal
 
 <br/>
@@ -182,7 +181,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 * **External: eggs shed by the female & fertilized by sperm in the environment**
     + moist habitat always required
-    + *spawning*: individuals release gametes at same time
+    + *spawning*: 
 
 </div>
 
@@ -196,7 +195,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <div style="float: left; width: 55%;">
 
-* **Union of egg and sperm = *Fertilization* **
+* **Fertilization: **
     + can be external or internal
 
 <br/>
@@ -213,7 +212,9 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 ## Pheromones in humans?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/phermones.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:600px; HEIGHT:450px" SRC="images/phermones.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/cologne.jpg">
 
 ## Internal vs External: Offspring survival
 <hr>
@@ -247,7 +248,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <br/>   
 
-* **Individuals usually have *gonads* that produce gametes**
+* **Animals usually have *gonads* that produce gametes**
     + essential for sexual reproduction
     + often established early in embryo development
 
@@ -269,11 +270,13 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 ## Mammalian reproduction governed by hormones
 <hr>
 <br/> 
+<br/>
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 58%;">
 
 * **Hormones coordinated from many glands/organs**
     + hypothalamus, pituitary and gonads
+    + endocrine system
     
 <br/> 
 
@@ -303,17 +306,17 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <br/>   
 
-* **In male embryos direct reproductive structures**
+* **Male embryos: direct reproductive structures**
 
 <br/>  
 
-* **In maturing mammals induce sex characteristics**
+* **Maturing mammals: induce sex characteristics**
     + physical/behavior differences (male/female)
     
 <br/>  
 
-* **At maturity play role in gamete formation**
-
+* **Mature mammals: play role in gamete formation**
+  
 </div>
 
 <IMG STYLE="position:absolute; TOP:215px; LEFT:610px; WIDTH:450px; HEIGHT:400px" SRC="images/secondary.jpg">
@@ -323,22 +326,26 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/male.jpg">
 
-## 2 linked cycles in females
+## Most female mammals have an ovarian cycle
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 58%;">
 
-* **Changes in the ovaries define the ovarian cycle**
-    + preparation of endocrine tissues and release of eggs
+* **Some females have linked menstrual cycle**
+    + 10 primates, elephant shrew, some bats, spiny mouse
+
+<br/>
+
+* **Ovarian cycle:**
+    + series of changes in ovaries
     
 <br/>
  
-* **Changes in the uterus define the menstrual cycle**
+* **Menstrual cycle:**
     + endometrium thickens with blood vessels
     + preparation for embryo implantation
-    + if an embryo does not implant, the endometrium is shed 
+    + if embryo does not implant, endometrium is shed 
 
 <br/>
  
@@ -351,43 +358,43 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
     
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:75px; WIDTH:900px; HEIGHT:550px" SRC="images/twocycle.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:275px; WIDTH:500px; HEIGHT:600px" SRC="images/hormonesfemale.jpg">
 
 
-## Placental mammals (embryo develops in uterus): *Fertilization*
-<hr>
+<!-- ## Placental mammals (embryo develops in uterus): *Fertilization* -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/fertilization.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/fertilization.jpg"> -->
 
-## Placental mammals (embryo develops in uterus): *Pregnancy*
-<hr>
-<br/>
-<br/>
+<!-- ## Placental mammals (embryo develops in uterus): *Pregnancy* -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Pregnancy (gestation): carrying one or more embryos in the uterus**
-    + Not all embryos are capable of completing development
+<!-- * **Pregnancy (gestation): carrying one or more embryos in the uterus** -->
+<!--     + Not all embryos are capable of completing development -->
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Duration of pregnancy correlates with body size and maturity of the young at birth**
+<!-- * **Duration of pregnancy correlates with body size and maturity of the young at birth** -->
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Blood from embryo travels to placenta through arteries of the umbilical cord**
-    + returns via the umbilical vein
+<!-- * **Blood from embryo travels to placenta through arteries of the umbilical cord** -->
+<!--     + returns via the umbilical vein -->
 
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:900px; HEIGHT:450px" SRC="images/placenta.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:900px; HEIGHT:450px" SRC="images/placenta.jpg"> -->
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/pregnancy.png">
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/pregnancy.png"> -->
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/gestationmass.jpeg">
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/gestationmass.jpeg"> -->
 
 <!-- ## Placental mammals (embryo develops in uterus): *Birth* -->
 <!-- <hr> -->
@@ -411,11 +418,11 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/labor.jpg"> -->
 
-## Differences between the 3 types of mammals
-<hr>
+<!-- ## Differences between the 3 types of mammals -->
+<!-- <hr> -->
 
-https://www.youtube.com/watch?v=sz3Yv3On4lE
+<!-- https://www.youtube.com/watch?v=sz3Yv3On4lE -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/mammals.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/mammals.jpg"> -->
 
 
