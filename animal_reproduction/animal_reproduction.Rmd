@@ -243,13 +243,13 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 ## Making and delivering gametes
 <hr>
+<br/>   
 
 <div style="float: left; width: 60%;">
 
 <br/>   
 
 * **Animals usually have *gonads* that produce gametes**
-    + essential for sexual reproduction
     + often established early in embryo development
 
 <br/>   
@@ -306,7 +306,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <br/>   
 
-* **Male embryos: direct reproductive structures**
+* **Embryos: develop reproductive structures**
 
 <br/>  
 
@@ -354,7 +354,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:620px; WIDTH:500px; HEIGHT:400px" SRC="images/anatomy.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:500px; HEIGHT:400px" SRC="images/anatomy.jpg">
     
 ##
 

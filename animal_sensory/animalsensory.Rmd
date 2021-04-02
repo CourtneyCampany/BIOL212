@@ -13,25 +13,25 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/mole.jpg">
 
-## Animal Sensory hash-tags
-<hr>
-<br/>
+<!-- ## Animal Sensory hash-tags -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **This lecture unpacks the mechanisms by which animals detect and process behaviors**
+<!-- * **This lecture unpacks the mechanisms by which animals detect and process behaviors** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#SensoryPath**
+<!-- * **#SensoryPath** -->
 
-<br/>
-
-
-* **#ReceptorTypes**
-
-<br/>
+<!-- <br/> -->
 
 
-* **#HowAnimalsHear**
+<!-- * **#ReceptorTypes** -->
+
+<!-- <br/> -->
+
+
+<!-- * **#HowAnimalsHear** -->
 
 
 ## The Big Picture:
@@ -66,8 +66,8 @@ runtime: shiny
 
 <div style="float: left; width: 53%;">
 
-* **Sensory pathway: chain of neurons, from receptor organ to nervous system**   
-    + *neurons* = cells transmitting nerve impulses
+* **Sensory pathway: **   
+    + *neurons* = 
     + perception of sensations
 
 <br/>
@@ -77,19 +77,19 @@ runtime: shiny
 
 <br/>
 
-* **Sensory reception: detection of stimulus by sensory cells**
+* **(1) Sensory reception: **
     + sensory cells are specialized neurons
     + inside or outside body
 
 </div>
 
-## Sensory Transduction: Converting signals
+## (2) Sensory Transduction: Converting signals
 <hr>
 <br/>
 
 <div style="float: left; width: 55%;">
 
-* **Transduction: conversion of stimulus into change in membrane potential**
+* **Transduction: **
     + strength of stimulus determine how much
 
 <br/>
@@ -107,27 +107,27 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/radio.jpg">
 
-## Sensory Transmission: action potentials (nerve impulse)
+## (3) Sensory Transmission: action potentials (nerve impulse)
 <hr>
 <br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:475px; HEIGHT:250px" SRC="images/actionpot.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:15px; WIDTH:475px; HEIGHT:250px" SRC="images/actionpot.jpg">
 
 <div style="float: right; width: 55%;">
 
-* **Sensory information travels through nervous system as action potentials**
+* **Transmission:**
 
 <br/>
 
-* **Action potential: explosion of electrical activity created by a depolarizing current**
+* **Action potential: **
     + caused by change in membrane potential
-    + remember 'ion channels'
 
 <br/>
 
 * **Receptor generates action potentials that travel to central nervous system**
     + large stimulus = more action potentials
-    + frequency of action potentials matter
 
 </div>
 
@@ -141,14 +141,14 @@ runtime: shiny
 
 https://www.youtube.com/watch?v=XnksofQN8_s
 
-## Sensory Perception: Processing the stimulus
+## (4) Sensory Perception: Processing the stimulus
 <hr>
 <br/>
 <br/>
 
 <div style="float: left; width: 54%;">
 
-* **Perception: brain processes stimuli from sensory receptors**
+* **Perception: **
 
 <br/>
 
@@ -207,17 +207,20 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 <div style="float: right; width: 59%;">
 
-* **Transmit information about solute concentration**
+* **(1) Transmit information about solute concentration**
     + detect change in blood solutes &rarr; stimulate thirst
 
 <br/>
 
-* **Respond to individual kinds of molecules**
+* **(2) Respond to individual kinds of molecules**
     + glucose, O~2~, CO~2~, amino acids
 
 <br/>
 
 * **Stimulus molecule binds to a chemoreceptor**
+
+<br/>
+
 * **Chemoreceptor becomes more or less permeable to ions**
     + silk worms detect pheromones from females several kilometers away
     
@@ -315,62 +318,62 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 <IMG STYLE="position:absolute; TOP:215px; LEFT:625px; WIDTH:400px; HEIGHT:375px" SRC="images/pain.gif">
 
-## Equilibrium and hearing: Mechanoreceptors
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- ## Equilibrium and hearing: Mechanoreceptors -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 53%;">
+<!-- <div style="float: left; width: 53%;"> -->
 
-* **Hearing is closely related to balance in animals**
+<!-- * **Hearing is closely related to balance in animals** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Invertebrates use *statocysts* to sense gravity**
-    + sand in a chamber with cilia and receptors
-    + sand re-positions when animal moves
-    
-<br/>
+<!-- * **Invertebrates use *statocysts* to sense gravity** -->
+<!--     + sand in a chamber with cilia and receptors -->
+<!--     + sand re-positions when animal moves -->
 
-* **Insects have hairs that vibrate with sound waves**
-    + tuning fork for mating
+<!-- <br/> -->
 
-</div>
+<!-- * **Insects have hairs that vibrate with sound waves** -->
+<!--     + tuning fork for mating -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/stato.jpg">
+<!-- </div> -->
 
-## Equilibrium and hearing: Mechanoreceptors
-<hr>
-<br/>
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/stato.jpg"> -->
 
-<div style="float: left; width: 55%;">
+<!-- ## Equilibrium and hearing: Mechanoreceptors -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **Hearing is closely related to balance in animals**
-    + *Ear*: mammal sensory organ for hearing and equilibrium
-    
-<br/>
+<!-- <div style="float: left; width: 55%;"> -->
 
-* **Hearing: vibrating objects create pressure waves**
-    + ear *transduces* this stimulus into nerve impulses
-    + involves 'hair' cells
-    + brain perceives as sound
+<!-- * **Hearing is closely related to balance in animals** -->
+<!--     + *Ear*: mammal sensory organ for hearing and equilibrium -->
 
-<br/>
+<!-- <br/> -->
 
-* **Equilibrium: organs in inner ear**
-    + hair cells, gels and canals
-    + detect movement, position, and balance  
-    
-</div>
+<!-- * **Hearing: vibrating objects create pressure waves** -->
+<!--     + ear *transduces* this stimulus into nerve impulses -->
+<!--     + involves 'hair' cells -->
+<!--     + brain perceives as sound -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:570px; WIDTH:500px; HEIGHT:300px" SRC="images/ear.jpg">
+<!-- <br/> -->
 
-## Equilibrium and hearing: lateral line
-<hr>
-<br/>
+<!-- * **Equilibrium: organs in inner ear** -->
+<!--     + hair cells, gels and canals -->
+<!--     + detect movement, position, and balance   -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/lateralline.jpg">
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:570px; WIDTH:500px; HEIGHT:300px" SRC="images/ear.jpg"> -->
+
+<!-- ## Equilibrium and hearing: lateral line -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/lateralline.jpg"> -->
 
 <!-- ## Evolution of visual perception -->
 <!-- <hr> -->
