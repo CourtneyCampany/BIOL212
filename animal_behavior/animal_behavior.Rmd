@@ -2,10 +2,9 @@
 title: "Animal Behavior"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Why is that crab waving at me?
@@ -15,28 +14,28 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fidcrab.png">
 
-## Animal behavior hash-tags
-<hr>
-<br/>
+<!-- ## Animal behavior hash-tags -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **This lecture will cover the evolution of animal behaviors across the animal phylogeny**
-    + understand each of Tinbergen's questions and know examples for each
+<!-- * **This lecture will cover the evolution of animal behaviors across the animal phylogeny** -->
+<!--     + understand each of Tinbergen's questions and know examples for each -->
 
-<br/>
+<!-- <br/> -->
 
-* **#TinbergenQ1**
+<!-- * **#TinbergenQ1** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#TinbergenQ2**
+<!-- * **#TinbergenQ2** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#TinbergenQ3**
+<!-- * **#TinbergenQ3** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#TinbergenQ4**
+<!-- * **#TinbergenQ4** -->
 
 ## The big picture: Animal behavior
 <hr>
@@ -46,7 +45,7 @@ runtime: shiny
 
 <div style="float: left; width: 60%;">
 
-* **A behavior is an action carried out by muscles under control of the nervous system**
+* **Behavior:**
 
 <br/>
 
@@ -55,8 +54,7 @@ runtime: shiny
 <br/>
 
 * **Behaviors have a genetic basis**
-    + allows evolution of natural selection
-    + based on the fitness of *who*?
+    + allows evolution by natural selection
 
 </div>
 
@@ -69,19 +67,23 @@ runtime: shiny
 
 <div style="float: left; width: 58%;">
 
-* **What stimulus elicits the behavior, and what physiological mechanisms mediate the response?**
+* **Q1. What stimulus elicits the behavior, and what physiological mechanisms mediate the response?**
 
 <br/>
 
-* **How does the animal’s experience during growth and development influence the response?**
+* **Q2. How does the animal’s experience during growth and development influence the response?**
 
 <br/>
 
-* **How does the behavior aid survival and reproduction?**
+* **Q3. How does the behavior aid survival and reproduction?**
 
 <br/>
 
-* **What is the behavior’s evolutionary history?**
+* **Q4. What is the behavior’s evolutionary history?**
+
+<br/>
+
+**Take home message: **
 
 </div>
 
@@ -104,7 +106,7 @@ runtime: shiny
 
 <br/>
 
-* **Fixed Action Pattern: sequence of unlearned acts linked to a simple stimulus**
+* **Fixed Action Pattern: **
     + developmentally 'fixed' &rarr; *innate* behavior
     + trigger = *sign stimulus* (i.e. red color)
 
@@ -157,7 +159,7 @@ runtime: shiny
  <br/>
  
 * **Behaviors rhythms related to lunar cycles**
-    + includes tides (e.g. crab reproduction)
+    + includes tides (e.g. crab reproduction, turtle nesting)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:660px; WIDTH:400px; HEIGHT:400px" SRC="images/turtles.jpg">
 
@@ -169,13 +171,13 @@ runtime: shiny
 
 <div style="float: left; width: 57%;">
 
-* **Signal: stimulus transmitted from one animal to another**
+* **Signal: **
     + male waving claw at female crab
 
 <br/>
 
 * **Communication: transmission and reception of signals**
-    + plays a role in proximate causes ('the How')
+    + plays a role in primary cause ('the How')
 
 <br/>
 
@@ -237,48 +239,48 @@ runtime: shiny
 <br/>
 
 * **The amount of information communicated is variable**
-    + regardless of form
+    + read Honey Bee dance language in book
     
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:425px; HEIGHT:450px" SRC="images/nocturnal.png">
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/honeybeedance.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/honeybeedance.jpg"> -->
 
-## Pheromones: How animals communicate through odors/taste
-<hr>
-<br/> 
+<!-- ## Pheromones: How animals communicate through odors/taste -->
+<!-- <hr> -->
+<!-- <br/>  -->
 
-<div style="float: right; width: 60%;">
+<!-- <div style="float: right; width: 60%;"> -->
 
-* **Pheromones: chemical substances emitted by animals**
-    + common among mammals and insects
-    
-<br/> 
+<!-- * **Pheromones: chemical substances emitted by animals** -->
+<!--     + common among mammals and insects -->
 
-* **Can signal behaviors over longs distances**
-    + Male silkworms detect female pheromones miles away 
-    
-<br/>   
+<!-- <br/>  -->
 
-* **Maintain social behaviors in bees**
-    + 'Queen substance' &rarr; brings workers, inhibits ovaries in workers and attracts male drones
+<!-- * **Can signal behaviors over longs distances** -->
+<!--     + Male silkworms detect female pheromones miles away  -->
 
-<br/>  
+<!-- <br/>    -->
 
-* **Serve as alarms**
-    + release injury signals to warn nearby animals
-    
-</div>
+<!-- * **Maintain social behaviors in bees** -->
+<!--     + 'Queen substance' &rarr; brings workers, inhibits ovaries in workers and attracts male drones -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:400px; HEIGHT:450px" SRC="images/alarm.jpg">
+<!-- <br/>   -->
+
+<!-- * **Serve as alarms** -->
+<!--     + release injury signals to warn nearby animals -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:400px; HEIGHT:450px" SRC="images/alarm.jpg"> -->
 
 ## Experience and behavior
 <hr>
 
-* **Tinbergen Q2: How does the animal’s experience during growth and development influence behavior?**
+* **Q2: How does the animal’s experience during growth and development influence behavior?**
     
 <br/> 
 
@@ -287,7 +289,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:225px; WIDTH:600px; HEIGHT:350px" SRC="images/crossmice.jpg">
+<IMG STYLE="position:absolute; TOP:340px; LEFT:225px; WIDTH:600px; HEIGHT:350px" SRC="images/crossmice.jpg">
 
 ## The capacity to *learn* in the animal kingdom
 <hr>
@@ -295,12 +297,13 @@ runtime: shiny
 
 <div style="float: left; width: 60%;">
 
-* **Learning:  modification of behavior as a result of specific experiences**
+* **Learning:  **
 
 <br/>
 
 * **Learning capacity &rarr; nervous system organization during development**
     + genome encoded
+    + finches can sing, but learn song from father
 
 <br/>
 
@@ -308,7 +311,7 @@ runtime: shiny
 
 <br/>
 
-* **Types: Imprinting, Spatial, Associative, Cognitive, Social**
+* **Learning Types: Imprinting, Spatial, Associative, Cognitive, Social**
 
 </div>
 
@@ -361,12 +364,12 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:585px; WIDTH:500px; HEIGHT:300px" SRC="images/fruitfly.jpg">
 
-## Optimal Foraging (*new Extra Credit*)
-<hr>
+<!-- ## Optimal Foraging (*new Extra Credit*) -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:500px; HEIGHT:400px" SRC="images/marginal.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:500px; HEIGHT:400px" SRC="images/marginal.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:350px; HEIGHT:400px" SRC="images/risso.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:350px; HEIGHT:400px" SRC="images/risso.jpg"> -->
 
 ## Evolution of mate choice (Tinbergen Q3: Why?)
 <hr>
@@ -430,7 +433,7 @@ runtime: shiny
 
 <br/>
 
-* **Altruism: behavior that reduces one's fitness but increases fitness of others**
+* **Altruism: **
     + sterile male bees
     + animals that vocalize warning calls
 
