@@ -42,6 +42,7 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
 
 <div style="float: left; width: 60%;">
 
@@ -49,12 +50,12 @@ output:
 
 <br/>
 
-* **Learning connects experience and behavior **
+* **Behaviors have a genetic basis**
+    + allows evolution by natural selection
 
 <br/>
 
-* **Behaviors have a genetic basis**
-    + allows evolution by natural selection
+* **Learning connects experience and behavior **
 
 </div>
 
@@ -167,9 +168,12 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 57%;">
+
+* **Stimulus may come from other animals (Q1)**
+
+<br/>
 
 * **Signal: **
     + male waving claw at female crab
@@ -425,6 +429,7 @@ output:
 
 ## Are all behaviors evolved to be selfish?
 <hr>
+<br/>
 
 <div style="float: left; width: 58%;">
 

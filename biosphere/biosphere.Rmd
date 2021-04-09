@@ -2,45 +2,17 @@
 title: "Ecology and the biosphere"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
-## Ecology and the biosphere
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/title.jpg">
-
-## Ecology: interactions between organisms & their environment
+## Ecology: 
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/clown.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/network.jpg">
-
-## Ecology and the biosphere hash-tags
-<hr>
-<br/>
-
-* **This lecture will cover a broad introduction into ecology and role the Earth's climate plays**
-
-<br/>
-
-* **#RoundEarth**
-
-<br/>
-
-* **#ClimateControl**
-
-<br/>
-
-* **#WhatMakesABiome**
-
-<br/>
-
-* **#SpeciesWhereWhy**
 
 ## The big picture: Earth's climate controls species distributions
 <hr>
@@ -59,8 +31,9 @@ runtime: shiny
     
 <br/>
 
-* **Earth is divided up into different life zones, which control the distribution of species**
-    + climate is responsible for creating these zones
+* **Earth is divided up into different life zones**
+    + control the distribution of specie
+    + climate creates life zones
 
 <br/>
 
@@ -349,12 +322,13 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **The distribution of a species is limited by dispersal**
-    + movement of individuals or gametes
+* **Dispersal:**
+    + limits the distribution of a species
 
 <br/>
 
-* **Some organisms (plants, animals, etc) can disperse widely**
+* **Some organisms can disperse widely**
+    + which ones?
     + Kangaroos cannot
     + humans are unnatural disperses
  
