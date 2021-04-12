@@ -32,7 +32,7 @@ output:
 <br/>
 
 * **Earth is divided up into different life zones**
-    + control the distribution of specie
+    + control the distribution of species
     + climate creates life zones
 
 <br/>
@@ -49,7 +49,7 @@ output:
 <br/>
 <br/>
 
-* **Long-term prevailing weather conditions in a given area** 
+* **Climate: ** 
     + i.e. temperature, precipitation, sunlight & wind
     + often 30 year averages
 
@@ -61,7 +61,7 @@ output:
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:250px; WIDTH:600px; HEIGHT:440px" SRC="images/climate.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/climate.png">
 
 ## What is climate?
 <hr>
@@ -98,11 +98,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/radiation.jpg">
 
-## Climate varies by latitude
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:800px; HEIGHT:450px" SRC="images/latitude.png">
-
 ## Climate varies by season
 <hr>
 <br/>
@@ -128,6 +123,11 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/seasons.jpg">
+
+## Climate varies by latitude
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:800px; HEIGHT:450px" SRC="images/latitude.png">
 
 ## Bodies of water play huge role in climate
 <hr>
@@ -194,7 +194,7 @@ output:
     
 <div style="float: right; width: 50%;"> 
 
-* **Biomes contains organisms adapted for their environment**
+* **Contain organisms adapted for the environment**
     + animals, plants, fungi, etc
 
 <br/> 
@@ -330,7 +330,7 @@ output:
 * **Some organisms can disperse widely**
     + which ones?
     + Kangaroos cannot
-    + humans are unnatural disperses
+    + humans are unnatural dispersers
  
  <br/>
  
@@ -347,10 +347,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:375px" SRC="images/roo_distribution.jpg">
 
-## Abiotic limitations to red Kangaroo distribution
+## Abiotic limitations to Red Kangaroo distribution
 <hr>>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/red_roo.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/red_roo.jpg">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:400px; HEIGHT:450px" SRC="images/roo_temp.jpg">
 

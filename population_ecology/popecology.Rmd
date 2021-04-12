@@ -7,8 +7,9 @@ output:
     smaller: true
 ---
 
-## The big picture: Earth's climate controls species distributions
+## The big picture: The environment influeces populations
 <hr>
+<br/>
 <br/>
 
 * **Review: What is a population?**
@@ -16,7 +17,8 @@ output:
 <br/>
 
 * **Biotic and abiotic factors affect population dynamics**
-
+    + abundance, dispersion & age structure
+    
 <br/>
 
 * **Population growth can be 'modeled'**
@@ -25,279 +27,145 @@ output:
 
 * **Density matters**
 
+<IMG STYLE="position:absolute; TOP:180px; LEFT:675px; WIDTH:350px; HEIGHT:450px" SRC="images/bearflorida.jpg">
 
-## The big picture: Earth's climate controls species distributions
+## Populations often described by their boundaries
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:550px; HEIGHT:500px" SRC="images/beardist.gif">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/florirdabear.jpg">
+
+## Population density is dynamic
+<hr>
+<br/>
+
+<div style="float: right; width: 45%;">
+
+* **May be possible to count all individuals** 
+    + large mammals, animals in small habitats
+
+<br/>
+
+* **More often impractical or impossible to count all individuals**
+    + indirect estimates are needed
+
+<br/>
+
+* **Density is not static**
+    + immigration:
+    + emigration:
+    + births & death
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/density.jpg">
+
+## Local densities vary within a population
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:380px" SRC="images/dispersion.jpg">
+
+## Population statistics change over time (demography)
 <hr>
 <br/>
 <br/>
-
-<div style="float: left; width: 63%;">
-
-* **Ecology can be measured at many different levels**
-    + individual &rarr; ecosystem &rarr; biosphere
-
 <br/>
 
-* **The environment regulates where species can be**
-    + What regulates the environment?
+<div style="float: left; width: 45%;">
+
+* **Cohorts:**
+    + how many of one age-group survive to the next?
+    + when does reproduction occur?
     
 <br/>
 
-* **Earth is divided up into different life zones**
-    + control the distribution of specie
-    + climate creates life zones
+* **Girl power!**
+    + only females produce offspring
+    + how many females give rise to new females?
 
 <br/>
 
-* **Abiotic and biotic factors determine where species can exist**
+* **Reproductive rates vs Survirorship**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:400px; HEIGHT:450px" SRC="images/scope.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/lifetable.jpg">
 
-## What is climate?
-<hr>
-<br/>
-<br/>
-<br/>
-
-* **Long-term prevailing weather conditions in a given area** 
-    + i.e. temperature, precipitation, sunlight & wind
-    + often 30 year averages
-
-<br/>
-<br/>
-
-* **Global climate depends on the amount of energy received by the sun and the amount of energy that is trapped in the system.**
-    + Different regions can have different climates.
-
-## 
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:250px; WIDTH:600px; HEIGHT:440px" SRC="images/climate.png">
-
-## What is climate?
+## Patterns of survivorship in natural populations
 <hr>
 
-* **Requires measurements of weather conditions at thousands of locations every day of the year**
-    + observations used to quantify long-term average conditions
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/curves.jpg">
 
-
-<IMG STYLE="position:absolute; TOP:245px; LEFT:250px; WIDTH:600px; HEIGHT:375px" SRC="images/climate2.png">
-
-## Climate varies by latitude
-<hr>
-<br/>
-
-<div style="float: right; width: 50%;">
-
-* **Solar energy (sun) warms the air, land & water**
-    + impacts temperature
-    + impacts air movement (wind patterns)
-    + impacts evaporation
-
-<br/>
-
-* **Earth is round, sun radiation strikes unevenly**
-    + direct @ equator
-    + more diffuse (spread out) towards poles
-
-<br/>
-
-* **Creates differences in climate across latitudes**
-    + relation north or south of the Earth's equator 
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/radiation.jpg">
-
-## Climate varies by latitude
+## Populations grow fast when resources are abundant
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:800px; HEIGHT:450px" SRC="images/latitude.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/growing_bacteria.jpg">
 
-## Climate varies by season
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/exponential.jpg">
+
+## Can we predict changes in population size?
 <hr>
 <br/>
 
 <div style="float: left; width: 46%;">
 
-* **Earth is titled & spinning as it circles sun**
-    + impacts day length
-    + impacts amount of solar energy
-    + impacts temperature
+* **Start with ideal conditions:**
+    + few individuals to start
+    + unlimited environment
 
 <br/>
 
-* **Climate within a latitude change during the year**
-    + dry & wet seasons
-    + wind and ocean currents
+* **Population &uarr; with births & immigration**
 
 <br/>
 
-* **Seasonal variation smallest at equator**
-    + increases towards poles
+* **Population &darr; with deaths & emigration**
+
+<br/>
+
+* **Balance of births & deaths at any given time**
+    + *per capita* change = 
+    + Growth equation = 
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/seasons.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/exponential2.jpg">
 
-## Bodies of water play huge role in climate
+## Elephants in Kruger National Park (Exponetnial Growth)
+<hr>
+
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/elephants.jpg">
+
+## Resources rarely remain unlimited
 <hr>
 <br/>
 <br/>
-<br/>
-<br/>
-
-<div style="float: right; width: 35%;">
-
-* **Oceans are heat conveyor belts**
-    + heat/cool air masses
-    + currents move them
-
-<br/>
-<br/>
-
-* **Impacts climate of land**
-    + water absorbs lot of heat!
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:700px; HEIGHT:400px" SRC="images/oceans.jpg">
-
-## Climate patterns distribute life on Earth
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:570px; WIDTH:500px; HEIGHT:450px" SRC="images/biomes_temp.png">
 
 <div style="float: left; width: 50%;">
 
-* **Major zones of vegetation are called *biomes* **
-    + tropics &rarr; desert &rarr; tundra
+* **Carrying capacity (*K*): **
+    + as population increases, resources diminish
 
 <br/>
 
-* **Biomes are largely defined by temperature and precipitation**
-    + annual averages
-    + seasonal variation
+* **Resources that limit are vast**
+    + food, shelter, safety, nesting sites
  
 <br/>
 
-* **Why do areas of N. America, with similar annual averages of climate factors, support *either* deciduous trees or evergreen trees?**
+* **Resource limitation causes birth rate to decline**
 
-</div>
-
-## Distribution of terrestrial biomes
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:625px; HEIGHT:450px" SRC="images/biomesmap.jpg">
-
-## What makes a biome a biome?
-<hr>
-
-<div style="float: left; width: 50%;">
-
-* **Biomes named for:**
-1. Physical features (polar ice)
-2. Climate features (tropical / temperate)
-3. Vegetation (grassland / broad-leaf forest)
-    
-</div>
-    
-<div style="float: right; width: 50%;"> 
-
-* **Biomes contains organisms adapted for their environment**
-    + animals, plants, fungi, etc
-
-<br/> 
-
-* **Boundaries between biomes are not firm**
-    + *ecotones*: areas of overlap
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:400px; LEFT:100px; WIDTH:900px; HEIGHT:250px" SRC="images/ecotone.jpg">
-
-## What makes a biome a biome?
-<hr>
-<br/> 
-<br/> 
-
-<div style="float: left; width: 50%;">
-
-* **Biomes are divided into vertical layers**
-    + aboveground & belowground
-    + each layer has distinct species
-
-<br/>   
-   
-* **Species composition varies within biomes**
-    + abundance or presence/absence
-    
 <br/>
 
-* **Question: Why will different desserts have similar looking but unrelated species of cacti?**
+* **Logistic growth = **
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:535px; WIDTH:550px; HEIGHT:400px" SRC="images/layers.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:565px; WIDTH:500px; HEIGHT:450px" SRC="images/logistic.jpg">
 
-## Aquatic biomes are also diverse
-<hr>
-<br/> 
-
-<div style="float: left; width: 55%;">
-
-* **Characterized by physical and chemical environment**
-    + fresh vs saltwater
-    + depth of light penetration
-
-<br/> 
-
-* **Oceans cover 3/4 of Earth's surface**
-    + evaporation fuels rainfall
-    + algae and bacteria supply O~2~
-    + regulate global temperature and wind
-    
-<br/>   
-
-* **Freshwater biomes linked to terrestrial neighbor**
-    + soil inputs determine chemistry
-    + related climate
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/aquaticbiomes.jpg">
-
-<!-- ## Aquatic biomes are also layered -->
-<!-- <hr> -->
-
-<!-- <div style="float: left; width: 50%;"> -->
-
-<!-- * **Physically and chemically layered** -->
-<!--     + vertically or horizontally -->
-
-<!-- <br/>  -->
-
-<!-- * **Light penetration decreases rapidly with depth** -->
-<!--     + organisms performing photosynthesis... -->
-
-<!-- <br/> -->
-
-<!-- * **Benthic zones are the bottom of aquatic biomes** -->
-<!--     + layer of sand and sediment -->
-<!--     + organisms that feed on dead stuff -->
-
-<!-- <br/> -->
-
-<!-- * **Layers of temperature also exist** -->
-<!--     + depends on sun, mixing, currents -->
-
-<!-- </div> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:570px; WIDTH:500px; HEIGHT:400px" SRC="images/layers_water.jpg"> -->
-
-## Species distributions: Where and Why?
+## Trade offs exists between survival and reproduction
 <hr>
 <br/>
 <br/>
@@ -305,75 +173,119 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Species distributions are part ecology & part evolution**
+* **Frequency of reproduction**
+* **Number of offspring**
+* **Investment into parental care**
 
 <br/>
 
-* **Why are kangaroos only in Australia?**
+* **Combined there traits represents an organism's *life history* **
+1. Age at first reproduction
+2. How often reproduction occurs
+3. How many offspring are created
     
-<br/>
- 
-* **Why are different kangaroos in some habitats but not others?**
-    + abiotic factors?
-    + biotic factors?
-
 </div>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/roo.jpg">
     
-## Kangaroos evolved in Australia
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/age.jpg">
+
+## Trade offs exists between survival and reproduction
 <hr>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/drift.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:400px; HEIGHT:450px" SRC="images/evolve_roo.jpg">
-
-## *Dispersal* keeps kangaroos in Australia (mostly)
-<hr>
+<br/>
+<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
 
-* **The distribution of a species is limited by dispersal**
-    + movement of individuals or gametes
+* **Frequency of reproduction**
+* **Number of offspring**
+* **Investment into parental care**
 
 <br/>
 
-* **Some organisms (plants, animals, etc) can disperse widely**
-    + Kangaroos cannot
-    + humans are unnatural disperses
- 
- <br/>
- 
-* **Geographic isolation is key to evolution**
+* **Combined there traits represents an organism's *life history* **
+1. Age at first reproduction
+2. How often reproduction occurs
+3. How many offspring are created
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/semel.jpg">
+
+## Trade offs exists between survival and reproduction
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Frequency of reproduction**
+* **Number of offspring**
+* **Investment into parental care**
+
+<br/>
+
+* **Combined there traits represents an organism's *life history* **
+1. Age at first reproduction
+2. How often reproduction occurs
+3. How many offspring are created
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/howmany.jpg">
+
+## Trade-offs and Life Histories
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/curves.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/animals.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:75px; WIDTH:900px; HEIGHT:600px" SRC="images/rvsk3.png">
+
+## Density in populations matter
+<hr>
+<br/> 
+<br/> 
+
+<div style="float: left; width: 50%;">
+
+* **Why do populations stop growing?**
+
+<br/> 
+
+* **Density dependent = **
+    + resources, predation
+    + disease, toxic waste
+
+<br/> 
+
+* **Population density works as a negative feedback**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/roo_hawaii.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/hare.jpg">
 
-## Kangaroo species are adapted to climate
-<hr>>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/climate_oz.jpg">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:375px" SRC="images/roo_distribution.jpg">
-
-## Abiotic limitations to red Kangaroo distribution
-<hr>>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/red_roo.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:400px; HEIGHT:450px" SRC="images/roo_temp.jpg">
-
-## Biotic limitations to kangaroo distribution (competition)
+## Brainstorm: What factors are *density independent*?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:425px" SRC="images/roo_interact.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:425px" SRC="images/roo_interact2.jpg">
-
-## Where can a species exist?
+<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:700px; HEIGHT:450px" SRC="images/drought.jpg">
+    
+## Patterns in human population
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/flow.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/human.jpg">
 
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/human2.jpg">
+
+## Patterns in human population: Age structure
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humanage.jpg">
+
+## Patterns in human population: Density and *K*
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/elec.jpg">
