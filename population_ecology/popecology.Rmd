@@ -7,8 +7,9 @@ output:
     smaller: true
 ---
 
-## The big picture: The environment influeces populations
+## The big picture: The environment influences populations
 <hr>
+<br/>
 <br/>
 <br/>
 
@@ -132,7 +133,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/exponential2.jpg">
 
-## Elephants in Kruger National Park (Exponetnial Growth)
+## Elephants in Kruger National Park (Exponential Growth)
 <hr>
 
 
