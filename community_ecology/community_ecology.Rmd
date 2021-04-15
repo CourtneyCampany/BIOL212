@@ -2,47 +2,46 @@
 title: "Community Ecology"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
-## Mmmmmm Shrimp....
-<hr>
+<!-- ## Mmmmmm Shrimp.... -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/eel.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/eel.jpg"> -->
 
-## Community ecology hash-tags
-<hr>
-<br/>
+<!-- ## Community ecology hash-tags -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **This lecture will cover the diversity if interactions possible within a community of organisms**
+<!-- * **This lecture will cover the diversity if interactions possible within a community of organisms** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#PostiveInteractions**
+<!-- * **#PostiveInteractions** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#NegativeInteractions**
+<!-- * **#NegativeInteractions** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#FoodWeb**
+<!-- * **#FoodWeb** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#SpeciesTypes**
+<!-- * **#SpeciesTypes** -->
 
 ## The big picture: Community ecology
 <hr>
 <br/>
 
-<div style="float: left; width: 57%;">
+<div style="float: left; width: 50%;">
 
-* **Community: groups of populations of different species living close enough together to interact**
-    + small scale: decomposes on a fallen log
+* **Community: **
+    + small scale: decomposers on a fallen log
     + large scale: flowers + pollinators in a national park
 
 <br/>
@@ -51,15 +50,15 @@ runtime: shiny
     
 <br/>
 
-* **Interactions determine which species are present**
+* **Outcome of interactions determine which species are present**
 
 <br/>
 
-* **Interactions determine how an ecosystem functions**
+* **Sum of interactions determine how an ecosystem functions**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:610px; WIDTH:450px; HEIGHT:300px" SRC="images/communitywater.jpg">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:600px; WIDTH:475px; HEIGHT:325px" SRC="images/communitywater.jpg">
 
 ## Inter-specific Competition (-/-)
 <hr>
@@ -68,7 +67,7 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Individual sharing space will compete for resources**
+* **Individuals sharing space will compete for resources**
     + limits fitness for each species
     
 <br/>
@@ -78,7 +77,7 @@ runtime: shiny
     
 <br/>
 
-* **Competitive exclusion: If 2 organisms completely overlap in space, there will be a winner and a loser**
+* **Competitive exclusion: **
     + local extinction
     + rare in nature
     
@@ -92,7 +91,7 @@ runtime: shiny
 
 <div style="float: left; width: 57%;">
 
-* **Ecological niche: set of abiotic + biotic resources that organisms use**
+* **Ecological niche: **
     + temperature, time active, prey choice, nest sites
     + competition occurs for these resources
 
@@ -100,7 +99,7 @@ runtime: shiny
 
 * **Natural selection reduces overlap between niches!**
     + *resource partitioning*: division of limited resources
-    + feed @ different times, switching food source, etc.
+    + How?
 
 <br/>
 
@@ -129,7 +128,6 @@ runtime: shiny
 <div style="float: right; width: 52%;">
 
 * **Review: all animals are heterotrophic....**
-    + we all gots to eat
     
 <br/>
 
@@ -139,7 +137,7 @@ runtime: shiny
 
 * **Exploitation: species feeding interactions (+/-)**
     + predation, herbivory & parasitism
-    + a lot of drama causes a lot of evolution!
+    + drama causes evolution!
 
 </div>
 
@@ -248,7 +246,7 @@ runtime: shiny
 
 * **Parasite usually have complex life cycles**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:560px; WIDTH:500px; HEIGHT:400px" SRC="images/parasite.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:560px; WIDTH:500px; HEIGHT:400px" SRC="images/malaria.gif">
     
 ## Species interactions are not all bad!
 <hr>
@@ -263,11 +261,11 @@ runtime: shiny
     
 <br/>
 
-* **Postie interactions affect diversity of ecological communities**
+* **Positive interactions affect diversity of ecological communities**
 
 <br/>
 
-* **Mutulalisms and commensalism are the most common**
+* **Mutualisms and commensalism are the most common**
     
 </div>
 
@@ -305,7 +303,7 @@ runtime: shiny
 
 <div style="float: right; width: 50%;">
 
-* **Commensalism are interactions where one benefits but doesn't harm nor help the other**
+* **Commensalisms are interactions where one benefits but doesn't harm/help the other**
     + also common in nature
     
 <br/> 
@@ -315,7 +313,9 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:530px; HEIGHT:300px" SRC="images/remora.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:15px; WIDTH:500px; HEIGHT:300px" SRC="images/remora.jpg">
+
+<IMG STYLE="position:absolute; TOP:395px; LEFT:15px; WIDTH:500px; HEIGHT:300px" SRC="images/egret.jpg">
 
 ## Trophic Structure
 <hr>
@@ -328,12 +328,14 @@ runtime: shiny
     
 <br/> 
 
-* **Energy is transferred upward, plants &rarr; consumers**
-
+* **Energy is transferred upward**
+    + plants &rarr; consumers
+    + transfer is wasteful
+    
 <br/> 
 
-* **What an organism eats/produces determines its *trophic level* in a food web**
-    + many organisms exists on the same trophic level
+* **Trophic level:**
+    + organisms in a community share a trophic level
 
 </div>
 
@@ -350,12 +352,14 @@ runtime: shiny
     
 <br/> 
 
-* **Energy is transferred upward; plants &rarr; consumers**
+* **Energy is transferred upward**
+    + plants &rarr; consumers
+    + transfer is wasteful
 
 <br/> 
 
-* **What an organism eats/produces determines its *trophic level* in a food web**
-    + many organisms can exists on the same trophic level
+* **Exists in terrestrial and aquatic systems**
+    + What happens if a species goes extinct?
 
 </div>
 
@@ -372,22 +376,23 @@ runtime: shiny
 <hr>
 <br/> 
 <br/> 
+<br/> 
+
 
 <div style="float: left; width: 45%;">
 
-* **Dominant species: members with most abundance or biomass**
+* **Dominant species: **
     + better @ obtaining resources
     + defense wins championships
     
 <br/> 
 
-* **Keystone Species: play a pivotal role**
-    + ecosystem engineers: alter habitats
-    
+* **Keystone Species: **
+  
 <br/> 
 
-* **Rare species: may perform a critical job**
-
+* **Ecosystem engineers: **
+    + impact every community member
 </div>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/beaver.jpg">   
