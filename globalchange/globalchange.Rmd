@@ -2,10 +2,9 @@
 title: "Global Change and You"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Global Biodiversity
@@ -13,30 +12,29 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/map.jpg">
 
-
 <IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/deforest.jpg">
 
-## Global Change hash-tags
-<hr>
-<br/>
+<!-- ## Global Change hash-tags -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **This lecture will cover the changes in Earth's system via biodiversity and global change**
+<!-- * **This lecture will cover the changes in Earth's system via biodiversity and global change** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#BiodiversityTypes**
+<!-- * **#BiodiversityTypes** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#BiodiversityThreats**
+<!-- * **#BiodiversityThreats** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#ConBioTypes**
+<!-- * **#ConBioTypes** -->
 
-<br/>
+<!-- <br/> -->
 
-* **#GlobalChangeBasics**
+<!-- * **#GlobalChangeBasics** -->
 
 ## The big picture: Earth's systems and humans interact
 <hr>
@@ -116,7 +114,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:225px; HEIGHT:450px" SRC="images/richness.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:500px; HEIGHT:450px" SRC="images/frogs.jpg">
 
 ## The selfish view: what does biodiversity provide us?
 <hr>
@@ -125,13 +123,13 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **Moral code: Each species belongs**
-    + what happens when a population disappears?
+    + what happens when a species becomes locally extinct?
     
 <br/>
 
 * **Practical benefits for all 3 biodiversity types**
     + genetic diversity a tool for medicines
-    + species diversity feed, cloth and house humans
+    + diversity feeds, clothes and houses humans
   
 <br/>
 
@@ -197,8 +195,12 @@ runtime: shiny
 <br/>
 
 * **Small populations vulnerable to genetic drift**
-    + genetic issues of non-random mating
+    + chance loss of alleles
     
+<br/>
+
+* **Goal: Maintain genetic diversity**
+
 <IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/vortex.jpg">
 
 ## How does conservation biology work? 
@@ -239,17 +241,17 @@ runtime: shiny
 
 <div style="float: left; width: 60%;">
 
-* **Global warming: long term warming since industrial revolution**
+* **Global warming: **
     
 <br/>
 
-* **Climate change: change in global/regional climate patterns related to increases in atmospheric CO~2~**
+* **Climate change: **
     + more than just temperature
     + mostly related to post 1950's
     
 <br/>
 
-* **Global change: Climate change & changes to other processes**
+* **Global change: **
     + e.g. nutrient cycles, biodiversity, land use, sea level rise, ice loss
     
 </div>
@@ -261,8 +263,9 @@ runtime: shiny
 
 <div style="float: left; width: 47%;">
 
-* **Humans move key nutrients around too much**
+* **Humans move nutrients around too much**
     + mostly to support agriculture
+    + disrupts natural cycling
     
 </div>
 
@@ -306,7 +309,7 @@ runtime: shiny
 
 * **Burning of fossil fuels has increased atmospheric CO~2~**
     + makes biosphere warmer
-    + impacts wind patterns and precipitation
+    + impacts weather and climate
     
 </div>
 

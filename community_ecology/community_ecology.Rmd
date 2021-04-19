@@ -42,7 +42,7 @@ output:
 
 * **Community: **
     + small scale: decomposers on a fallen log
-    + large scale: flowers + pollinators in a national park
+    + large scale: flowers + pollinators in Shenandoah national park
 
 <br/>
 
@@ -55,6 +55,7 @@ output:
 <br/>
 
 * **Sum of interactions determine how an ecosystem functions**
+    + productivity, water quality
 
 </div>
 
@@ -92,7 +93,7 @@ output:
 <div style="float: left; width: 57%;">
 
 * **Ecological niche: **
-    + temperature, time active, prey choice, nest sites
+    + temperature, time active, food choice, nest sites
     + competition occurs for these resources
 
 <br/>
@@ -275,10 +276,11 @@ output:
 <hr>
 <br/>
 <br/>
+<br/>
 
 <div style="float: left; width: 60%;">
 
-* **Mutualism occur when both species benefit from the interaction**
+* **Occur when both species benefit from the interaction**
     + common in nature
     
 <br/>
