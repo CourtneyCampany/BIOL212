@@ -258,6 +258,37 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/words.jpg">
 
+## Global Change: Climate change
+<hr>
+<br/> 
+
+<div style="float: left; width: 58%;">
+
+* **Climate change is strongly related to the chemistry of the atmosphere**
+    + greenhouse gas effect 
+    + CO~2~, CH~4~, NO~x~ & H~2~O
+    
+<br/> 
+
+* **Greenhouse gases intercept and absorb radiation**
+    + more greenhouse gases = higher temperatures
+    
+<br/> 
+
+* **Burning of fossil fuels has increased atmospheric CO~2~**
+    + makes biosphere warmer
+    + impacts weather and climate
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/co2.jpg">
+
+## Greenhouse effect is a natural process!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/greenhouse.jpg">
+
+
 ## Global Change: Nutrients
 <hr>
 
@@ -290,36 +321,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mercury.png">
 
-## Global Change: Climate change
-<hr>
-<br/> 
-
-<div style="float: left; width: 58%;">
-
-* **Climate change is strongly related to the chemistry of the atmosphere**
-    + greenhouse gas effect 
-    + CO~2~, CH~4~ & NO~x~
-    
-<br/> 
-
-* **Greenhouse gases intercept and absorb radiation**
-    + more greenhouse gases = higher temperatures
-    
-<br/> 
-
-* **Burning of fossil fuels has increased atmospheric CO~2~**
-    + makes biosphere warmer
-    + impacts weather and climate
-    
-</div>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/co2.jpg">
-
-## Greenhouse effect is a natural process!
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/greenhouse.jpg">
-
 ## Global Change: What can we do?
 <hr>
 <br/> 
@@ -327,12 +328,12 @@ output:
 <div style="float: left; width: 45%;">
 
 * **We cannot save all habitats**
-    + which patches are most crucial
+    + which patches are most crucial?
     
 <br/> 
 
 * **Sustainable development**
-    + better engineer artificial ecosystems
+    + better engineer man-made ecosystems
     + food security while reducing nutrient/chemical impacts
     + food security while maintaining ecosystem services
     

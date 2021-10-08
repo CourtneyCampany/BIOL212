@@ -112,7 +112,7 @@ output:
 * **Broken CFTR:**
     + misfolded and not in membrane
     + cannot open channel gate
-    + insufficient quantites
+    + insufficient quantities
     
 <IMG STYLE="position:absolute; TOP:325px; LEFT:650px; WIDTH:350px; HEIGHT:200px" SRC="images/cfprotein.jpg">
 

@@ -1,0 +1,143 @@
+---
+title: "Scientific Skills Workshops"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## Stand-alone skills workships are being beta tested in 211/212
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+**BIOL 211**
+<br/>
+
+**1.	Study skills assessment**
+<br/>
+
+**2.	Using the textbook / lectures (notetaking)**
+<br/>
+
+**3.	Hypotheses / Predictions**
+<br/>
+
+**4.	Data visualization (graph concepts)**
+<br/>
+
+**5.	Graphing with Excel**
+<br/>
+
+**6.	Genetics (HHMI corn evolution)**
+
+</div>
+
+<div style="float: right; width: 53%;">
+
+**Biol 212**
+<br/>
+
+**1. Finding and annotating scientific literature**
+<br/>
+
+**2. Science writing essentials (active voice, K.I.S.S, etc.)**
+<br/>
+
+**3. How to Cite**
+<br/>
+
+**4. Basic Stats in Excel (T-test, Regression, ANNOVA)**
+<br/>
+
+**5. Writing Methods and Results**
+<br/>
+
+**6. Writing the Introduction and Discussion**
+</div>
+
+## Current lab setup to accommodate skills workshops
+<hr>
+<br/>
+
+**Reminder: We are incrementally creating a introductory biology lab manual**
+
+<br/>
+
+<div style="float: left; width: 45%;">
+**BIOL 211**
+<br/>
+
+**1.	Math and the Metric System**
+<br/>
+
+**2.	Scientific Investigation**
+<br/>
+
+**3.	Diffusion / Osmosis**
+<br/>
+
+**4.	Enzymes**
+<br/>
+
+**5.	Fermentation**
+<br/>
+
+**6.	DNA visualization**
+
+</div>
+
+<div style="float: right; width: 53%;">
+
+**BIOL 212**
+<br/>
+
+**1. Constructing a phylogeny**
+<br/>
+
+**2. Plant Evolutionary History (possible practical)**
+<br/>
+
+**3. Plant Physiology (Photosynthesis)**
+<br/>
+
+**4. Animal Evolutionary History (w/ dissection)**
+<br/>
+
+**5. Animal Physiology (Daphnia heart rate)**
+<br/>
+
+**6. In-person writing workshop (Daphnia lab report)**
+<br/>
+
+**7. Microscope and little creatures (must re-introduce)**
+</div>
+
+## Moving Forward....
+<hr>
+
+* **Our current implementation has been possible because of COVID19...**
+    + In-person labs cut in half for safe spacing
+    + Students have off-weeks in which they are not in lab
+    + Skills workshops assigned during off-weeks
+
+<br/>
+
+* **Biology 212 - Campany has received student feedback on workshops**
+    + students appreciated the stand-alone aspect of the assignment (non-overlap with other content)
+    + students understood the 'WHY' for skills work
+
+<br/>
+
+* **Once classes return to normal this design is untenable**
+    + Sipe and Campany agree that the learning load on introductory students should not increase
+    + Lecture + Full Labs + Skills Workshops = No Go
+
+<br/>
+
+* **Department should discuss and make decisions on direction of course content**
+    + Sipe and Campany were hired at the time these topics were discussed repeatedly in meetings
+
+
