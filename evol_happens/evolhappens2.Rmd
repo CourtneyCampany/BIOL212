@@ -7,6 +7,28 @@ output:
     smaller: true
 ---
 
+## Hash tags for each lecture...
+<hr>
+<br/>
+
+* **Use these as your study guides. Each one is a story or concept (not a definition).**
+    + I use them to write the exam
+    + Create a checklist - cross them off as you study
+    + Use office hours for ones you don't quite get
+    + Start with hashtags and expand outward
+
+<br/>
+
+<span style="color:blue">**#EvolutionBeginnings**</span>
+
+<br/>
+
+<span style="color:blue">**#FossilClues**</span>
+
+<br/>
+
+<span style="color:blue">**#SharedAncestry**</span>
+
 ## Sedimentary rocks reveal the vastness of geologic time
 <hr>
 
