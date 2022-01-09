@@ -7,9 +7,12 @@ output:
     smaller: true
 ---
 
-## Stand-alone skills workships are being beta tested in 211/212
+## Stand-alone skills workshops are being beta tested in 211/212
 <hr>
 <br/>
+
+**Currently offered asynchronously offline**
+
 <br/>
 
 <div style="float: left; width: 45%;">
@@ -35,6 +38,7 @@ output:
 
 </div>
 
+
 <div style="float: right; width: 53%;">
 
 **Biol 212**
@@ -49,7 +53,7 @@ output:
 **3. How to Cite**
 <br/>
 
-**4. Basic Stats in Excel (T-test, Regression, ANNOVA)**
+**4. Basic Stats in Excel (T-test, Regression, ANOVA)**
 <br/>
 
 **5. Writing Methods and Results**

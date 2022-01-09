@@ -12,10 +12,15 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/SedimentaryStrata.jpg">
 
-## George Cuvier: The concept of extinction
+## Georges Cuvier (1769-1832): The concept of extinction
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mastodon.jpg">
+
+## 99% of all species that have existed have gone extinct
+<hr>
+**Scientists after Cuvier (i.e., Darwin) now had to account for extinction**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/extinct.png">
 
 ## Jean-Baptiste de Lamarck: Famous for being wrong
 <hr>
@@ -24,14 +29,14 @@ output:
 <div style="float: left; width: 48%;">
 
 * **Lines of descent**
-    + compared living species with fossil forms
+    + compared living giraffes  with fossil forms
     + evolution: simple to complex
 
 <br/>
 
 * **(1) Theory of use and disuse**
-    + body parts used: ?
-    + body parts disused: ?
+    + body parts used: **<span style="color:red">?</span>**
+    + body parts disused: **<span style="color:red">?</span>**
 
 <br/>
 
@@ -92,7 +97,9 @@ output:
 ## Evolution as descent with modification
 <hr>
 <br/>
-<br/>
+
+**The fossil record lets us explore the ancestors that anything living (including us) evolved from**
+
 <br/>
 <br/>
 <br/>
@@ -106,4 +113,4 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
+<IMG STYLE="position:absolute; TOP:270px; LEFT:450px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
