@@ -7,6 +7,28 @@ output:
     smaller: true
 ---
 
+## Evolution as descent with modification
+<hr>
+<br/>
+
+**The fossil record lets us explore the ancestors that anything living (including us) evolved from**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **How did this actually happen?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:450px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe2.jpg">
+
+
 ## What does 'Descent with modification' really mean?
 <hr>
 <br/>
@@ -43,20 +65,38 @@ output:
 
 ## Generational Time
 <hr>
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:550px; HEIGHT:500px" SRC="images/generational_time.png">
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:550px; HEIGHT:500px" SRC="images/generational_time.png">
+
+
+<div style="float: right; width: 35%;">
+
+<font size="6">**Human = ~27 years**</font>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<font size="6">**Bacteria = ?**</font>
+</div>
 
 ## Darwinian Evolution
 <hr>
 <br/>
 
 <div align="center">
-* **Focus on adaptation through natural selection (not use/disuse)**
+* **Focus on <span style="color:blue">adaptation</span> through natural selection (not use/disuse)**
     + characteristics that enhance fitness
     + these characteristics are heritable
 
 <br/>
 
-**?Could new species arise from an *ancestral form* by adaptions to different environments?**
+**?Could new species arise from an *ancestral form* by <span style="color:blue">adaptations</span> to different environments?**
 
 </div>
 
@@ -69,7 +109,7 @@ output:
 
 <!-- descent with modification -->
 
-## Evolution by Natural Selection tenants (1)
+## Evolution by Natural Selection rules (1)
 <hr>
 
 <div align="center">
@@ -85,7 +125,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/butterflywings.jpg">
 
-## Evolution by Natural Selection postulates (2)
+## Evolution by Natural Selection rules (2)
 <hr>
 <br/>
 <br/>
@@ -100,7 +140,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/heritable.png">
 
-## Evolution by Natural Selection postulates (3)
+## Evolution by Natural Selection rules (3)
 <hr>
 
 <div align="center">
@@ -116,7 +156,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/survival.png">
 
-## Evolution by Natural Selection postulates (4)
+## Evolution by Natural Selection rules (4)
 <hr>
 
 <div align="center">
@@ -191,9 +231,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/mrsa3.jpg">
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/deaths.gif">
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/deaths.gif"> -->
 
 ## Antibiotic resistance is not new to evolution!
 <hr>
@@ -246,7 +286,6 @@ output:
     
 ## Generational time and evolution
 <hr>
-<br/>
 
 <div align="center">
 **Humans	=	~25	years	**
@@ -268,9 +307,12 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
 
 **How long is the average course of antibiotic treatment?**
+<br/>
+**Do you better understand new strains of SARS-CoV-2?**
 </div>
 
 
-<IMG STYLE="position:absolute; TOP:265px; LEFT:325px; WIDTH:450px; HEIGHT:350px" SRC="images/generationcompare.png">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:325px; WIDTH:450px; HEIGHT:350px" SRC="images/generationcompare.png">
