@@ -63,7 +63,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/giraffe.jpg">
 
-## Generational Time
+## *Generational Time*
 <hr>
 <br/>
 <br/>
@@ -102,7 +102,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:380px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/beak.png">
 
-## Adaptation viewed through homology
+## Adaptation viewed through *homology*
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:180px; WIDTH:700px; HEIGHT:450px" SRC="images/homology.jpg">
@@ -227,9 +227,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:425px; HEIGHT:450px" SRC="images/mrsa2.jpg">
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/mrsa3.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/mrsa3.jpg"> -->
 
 <!-- ##  -->
 
