@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/HW_conditions.jpg">
 
-## Allele frequencies change in beetles: Mutation
+## Allele frequency change in beetles: Mutation
 <hr>
 <br/>
 
@@ -122,13 +122,13 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Bottlenecks occurs after a drastic reduction in population size**
     + sudden change in the environment 
-      
+    + fire, flood, invasive species, etc. 
+    
 <br/>
 
 * **The new gene pool may be different from original population**
@@ -136,7 +136,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **If the population stays small, genetic drift could increase**
-
+    + black robins on Chatham island
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/bottle.jpg">
@@ -144,7 +144,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Bottlenecks and species habitat loss
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/chicken.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/chicken.jpg">
 
 ## Allele frequencies change in beetles: Gene Flow
 <hr>
@@ -177,7 +177,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Allele frequencies change in beetles: Natural Selection
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:750px; HEIGHT:450px" SRC="images/birdeating.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:750px; HEIGHT:450px" SRC="images/birdeating.jpg">
 
 ## Only natural selection causes adaptive evolution!
 <hr>

@@ -46,7 +46,7 @@ output:
     
 <br/>
 
-* **Other individuals have a different sequence at red pigment locus:**
+* **Another allele is possible with a different sequence**
     + 'a' = ACTGATCCCGATC**TT**GATAAATAGG
     + new allele 'a' gives white pigment
 
@@ -54,7 +54,8 @@ output:
 
 * **Letters 'A' and 'a' indicate there are two different alleles at this locus in the population**
     + *Homozygous* or *Heterozygous* (2 copies on paried chromosomes)
-
+    + *Why 2 copies?*
+    
 ## Phenotypic variation reflects genetic variation
 <hr>
 <br/>
@@ -98,7 +99,7 @@ output:
 <hr>
 <br/>
 
-* **People with CF have inherited 2 copies of the defective CFTR gene**
+* **People with CF have inherited 2 copies of the defective CFTR gene (autosomal recessive)**
     + people with only one copy are called carriers, but no disease
 
 <br/>
@@ -151,8 +152,8 @@ AA or Aa or aa
 <br/>
 
 * **In Aa genotypes:**
-    + 50% of gametes have A allele
-    + 50% of gemetes have a allele
+    + 50% of all gametes have A allele
+    + 50% of all gametes have a allele
 
 <br/>
 
@@ -160,7 +161,7 @@ AA or Aa or aa
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:475px; HEIGHT:475px" SRC="images/autorecessive.jpg">
 
-## Cystis Fibrosis and Evol'n by Natural Selection
+## Cystis Fibrosis and Evolution by Natural Selection
 <hr>
 <br/>
 <br/>
@@ -182,7 +183,7 @@ AA or Aa or aa
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/CFlife.png">
 
-## Cystis Fibrosous and Evol'n by Natural Selection
+## Cystis Fibrosis and Evol'n by Natural Selection
 <hr>
 <br/>
 <br/>
@@ -203,17 +204,19 @@ AA or Aa or aa
 <br/>
 
 * <span style="color:blue">**Is evolution occurring at the CFTR locus?**</span>
-
+    + how would we detect this in human populations?
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:535px; HEIGHT:450px" SRC="images/cftr1.png">
 
 ## Hardy Weinberg and Cystic Fibrosis
 <hr>
-<br/>
-<br/>
 
 <font size="6">
+**In a given populations of humans...**
+
+<br/>
+
 **Let <span style="color:blue">p</span> = frequency of functional CFTR gene (A)**
 <br/>
 <br/>
@@ -302,7 +305,7 @@ AA or Aa or aa
 
 <br/>
 
-**Harder soybean exercise page 491, also on Mastering**
+**Harder soybean exercise in book, also on Mastering**
 
 <br/>
 
