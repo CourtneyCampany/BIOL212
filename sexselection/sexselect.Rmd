@@ -35,13 +35,13 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: right; width: 45%;">
 
 * **Selection can occur as an association between phenotype and mating success**
     + secondary traits in mating
-
+    + *Sexual Dimorphism* = males and females look different
+    
 <br/>
 
 * **Introduces *choosiness* into evolution and reproduction**

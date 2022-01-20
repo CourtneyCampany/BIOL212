@@ -171,7 +171,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mosquito.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/mosquito.jpg">
 
 
 ## Allele frequencies change in beetles: Natural Selection
@@ -179,7 +179,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:750px; HEIGHT:450px" SRC="images/birdeating.jpg">
 
-## Only natural selection causes adaptive evolution!
+## Only natural selection causes *adaptive* evolution!
 <hr>
 <br/>
 
@@ -191,12 +191,12 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Certain traits lead to greater *Relative Fitness* **
-    + individuals with good trait will contribute more to gene pool
-    + better survival/reproduction compared to others
+    + individuals with good trait (alleles) will contribute more to gene pool
+    + *better survival/reproduction compared to others*
     
 <br/>
     
-* **More individuals in a population with greater 'RF' means....**
+* **More individuals in a population with greater relative finess means....**
 
 <br/>
 
