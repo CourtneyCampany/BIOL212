@@ -39,7 +39,7 @@ output:
 <div style="float: right; width: 45%;">
 
 * **Selection can occur as an association between phenotype and mating success**
-    + secondary traits in mating
+    + *secondary* traits in mating
     + *Sexual Dimorphism* = males and females look different
     
 <br/>
@@ -62,7 +62,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:450px; HEIGHT:300px" SRC="images/ducks.jpg">
 
-## Intrasexual selection is the battleground for mating
+## *Intrasexual selection* is the battleground for mating
 <hr>
 <br/>
 <br/>

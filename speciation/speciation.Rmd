@@ -46,7 +46,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Textbooks: A group of populations whose members have the potential to interbreed in nature and produce viable offspring**
+* **Textbooks: A group of populations whose members have the *potential to interbreed* in nature and produce viable offspring**
 
 </div>
 
