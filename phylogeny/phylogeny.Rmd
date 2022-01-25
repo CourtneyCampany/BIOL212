@@ -49,14 +49,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/shape2.png">
 
-## Mapping traits on a tree
+## Mapping traits on a  (review *homology*)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/clade.jpg">
 
 ##
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -71,6 +69,11 @@ output:
     + adaptive traits that define new taxa
     + marked with 'slashes' on tree
     + 'shared derived character' in book
+    + evolutionary novelties
+
+<br/>
+
+* **Shared ancestal traits: **
 
 </div>
 
@@ -142,7 +145,7 @@ output:
 
 <br/>
 
-* **Astragalus ankle bone is a synapomorphy (shared derived trait) shared by all artiodactyls**
+* **Astragalus ankle bone is a *shared derived trait* for all artiodactyls**
 
 </div>
 

@@ -20,7 +20,7 @@ output:
 <br/>
 
 * **Macroevolution: Speciation events form evolutionary independent populations**
-    + whole taxonomic groups
+    + and new taxonomic groups
 
 <br/>
 
@@ -182,10 +182,10 @@ reproduced sexually for > 80 million years
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:350px" SRC="images/symp.png">
 
-## Sympatric speciation via selection pressures: Lake Victoria
-<hr>
+<!-- ## Sympatric speciation via selection pressures: Lake Victoria -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/symp2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/symp2.jpg"> -->
 
 ## Sympatry in Hawthorn and apple flies
 <hr>
@@ -194,36 +194,36 @@ reproduced sexually for > 80 million years
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:300px; HEIGHT:450px" SRC="images/flies3.png">
 
-## Is speciation fast or slow?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/fossils.jpg">
-
-<!-- ## What factors impact speciation rates? -->
+<!-- ## Is speciation fast or slow? -->
 <!-- <hr> -->
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/punc.png"> -->
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/fossils.jpg"> -->
 
-## How much genetic change does it take?
-<hr>
+<!-- <!-- ## What factors impact speciation rates? --> -->
+<!-- <!-- <hr> --> -->
 
-<div style="float: left; width: 55%;">
+<!-- <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/punc.png"> --> -->
 
-* **Three spine stickleback fish rapidly evolve**
-    + moved from oceans to freshwater when glaciers retreated
+<!-- ## How much genetic change does it take? -->
+<!-- <hr> -->
 
-<br/>
+<!-- <div style="float: left; width: 55%;"> -->
 
-* **Freshwater habitats brought new selection pressures**
-    + variety of habitats
-    + new resources
-    + change in competition
+<!-- * **Three spine stickleback fish rapidly evolve** -->
+<!--     + moved from oceans to freshwater when glaciers retreated -->
 
-<br/>
+<!-- <br/> -->
 
-* **Molecular biology examined each speciation**
-    + ocean &rarr; fresh: one gene with bony armor plate
-    + fresh habitats &rarr; many genes based on selection pressures
-</div>
+<!-- * **Freshwater habitats brought new selection pressures** -->
+<!--     + variety of habitats -->
+<!--     + new resources -->
+<!--     + change in competition -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/fish.jpg">
+<!-- <br/> -->
+
+<!-- * **Molecular biology examined each speciation** -->
+<!--     + ocean &rarr; fresh: one gene with bony armor plate -->
+<!--     + fresh habitats &rarr; many genes based on selection pressures -->
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/fish.jpg"> -->
