@@ -42,12 +42,12 @@ output:
 ## How to draw phylogenies: branch shape and length
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:700px; HEIGHT:450px" SRC="images/shape.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/shape.jpg">
 
 ## How to draw phylogenies: branch shape and length
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/shape2.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/shape2.png">
 
 ## Mapping traits on a  (review *homology*)
 <hr>
