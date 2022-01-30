@@ -26,9 +26,10 @@ output:
 * **Human characteristics like upright posture and large brain evolved together: <span style="color: red;">WRONG!</span>**
     + <span style="color: green;">RIGHT</span>: Our ancestors include upright walkers with small brains 
     
-##
+## Primate phylogeny
+<hr>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/primate_phylo.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/primate_phylo.jpg">
 
 ##
 
@@ -45,8 +46,9 @@ output:
     + common ancestor with chimps ~ 6-7mya
     + genomes are 98-99% similar to chimps
     + 1% difference means a lot!!
-    + 19 regulatory genes differ
-
+        + 19 regulatory genes differ
+        + 600 genes differ in protein expression
+        
 <br/>
 
 * **Hominin derived characters:**
@@ -65,6 +67,7 @@ output:
     
 ## Hominins: part of primate family; includes genus *Homo*
 <hr>
+<br/>
 
 * **~20 species of fossils**
     + brain size, teeth shape, body size
@@ -75,7 +78,7 @@ output:
 
 * **Really old fossils**
     + *Sahelantrophus tchadensis* (Toumai): 6.5mya
-        + fossil connection to *Homo* missing
+        + fossil connection to hominins missing
     + *Ardipithecus ramidus* (Ardi): 4.4 mya
         + lived in trees & on ground
 
@@ -88,12 +91,14 @@ output:
 ## Hominin evolution was not a linear process
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/homin_phylo2.png">
 
-## Hominin evolution: brain volume
-<hr>
+## 
+**Hominin evolution:**
+<br/>
+**brain volume**
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:290px; WIDTH:520px; HEIGHT:520px" SRC="images/brain.gif">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:600px; HEIGHT:600px" SRC="images/brain.gif">
 
 ## Hominin evolution: The jaw
 <hr>
@@ -145,7 +150,7 @@ output:
 ## Lucy (*Australopithecus afirensis*) direct ancestor of *Homo*?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo2.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo3.png">
 
 ## *Homo* genus in the fossil record
 <hr>
@@ -241,30 +246,30 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:350px; HEIGHT:350px" SRC="images/variants.png">
 
-## Recent findings: new modern species?
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- ## Recent findings: new modern species? -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: right; width: 45%;">
+<!-- <div style="float: right; width: 45%;"> -->
 
-* **Really small new species (H.floresiensis)?**
-    + fossils in Indonesian island cave
-    + allegedly 13,000 years old
-    
+<!-- * **Really small new species (H.floresiensis)?** -->
+<!--     + fossils in Indonesian island cave -->
+<!--     + allegedly 13,000 years old -->
 
-<br/>
 
-* **Archaeologists seeking path to Australia**
+<!-- <br/> -->
 
-<br/>
+<!-- * **Archaeologists seeking path to Australia** -->
 
-* **Controversy: diseased *H.sapiens*?** 
+<!-- <br/> -->
 
-</div>
+<!-- * **Controversy: diseased *H.sapiens*?**  -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/hobbit.jpg">
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/hobbit.jpg"> -->
 
 ## Where is Human evolution heading?
 <hr>
