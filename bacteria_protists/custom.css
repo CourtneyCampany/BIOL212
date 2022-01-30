@@ -19,7 +19,6 @@ font-size: 45px;
   color: black ;  /* ; #EF5150*/
 }
 
-
 slides > slide.backdrop {
   background: white;
 }
@@ -29,7 +28,7 @@ height: 4px;
 margin-left: auto;
 margin-right: auto;
 background-color:#000080;
-color:#000080;
+color:#000080 ;
 border: 0 none;
 }
 
@@ -44,7 +43,6 @@ border: 0 none;
   height: 185px !important;
 }
 
-
 slide:not(.segue) h2{
   font-family: 'Times New Roman', Arial, sans-serif;
   font-size: 40px;
@@ -57,25 +55,15 @@ slide:not(.segue) h2{
 }
 
 slides > slide {
-
   color: black;
-
 }
-
-slides > slide:not(.nobackground):after {
-  content: ""
-}
-
-slides > slide:not(.nobackground):before {
-      font-size: 0;
-      content: "";
-      position: absolute;
-      bottom: 20px;
-      left: 60px;
-      background: url($logo$) no-repeat 0 50%;
-    }
 
 slides > slide {
   background: linear-gradient(#ffffff, #ffffff 85%, #ffffff);
   background-color: white;
+}
+
+
+slides > slide:not(.nobackground):after {
+  content: ""
 }

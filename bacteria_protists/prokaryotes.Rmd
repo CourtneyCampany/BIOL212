@@ -1,16 +1,141 @@
 ---
-title: "Prokaryotes (Bacteria and Archaea)"
+title: "Prokaryotes (Bacteria and Archaea) Part 1"
 output: 
   ioslides_presentation:
-    css: custom2.css
+    css: custom.css
     widescreen: true
     smaller: true
 ---
 
+## BIOL 212: The Diversity of Life ---Where should we start?
+<hr>
+<br/>
+**<span style="color:purple">One of the most important outcomes of modern biology is the demonstration of the unity of life</span>**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:1050px; HEIGHT:400px" SRC="images/start.jpg">
+
 ## 3 domain hypothesis: Linking Prokaryotes and Eukaryotes
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:750px; HEIGHT:375px" SRC="images/3domain.gif">
+**In 1857, Charles Darwin sent a letter to Thomas Huxley in which he wrote: “The time will come I believe, though I shall not live to see it, when we shall have very fairly true genealogical trees of each great kingdom of nature.”**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:750px; HEIGHT:375px" SRC="images/3domain.gif">
+
+## 3 domains are not universally accepted...
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **1990, Carl Woese proposed that all cellular life could be placed into 1 of 3 ‘domains’**
+    + Bacteria, Archaea and Eukarya
+    + comparisons of small RNA sequences
+    + Eukarya domain more closely related to Archaea
+
+<br/>
+
+* **New genomic data argue that eukaryotes and archaea should not be separate**
+
+<br/>
+
+* **The debate is unresolved and ongoing...**
+</div>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:550px; WIDTH:525px; HEIGHT:400px" SRC="images/2domain2.png">
+
+## Is it 2 or 3? That is the question...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/2domainfig.png">
+
+## Looking for LUCA: Ancient Genes
+<hr>
+
+* **The nature of the earliest ancestor of all living things has long been uncertain**
+    + domains of life seem to have no common point of origin
+  
+<br/>
+<div style="float: left; width: 68%;">
+
+* **Ancestor was a single-cell, bacterium-like organism**
+    + Last Universal Common Ancestor <span style="color:blue">**(LUCA)**</span>
+    + ~4 billion years ago
+
+<br/>
+
+* **Scientists search for ancestral genes related by common descent**
+    + 355 genes point to an organism that lived in the conditions found in deep sea vents
+
+<br/>
+
+* **Vent organism is missing genes necessary for life**
+    + must have been relying on chemical components from its environment
+    + "half-alive"
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:725px; WIDTH:300px; HEIGHT:400px" SRC="images/vent.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:350px; HEIGHT:500px" SRC="images/geyser.jpg">
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:500px; WIDTH:450px; HEIGHT:300px" SRC="images/acid.jpg">
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:510px; WIDTH:450px; HEIGHT:300px" SRC="images/vent.jpg">
+
+## Prokaryotes first to inhabit the Earth
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/oldlife.png">
+
+## Prokaryotes matter: First fossils
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **First TRACES of living organisms**
+    + Graphite carbon from Canadian rocks
+    + Formed by ‘prokaryotes’
+    + ~ 3.9 billion years ago! 
+
+<br/>
+
+* **Cyanobacteria form stromatolites**
+    + undisputed fossils = 3.5 bya
+    + western Australia
+    + layers of calcium carbonate precipitated over bacterial colonies
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:400px; HEIGHT:500px" SRC="images/matfossils.png">
+
+## Common ancestor of all species living today: Prokaryote
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/simple_phyl.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/oldfossil.gif">
 
 ## Prokaryotes: The big picture
 <hr>
@@ -41,106 +166,38 @@ output:
 
 <IMG STYLE="position:absolute; TOP:490px; LEFT:700px; WIDTH:300px; HEIGHT:200px" SRC="images/yellowstone.jpg">
 
-##
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:350px; HEIGHT:500px" SRC="images/geyser.jpg">
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:500px; WIDTH:450px; HEIGHT:300px" SRC="images/acid.jpg">
-
-<IMG STYLE="position:absolute; TOP:360px; LEFT:510px; WIDTH:450px; HEIGHT:300px" SRC="images/vent.jpg">
-
-## Prokaryotes first to inhabit the Earth
+## Cells of Prokaryotes are simpler than Eukaryotes: Brain Storm
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/oldlife.png">
-
-## Prokaryotes matter: First fossils
-<hr>
-<br/>
-<br/>
-
-<div style="float: left; width: 50%;">
-
-* **First TRACES of living organisms**
-    + Graphite carbon from Canadian rocks
-    + Formed by ‘prokaryotes’
-    + ~ 3.9 billion years ago! 
-
-<br/>
-
-* **Cyanobacteria form stromatolites**
-    + undisputed fossils = 3.5 bya
-    + western Australia
-    + layers of calcium carbonate precipitated over bacterial colonies
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:375px; HEIGHT:450px" SRC="images/matfossils.png">
-
-## Common ancestor of all species living today: Prokaryote
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/simple_phyl.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/oldfossil.gif">
-
-## Prokaryotes are structurally diverse
-<hr>
-<br/>
-
-<div style="float: left; width: 30%;">
-
-* **Unicellular (some colonies)**
-
-<br/>
-
-* **Small**
-    + microscopic to poppy seed
-
-<br/>
-
-* **Many Shapes**
-    + spherical, rod, spiral
-
-<br/>
-
-* **1/2 are motile (*taxis*)**
-    + use flagellum
-</div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:425px; WIDTH:600px; HEIGHT:400px" SRC="images/shapesize.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/blank.png">
 
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/differ.png">
 
-<!-- ## Prokaryotic vs Eukaryotic cells -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/shareproeu.jpg"> -->
-
-## Prokaryotes do it all! (review Table 27.1)
+## Most Prokaryotes have a cell wall
 <hr>
 <br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:450px; HEIGHT:500px" SRC="images/cellwall.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Maintains cell shape, protects cells and prevents it from bursting in *hypotonic* solution**
+
 <br/>
 
-* **Sources of carbon**
-    + autotrophs (make themselves)
-    + heterotrophs (get from others)
+* **In hypertonic environments prokaryotes loss water and shrink away from wall**
+    + an halt reproduction
+    + why salt is used to preserve food!
 
 <br/>
 
-* **Energy for ATP (no mitochondria)**
-    + sunlight
-    + organic molecules
-    + inorganic molecules
+* **Major component of the bacterial cell wall is peptidoglycan**
+    + rigid structure 
+    + specific only to prokaryotes
     
-<br/>
-
-* **Picture: Bacteria work together**
-    + photosynthesis and N fixation
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/photonitro.jpg">
+</div>
 
 ## Cell surface structures: Gram + & - bacteria
 <hr>
@@ -183,124 +240,82 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:650px; HEIGHT:500px" SRC="images/anti.png">
 
-<!-- ## Evolution of traditional groups: -->
-<!-- <hr> -->
-<!-- <br/> -->
-
-<!-- * **Gram positive bacteria are monophyletic** -->
-
-<!-- <br/> -->
-
-<!-- * **Cyanobacteria are monophyletic** -->
-
-<!-- <br/> -->
-
-<!-- * **Gram negative bacteria no longer considered monophyletic** -->
-
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:785px; WIDTH:250px; HEIGHT:250px" SRC="images/cyano2.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:425px; LEFT:300px; WIDTH:500px; HEIGHT:250px" SRC="images/gram.jpeg"> -->
-
-## Reproduction in prokaryotes: Binary fision
+## Evolution of traditional groups:
 <hr>
 <br/>
 
-<div style="float: left; width: 45%;">
-
-* **Asexual: daughter cells identical to parent**
-    + rapid reproduction
-    + not sustainable!
-    + bad for genetic diversity
+* **Gram positive bacteria are monophyletic**
 
 <br/>
 
-* **Mutations are rare but fast reproduction**
+* **Cyanobacteria are monophyletic**
 
 <br/>
 
-* **Gene transfer increases diversity:**
-    + transformation = 
-    + transduction = 
+* **Gram negative bacteria no longer considered monophyletic**
 
+<IMG STYLE="position:absolute; TOP:190px; LEFT:785px; WIDTH:250px; HEIGHT:250px" SRC="images/cyano2.jpg">
+
+<IMG STYLE="position:absolute; TOP:425px; LEFT:300px; WIDTH:500px; HEIGHT:250px" SRC="images/gram.jpeg">
+
+## Prokaryotes are structurally diverse
+<hr>
+<br/>
+
+<div style="float: left; width: 35%;">
+
+* **Unicellular (some colonies)**
+
+<br/>
+
+* **Small**
+    + microscopic to poppy seed
+
+<br/>
+
+* **Many Shapes**
+    + spherical, rod, spiral
+
+<br/>
+
+* **1/2 are motile (*taxis*)**
+    + use flagellum
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:525px; HEIGHT:450px" SRC="images/binary2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:425px; WIDTH:650px; HEIGHT:425px" SRC="images/shapesize.jpg">
 
-## Genetic Recombination: Transformation
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/transformation.jpg">
-
-## 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/transduction.png">
-
-## Prokaryotes matter: Oxygen Revolution
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:550px; HEIGHT:350px" SRC="images/archaenera.png">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/bif.jpg">
-
-## Prokaryotes matter: Cynaobacteria
+## The origins of movement: *Flagella*
 <hr>
 <br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: left; width: 55%;">
 
-* **Cyanobacteria: first evidence ~2.7 bya**
-    + blue-green algae
-    + aquatic and photosynthetic
-    + use chlorophyll
-
-<br/>
-
-* **Photosynthesis evolved independently in distant groups**
-    + mono, para or polyphyletic?
-    + cyanobacteria are a monophyletic group
-
-<br/>
-
-* **Eukaryotes acquired photosynthesis by engulfing cyanobacteria!**
-
-</div>
+* **3 main structures: motor, hook and filament (tail)**
+    + relatively fast
+    + very different from eukaryotes
+    + complexity often used in creationism arguments
     
-<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:500px; HEIGHT:450px" SRC="images/cyanobacteria.png">
-
-## Prokaryotes matter: Great Oxygenation
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/goe2.jpg">
-
-## Prokaryotes matters: Humans
-<hr>
 <br/>
 
-<div style="float: left; width: 45%;">
-
-* **Prokaryotes let us breath (O~2~)**
+* **19 shared proteins are modified versions of existing proteins**
+    + protein functions adapted to take on new functions
+    + through selection!
 
 <br/>
 
-* **Bacteria and Archaea cycle nutrients**
-    + break down dead things
-
-<br/>
-
-* **A small % of Bacteria cause disease**
-    + Lyme's disease
-
-<br/>
-
-* **Bacteria clean pollution**
-    + https://spinoff.nasa.gov/Spinoff2010/er_5.html
+* **Allows for *chemotaxis*, direct movement in response to chemicals**
+    + towards or away
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:525px; HEIGHT:350px" SRC="images/oilspill.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/flagelum.png">
 
-## Looking for LUCA: Ancient Genes
+<!-- ## Prokaryotic vs Eukaryotic cells -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/shareproeu.jpg"> -->
+
+## Next time: Prokaryote functional diversity and importance
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:375px; HEIGHT:450px" SRC="images/2domain.jpg">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/luca.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biofilms.jpg">
