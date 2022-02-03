@@ -229,7 +229,7 @@ output:
 
 <br/>
 
-* **http://www.uphs.upenn.edu/bugdrug/antibiotic_manual/Gram3.htm**
+<!-- * **http://www.uphs.upenn.edu/bugdrug/antibiotic_manual/Gram3.htm** -->
 
 </div>
 
