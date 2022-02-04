@@ -153,7 +153,7 @@ output:
     + conjugation = 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:525px; HEIGHT:450px" SRC="images/binary2.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:525px; HEIGHT:500px" SRC="images/binary2.jpg">
 
 ## Genetic Recombination: Transformation
 <hr>
