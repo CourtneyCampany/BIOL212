@@ -24,7 +24,7 @@ output:
 
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:450px; HEIGHT:600px" SRC="images/phyla.jpg">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:275px; WIDTH:500px; HEIGHT:650px" SRC="images/phyla.jpg">
 
 ## Protists: The big picture
 <hr>
