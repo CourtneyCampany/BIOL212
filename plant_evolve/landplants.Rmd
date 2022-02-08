@@ -199,6 +199,9 @@ runtime: shiny
 ## Alternation of generations
 <hr>
 
+## Alternation of generations
+<hr>
+
 <IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/mossex.jpg">
 
 ## First plant group: non-vascular bryophytes (mosses)
