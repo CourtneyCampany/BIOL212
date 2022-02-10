@@ -5,7 +5,6 @@ output:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## The big picture: Plants evolved from green algae
@@ -78,16 +77,16 @@ runtime: shiny
 ## Green Algae (Oedogonium)
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 55%;">
 
 * **Sister group to land plants**
-    + marine and freshwater
-    + single and multi-cellular
+    + all are *photosynthetic*
+    + marine and *freshwater*
+    + single and *multi-cellular*
     + broad, thick filaments
-    + some have AoG
-    + evolved around ~750mya
+    + some have *AoG*
+    + evolved around *~750mya*
     
 <br/>
 
@@ -199,10 +198,9 @@ runtime: shiny
 ## Alternation of generations
 <hr>
 
-## Alternation of generations
-<hr>
+##
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/mossex.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:175px; WIDTH:750px; HEIGHT:620px" SRC="images/mossex.jpg">
 
 ## First plant group: non-vascular bryophytes (mosses)
 <hr>

@@ -101,9 +101,9 @@ output:
 
 ## Evolution of roots
 <hr>
-<br/>
 
 * **Vascular tissues belowground**
+    + extension of ancient stems
     + bryophytes have no 'true' roots
 
 <br/>
@@ -204,11 +204,15 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 45%;">
 
 * **Whisk Ferns, Equisetum & Ferns**
     + mostly homosporous
     + whisk ferns do not have roots
+    
+<br/>
+
+* **Homospory = spores that germinate to produce bisexual (both male and female) gametophytes**
     
 <br/>
 
@@ -252,7 +256,7 @@ output:
 ## Homosphorous life cycle (mostly) with dominant sporophytes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/fernlife.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:520px" SRC="images/fernlife.jpg">
 
 ## The consequences of homospory
 <hr>
