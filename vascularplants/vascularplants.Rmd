@@ -7,7 +7,7 @@ output:
     widescreen: yes
 ---
 
-## Vascular plants were the next evolutionary step
+## Vascular plants were the next evolutionary step...Why?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/plantevol.jpg">
@@ -32,15 +32,15 @@ output:
 
 <br/>
 
-* **Plants evolved vascular tissues**
+* **Plants then evolved vascular tissues**
     + grow taller than bryophytes
-    + connects leaves & roots
+    + connected new leaves & roots
     
 <br/>
 
 * **First vascular plants lacked seeds**
     + sperm still need water to swim 
-    + ferns and lycophytes
+    + ferns and lycophytes = 1^st^ groups
 
 <br/>
 
@@ -58,8 +58,6 @@ output:
 ## Vascular system: the basics
 <hr>
 <br/>
-<br/>
-<br/>
 
 * **Xylem	=	water	conducting	(one	way)**	
 * **Phloem	=	sugar conducting (multi-directional)**	
@@ -70,11 +68,15 @@ output:
     + *lignin* in cell walls
     + does not rot easily
     + does not collapse easily
-    + think bundles of rigid straws or pipes
+    + think bundles of rigid straws or pipes (seedless plants)
     
 <br/>
 
 * **Vascular elements move liquid under tension**
+
+<br/>
+
+* **Vascular elements evolved independently several times**
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:650px; WIDTH:300px; HEIGHT:545px" SRC="images/vascular.png">
 
@@ -82,25 +84,26 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/ferncross.png">
 
-##
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- ## -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: right; width: 25%;">
+<!-- <div style="float: right; width: 25%;"> -->
 
-**Vascular elements evolved independently several times**
-</div>
+<!-- **Vascular elements evolved independently several times** -->
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:25px; WIDTH:750px; HEIGHT:550px" SRC="images/vascular_evolve.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:75px; LEFT:25px; WIDTH:750px; HEIGHT:550px" SRC="images/vascular_evolve.jpg"> -->
 
 ## Evolution of roots
 <hr>
+<br/>
 
 * **Vascular tissues belowground**
     + extension of ancient stems
@@ -121,7 +124,7 @@ output:
 * **Fossils show roots in lycophytes ~ 400mya**
     + convergent evolution in ferns
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/earlyroots.jpg">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/earlyroots.jpg">
 
 ## Evolution of leaves
 <hr>
@@ -134,7 +137,7 @@ output:
 <br/>
 
 * **Microphylls: single unbranched vein**
-    + unique to lycophytes
+    + unique to lycophytes (*add on phylogeny*)
 
 <br/>
 
@@ -143,9 +146,9 @@ output:
   
 <br/>
 
-* **Why does this matter?** 
+* **Why do more veins matter?** 
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/leaves.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/leaves.jpg">
 
 ## Evolution of leaves: sporophylls
 <hr>
@@ -157,9 +160,9 @@ output:
 
 <br/>
 
-* **Sporagnium:  spore container**
-    + ferns: clusters of sporagnia called 'sori'
-    + lycophytes: stobilus holds many sporagnia (like a cone)
+* **Sporagnium:  spore container (*house*)**
+    + ferns: clusters of sporagnia called '*sori*'
+    + lycophytes: '*stobilus*' holds many sporagnia (like a cone)
     + angiosperms: structures in flowers
 
 <br/>

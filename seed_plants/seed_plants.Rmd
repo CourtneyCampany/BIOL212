@@ -22,12 +22,12 @@ output:
 
 * **Seeds changed the course of plant evolution**
     + Gymnosperms evolve ~360 mya
-    + climate became drier = selection pressures
+    + climate became drier = selection pressures?
     + *Elkensia* first fossil seed plant
     
 <br/>
 
-* **Seeds consists of embryo & nutrients**
+* **Seeds consist of embryo & nutrients**
     + surrounded by protective coat
     + seeds can be dispersed long distances
     + less dependence on water
@@ -49,7 +49,8 @@ output:
 <br/>
 
 * **Before seeds, spore was only protective structure** 
-    + embryo exposed
+    + allowed dispersal but...
+    + embryo still exposed
 
 <br/>
 
@@ -62,8 +63,8 @@ output:
 
 <br/>
 
-* **Gymnosperms: seeds exposed on sporophylls, form cones**
-* **Angiosperms: seeds enclosed inside fruits**
+* **Gymnosperms:** seeds exposed on sporophylls, form cones
+* **Angiosperms:** seeds enclosed inside fruits
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:250px; HEIGHT:450px" SRC="images/cones.jpg">
 
@@ -74,7 +75,7 @@ output:
 
 * **Reduction of gametophyte**
     + mosses &rarr; ferns &rarr; seed plants
-    + gametophyte become microscopic
+    + gametophyte became microscopic
 
 <br/>
 
@@ -151,7 +152,7 @@ output:
 <br/>
 
 * **Gnteophytes**: small and super weird group
-    + some flowering traits
+    + source of ephedrine
 
 <br/>
 
