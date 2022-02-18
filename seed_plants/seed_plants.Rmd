@@ -36,7 +36,7 @@ output:
 
 * **2 living seed lineages**
     + gymnosperms (naked seed)
-    + angiosperms (covered seed = fruits)
+    + angiosperms (covered seed = ovary + fruit)
     
 </div>
 
@@ -64,7 +64,7 @@ output:
 <br/>
 
 * **Gymnosperms:** seeds exposed on sporophylls, form cones
-* **Angiosperms:** seeds enclosed inside fruits
+* **Angiosperms:** seeds enclosed inside ovary
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:250px; HEIGHT:450px" SRC="images/cones.jpg">
 
@@ -86,13 +86,13 @@ output:
 <br/>
 
 * **Ovules**
-    + megasporangium kept inside sporophyte
-    + ovule contains megaspore
+    + sporangium kept inside sporophyte
+    + ovule contains female spores
     
 <br/>
 
 * **Pollen**
-    + microspore develops into pollen grain
+    + male spores develops into pollen grain
 
     
 </div>
@@ -157,7 +157,7 @@ output:
 <br/>
 
 * **Ginkos**: *Ginkgo biloba* is only species left!
-    + landscapers only plant males because...
+    + super common street tree
     
 <br/>
 
@@ -193,6 +193,7 @@ output:
     + microspores develop into pollen grains
     + male gametophyte inside pollen grain
     + pollen dispersed by wind
+    + *male cones usually on bottom of tree*
 
 </div>
 
@@ -210,12 +211,12 @@ output:
     + each ovule has megasproangium
     + megasporangium produce 4 megaspores
     + 1 megaspore survives
+    + megaspore develops gametophyte with egg
 
 <br/>
 
 * **Pollen grain reaches ovule and germinates**
     + pollen tube grows toward megaspore
-    + megaspore develops gametophyte with egg
     + sperm &rarr; pollen tube &rarr; egg
     + seed forms, dispersed by wind
 
@@ -240,7 +241,7 @@ output:
 
 * **Most diverse living group of plants**
     + 14,000 genera, 350,000 species
-    + 94% of plant diversity
+    + >90% of plant diversity
 
 </div>
 

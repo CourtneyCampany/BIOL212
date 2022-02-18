@@ -131,11 +131,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/spectrum_plantform.jpg">
 
-## How do plants create such dynamic structures?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cell_types.png">
-
 ## Plants have 3 tissue systems connecting all plant organs
 <hr>
 
@@ -144,6 +139,11 @@ output:
 <IMG STYLE="position:absolute; TOP:300px; LEFT:375px; WIDTH:200px; HEIGHT:200px" SRC="images/tissue_structure.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/organ.jpg">
+
+## How do plants create such dynamic structures?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cell_types.png">
 
 ## Parenchyma cells: living, dividing with metabolic function
 <hr>
