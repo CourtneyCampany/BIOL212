@@ -1,6 +1,5 @@
 ---
-title: "Photosynthesis: past, present and future"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
+title: "Photosynthesis"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -8,7 +7,21 @@ output:
     smaller: true
 ---
 
-## Review: Light energy to chemical energy
+## When light hits chlorophyll a few things can happen
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/chlroplasts_light.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/pigments.jpg">
+
+## When pigments absorb photons an election gets excited
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/excite.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/resonance.jpg">
+
+## Light energy to chemical energy
 <hr>
 
 <IMG STYLE="position:absolute; TOP:265px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/chlorophyll.jpeg">
@@ -21,9 +34,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/photosystems2.png">
 
-<!-- ##  -->
+##
 
-<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg"> -->
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg">
 
 ## Calvin cycle (in stroma)
 <hr>

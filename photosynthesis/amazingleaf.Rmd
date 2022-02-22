@@ -70,7 +70,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:395px; WIDTH:600px; HEIGHT:300px" SRC="images/venation.jpg">
 
-## Leaf gas exchange impacts the global atmopshere
+## Angiosperms have evolved higher vein densities
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
