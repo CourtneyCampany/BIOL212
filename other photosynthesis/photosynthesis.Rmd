@@ -38,25 +38,25 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg">
 
-## Calvin cycle (in stroma)
+## Calvin cycle (in stroma) uses products from light reaction
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/calvin3.jpg">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.png">
 
-## Calvin cycle is a 3-step process 
+## Calvin cycle is a 3-step process to produce sugars
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:500px; HEIGHT:500px" SRC="images/calvin.jpg">
 
 
 <div style="float: right; width: 50%;">
 
 * **1. *Fixation*: CO~2~ reacts with 5C molecule (RUBP)**
     + new 6C split into 2 acids (3C each)
-    + catalyzed by <span style="color:red">Rubisco</span> enzyme
+    + catalyzed by <span style="color:blue">Rubisco</span> enzyme
 
 <br/>
 
@@ -72,10 +72,10 @@ output:
     
  </div>
 
-## Making sugars requires several cycles
+## Making sugars requires several cycles (for *regeneration*)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin2.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:500px; HEIGHT:500px" SRC="images/calvin2.jpg">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
 
@@ -229,203 +229,203 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:595px; WIDTH:350px; HEIGHT:500px" SRC="images/c3plants_crop.png">
 
-## Evolution tinkers with other parts of photosynthesis
-<hr>
-<br/>
-<br/>
+<!-- ## Evolution tinkers with other parts of photosynthesis -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:400px; HEIGHT:225px" SRC="images/c3c4cam.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:400px; HEIGHT:225px" SRC="images/c3c4cam.jpg"> -->
 
-<div style="float: right; width: 55%;">
+<!-- <div style="float: right; width: 55%;"> -->
 
-* **Changed existing parts and pieces**
-    + work around the photorespiration issue
- 
-<br/>
+<!-- * **Changed existing parts and pieces** -->
+<!--     + work around the photorespiration issue -->
 
-* **In response to environmental change**
-    + lower [CO~2~] & higher [O~2~]
-    + high temperatures 
-    + water limitations (stomata)
+<!-- <br/> -->
 
-<br/>
+<!-- * **In response to environmental change** -->
+<!--     + lower [CO~2~] & higher [O~2~] -->
+<!--     + high temperatures  -->
+<!--     + water limitations (stomata) -->
 
-* **Evolution of new photosynthesis pathways**
-    + Allowed plants to exploit drier habitats
-</div>
+<!-- <br/> -->
 
-## Evolution of C4 photosynthesis
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- * **Evolution of new photosynthesis pathways** -->
+<!--     + Allowed plants to exploit drier habitats -->
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/c4cell.jpg">
+<!-- ## Evolution of C4 photosynthesis -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: right; width: 45%;">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/c4cell.jpg"> -->
 
-* **Calvin cycle moved to *Bundle Sheath Cells* surrounding leaf veins**
-    * chloroplasts now present
+<!-- <div style="float: right; width: 45%;"> -->
 
-<br/>
-<br/>
+<!-- * **Calvin cycle moved to *Bundle Sheath Cells* surrounding leaf veins** -->
+<!--     * chloroplasts now present -->
 
-* **BSC cells are less permeable to gases**
-    * what does this mean for photorespiration?
+<!-- <br/> -->
+<!-- <br/> -->
 
-</div>
+<!-- * **BSC cells are less permeable to gases** -->
+<!--     * what does this mean for photorespiration? -->
 
-## 
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c3_cs.gif">
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c4_cs.gif">
+<!-- <IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c3_cs.gif"> -->
 
-## C4 plants concentrate CO~2~ around Rubisco *spatially*
-<hr>
-<br/>
-<br/>
+<!-- <IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c4_cs.gif"> -->
 
-<div style="float: right; width: 55%;">
+<!-- ## C4 plants concentrate CO~2~ around Rubisco *spatially* -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **C4 mechanism separates Calvin cycle from high O~2~**
+<!-- <div style="float: right; width: 55%;"> -->
 
-<br/>
+<!-- * **C4 mechanism separates Calvin cycle from high O~2~** -->
 
-* **New fixation pathway in mesophyll cells**
-    * New enzyme, phosphoenolpyruvate carboxlylase (PEPC)
-    * fixes CO~2~ to PEP (**no affinity for O~2~**)
-    * new 4C malate pumped to bundle sheath cells
-    * malate broken down to release CO~2~
-    * 3C molecule transported back to mesophyll
+<!-- <br/> -->
 
-<br/>
+<!-- * **New fixation pathway in mesophyll cells** -->
+<!--     * New enzyme, phosphoenolpyruvate carboxlylase (PEPC) -->
+<!--     * fixes CO~2~ to PEP (**no affinity for O~2~**) -->
+<!--     * new 4C malate pumped to bundle sheath cells -->
+<!--     * malate broken down to release CO~2~ -->
+<!--     * 3C molecule transported back to mesophyll -->
 
-* **Hyper efficient with use of CO~2~**
-    * How does this impact stomata behavior?
+<!-- <br/> -->
 
-</div>
+<!-- * **Hyper efficient with use of CO~2~** -->
+<!--     * How does this impact stomata behavior? -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
+<!-- </div> -->
 
-## Why is C4 photosynthesis not dominant?
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg"> -->
 
-<div style="float: right; width: 50%;">
+<!-- ## Why is C4 photosynthesis not dominant? -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Regeneration of PEP expensive (ATP)**
-    + in addition to ATP needed for Calvin cycle
- 
-<br/>
- 
-* **Where is needed ATP generated?**
+<!-- <div style="float: right; width: 50%;"> -->
 
-<br/>
+<!-- * **Regeneration of PEP expensive (ATP)** -->
+<!--     + in addition to ATP needed for Calvin cycle -->
 
-* **Where should C4 plants exist?**
-    
-</div>
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:550px; HEIGHT:450px" SRC="images/c4khan.png">
+<!-- * **Where is needed ATP generated?** -->
 
-##
-<div class="item-absolute2"> In hot conditions, the benefits of reduced photorespiration likely exceed the ATP cost of moving CO~2~ from the mesophyll cell to the bundle-sheath cell </div>
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:165px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
+<!-- * **Where should C4 plants exist?** -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:550px; HEIGHT:450px" SRC="images/c4khan.png"> -->
+
+<!-- ## -->
+<!-- <div class="item-absolute2"> In hot conditions, the benefits of reduced photorespiration likely exceed the ATP cost of moving CO~2~ from the mesophyll cell to the bundle-sheath cell </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:165px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg"> -->
 
 
 
-<!-- ## C4 photosynthesis: Evolved many times -->
+<!-- <!-- ## C4 photosynthesis: Evolved many times --> -->
+<!-- <!-- <hr> --> -->
+
+<!-- <!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/c4map.png"> --> -->
+
+<!-- ## Evolution of CAM photosynthesis (C4 pathway w/out BSC) -->
 <!-- <hr> -->
 
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/c4map.png"> -->
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png"> -->
 
-## Evolution of CAM photosynthesis (C4 pathway w/out BSC)
-<hr>
+<!-- ## CAM concentrates CO~2~ around Rubisco *temporally* -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
+<!-- <div style="float: right; width: 47%;"> -->
 
-## CAM concentrates CO~2~ around Rubisco *temporally*
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- * **Stomata open at night only** -->
 
-<div style="float: right; width: 47%;">
+<!-- <br/> -->
 
-* **Stomata open at night only**
- 
-<br/>
- 
-* **4C compounds produced in large quantities**
-    + stored when Rubisco is inactive
+<!-- * **4C compounds produced in large quantities** -->
+<!--     + stored when Rubisco is inactive -->
 
-<br/>
+<!-- <br/> -->
 
-* **C4 vs CAM**
-    * substitute BSC for "night shift"
-    
-</div>
+<!-- * **C4 vs CAM** -->
+<!--     * substitute BSC for "night shift" -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cam5.jpg">
+<!-- </div> -->
 
-## Yes we CAM!!
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cam5.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/cam_plants.jpeg">
+<!-- ## Yes we CAM!! -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/cam_plants.jpeg"> -->
 
 
-<div style="float: left; width: 50%;">
-* **CAM evolved independently several times**
-    + ~16,000 species
+<!-- <div style="float: left; width: 50%;"> -->
+<!-- * **CAM evolved independently several times** -->
+<!--     + ~16,000 species -->
 
-<br/>
+<!-- <br/> -->
 
-* **Exist in arid environments or habitats**
-    * cacti
-    * epiphytes
+<!-- * **Exist in arid environments or habitats** -->
+<!--     * cacti -->
+<!--     * epiphytes -->
 
-<br/>
+<!-- <br/> -->
 
-* **Are CAM plants fast or slow growing?**
-</div>
+<!-- * **Are CAM plants fast or slow growing?** -->
+<!-- </div> -->
 
-## C3 vs C4 vs CAM: Know advantages/disadvantages of each
-<hr>
+<!-- ## C3 vs C4 vs CAM: Know advantages/disadvantages of each -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/c3c4cam.jpeg">
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/c3c4cam.jpeg"> -->
 
-## Why does this matter to you...
-<hr>
-<br/>
-<br/>
+<!-- ## Why does this matter to you... -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: right; width: 55%;">
-* **C4 plants are economically important**
-    * corn, sugarcane, sorghum & switchgrass
+<!-- <div style="float: right; width: 55%;"> -->
+<!-- * **C4 plants are economically important** -->
+<!--     * corn, sugarcane, sorghum & switchgrass -->
 
-<br/>
+<!-- <br/> -->
 
-* **So are C3 crops**
-    * beans, rice, wheat, potatoes (temperate crops)
+<!-- * **So are C3 crops** -->
+<!--     * beans, rice, wheat, potatoes (temperate crops) -->
 
-<br/>
+<!-- <br/> -->
 
-* **Global water use is set to triple by 2050**
-    * 70%  to the agriculture sector
-    * 50% transpired through stomatal pores
+<!-- * **Global water use is set to triple by 2050** -->
+<!--     * 70%  to the agriculture sector -->
+<!--     * 50% transpired through stomatal pores -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:285px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/dry_corn.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:285px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/dry_corn.jpg"> -->
 
 <!-- ##  -->
 
