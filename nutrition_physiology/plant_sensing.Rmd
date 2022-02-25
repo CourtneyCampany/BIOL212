@@ -1,9 +1,8 @@
 ---
 title: "Plant environmental physiology"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
-    css: custom2.css
+    css: custom.css
     widescreen: true
     smaller: true
 ---
@@ -16,7 +15,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: right; left: 50%;">
+<div style="float: right; width: 50%;">
 
 * **Do plants sense their environment?**
     * changes in essential resources
@@ -30,7 +29,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="images/brains.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/brains.jpg">
 
 ## Sensory cell systems
 <hr>
@@ -40,13 +39,13 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/signals2.jpg">
 
-<div style="float: right; left: 50%;">
+<div style="float: right; width: 50%;">
 
-* **Cell to cell signal networks**
+**Cell to cell signal networks**
 
 <br/>
 
-* **Ca^2+^ based signals are common**
+**Ca^2+^ based signals are common**
 
 </div>
 
@@ -101,7 +100,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/spad_water.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/stemwater.jpg">
 
 ## Are there limits to moving water?
 <hr>
@@ -118,7 +117,7 @@ output:
 <br/>
 
 * **Gravity**
-    + harder and harder to move water
+    + harder and harder to move water up
     + xylem less efficient @ top
     + theoretically, limits growth to 122-130 m
 
@@ -151,13 +150,13 @@ output:
 
 <br/>
 
-* **Adhesion: water sticks to non water molecules**
+* **Adhesion: water sticks to non-water molecules**
     + stick to sides of xylem tissues
     + H~2~0 not pulled straight up!
 
 <br/>
 
-* **Transpiration pulls water under tension**
+* **Transpiration can pull water under tension**
 </div> 
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
@@ -170,18 +169,18 @@ output:
 <div style="float: left; width: 55%;">
 
 * **H~2~O also pulled in zig zag motion**
-    + pits and perforations
+    + pits in xylem cells
     + tracheids are twisted
 
 <br/>
 
 * **Vascular tissue is tough**
     + high resistance of lignified walls
-    + built not to collapse
+    + built not to collapse under tension
   
 <br/>
 
-* **Redwoods near theoretical limit!** 
+* **Redwoods near theoretical limit!!!** 
   
 </div> 
 
