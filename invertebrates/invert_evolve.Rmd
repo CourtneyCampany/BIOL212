@@ -79,7 +79,7 @@ output:
 
 <br/>
 
-* **Occupy ever habitat on Earth**
+* **Occupy every habitat on Earth**
 
 <br/>
 
@@ -158,7 +158,7 @@ output:
 
 * **Simple diploblastic radial body plan**
     + motile and sessile
-    + polyp or medusa
+    + polyp or medusa forms
     
 </div>
 
@@ -370,7 +370,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/trilobyte.jpg">
 
-## Arthropod body plans: Hox genes?
+## Arthropod body plans: unique Hox genes
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:1050px; HEIGHT:350px" SRC="images/insect_body.jpg">

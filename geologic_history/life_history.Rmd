@@ -174,16 +174,16 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/creatures.jpg">
 
-##
-<br/>
-<br/>
+<!-- ## -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-**Did the Cambrian really explode?**
+<!-- **Did the Cambrian really explode?** -->
 
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:550px; HEIGHT:275px" SRC="images/edicar2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:550px; HEIGHT:275px" SRC="images/edicar2.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/edicar3.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/edicar3.jpg"> -->
 
 ## Geologic history of plants and animals on land
 <hr>

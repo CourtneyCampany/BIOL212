@@ -65,7 +65,7 @@ output:
 <br/>
 
 * **Fossils of fungal spores found in Wisconsin dated to 460 mya**
-    + changed the origin of land-based fungi
+    + suggests origin of land-based fungi
 
 <br/>
 
@@ -93,7 +93,7 @@ output:
 
 * **Use enzymes to break down compounds**
     + diverse enzymes for diverse food sources
-    + secreted outside the cell
+    + secreted outside the cell (*extracelluar*)
 
 
     
@@ -114,19 +114,19 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/body.jpg">
 
-## Most *hyphae* divided into cells by *septa*
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hypae.jpg">
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:625px; WIDTH:350px; HEIGHT:300px" SRC="images/hypae2.jpg">
-
 ## Mycelium: huge surface and volume for absorption
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mycelium.jpg">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/popart.jpg">
+
+## Most *hyphae* divided into cells by *septa*
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hypae.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:625px; WIDTH:350px; HEIGHT:300px" SRC="images/hypae2.jpg">
 
 ##
 
@@ -205,9 +205,9 @@ output:
 
 **Sexual Reproduction:**
 
-**1. Plasmogamy: Fusion of cytoplasm from different individuals**
+**1. Plasmogamy:**
 
-**2. Karyogamy: parent nuclei fuse (2N)**
+**2. Karyogamy: **
 
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/FungalLifeCycle.jpg">
