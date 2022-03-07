@@ -108,13 +108,13 @@ output:
     
 <br/>    
 
-* **Lots of cells, but no tissue layers**
+* **Lots of cells, but <span style="color:blue">no tissue layers</span>**
     + produce many antibiotics
     
 <br/>
 
 * **Share similarities with protist Chonaflagellates**
-    + feed using cells called *choanocytes*
+    + feed using cells called <span style="color:blue">*choanocytes*</span>
 
 </div>
 
@@ -156,7 +156,7 @@ output:
     
 <br/>
 
-* **Simple diploblastic radial body plan**
+* **Simple <span style="color:blue">diploblastic radial body plan</span>**
     + motile and sessile
     + polyp or medusa forms
     
@@ -164,7 +164,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/cnidarian.jpg">
 
-## Basic Cnidarian body plan (*Nematocyst* on phylogeny)
+## Basic Cnidarian body plan (<span style="color:blue">*Nematocyst*</span> on phylogeny)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:700px; HEIGHT:400px" SRC="images/cnidarian2.jpg">
@@ -180,16 +180,16 @@ output:
 
 <div style="float: right; width: 45%;">
 
-* **Triploblasty = 3 germ layers**
+* **<span style="color:blue">Triploblasty</span> = 3 germ layers**
 
 <br/>
 
-* **Complete digestive tract**
+* **<span style="color:blue">Complete digestive tract</span>**
     + mouth and anus
     
 <br/>
 
-* **Bilateral = symmetrical in 2 halves**
+* **<span style="color:blue">Bilateral</span> = symmetrical in 2 halves**
     
 </div>
 
@@ -202,16 +202,16 @@ output:
 
 <div style="float: right; width: 45%;">
 
-* **Triploblasty = 3 germ layers**
+* **<span style="color:blue">Triploblasty</span> = 3 germ layers**
 
 <br/>
 
-* **Complete digestive tract**
+* **<span style="color:blue">Complete digestive tract</span>**
     + mouth and anus
     
 <br/>
 
-* **Bilateral = symmetrical in 2 halves**
+* **<span style="color:blue">Bilateral</span> = symmetrical in 2 halves**
     
 <br/>
 
@@ -232,12 +232,12 @@ output:
 
 <div style="float: left; width: 40%;">
 
-* **Lophophore: crown of ciliated tentacles for feeding**
+* **<span style="color:blue">Lophophore</span>: crown of ciliated tentacles for feeding**
 
 <br/>
 <br/>
 
-* **Trophophore: distinctive larval stage**
+* **<span style="color:blue">Trophophore</span>: distinctive larval stage**
     + beating cilia
     + cylinder body
     
@@ -251,7 +251,7 @@ output:
 <br/>
 <br/>
 
-* **Common phyla to know:**
+* **Key phyla (18 total):**
 1. Platyhelminthes (flatworms)
 2. Syndermata (rotifers)
 3. Brachiopods (lamp shells)
@@ -280,7 +280,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:400px; HEIGHT:300px" SRC="images/mollusc2.jpg">
 
-## Phylum Annelida: Earthworms (*segmentation* on phylogeny)
+## Phylum Annelida: Earthworms (<span style="color:blue">*segmentation*</span> on phylogeny)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/earthworm.jpg">
@@ -295,7 +295,7 @@ output:
 
 * **Animals with cuticle**
     + shed tough external coat
-    + shed as grow; molting; *ecdysis*
+    + shed as grow; <span style="color:blue">molting; *ecdysis*</span>
     
 <br/>
 
@@ -354,7 +354,7 @@ output:
     
 <br/>
 
-* **Segmented body, hard exoskeleton, jointed appendages**
+* **<span style="color:blue">Segmented body, hard exoskeleton, jointed appendages</span>**
     + likely led to success
     
 <br/>
