@@ -7,6 +7,10 @@ output:
     smaller: true
 ---
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/Chordates.jpg">
+
 <!-- ## Protostome vs Deuterostome -->
 <!-- <hr> -->
 <!-- <br/> -->
@@ -66,88 +70,84 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/deutro.jpg"> -->
 
-<!-- ## Phylum Echinoderms -->
-<!-- <hr> -->
-<!-- <br/> -->
+## Phylum Echinoderms
+<hr>
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg"> -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg">
 
-<!-- <IMG STYLE="position:absolute; TOP:385px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/urchin.jpg"> -->
+<IMG STYLE="position:absolute; TOP:385px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/urchin.jpg">
 
-<!-- <div style="float: right; width: 50%;"> -->
+<div style="float: right; width: 50%;">
 
-<!-- * **Translates to 'Spiny Skin'** -->
-<!--     + sea stars and urchins -->
-<!--     + slow moving and marine -->
-<!--     + adult = radial, larval = bilateral -->
+* **Translates to 'Spiny Skin'**
+    + sea stars and urchins
+    + slow moving and marine
+    + <span style="color:blue">adult = radial, larval = bilateral</span>
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Thin epidermis covered in hard plates** -->
-<!--     + often with bumps or spines -->
+* **Thin epidermis covered in hard plates**
+    + often with bumps or spines
 
-<!-- </div> -->
+</div>
 
-<!-- ## Phylum Echinoderms -->
-<!-- <hr> -->
-<!-- <br/> -->
+## Phylum Echinoderms
+<hr>
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg"> -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/seastar.jpg">
 
-<!-- <IMG STYLE="position:absolute; TOP:385px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/tubefeet2.jpg"> -->
+<IMG STYLE="position:absolute; TOP:385px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/tubefeet2.jpg">
 
-<!-- <div style="float: right; width: 50%;"> -->
+<div style="float: right; width: 50%;">
 
-<!-- * **Translates to 'Spiny Skin'** -->
-<!--     + sea stars and urchins -->
-<!--     + slow moving and marine -->
-<!--     + adult = radial, larval = bilateral -->
+* **Translates to 'Spiny Skin'**
+    + sea stars and urchins
+    + slow moving and marine
+    + <span style="color:blue">adult = radial, larval = bilateral</span>
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Thin epidermis covered in hard plates** -->
-<!--     + often with bumps or spines -->
+* **Thin epidermis covered in hard plates**
+    + often with bumps or spines
 
-<!-- <br/>     -->
+<br/>
 
-<!-- * **Possess a unique water vascular system** -->
-<!--     + flexible hydraulic canals = *tube feet* -->
+* **Possess a unique water vascular system**
+    + flexible hydraulic canals = <span style="color:blue">*tube feet*</span>
 
-<!-- </div> -->
+</div>
 
-<!-- ## Phylum Chordata (mostly vertebrates) -->
-<!-- <hr> -->
-<!-- <br/> -->
+## Phylum Chordata (mostly vertebrates)
+<hr>
+<br/>
 
-<!-- <div style="float: left; width: 45%;"> -->
+<div style="float: left; width: 45%;">
 
-<!-- * **All chordates share 4 traits** -->
-<!-- * **Some only in embryo stages** -->
-<!-- 1. Notochord -->
-<!-- 2. Dorsal, hollow nerve cord -->
-<!-- 3. Pharyngeal slits -->
-<!-- 4. Muscular, Post-anal tail -->
+* **All chordates share 4 traits**
+* **Some only in embryo stages**
+1. <span style="color:blue">Notochord</span>
+2. <span style="color:blue">Dorsal, hollow nerve cord</span>
+3. <span style="color:blue">Pharyngeal slits</span>
+4. <span style="color:blue">Muscular, Post-anal tail</span>
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **2 invertebrates groups that are more related to vertebrates** -->
-<!--     + Cephlachordata (lancelets) -->
-<!--     + Urochordates (tunicates) -->
+* **2 invertebrates groups that are more related to vertebrates**
+    + Cephlachordata (lancelets)
+    + Urochordates (tunicates)
 
-<!-- </div> -->
+</div>
 
-<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:500px; HEIGHT:250px" SRC="images/chordate2.jpg"> -->
+<IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:500px; HEIGHT:250px" SRC="images/chordate2.jpg">
 
-##
+## Lancelets and Tunicates
+<hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/Chordates.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/squirts.jpg">
 
-<!-- ## Lancelets and Tunicates -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/squirts.jpg"> -->
-
-## Vertebrates are chordates with a backbone
+## <span style="color:blue">Vertebrates</span> are chordates with a backbone
 <hr>
 <br/>
 <br/>
@@ -162,7 +162,7 @@ output:
 <br/>
 <br/>
 
-* **Derived trait = neural crest**
+* **Derived trait = <span style="color:blue">neural crest</span>**
     + special cells near neural tube in embryo
     + give rise to many vertebrate traits
     + e.g.. teeth, skull cartilage, etc
@@ -204,7 +204,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Only members of vertebrates without jaws**
-    + sister group of jawless fish
+    + <span style="color:blue">sister group of jawless fish</span>
 
 <br/>
 
@@ -227,7 +227,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Only members of vertebrates without jaws**
-    + sister groups
+    + <span style="color:blue">sister group of jawless fish</span>
 
 <br/>
 
@@ -243,12 +243,13 @@ output:
 
 * **Many Lamprey are parasitic on fish**
     + invaded Great Lakes
+    + native to Chesapeake Bay
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:350px; HEIGHT:450px" SRC="images/lamprey.jpg">
 
-## Vertebrates with jaws
+## Vertebrates with <span style="color:blue">jaws</span>
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/jaws.jpg">
@@ -261,13 +262,13 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **'Cartilage fishes': skeletons mostly cartilage**
+* **<span style="color:blue">'Cartilage fishes'</span>: skeletons mostly cartilage**
     + often with calcium
     + originated 400 mya
     
 <br/>
 
-* **Streamlined body for swift swimming**
+* **<span style="color:blue">Streamlined body</span> for swift swimming**
     + poor maneuverability
     + near constant motion
     
@@ -291,12 +292,15 @@ output:
 <br/>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 45%;">
 
-* **Phylogeny: large new vertebrate group with bony endoskeletion**
+* **Phylogeny: large new vertebrate group with <span style="color:blue">bony endoskeletion</span>**
     + fishes = aquatic groups
+
+<br/>
+
+**Add <span style="color:blue">lungs/lung derivatives</span> to phylogeny**
 
 </div>
 
@@ -310,8 +314,8 @@ output:
 <div style="float: left; width: 45%;">
 
 * **Important derived traits for fishes:**
-    + operculum:
-    + swim bladder:
+    + <span style="color:blue">operculum</span>:
+    + <span style="color:blue">swim bladder</span>:
 
 <br/>
 
@@ -320,8 +324,8 @@ output:
 
 <br/>
 
-* **Lobe-finned: rod-shaped bone surrounded by muscle in fins**
-  + lungfish, *Coelacanths*, tetrapods
+* **<span style="color:blue">Lobe-finned</span>: rod-shaped bone surrounded by muscle in fins**
+  + lungfish, *Coelacanths*, earliest tetrapods
 
 </div>
 
@@ -355,7 +359,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/swimbladder.png">
 
-## Evolution of Tetrapods
+## Evolution of <span style="color:blue">Tetrapod group</span>
 <hr>
 <br/>
 <br/>
@@ -363,14 +367,14 @@ output:
 
 <div style="float: left; width: 45%;">
 
-* **Fins gradually evolved into limbs**
+* **Lobe fins gradually evolved into limbs**
     + Tetrapods colonized land 365 mya
     + move away from fish-like vertebrates
 
 <br/>
 <br/>
 
-* **Tetrapods derived trait = limbs with digits**
+* **Tetrapod derived trait = <span style="color:blue">limbs with digits</span>**
     + supports weight
     + digits efficiently support movement
 
@@ -415,19 +419,19 @@ output:
 
 <br/>
 
-* **Rely on skin for gas exchange**
+* **Rely on <span style="color:blue">skin for gas exchange</span>**
     + live in moist habitats
 
 <br/>
 
 * **Name means 'dual life'**
     + some have aquatic tadpole larvae
-    + more related to metamorphosis;
+    + more related to metamorphosis
     + gills &rarr; legs, lungs, eardrums
 
 </div>
 
-## Amniotes: tetrapod with terrestrial egg (also rib cage)
+## <span style="color:blue">Amniotes</span>: tetrapod with terrestrial egg (also rib cage)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/amnio.jpg">
@@ -447,11 +451,11 @@ output:
 
 <br/>
 
-* **Scales with keratin**
+* **<span style="color:blue">Scales</span> with keratin**
 
 <br/>
 
-* **Lay shelled eggs on land**
+* **Lay <span style="color:blue">shelled eggs</span> on land**
 
 <br/>
 
@@ -474,11 +478,11 @@ output:
 
 <br/>
 
-* **Scales with keratin**
+* **<span style="color:blue">Scales</span> with keratin**
 
 <br/>
 
-* **Lay shelled eggs on land**
+* **Lay <span style="color:blue">shelled eggs</span> on land**
 
 <br/>
 
@@ -509,15 +513,15 @@ output:
 
 <br/>
 
-* **Derived Trait: Mammary glands**
+* **Derived Trait: <span style="color:blue">Mammary glands</span**
     + produce milk for offspring
 <br/>
 
-* **Derived Trait: Hair**
+* **Derived Trait: <span style="color:blue">Hair</span>**
     + insulation/water saver
 <br/>
 
-* **Derived Trait: Kidney**
+* **Derived Trait: <span style="color:blue">Kidney</span>**
     + waste removing/water saving organ
 </div>
 
