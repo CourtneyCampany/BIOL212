@@ -42,7 +42,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bodyplan.png">
 
-## Animals are mutlticellular, eukaryotic heterotrophs 
+## Animals are multi-cellular, eukaryotic heterotrophs 
 <hr>
 <br/>
 
@@ -78,18 +78,18 @@ output:
 
 <div style="float: right; width: 60%;">
 
-* **Fertilized zygote undergoes cleavage**
+* **Fertilized zygote undergoes <span style="color:blue">cleavage</span>**
     + mitotic cell divisions without cell growth
     + rapid division but overall size stays same
 
 <br/>
 
-* **Early multicellular stage called a blastula (hollow ball)**
+* **Early multicellular stage called a <span style="color:blue">blastula</span> (hollow ball)**
     + protostome or deuterostome = alignment of cells
     
 <br/>
 
-* **Tissue layers develop in next stage (gastrulation)**
+* **Germ layers develop in next stage <span style="color:blue">(gastrulation)</span>**
     + develop into adult body parts
 
 <br/>
@@ -153,6 +153,12 @@ output:
 * **Mesoderm: **
     <!-- + forms muscles and many organs -->
     
+<br/>
+<br/>
+
+* **<span style="color:red">Coelom</span>: **
+
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/cross_tissues2.jpg">
@@ -168,7 +174,7 @@ output:
 
 <div style="float: left; width: 40%;">
 
-* **Fluid/air spaces between endoderm and body wall**
+* **Fluid/air spaces between mesoderm layers**
     + digestive track and body wall
 
 <br/>   
@@ -237,7 +243,8 @@ output:
 
 * **Simple internal body plan: Hydra**
     + body wall and cavity open to environment
-
+    + gastrovascular cavity
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:250px; HEIGHT:450px" SRC="images/hydra.jpg">
@@ -303,7 +310,7 @@ output:
     
 <br/>
 
-* **Internal structures for exchange evolve...**
+* **Internal organs for exchange evolve...**
     + highly branched or folded
     + digestion, respiration and circulation
     + fluids connect structures to other cells

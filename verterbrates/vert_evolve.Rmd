@@ -183,7 +183,7 @@ output:
 
 <br/>
 
-* **Vertebrate: series of bones that make up the vertebral column**
+* **Vertebrate: series of *bones* that make up the vertebral column**
     + 57,000 species
 
 <br/>
@@ -513,7 +513,7 @@ output:
 
 <br/>
 
-* **Derived Trait: <span style="color:blue">Mammary glands</span**
+* **Derived Trait: <span style="color:blue">Mammary glands</span>**
     + produce milk for offspring
 <br/>
 
