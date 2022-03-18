@@ -43,8 +43,8 @@ output:
 <br/>
 
 * **Animals have 2 systems for stimulus response**
-1. Endocrine: signal molecules released in bloodstream
-2. Nervous: neurons transmit signals throughout body
+1. *Endocrine*: signal molecules released in bloodstream
+2. *Nervous*: neurons transmit signals throughout body
 
 <br/>
 
@@ -54,11 +54,11 @@ output:
 <br/>
 
 * **Nervous system signalling via pathways**
-    + nerve impulses travel to destination
+    + nerve impulses travel to targeted destination
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/signals.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:375px; HEIGHT:500px" SRC="images/signals.jpg">
 
 ## Animals need to maintain internal environment
 <hr>
@@ -67,7 +67,7 @@ output:
 
 * **The external environment is highly variable**
     + fluctuates daily, seasonally, annually
-    + pronounced on land
+    + especially on land
 
 <br/>
 
@@ -84,7 +84,7 @@ output:
 <br/>  
     
 * **Animals may use both mechanisms**
-    + depends on variable
+    + depends on the variable
     
 </div>
 
@@ -113,7 +113,7 @@ output:
 <br/>
 
 * **Animal detect stimulus by a *receptor*, which triggers a *response* **
-    + returns property to target value
+    + returns variable  to target value
  
 </div>
 
