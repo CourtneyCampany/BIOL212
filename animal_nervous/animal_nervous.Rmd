@@ -1,0 +1,263 @@
+---
+title: "Animal Nervous Systems"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Animal nervous systems are not 'new'
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Early forms of sense-react existed in prokaryotes**
+
+<br/>
+
+* **During the Cambrian explosion, specialized nervous systems appeared**
+    + allowed animals to sense environment
+    + allowed animals to respond quickly
+
+<br/>
+
+* **Cnidarians are the simplest organisms with nervous systems**
+    + nerve nets 
+    + contraction & expansion of gastrovascular cavity
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/cambrian2.jpg">
+
+## Nervous systems consist of circuits of neurons and cells
+<hr>
+* **In complex animals, axons of many neurons are bundled into 'nerves'**
+
+<br/>
+
+* **Fibrous like nervous channels information flow along targeted routes in the nervous system**
+
+<br/>
+
+* **Nerve circuits differ across the animal phylogeny**
+    + sea stars = radial nerves connected to central ring
+    + bilaterial animals - *cephalization*
+    
+<IMG STYLE="position:absolute; TOP:380px; LEFT:450px; WIDTH:620px; HEIGHT:300px" SRC="images/nerve.jpg">
+
+## Central nervous systems
+<hr>
+
+* **Many animals have neurons that carry out integration formed into a NCS**
+
+<br/>
+
+* **Planaria (flat worms) represent the first defined CNS**
+    + small brain and nerve cords
+    + only a small number of neurons (hundreds)
+
+<br/>
+
+<div style="float: left; width: 35%;">
+
+<br/>
+
+* **Higher animals have more complicated brains and nerve cords with ganglia**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:400px; WIDTH:700px; HEIGHT:350px" SRC="images/ganglia.gif">
+
+## Peripheral nervous system relays info to CNS
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/pns.jpeg">
+
+## Nervous system organization matches lifestyle
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/nervousorganize.jpg">
+
+## Vertebrate nervous system
+<hr>
+
+<div style="float: left; width: 52%;">
+
+* **CNS develops from hollow dorsal nerve cord in development**
+    + central canal of spinal cord
+    + ventricles of brain
+    
+<br/>
+
+* **Brain & spinal cord have gray and white matter**
+    + gray = neuron cell bodies
+    + white = bundled axons
+
+<br/>
+
+* **White matter exists on the interior of brain where neuron signalling is turned into function**
+    + learning, emotions, processing, etc. 
+
+<br/>
+
+* **White matter exists on the outer layer of the spinal cord to link CNS with PNS**
+ 
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/brain.jpg">
+
+## Spinal cord relays info to and from brain
+<hr>
+**Also, acts independently for simple *rapid* reflexes**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:650px; HEIGHT:500px" SRC="images/whitematter.jpg">
+
+## PNS plays a large role in animal movement/homeostasis
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Sensory information reaches the CNS along PNS neurons**
+    + *afferent* neurons = to carry towards
+
+<br/>
+
+* **CNS processes information and instructions travels to muscles, glands, etc.**
+    + *efferent* neurons = to carry away
+
+<br/>
+
+* **Nerve bundles include afferent and efferent neurons**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:560px; WIDTH:500px; HEIGHT:450px" SRC="images/cnspns.jpg">
+
+## PNS plays a large role in animal movement/homeostasis
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **PNS has 2 efferent components**
+    + *motor* system
+    + *autonomic* nervous system
+
+<br/>
+
+* **Motor system carry signals to skeletal muscles**
+    + voluntary (raise a hand)
+    + involuntary knee-jerk
+
+<br/>
+
+* **Autonomic system regulates *involuntary* smooth and cardiac muscles**
+    + *Sympathetic*, *Parasympathetic*, *Enteric*
+    + *Enteric* = digestion, pancreas, gallbladder    
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:560px; WIDTH:500px; HEIGHT:450px" SRC="images/cnspns.jpg">
+
+## Sympathetic and Parasympathetic are antagonistic
+<hr>
+**Arousal and energy generation (symp) vs calming and self-maintenances (para)**
+
+<IMG STYLE="position:absolute; TOP:185px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/sympara.jpg">
+
+## Vertebrate brain is specialized by region
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Forebrain = processing of smells, sleep regulation, learning and complex processing**
+
+<br/>
+
+**Midbrain = routing of sensory input**
+
+<br/>
+
+**Hindbrain = involuntary activities such as blood circulation, locomotion**
+
+<br/>
+
+**Across vertebrates, sizes of each region reflect importance of functions**
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/brainregions.jpg">
+
+## Birds and mammals have larger brain:body size ratios
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:750px; HEIGHT:500px" SRC="images/braincompare.gif">
+
+## Human brain
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+**100 billion neurons make 100 trillion connections**
+
+<br/>
+
+**Cerebrum is essential for language, cognition, memory, consciousness and awareness**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/humanbrain.jpg">
+
+## Human brain
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+**100 billion neurons make 100 trillion connections**
+
+<br/>
+
+**Cerebrum is essential for language, cognition, memory, consciousness and awareness**
+
+<br/>
+
+* **Cerebrum is also regionized**
+    + Frontal lobe = temperament and decisions
+    + Temporal lobe = hearing
+    + Paretial lobe = touch and integration
+    + Occipital lobe = vision
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:1px; WIDTH:525px; HEIGHT:400px" SRC="images/humanbrain2.png">
+
+## Body parts are connected through sensory and motor cortexes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/lobes.png">
+
+## Limbic system responsible for behaviorial, emotions, memory
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Hippocampus = memory center (short and long)**
+    + looks like a seahorse
+
+<br/>
+
+* **Amygdalae = emotional responses, including  pleasure, fear, anxiety and anger**
+    + looks like an almond
+    + emotion functions in robust memories
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/otherbrain.jpg">
