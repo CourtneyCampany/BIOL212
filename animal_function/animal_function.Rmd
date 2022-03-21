@@ -156,7 +156,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/circadian2.jpg">
 
-## *Acclimatization*: temporary adjustment to new environment
+## *Acclimation*: temporary adjustment to new environment
 <hr>
 <br/>
 
