@@ -9,6 +9,7 @@ output:
 
 ## Do albatross drink salt water?
 <hr>
+<br/>
 
 <div style="float: left; width: 51%;">
 

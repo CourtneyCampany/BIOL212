@@ -99,7 +99,7 @@ output:
 * **Central *gastrovascular cavity* functions to distribute substances**
     + opening at one end connects cavity to water
     + allows fluid to bath inner and outer tissues
-    + diffusion distance kept short
+    + *diffusion distance kept short*
 
 <br/>
 
@@ -109,7 +109,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:70px; WIDTH:275px; HEIGHT:450px" SRC="images/gastro.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:70px; WIDTH:300px; HEIGHT:500px" SRC="images/gastro.jpg">
 
 ## Animals with circulatory systems
 <hr>
@@ -133,7 +133,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:350px; HEIGHT:450px" SRC="images/basic.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:400px; HEIGHT:500px" SRC="images/basic.jpg">
 
 ## Open and closed circulatory systems (hemolymph vs blood)
 <hr>
@@ -173,7 +173,7 @@ output:
 ## Single vs Double circulation
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:950px; HEIGHT:450px" SRC="images/vertebrate.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:1050px; HEIGHT:500px" SRC="images/vertebrate.jpg">
 
 ## Evolutionary variation: 3 chambered heart
 <hr>
