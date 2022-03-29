@@ -141,7 +141,7 @@ output:
 ## Freshwater Animals (lots of excretion!)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/freshwaterfish.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:235px; WIDTH:625px; HEIGHT:475px" SRC="images/freshwaterfish.jpg">
 
 ## What happens in migrating salmon?
 <hr>
@@ -179,7 +179,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/camels.jpg">
 
-## Being a 'regulator' is expensive
+## Being a 'osmoregulator' is expensive
 <hr>
 <br/>
 
@@ -348,7 +348,8 @@ output:
     
 <br/>   
 
-* **Kidneys shift to produce concentrated urine**
+* **Kidneys shift to produce uric acid**
+    + concentrated urine
     + conserves water
 
 </div>

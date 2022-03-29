@@ -2,10 +2,9 @@
 title: "Animal Reproduction"
 output: 
   ioslides_presentation:
-    css: custom2.css
+    css: custom.css
     widescreen: true
     smaller: true
-
 ---
 
 <!-- ## -->
@@ -203,6 +202,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 * **Pheromones: chemicals used to influence physiology and behavior**
     + function as mate attractants
+    + *volatiles* and can be detected over long distances
     + pheromone production in humans is controversial 
 
 </div>
