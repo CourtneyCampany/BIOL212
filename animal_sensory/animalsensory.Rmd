@@ -9,8 +9,8 @@ output:
 
 ## The fastest predator on Earth: star-nosed mole
 <hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/mole.jpg">
+**Eimer's organ: touch receptors - 120 milliseconds to identify and consume prey**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/mole.jpg">
 
 <!-- ## Animal Sensory hash-tags -->
 <!-- <hr> -->
@@ -45,7 +45,7 @@ output:
 
 <br/>
 
-* **Receptors alert central nervous system**
+* **Receptors alert nervous systems**
     + use action potentials
     + results in a 'sensation'
 
@@ -57,28 +57,54 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mole_sense.jpg">
 
-## Sensory Reception
+## Sensory Pathways 
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:475px; HEIGHT:375px" SRC="images/skin.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:555px; WIDTH:525px; HEIGHT:400px" SRC="images/neuron.jpg">
 
 <div style="float: left; width: 53%;">
 
-* **Sensory pathway: **   
-    + *neurons* = 
-    + perception of sensations
+* **Neurons = **
 
 <br/>
 
+* **Most organelles inside cell body**
+    + includes nucleus
+
+<br/>
+
+* **Highly branched extensions, called *dendrites*, receive signals**
+
+<br/>
+
+* **Most neurons have a single *axon* to transmit signals**
+    + transmit pulses of electrical current
+    + terminals connect cells
+    
+</div>
+
+## (1) Sensory Reception
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:555px; WIDTH:525px; HEIGHT:400px" SRC="images/skin.jpg">
+
+<div style="float: left; width: 53%;">
+
+* **Sensory pathway starts with perception of sensations**
+
+<br/>
+ 
 * **Sensory pathways have four basic functions:**
-    + Sensory reception, transduction, transmission, perception
+    + reception, transduction, transmission, perception
 
 <br/>
 
 * **(1) Sensory reception: **
     + sensory cells are specialized neurons
     + inside or outside body
+    + detection of a stimulus
 
 </div>
 
@@ -227,6 +253,18 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:440px; HEIGHT:450px" SRC="images/chemo.jpg">
 
+## Taste and smell rely on chemoreceptors
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:750px; HEIGHT:450px" SRC="images/smell.jpg">
+
+## Taste and smell rely on chemoreceptors
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/taste2.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/taste3.jpg">
+
 ## Animal sensory receptors: Electromagnetic
 <hr>
 <br/>
@@ -305,6 +343,7 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 <div style="float: left; width: 55%;">
 
 * **Pain receptors (nocioreceptors) detect stimuli that reflect harmful conditions**
+    + damaged or inflammed tissues
     + gene mutations can cause C.I.P.
     
 <br/>
@@ -402,18 +441,6 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 <!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/rodscones.jpg"> -->
 
-<!-- ## Taste and smell rely on chemoreceptors -->
-<!-- <hr> -->
+##
 
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/taste2.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/taste3.jpg"> -->
-
-<!-- ## Taste and smell rely on chemoreceptors -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:750px; HEIGHT:450px" SRC="images/smell.jpg"> -->
-
-<!-- ## -->
-
-<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/motor.jpg"> -->
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/motor.jpg">

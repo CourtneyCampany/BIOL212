@@ -38,10 +38,10 @@ output:
 
 <div style="float: left; width: 60%;">
 
-* **Mating between males and females is boring**
+* **Mating between single male and female is boring**
     + species can reproduce without sex
     + individual of species can change sex
-    + species have male and female sex organs
+    + species have both male and female sex organs
     + some populations have only a few that mate
 
 <br/>
@@ -202,7 +202,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 * **Pheromones: chemicals used to influence physiology and behavior**
     + function as mate attractants
-    + *volatiles* and can be detected over long distances
+    + *volatiles* can be detected over long distances
     + pheromone production in humans is controversial 
 
 </div>
@@ -225,7 +225,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 <div style="float: right; width: 50%;">
 
 * **Internal fertilization produces fewer gametes**
-    + survival of zygotes higher
+    + survival of embyros higher
 
 <br/>
 
@@ -235,7 +235,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <br/>
 
-* **Not just vertebrates..**
+* **Parental care not just in vertebrates..**
 
 </div>
 
@@ -358,7 +358,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
     
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:275px; WIDTH:500px; HEIGHT:600px" SRC="images/hormonesfemale.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:750px; HEIGHT:600px" SRC="images/womancycle.jpg">
 
 
 <!-- ## Placental mammals (embryo develops in uterus): *Fertilization* -->
