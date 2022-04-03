@@ -50,7 +50,7 @@ output:
 ## Central nervous systems
 <hr>
 
-* **Many animals have neurons that carry out integration formed into a NCS**
+* **Many animals have neurons that carry out integration formed into a CNS**
 
 <br/>
 
@@ -83,7 +83,7 @@ output:
 ## Vertebrate nervous system
 <hr>
 
-<div style="float: left; width: 52%;">
+<div style="float: left; width: 50%;">
 
 * **CNS develops from hollow dorsal nerve cord in development**
     + central canal of spinal cord

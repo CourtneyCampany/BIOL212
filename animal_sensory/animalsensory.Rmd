@@ -87,17 +87,18 @@ output:
 ## (1) Sensory Reception
 <hr>
 <br/>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:555px; WIDTH:525px; HEIGHT:400px" SRC="images/skin.jpg">
 
-<div style="float: left; width: 53%;">
+<div style="float: left; width: 50%;">
 
-* **Sensory pathway starts with perception of sensations**
-
-<br/>
- 
 * **Sensory pathways have four basic functions:**
     + reception, transduction, transmission, perception
+
+<br/>
+
+* **Sensory pathway starts with perception of sensations**
 
 <br/>
 
