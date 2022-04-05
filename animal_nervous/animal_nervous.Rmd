@@ -33,11 +33,11 @@ output:
 
 ## Nervous systems consist of circuits of neurons and cells
 <hr>
-* **In complex animals, axons of many neurons are bundled into 'nerves'**
+* **In complex animals, axons of many *neurons* are bundled into 'nerves'**
 
 <br/>
 
-* **Fibrous like nervous channels information flow along targeted routes in the nervous system**
+* **Fibrous- like nerves channels information flow along targeted routes in the nervous system**
 
 <br/>
 
@@ -47,17 +47,17 @@ output:
     
 <IMG STYLE="position:absolute; TOP:380px; LEFT:450px; WIDTH:620px; HEIGHT:300px" SRC="images/nerve.jpg">
 
-## Central nervous systems
+## Central nervous systems (CNS)
 <hr>
 
-* **Many animals have neurons that carry out integration formed into a CNS**
+* **Many animals have neurons that carry out integration (i.e., perception) formed into a CNS**
 
 <br/>
 
 * **Planaria (flat worms) represent the first defined CNS**
     + small brain and nerve cords
-    + only a small number of neurons (hundreds)
-
+    + only a few hundred neurons
+    
 <br/>
 
 <div style="float: left; width: 35%;">
@@ -70,7 +70,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:400px; WIDTH:700px; HEIGHT:350px" SRC="images/ganglia.gif">
 
-## Peripheral nervous system relays info to CNS
+## Peripheral nervous system (PNS) relays info to CNS
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/pns.jpeg">
@@ -85,15 +85,15 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **CNS develops from hollow dorsal nerve cord in development**
+* **CNS develops from hollow dorsal nerve cord**
     + central canal of spinal cord
     + ventricles of brain
     
 <br/>
 
-* **Brain & spinal cord have gray and white matter**
-    + gray = neuron cell bodies
-    + white = bundled axons
+* **Brain & spinal cord have grey and white matter**
+    + *grey* = neuron cell bodies, dendrites, axon terminals
+    + *white* = bundled axons
 
 <br/>
 
@@ -182,7 +182,7 @@ output:
 
 <br/>
 
-**Hindbrain = involuntary activities such as blood circulation, locomotion**
+**Hindbrain = involuntary activities such as blood circulation**
 
 <br/>
 
@@ -254,7 +254,7 @@ output:
 
 <br/>
 
-* **Amygdalae = emotional responses, including  pleasure, fear, anxiety and anger**
+* **Amygdala = emotional responses, including  pleasure, fear, anxiety and anger**
     + looks like an almond
     + emotion functions in robust memories
 

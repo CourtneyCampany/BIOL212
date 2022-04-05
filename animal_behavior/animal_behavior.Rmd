@@ -120,8 +120,7 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:35px; WIDTH:500px; HEIGHT:350px" SRC="images/migration.jpg">
-
+<IMG STYLE="position:absolute; TOP:225px; LEFT:35px; WIDTH:500px; HEIGHT:400px" SRC="images/migration.jpg">
 
 <div style="float: right; width: 48%;">
 
@@ -142,7 +141,7 @@ output:
 ## Migration: What happens if it is cloudy?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:750px; HEIGHT:400px" SRC="images/pigeon2.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/pigeon2.jpg">
 
 ## Rhythm is gonna get you
 <hr>
