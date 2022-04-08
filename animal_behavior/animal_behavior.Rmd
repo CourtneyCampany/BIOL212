@@ -42,21 +42,22 @@ output:
 <br/>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 60%;">
 
 * **Behavior:**
-
+    + works via sensory pathway/nervous systems
+    
 <br/>
 
 * **Behaviors have a genetic basis**
-    + allows evolution by natural selection
+    + allows for evolution by natural selection
 
 <br/>
 
 * **Learning connects experience and behavior **
-
+    + genetics x environment
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:350px; HEIGHT:450px" SRC="images/roo.jpg">
@@ -68,7 +69,7 @@ output:
 
 <div style="float: left; width: 58%;">
 
-* **Q1. What stimulus elicits the behavior, and what physiological mechanisms mediate the response?**
+* **Q1. What stimulus elicits the behavior, and what physiological mechanisms bring about the response?**
 
 <br/>
 
@@ -125,7 +126,8 @@ output:
 <div style="float: right; width: 48%;">
 
 * **Environmental stimuli trigger and guide animal behaviors**
-
+    + for innate and learned behaviors
+    
 <br/>
 
 * **Birds, fishes, mammals (+ more) use cues to *migrate* long distances**
@@ -138,7 +140,7 @@ output:
 
 </div>
 
-## Migration: What happens if it is cloudy?
+## Bird Migration: What happens if it is cloudy?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/pigeon2.jpg">
@@ -148,12 +150,12 @@ output:
 <br/>
 <br/>
  
-* **Animal behaviors often reflect biological rhythms**
+* **Animal behaviors also reflect biological rhythms (Q1)**
     + circadian clocks or longer cycles
  
  <br/>
  
-* **Migration and reproduction cued by yearly seasonal cycles**
+* **Migration and reproduction cued by seasonal cycles**
     + periods of day length and darkness
     
  <br/>
@@ -237,7 +239,7 @@ output:
 
 * **Humans and most birds are diurnal**
     + use visual and auditory forms
-    + lack many chemical cues
+    + lack many olfactory  cues
 
 <br/>
 
@@ -305,7 +307,7 @@ output:
 <br/>
 
 * **Learning capacity &rarr; nervous system organization during development**
-    + genome encoded
+    + genome encoded (behavvior exists) 
     + finches can sing, but learn song from father
 
 <br/>
@@ -329,7 +331,7 @@ output:
 
 ## Trouble with assembling IKEA furniture? Call a crow...
 <hr>
-
+**Cognitive learning = problem solving through experimentation **
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:450px; HEIGHT:425px" SRC="images/crow.png">
     
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:275px" SRC="images/crow2.jpg">    
@@ -351,7 +353,7 @@ output:
 
 <br/>
 
-* **Food behaviors: eating, searching, recognizing & capture**
+* **Food related behaviors: eating, searching, recognizing & capture**
     + how did foraging behavior evolve?
 
 <br/>

@@ -111,7 +111,7 @@ output:
 
 <br/>
 
-* **Climate within a latitude change during the year**
+* **Climates within a latitude may change during the year**
     + dry & wet seasons
     + wind and ocean currents
 
@@ -127,7 +127,7 @@ output:
 ## Climate varies by latitude
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:800px; HEIGHT:450px" SRC="images/latitude.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/latitude.png">
 
 ## Bodies of water play huge role in climate
 <hr>
@@ -178,7 +178,7 @@ output:
 ## Distribution of terrestrial biomes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:625px; HEIGHT:450px" SRC="images/biomesmap.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:725px; HEIGHT:500px" SRC="images/biomesmap.jpg">
 
 ## What makes a biome a biome?
 <hr>
@@ -309,7 +309,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/roo.jpg">
     
-## Kangaroos evolved in Australia
+## Kangaroos evolved only in Australia
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/drift.jpg">
@@ -340,7 +340,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/roo_hawaii.png">
 
-## Kangaroo species are adapted to climate
+## Different Kangaroo species are adapted to different climates
 <hr>>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/climate_oz.jpg">
@@ -364,5 +364,5 @@ output:
 ## Where can a species exist?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/flow.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/flow.jpg">
 
