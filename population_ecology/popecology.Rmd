@@ -28,7 +28,7 @@ output:
 
 * **Density matters**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:675px; WIDTH:350px; HEIGHT:450px" SRC="images/bearflorida.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:450px; HEIGHT:500px" SRC="images/bearflorida.jpg">
 
 ## Populations often described by their boundaries
 <hr>
@@ -40,8 +40,9 @@ output:
 ## Population density is dynamic
 <hr>
 <br/>
+<br/>
 
-<div style="float: right; width: 45%;">
+<div style="float: right; width: 48%;">
 
 * **May be possible to count all individuals** 
     + large mammals, animals in small habitats
@@ -57,6 +58,7 @@ output:
     + immigration:
     + emigration:
     + births & death
+    + motility
 
 </div>
 
@@ -126,8 +128,7 @@ output:
 <br/>
 
 * **Balance of births & deaths at any given time**
-    + *per capita* change = 
-    + Growth equation = 
+    + *per capita* change (r) = 
 
 </div>
 
@@ -135,7 +136,6 @@ output:
 
 ## Elephants in Kruger National Park (Exponential Growth)
 <hr>
-
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/elephants.jpg">
 
@@ -172,7 +172,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 60%;">
 
 * **Frequency of reproduction**
 * **Number of offspring**
@@ -180,14 +180,41 @@ output:
 
 <br/>
 
-* **Combined there traits represents an organism's *life history* **
+**Combined there traits represents an organism's *life history* **
+<br/>
+
 1. Age at first reproduction
 2. How often reproduction occurs
 3. How many offspring are created
     
 </div>
     
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/age.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:200px; HEIGHT:450px" SRC="images/age.jpg">
+
+## Trade offs exists between reproduction and survival
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Frequency of reproduction**
+* **Number of offspring**
+* **Investment into parental care**
+
+<br/>
+
+**Combined there traits represents an organism's *life history* **
+<br/>
+
+1. Age at first reproduction
+2. How often reproduction occurs
+3. How many offspring are created
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:200px; HEIGHT:450px" SRC="images/semel.jpg">
 
 ## Trade offs exists between survival and reproduction
 <hr>
@@ -195,7 +222,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 60%;">
 
 * **Frequency of reproduction**
 * **Number of offspring**
@@ -203,48 +230,27 @@ output:
 
 <br/>
 
-* **Combined there traits represents an organism's *life history* **
+**Combined there traits represents an organism's *life history* **
+<br/>
+
 1. Age at first reproduction
 2. How often reproduction occurs
 3. How many offspring are created
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/semel.jpg">
-
-## Trade offs exists between survival and reproduction
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 50%;">
-
-* **Frequency of reproduction**
-* **Number of offspring**
-* **Investment into parental care**
-
-<br/>
-
-* **Combined there traits represents an organism's *life history* **
-1. Age at first reproduction
-2. How often reproduction occurs
-3. How many offspring are created
-    
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/howmany.jpg">
-
-## Trade-offs and Life Histories
-<hr>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/curves.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/animals.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:200px; HEIGHT:450px" SRC="images/howmany.jpg">
 
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:75px; WIDTH:900px; HEIGHT:600px" SRC="images/rvsk3.png">
+
+## Trade-offs and Life Histories
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:45px; WIDTH:550px; HEIGHT:400px" SRC="images/curves.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/animals.jpg">
 
 ## Density in populations matter
 <hr>
@@ -287,7 +293,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humanage.jpg">
 
-## Patterns in human population: Density and *K*
+## Patterns in human population: Density and carrying capacity
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/elec.jpg">

@@ -70,7 +70,7 @@ output:
     + observations used to quantify long-term average conditions
 
 
-<IMG STYLE="position:absolute; TOP:245px; LEFT:250px; WIDTH:600px; HEIGHT:375px" SRC="images/climate2.png">
+<IMG STYLE="position:absolute; TOP:245px; LEFT:225px; WIDTH:650px; HEIGHT:400px" SRC="images/climate2.png">
 
 ## Climate varies by latitude
 <hr>
@@ -224,7 +224,7 @@ output:
     
 <br/>
 
-* **Question: Why will different desserts have similar looking but unrelated species of cacti?**
+* **Question: Why will different deserts have similar looking but unrelated species of cacti?**
 
 </div>
 
