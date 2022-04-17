@@ -164,7 +164,7 @@ output:
 
 <br/>
 
-* **Landscape change by humans is largest threat**
+* **Landscape change by humans is huge threat**
     + nearly all land surface has been altered
     + causes fragmentation or loss of habitat
 
@@ -199,7 +199,7 @@ output:
     
 <br/>
 
-* **Goal: Maintain genetic diversity**
+* **Goal: Maintain genetic diversity to avoid extinction vortex**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/vortex.jpg">
 
@@ -286,7 +286,7 @@ output:
 ## Greenhouse effect is a natural process!
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/greenhouse.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/greenhouse.jpg">
 
 
 ## Global Change: Nutrients
@@ -314,12 +314,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/bllom.jpg">
 
-## Global Change: Toxins
+## Global Change: Toxins & Pollution
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/pcb.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:5px; WIDTH:600px; HEIGHT:400px" SRC="images/plastics.png">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mercury.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:630px; WIDTH:400px; HEIGHT:450px" SRC="images/mercury.png">
 
 ## Global Change: What can we do?
 <hr>
@@ -347,7 +347,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:525px; HEIGHT:400px" SRC="images/emissions.jpg">   
 
-## Future of the Biosphere
+## Future of the Biosphere: New Mass Extinction?
 <hr> 
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/extinction2.jpg">  
+<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/extinction2.jpg">  

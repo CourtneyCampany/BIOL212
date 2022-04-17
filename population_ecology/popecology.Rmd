@@ -23,7 +23,8 @@ output:
 <br/>
 
 * **Population growth can be 'modeled'**
-
+    + births & deaths
+    
 <br/>
 
 * **Density matters**
@@ -51,13 +52,14 @@ output:
 
 * **More often impractical or impossible to count all individuals**
     + indirect estimates are needed
-
+    + dusk deer surverys in Biol 303
+    
 <br/>
 
 * **Density is not static**
     + immigration:
     + emigration:
-    + births & death
+    + births & deaths
     + motility
 
 </div>

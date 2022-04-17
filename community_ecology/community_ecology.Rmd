@@ -55,7 +55,7 @@ output:
 <br/>
 
 * **Sum of interactions determine how an ecosystem functions**
-    + productivity, water quality
+    + productivity, water quality, population control
 
 </div>
 
@@ -73,7 +73,7 @@ output:
     
 <br/>
 
-* **Resources can mean man things:**
+* **Resources can mean many things:**
     + prey items, water, nutrients, space
     
 <br/>
@@ -191,7 +191,7 @@ output:
 ## Defenses &rarr; Co-evolutionary arms race
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/defense.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/coevolution_butterflies.jpg">
 
 ## https://youtube/w-K_YtWqMro
 <hr>
@@ -287,6 +287,7 @@ output:
 
 * **Often, the 2 species depend on each other for survival/reproduction**
     + plants + insects = pollination + food
+    + nectar production by flowering plants
     
 <br/>
 
@@ -332,7 +333,7 @@ output:
 
 * **Energy is transferred upward**
     + plants &rarr; consumers
-    + transfer is wasteful
+    + transfer is wasteful (*WHY*?)
     
 <br/> 
 
@@ -356,7 +357,7 @@ output:
 
 * **Energy is transferred upward**
     + plants &rarr; consumers
-    + transfer is wasteful
+    + transfer is wasteful (*WHY*?)
 
 <br/> 
 
