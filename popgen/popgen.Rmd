@@ -161,7 +161,7 @@ AA or Aa or aa
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:475px; HEIGHT:475px" SRC="images/autorecessive.jpg">
 
-## Cystis Fibrosis and Evolution by Natural Selection
+## Cystic Fibrosis and Evolution by Natural Selection
 <hr>
 <br/>
 <br/>
@@ -183,7 +183,7 @@ AA or Aa or aa
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/CFlife.png">
 
-## Cystis Fibrosis and Evol'n by Natural Selection
+## Cystic Fibrosis and Evol'n by Natural Selection
 <hr>
 <br/>
 <br/>

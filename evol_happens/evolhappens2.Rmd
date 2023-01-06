@@ -15,7 +15,7 @@ output:
     + I use them to write the exam
     + Create a checklist - cross them off as you study
     + Use office hours for ones you don't quite get
-    + Start with hashtags and expand outward
+    + Start with hashtags and expand outward when studying
 
 <br/>
 
@@ -39,9 +39,33 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mastodon.jpg">
 
-## 99% of all species that have existed have gone extinct
+## 99% of all species that have existed have already gone extinct!!!
 <hr>
-**Scientists after Cuvier (i.e., Darwin) now had to account for extinction**
+**Scientists after Cuvier (i.e., Darwin) now had to account for extinction as fact**
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<span style="color:blue">**Example: Wooly Mammoths appear and disappear in the fossil record.**</span>
+
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/extinct.png">
 
 ## Jean-Baptiste de Lamarck: Famous for being wrong
@@ -50,7 +74,7 @@ output:
 
 <div style="float: left; width: 48%;">
 
-* **Lines of descent**
+* **Lines of descent (early evolution theory)**
     + compared living giraffes  with fossil forms
     + evolution: simple to complex
 
@@ -111,7 +135,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/humans.jpg">
 
-## Traits connections argue for *Shared Ancestry*
+## Traits connections argue for <span style="color:blue">*Shared Ancestry*</span>
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/TransitionToSea.jpg">
