@@ -31,8 +31,9 @@ output:
 
 ## Sedimentary rocks reveal the vastness of geologic time
 <hr>
+<span style="color:darkred">**Fossils are glimpses into the past...**</span>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/SedimentaryStrata.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/SedimentaryStrata.jpg">
 
 ## Georges Cuvier (1769-1832): The concept of extinction
 <hr>
@@ -64,7 +65,7 @@ output:
 <br/>
 <br/>
 
-<span style="color:blue">**Example: Wooly Mammoths appear and disappear in the fossil record.**</span>
+<span style="color:blue">**Example: Wooly Mammoths appear and then disappear in the fossil record.**</span>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/extinct.png">
 
@@ -155,8 +156,8 @@ output:
 
 <div style="float: left; width: 48%;">
 
-* **How did this actually happen?**
+* **Next Time: How did this actually happen?**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:270px; LEFT:450px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
+<IMG STYLE="position:absolute; TOP:270px; LEFT:485px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
