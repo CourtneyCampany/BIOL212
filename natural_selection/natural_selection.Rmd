@@ -7,17 +7,12 @@ output:
     smaller: true
 ---
 
-## Evolution as descent with modification
+## Darwin: Evolution as descent with modification
 <hr>
 <br/>
 
 **The fossil record lets us explore the ancestors that anything living (including us) evolved from**
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 <div style="float: left; width: 48%;">
@@ -28,6 +23,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:270px; LEFT:450px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe2.jpg">
 
+<IMG STYLE="position:absolute; TOP:320px; LEFT:125px; WIDTH:200px; HEIGHT:325px" SRC="images/tree.jpg">
 
 ## What does 'Descent with modification' really mean?
 <hr>
@@ -63,7 +59,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/giraffe.jpg">
 
-## *Generational Time*
+## *Generational Time* determines the pace of evolution
 <hr>
 <br/>
 <br/>
@@ -96,7 +92,7 @@ output:
 
 <br/>
 
-**?Could new species arise from an *ancestral form* by <span style="color:blue">adaptations</span> to different environments?**
+**?Could new species arise from an *ancestral form* by <span style="color:blue">adaptations to different environments?</span>**
 
 </div>
 
@@ -167,7 +163,7 @@ output:
 
 * **Individuals with certain traits produce more offspring than those without those traits (selection)**
 <br/>
-* **Individuals are selected naturally, by the environment**
+* **<span style="color:blue">Individuals are selected naturally, by the environment</span>**
 <br/>
 * **Favorable traits accumulate in a population**
 
