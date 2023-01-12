@@ -26,7 +26,7 @@ output:
 * **Expression of trait variation**
     + allelic differences among individuals
     + may lead to reproductive success in current environment, via selection
-    + *allele frequencies* change in populations
+    + <span style="color:blue">*allele frequencies* change in populations</span>
     
 </div>
 
@@ -74,7 +74,7 @@ output:
 
 <br/>
 
-* **Changes in genetic variation, via alleles, provide the raw materials for evolution**
+* **<span style="color:blue">Changes in genetic variation, via alleles, provide the raw materials for evolution**</span>
     + inherit one copy of locus from mother & father
     + environment selects flower color phenotypes
     
@@ -176,7 +176,7 @@ AA or Aa or aa
 <br/>
 
 * **Variation in trait associated with variation in reproductive success**
-    + <span style="color:blue">**CF = life expectancy ~37 years**</span>
+    + <span style="color:blue">**CF = life expectancy ~44 years**</span>
 
 
 </div>
@@ -296,12 +296,10 @@ AA or Aa or aa
 **One year later, we observed 650 otters in the same location. How many individuals would you expect to be brown, assumming our population did not evolve?**
 
 ## 
-
-**Mastering homework built off of this lecture and Wednesday**
-
+<br/>
 <br/>
 
-**The hard content is from today**
+**The hard content is from today - pop gen covers 2 lectures**
 
 <br/>
 
