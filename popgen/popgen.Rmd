@@ -15,7 +15,6 @@ output:
 <div style="float: left; width: 48%;">
 
 * **EVOLUTION: Change in *allele frequencies* in a population over generational time**
-    + not the individual
  
 <br/>
 
@@ -100,7 +99,7 @@ output:
 <br/>
 
 * **People with CF have inherited 2 copies of the defective CFTR gene (autosomal recessive)**
-    + people with only one copy are called carriers, but no disease
+    + people with only one copy are called carriers, but have no disease
 
 <br/>
 
@@ -147,7 +146,7 @@ AA or Aa or aa
 <br/>
 
 * **Fertilization from haploid gametes (1N)**
-    + gametes = reproductive cells
+    + gametes = reproductive cells (sperm and eggs)
     
 <br/>
 
@@ -194,7 +193,7 @@ AA or Aa or aa
 
 <br/>
 
-* <span style="color:blue">**CFTR mutation selected against**</span>
+* <span style="color:blue">**CFTR mutation selected against...**</span>
 
     
 <br/>
@@ -285,15 +284,15 @@ AA or Aa or aa
 
 **Due to modern medicine, Cystic Fibrosis is no longer fatal to children.  Explain how population genetics should/should not be used monitor CF in Swiss people, through time.**
 
-## A population of otters has 336 brown and 64 tan individuals. The brown allele is dominant and the tan allele is recessive. The groundhogs appear to be in Hardy Weingberge equilbrium at the fur color locus
+## A population of otters has 336 brown and 64 tan individuals. The brown allele is dominant and the tan allele is recessive. The groundhogs appear to be in Hardy Weinberg equilibrium  at the fur color locus
 
 <br/>
 
-**How many otters in this population are heterzygous?**
+**How many otters in this population are heterozygous?**
 
 <br/>
 
-**One year later, we observed 650 otters in the same location. How many individuals would you expect to be brown, assumming our population did not evolve?**
+**One year later, we observed 650 otters in the same location. How many individuals would you expect to be brown, assuming our population did not evolve?**
 
 ## 
 <br/>
