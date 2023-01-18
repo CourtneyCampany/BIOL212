@@ -141,7 +141,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/bottle.jpg">
 
-## Bottlenecks and species habitat loss
+## Bottlenecks, species habitat loss, and conservation
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/chicken.jpg">
@@ -168,6 +168,9 @@ knitr::opts_chunk$set(echo = FALSE)
     + may increase genetic diversity
     + bring harmful alleles
 
+<br/>
+
+* **Does gene flow make populations more or less unique?**
 
 ## 
 
@@ -196,11 +199,11 @@ knitr::opts_chunk$set(echo = FALSE)
     
 <br/>
     
-* **More individuals in a population with greater relative finess means....**
+* **More individuals in a population with greater relative fitness means....**
 
 <br/>
 
-* **Natural selection is a 'moving target'**
+* **Natural selection is a 'moving target'...WHY?**
 
 </div>
 
