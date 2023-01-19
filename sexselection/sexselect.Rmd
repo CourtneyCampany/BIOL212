@@ -144,6 +144,8 @@ output:
 <hr>
 <br/>
 
+<div style="float: left; width: 50%;">
+
 * **Why be choosy?**
     + what are the real rewards for the female?
 
@@ -162,6 +164,10 @@ output:
 
 * **Heterosexual conversation....for now**
 
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/spiders.jpg">
+
 ## Female guppies prefer males with orange spots....Why?
 <hr>
 
@@ -177,7 +183,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:275px; WIDTH:500px; HEIGHT:450px" SRC="images/Vitruvian_Man.gif">
 
-## Runaway selection
+## Runaway sexual selection
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/peacock.jpg">
@@ -192,20 +198,22 @@ output:
 
 * **Sex is not just heterosexual in animals**
     + ~2,000 species and counting....
-    + dragonfly, dolphin, elephant, orca, turkey...
+    + dragonfly, dolphin, elephant, orcas, turkey...
+    + beetles, sheep, bats, organutans....
+
 
 <br/>
 
 * **Gender binary doesn't exist in nature**
     + Many species with multiple genders
-    + 6 different genders described 
-    + sexual mimicry
+    + sexual mimicry & masking sexuality
 
 <br/>
 
 * **Intersexual animals**
     + Female -> Male, Male -> Female
     + Female and male at same time
+    + male seahorses can get pregnant
 </div>
 
 <div style="float: right; width: 50%;">
