@@ -57,6 +57,7 @@ output:
 
 ## Is this why males look and behave differently?
 <hr>
+**What are these male traits 'expressing' to females?**
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:15px; WIDTH:600px; HEIGHT:300px" SRC="images/deer.jpg">
 
@@ -122,6 +123,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:550px; HEIGHT:300px" SRC="images/lakeduck.jpg">
 
+## Male displays and rituals (superb lyrebird)
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSB71jNq-yQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Male displays and rituals (birds of paradise)
 <hr>
 
@@ -132,13 +138,35 @@ output:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OPI-9oi19gQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Male displays and rituals (bowerbirds)
+## Male displays and rituals (satin bowerbirds)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:500px; HEIGHT:400px" SRC="images/bowerbird2.jpg">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/bowerbird.jpg">
 
+## Male displays in birds....
+<hr>
+<br/>
+<br/>
+
+https://www.youtube.com/watch?v=_Dq437HuhO0
+
+<br/>
+
+https://www.youtube.com/watch?v=cLnbiTkj1TQ
+
+<br/>
+
+https://www.youtube.com/watch?v=U89tw093s_Y
+
+<br/>
+
+https://www.youtube.com/watch?v=XWjx6oSgC4M
+
+<br/>
+
+https://www.youtube.com/watch?v=CQ1VQ-4LYAI
 
 ## Why is there sexual dimorphism?
 <hr>
@@ -199,13 +227,13 @@ output:
 * **Sex is not just heterosexual in animals**
     + ~2,000 species and counting....
     + dragonfly, dolphin, elephant, orcas, turkey...
-    + beetles, sheep, bats, organutans....
+    + beetles, sheep, bats, orangutans....
 
 
 <br/>
 
 * **Gender binary doesn't exist in nature**
-    + Many species with multiple genders
+    + if gender exists in nature, it is very fluid
     + sexual mimicry & masking sexuality
 
 <br/>
