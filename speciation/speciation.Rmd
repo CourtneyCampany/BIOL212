@@ -24,7 +24,7 @@ output:
 
 <br/>
 
-* **New species are the bridge between evolution within a population and large patterns in evolution**
+* **New species are the bridge between evolution within a population and larger patterns in evolution**
 
 </div>
 
@@ -75,7 +75,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Reproductive isolation between populations results in a lack of gene flow**
-    + gene flow: 
+    + what are the consequences of no gene flow? 
     
 <br/>
 
@@ -204,26 +204,33 @@ reproduced sexually for > 80 million years
 
 <!-- <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/punc.png"> --> -->
 
-<!-- ## How much genetic change does it take? -->
-<!-- <hr> -->
+## How much genetic change does it take?
+<hr>
+<br/>
 
-<!-- <div style="float: left; width: 55%;"> -->
+<div style="float: left; width: 55%;">
 
-<!-- * **Three spine stickleback fish rapidly evolve** -->
-<!--     + moved from oceans to freshwater when glaciers retreated -->
+* **Three spine stickleback fish rapidly evolve**
+    + moved from oceans to freshwater when glaciers retreated
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Freshwater habitats brought new selection pressures** -->
-<!--     + variety of habitats -->
-<!--     + new resources -->
-<!--     + change in competition -->
+* **Freshwater habitats brought new selection pressures**
+    + variety of habitats
+    + new resources
+    + change in competition
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Molecular biology examined each speciation** -->
-<!--     + ocean &rarr; fresh: one gene with bony armor plate -->
-<!--     + fresh habitats &rarr; many genes based on selection pressures -->
-<!-- </div> -->
+* **Molecular biology examined each speciation**
+    + ocean &rarr; fresh: one gene with bony armor plate
+    + fresh habitats &rarr; many genes based on selection pressures
+</div>
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/fish.jpg"> -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/fish.jpg">
+
+## Study aid: The geography of speciation
+<hr>
+**The pre- and postzygotic barriers can form for either type of speciation**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/allosym.jpg">
