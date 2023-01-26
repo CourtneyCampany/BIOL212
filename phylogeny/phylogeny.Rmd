@@ -22,7 +22,8 @@ output:
 
 ## Using phylogeny to trace the relatives of birds
 <hr>
-<br/>
+<span style="color:blue">**Each tree is a *hypothesis* about the most likely path of evolution based on the data available**</span>
+
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:800px; HEIGHT:450px" SRC="images/birdsrelate.jpg">
 
@@ -33,7 +34,7 @@ output:
 ## Anatomy of a phylogenetic tree
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/tree.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/tree.jpg">
 
 ## 
 

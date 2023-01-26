@@ -137,7 +137,7 @@ output:
  <br/>
  
 * **Hominin diversity increased ~4-2 mya**
-    + *Australopithecus* spp
+    + *Australopithecus* genus
     + 'Lucy' fossil in Ethiopia
         + more diverse diet
     + definitely bipedal
