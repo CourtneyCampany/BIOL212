@@ -69,7 +69,7 @@ output:
 <hr>
 <br/>
 
-* **~20 species of fossils**
+* **~20 species described (fossils) in the tribe**
     + brain size, teeth shape, body size
     + inferred tool use/culture/language
     + species had different combos of each
