@@ -61,7 +61,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:550px; WIDTH:525px; HEIGHT:400px" SRC="images/2domain2.png">
 
-## Is it 2 or 3? That is the question...
+## Is it 2 or 3 domains? That is the question...
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/2domainfig.png">
@@ -193,7 +193,7 @@ output:
 
 <br/>
 
-* **Major component of the bacterial cell wall is peptidoglycan**
+* **Major component of the bacterial cell wall is <span style="color:purple">peptidoglycan</span>**
     + rigid structure 
     + specific only to prokaryotes
     

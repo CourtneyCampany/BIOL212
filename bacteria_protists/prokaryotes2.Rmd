@@ -160,6 +160,17 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/transformation.jpg">
 
+## Utilizing transformation for science advancement...
+<hr>
+* **Manipulating DNA sequences in vitro,  creates recombinant DNA molecules that have new combinations of genetic material**
+
+<br/>
+
+* **Recombinant DNA is then introduced into a host organism**
+    + If the DNA comes from a different species, the host organism is considered to be transgenic.
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:100px; WIDTH:900px; HEIGHT:380px" SRC="images/insulin.jpeg">
+
 ## 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/transduction.png">
 
@@ -167,6 +178,30 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/conjugation.png">
+
+## Many R plasmids carry genes for antibiotic resisitance
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 48%;">
+
+* **Many species of bacteria carry genes that code for enzymes that destroy/hinder antibiotics**
+    + tetracycline, ampicillin
+
+<br/>
+
+* **Genes often carried in plasmids (R plasmids)**
+
+<br/>
+
+* **R plasmids have genes that encode for pili**
+    + enable conjugation
+    + resistance genes can spread quickly
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:540px; HEIGHT:425px" SRC="images/rplasimids.png">
 
 ## Prokaryotes are incredible diverse
 <hr>
@@ -209,7 +244,7 @@ output:
 
 <div style="float: right; width: 50%;">
 
-* **Cyanobacteria: first evidence ~2.7 bya**
+* **Cyanobacteria: first evidence ~3.5 bya**
     + blue-green algae
     + aquatic and photosynthetic
     + use chlorophyll
