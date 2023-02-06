@@ -101,7 +101,7 @@ output:
 <hr>
 <br/>
 
-**Biofilms are living communities that allows microorganisms (such as single-celled bacteria) to behave as a group**
+<span style="color:purple"> **Biofilms are living communities that allows microorganisms (such as single-celled bacteria) to behave as a group**</span>
 
 <br/>
 
@@ -114,6 +114,11 @@ output:
 * **More than 75% of human infections are thought to be related to the presence of microorganisms in the form of biofilms**
     + on the surface of tissues or medical devices 
     + dental plaque!
+
+<br/>
+
+* **Biofilms are not exclusive to prokaryotes but include them**
+    + green film on pond rocks
 
 </div>
 
@@ -147,7 +152,7 @@ output:
 
 <br/>
 
-* **Gene transfer increases diversity:**
+* **Horizontal gene transfer increases diversity:**
     + transformation = 
     + transduction = 
     + conjugation = 
@@ -219,7 +224,7 @@ output:
 <br/>
 
 * **Bacteria: prokaryotic species most commonly known**
-    + pathogens to yoghurt
+    + from pathogens to yogurt
 
 <br/>
 
@@ -233,6 +238,8 @@ output:
 
 ## Prokaryotes matter: Oxygen Revolution
 <hr>
+
+<span style="color:purple"> **Banded iron formation (2.4 mya) the result of oxygen, dissolved iron and sea water**</span>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:550px; HEIGHT:350px" SRC="images/archaenera.png">
 
@@ -277,6 +284,12 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:650px; HEIGHT:500px" SRC="images/species.png">
+
+## Prokaryotes matter: Microbiomes
+<hr>
+<span style="color:purple">**Helps with digestion, destroys harmful bacteria and helps control your immune system.**</span>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/microbiome.png">
 
 ## Prokaryotes matters: Humans
 <hr>
