@@ -235,17 +235,16 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:400px; HEIGHT:500px" SRC="images/compare.png">
 
-
 ## Prokaryotes matter: Oxygen Revolution
 <hr>
 
-<span style="color:purple"> **Banded iron formation (2.4 mya) the result of oxygen, dissolved iron and sea water**</span>
+<span style="color:purple"> **Banded iron formation (2.4 bya) the result of oxygen, dissolved iron and sea water**</span>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:550px; HEIGHT:350px" SRC="images/archaenera.png">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/bif.jpg">
 
-## Prokaryotes matter: Cynaobacteria
+## Prokaryotes matter: Cyanobacteria
 <hr>
 <br/>
 
