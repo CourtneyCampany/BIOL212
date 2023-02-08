@@ -41,8 +41,8 @@ output:
 
 * **Extraordinarily diverse**
     + can be smaller than prokaryotes
-    + *functions carried out by organelles*
-    + *membrane bound nucleus*
+    + <span style="color:purple"> *functions carried out by organelles*</span>
+    + <span style="color:purple"> *membrane bound nucleus*</span>
 
 <br/>
 
@@ -54,6 +54,14 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:545px; WIDTH:500px; HEIGHT:400px" SRC="images/protist_collage.jpg">
+
+
+## Tiny Cambrian acritarch Reticella corrugata - 1.7bya
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:700px; HEIGHT:500px" SRC="images/algalfossil.jpg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/algalfossil2.jpg">
 
 ## 
 
@@ -195,6 +203,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:625px; WIDTH:450px; HEIGHT:500px" SRC="images/secondendo.png">
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/endosymb2.jpg">
+
 ## *Euglena*: chloroplast with triple membrane
 <hr>
 
@@ -206,7 +218,7 @@ output:
 <hr>
 
 * **Haplonic life cycles**: most life spent with one set of chromosomes
-    + zygote only diploid &rarr; meiosis into daughter cells
+    + zygote only diploid &rarr; <span style="color:red"> meiosis</span> into daughter cells
     + some multi-celluar algae, fungi
 
 <br/>
@@ -218,12 +230,13 @@ output:
 <br/>
 
 * **Asexual life cycles**: binary fission
-    + body pinches into 2 parts &rarr; then mitosis
+    + body pinches into 2 parts &rarr; then <span style="color:red">mitosis</span>
     + many-single celled protists
 
 <br/>  
 
 * **There are more....Read about *Paramecium* in text book**
+    + parasites require hosts...
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:775px; WIDTH:200px; HEIGHT:500px" SRC="images/protistsex.jpg">
 
@@ -237,7 +250,7 @@ output:
 
 <br/>
 
-* **AOG = the alternation of *multi-cellular* haploid and diploid generations**
+* <span style="color:red">**AOG = the alternation of *multi-cellular* haploid and diploid generations**</span>
     + diploid (2N) = *sporophyte* &rarr; makes spores
     + haploid (1N) = *gametophyte* &rarr; male/female &rarr; make gametes
     + fertilization of gametes makes new sporophyte
