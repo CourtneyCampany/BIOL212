@@ -1,5 +1,5 @@
 ---
-title: "Vascular Plant Evolution"
+title: "Non Vascular and Vascular Plant Evolution"
 output: 
   ioslides_presentation: 
     css: custom2.css
@@ -7,10 +7,42 @@ output:
     widescreen: yes
 ---
 
-## Vascular plants were the next evolutionary step...Why?
+## First plant group: non-vascular bryophytes (mosses)
+<hr>
+<br/>
+
+* **Mosses, hornworts and liverworts**
+    + Fossils of bryophyte spores ~470mya
+    
+<br/>
+
+* **Non-vascular; ground hugging carpets**
+    + bodies to thin to support height growth
+
+<br/>
+
+* **Have a rhizoid but not a root**
+    + anchors plant
+    + does not uptake water
+
+<br/>
+
+* **Resistant spores**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:800px; WIDTH:200px; HEIGHT:450px" SRC="images/bryo.png">
+
+<IMG STYLE="position:absolute; TOP:390px; LEFT:435px; WIDTH:300px; HEIGHT:250px" SRC="images/moss.jpg">
+
+## Bryophytes have a <span style="color:darkgreen">gametophyte dominated life cycle</span>
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/plantevol.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png">
+
+## Vascular plants were the next evolutionary step...Why?
+<hr>
+<span style="color:blue"> **Vascular tissues: tissues for conducting nutrients and fluid internally**</span>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/plantevol.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/fossil_lyco.jpg">
 
@@ -50,7 +82,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:575px; WIDTH:450px; HEIGHT:500px" SRC="images/manyangio.jpg">
 
-## Give thanks to extinct seedless vascular plants: Coal
+## Ancient seedless forests now power our planet: Coal!
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/carbon.jpg">
@@ -59,8 +91,9 @@ output:
 <hr>
 <br/>
 
-* **Xylem	=	water	conducting	(one	way)**	
-* **Phloem	=	sugar conducting (multi-directional)**	
+**<span style="color:blue"> Xylem	=	water	conducting	(one	way)**</span>
+<br/>
+**<span style="color:blue"> Phloem	=	sugar sap conducting (multi-directional)**</span>
 
 <br/>
 
@@ -69,6 +102,7 @@ output:
     + does not rot easily
     + does not collapse easily
     + think bundles of rigid straws or pipes (seedless plants)
+    + *allows plant to grow vertically*
     
 <br/>
 
@@ -101,7 +135,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:75px; LEFT:25px; WIDTH:750px; HEIGHT:550px" SRC="images/vascular_evolve.jpg"> -->
 
-## Evolution of roots
+## Evolution of roots (add to phylogeny)
 <hr>
 <br/>
 
@@ -113,6 +147,7 @@ output:
 
 * **Absorb water and nutrients**
     + active explorers
+    + often connected with fungi
 
 <br/>
 
@@ -126,7 +161,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:230px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/earlyroots.jpg">
 
-## Evolution of leaves
+## Evolution of leaves (add to phylogeny)
 <hr>
 <br/>
 <br/>
@@ -136,12 +171,12 @@ output:
 
 <br/>
 
-* **Microphylls: single unbranched vein**
-    + unique to lycophytes (*add on phylogeny*)
+* **<span style="color:darkgreen">Microphylls: single unbranched vein</span>**
+    + unique to lycophytes (*add to phylogeny*)
 
 <br/>
 
-* **Megaphylls: leaves with branched veins**
+* **<span style="color:darkgreen">Megaphylls: leaves with branched veins</span>**
     + majority of vascular plants
   
 <br/>
@@ -150,7 +185,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/leaves.jpg">
 
-## Evolution of leaves: sporophylls
+## Evolution of leaves: sporophylls (#3 on blank AoG)
 <hr>
 <br/>
 
@@ -160,7 +195,7 @@ output:
 
 <br/>
 
-* **Sporagnium:  spore container (*house*)**
+* **<span style="color:darkgreen">Sporagnium:  spore container (*house*)</span>**
     + ferns: clusters of sporagnia called '*sori*'
     + lycophytes: '*stobilus*' holds many sporagnia (like a cone)
     + angiosperms: structures in flowers
@@ -199,7 +234,7 @@ output:
 
 <br/>
 
-* **Some	with	heterospory	(*Selaginella/Isoetes*)**
+* **Some	with	<span style="color:darkgreen">heterospory	(*Selaginella/Isoetes*)</span>**
     + male (micro-) and female (mega-) spores
 </div>
 
@@ -215,7 +250,7 @@ output:
     
 <br/>
 
-* **Homospory = spores that germinate to produce bisexual (both male and female) gametophytes**
+* **<span style="color:darkgreen">Homospory = spores that germinate to produce bisexual (both male and female) gametophytes</span>**
     
 <br/>
 
@@ -240,7 +275,7 @@ output:
 <br/>
 
 * **Leaves are megaphylls**
-    + whisk ferns lost leaf (enation)
+    + whisk ferns lost leaves
     + Equistem has simplified megaphylls
 
 <br/> 
@@ -289,13 +324,16 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:700px; HEIGHT:450px" SRC="images/della.jpg">
 
 <div style="float: right; width: 34%;">
 
-* **Turn other gametophytes male**
+* **Fastest developing gametophyte (female) release chemical (GA)**
+
+<br/>
+
+* **GA turns other developing gametophytes male**
     + sperm from everywhere!
 
 <br/>
@@ -320,11 +358,11 @@ output:
 
 <br/>
 
-* **Derived Trait - remember how a moss looks!**
+* **Dependent embryo (2N) develops and replaces gametophyte**
 
 <br/>
 
-* **What	does natural selection favor diploid dominant	lifecycles?**
+* **<span style="color:blue">What	does natural selection favor diploid dominant	lifecycles?</span>**
 
 </div>
 
