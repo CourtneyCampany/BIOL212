@@ -46,8 +46,7 @@ output:
 
 * **Brown Algae - large multicellular aquatic**
     + AoG life cycle
-    + identical haploid and diploid life cycle
-    + photosynthetic
+    + photosynthetic but use chlorophyll c
 
 <br/>
 
@@ -71,6 +70,11 @@ output:
 <br/>
 
 **Not ancestral to plants!**
+<br/>
+
+**Secondary endosymbiosis**
+<br/>
+**for chloroplasts**
 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:350px; WIDTH:700px; HEIGHT:575px" SRC="images/notplants.png">
 
@@ -127,7 +131,7 @@ output:
     + circular protein rings in plasma membrane
     + make cellulose fibers in cell wall
     + swimming sperm with similar structure
-    + phragmoplast (something with cell division)
+    + phragmoplast (cell wall synthesis)
     + ROS genes
     
 </div>
@@ -144,7 +148,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:460px" SRC="images/phlyo.jpg">
 
-## Shared Traits define plant evolution
+## Shared Traits define land plant evolution
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/basicplantphylo.jpg">
@@ -153,8 +157,9 @@ output:
 
 ## Multi-cellular, Dependent embryos (placental transfer)
 <hr>
+<span style="color:darkgreen">**Fancy science word for plants = embryophytes**</span>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/embryo.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/embryo.jpg">
 
 ## Waxy cuticle and stomata
 <hr>
@@ -165,9 +170,9 @@ output:
 
 ## Multi-cellular Gametangia
 <hr>
+<span style="color:darkgreen">**Sperm and egg houses**</span>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/game.jpg">
-
+<IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/game.jpg">
 
 ## Photosynthesis with unique pigments (chlorophyll A & B)
 <hr>
@@ -228,7 +233,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:390px; LEFT:435px; WIDTH:300px; HEIGHT:250px" SRC="images/moss.jpg">
 
-## Bryophytes have gametophyte dominated life cycle
+## Bryophytes have a <span style="color:darkgreen">gametophyte dominated life cycle</span>
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png">
