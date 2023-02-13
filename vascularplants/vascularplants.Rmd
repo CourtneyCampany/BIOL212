@@ -71,7 +71,7 @@ output:
 <br/>
 
 * **First vascular plants lacked seeds**
-    + sperm still need water to swim 
+    + sperm also need water to swim 
     + ferns and lycophytes = 1^st^ groups
 
 <br/>
@@ -87,7 +87,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/carbon.jpg">
 
-## Vascular system: the basics
+## Vascular system: the basics (add to phylogeny)
 <hr>
 <br/>
 
@@ -172,11 +172,11 @@ output:
 <br/>
 
 * **<span style="color:darkgreen">Microphylls: single unbranched vein</span>**
-    + unique to lycophytes (*add to phylogeny*)
+    + unique to lycophytes
 
 <br/>
 
-* **<span style="color:darkgreen">Megaphylls: leaves with branched veins</span>**
+* **<span style="color:darkgreen">Megaphylls: leaves with many branched veins</span>**
     + majority of vascular plants
   
 <br/>
@@ -234,7 +234,7 @@ output:
 
 <br/>
 
-* **Some	with	<span style="color:darkgreen">heterospory	(*Selaginella/Isoetes*)</span>**
+* **Some	with	<span style="color:darkgreen">heterospory	(*Selaginella*)</span>**
     + male (micro-) and female (mega-) spores
 </div>
 
@@ -246,7 +246,6 @@ output:
 
 * **Whisk Ferns, Equisetum & Ferns**
     + mostly homosporous
-    + whisk ferns do not have roots
     
 <br/>
 
@@ -255,7 +254,7 @@ output:
 <br/>
 
 * **Leaves are megaphylls**
-    + whisk ferns lost leaf (enation)
+    + whisk ferns lost leaves (enation)
     + Equistem has simplified megaphylls
     
 </div>
@@ -329,7 +328,7 @@ output:
 
 <div style="float: right; width: 34%;">
 
-* **Fastest developing gametophyte (female) release chemical (GA)**
+* **Fastest developing gametophyte (female) releases chemical hormone (GA)**
 
 <br/>
 
