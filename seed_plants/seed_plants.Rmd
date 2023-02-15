@@ -250,7 +250,7 @@ output:
 
 <div style="float: right; width: 49%;">
 
-* **2 classes: Moncots and Dicots**
+* **2 classes: Monocots and Dicots**
     + monocots = one seed leaf in embryo
     + dicots = two seed leaf in embryo
 
