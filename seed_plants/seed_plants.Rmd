@@ -30,13 +30,13 @@ output:
 * **Seeds consist of embryo & nutrients**
     + surrounded by protective coat
     + seeds can be dispersed long distances
-    + less dependence on water
+    + supply of stored food
 
 <br/>
 
 * **2 living seed lineages**
     + gymnosperms (naked seed)
-    + angiosperms (covered seed = ovary + fruit)
+    + angiosperms (covered seed )
     
 </div>
 
@@ -50,12 +50,11 @@ output:
 
 * **Before seeds, spore was only protective structure** 
     + allowed dispersal but...
-    + embryo still exposed
+    + dependent embryo still exposed
 
 <br/>
 
-* **Seeds are multicellular**
-    + what can this add?
+* **Multi-cellular <span style="color:purple">endospore</span> = food tissue**
 
 <br/>
 
@@ -64,7 +63,7 @@ output:
 <br/>
 
 * **Gymnosperms:** seeds exposed on sporophylls, form cones
-* **Angiosperms:** seeds enclosed inside ovary
+* **Angiosperms:** seeds enclosed inside ovary of fruit
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:250px; HEIGHT:450px" SRC="images/cones.jpg">
 
@@ -73,25 +72,25 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Reduction of gametophyte**
+* **Miniaturization of gametophyte**
     + mosses &rarr; ferns &rarr; seed plants
     + gametophyte became microscopic
 
 <br/>
 
-* **Heterosporous life cycle**
+* **Heterosporous life cycle only**
     + *2 kinds of spores*
     + form male/female gametopytes
 
 <br/>
 
-* **Ovules**
+* **Ovules (protect female gametophyte)**
     + sporangium kept inside sporophyte
     + ovule contains female spores
     
 <br/>
 
-* **Pollen**
+* **Pollen (protect male gametophyte)**
     + male spores develops into pollen grain
 
     
@@ -182,8 +181,8 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Male and female cones on same plant**
-    + sporophyll &rarr; sporangia &rarr; spores
     + scales &rarr; modified leaves &rarr; sporophyll
+    + sporophyll &rarr; sporangia &rarr; spores 0
     + pollen (male) and ovulate (female) cones
 
 <br/>
@@ -191,7 +190,7 @@ output:
 * **Male cones house microsporangium**
     + microsporangium produces microspores
     + microspores develop into pollen grains
-    + male gametophyte inside pollen grain
+    + microgametophyte inside pollen grain
     + pollen dispersed by wind
     + *male cones usually on bottom of tree*
 
@@ -211,7 +210,7 @@ output:
     + each ovule has megasproangium
     + megasporangium produce 4 megaspores
     + 1 megaspore survives
-    + megaspore develops gametophyte with egg
+    + megaspore develops megagametophyte with egg
 
 <br/>
 
@@ -228,6 +227,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/pinelife.jpg">
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/pinesex2.jpg">
+
 <!-- ## Gymnosperms seeds -->
 <!-- <hr> -->
 
@@ -240,7 +243,7 @@ output:
 <div style="float: left; width: 49%;">
 
 * **Most diverse living group of plants**
-    + 14,000 genera, 350,000 species
+    + 14,000 genera, >250,000 species
     + >90% of plant diversity
 
 </div>
@@ -353,7 +356,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/angiolife.jpg"> -->
 
-## Comparing seed plant reproduction
+## Comparing seeds of gymnosperm and angiosperms
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/seedsex.jpg">
