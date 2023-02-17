@@ -57,7 +57,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/biomass2.jpg">
 
-## Themes in plant form
+## Themes in vascular plant form
 <hr>
 <br/>
 
@@ -66,7 +66,7 @@ output:
 * **Plants extract materials from environment**
     * ~18 essential elements
     * soil (most)
-    * atmosphere
+    * atmosphere (a few)
     * materials can be limiting
 
 <br/> 
@@ -78,7 +78,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:500px; HEIGHT:450px" SRC="images/plantbody.jpg">
 
-## Themes in plant form
+## Themes in vascular plant form
 <hr>
 <br/>
 
@@ -88,7 +88,7 @@ output:
     * ~18 essential elements
     * soil (most)
     * atmosphere
-    * materials can be limiting
+    * many materials are limited
 
 <br/> 
 
@@ -99,7 +99,7 @@ output:
 
 * **Plants exhibit _indeterminate growth_**
     * "foragers"
-    * diversity of size & shape
+    * diversity of sizes & shapes
     
 <br/> 
 
@@ -109,7 +109,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/raunkiaer.jpg">
 
-## Diversity in plant form via resource uptake and support
+## Diversity in plant form via resource uptake vs support
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/areavolume.png">
@@ -119,7 +119,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:950px; HEIGHT:400px" SRC="images/angioradiation.png">
 
-## Diversity in plant form via environment (abiotic and biotic)
+## Diversity in plant form via environment (e.g., climate)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/leafsize.jpg">
@@ -140,7 +140,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/organ.jpg">
 
-## How do plants create such dynamic structures?
+## How do plants create such dynamic structures? <span style="color:darkgreen">**Cells!**</span>
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cell_types.png">
@@ -164,8 +164,8 @@ output:
 <br/>
 <div style="float: right; width: 50%;">
 
-**Parenchyma cells in leaves = Mesophyll cells**
-**Contain chloroplast and carry out photosynthesis**
+<span style="color:darkgreen">**Parenchyma cells in leaves = Mesophyll cells**</span>
+<span style="color:darkgreen">**Contain chloroplast and carry out photosynthesis**</span>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/parenchyma.jpg">
 
@@ -173,6 +173,18 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/celery.png">
+
+## Vascular tissues: Xylem composed of water conducting cells
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:650px; HEIGHT:500px" SRC="images/xylem2.jpg">
+
+## Vascular tissues: Phloem composed of sugar conducting cells
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:650px; HEIGHT:500px" SRC="images/phloem2.jpg">
 
 ## Dynamic root growth integral for plant function
 <hr>
@@ -200,7 +212,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/mycorr.jpg"> -->
 
-## Roots supply key nutrients & water to plant
+## Roots supply nutrients & water for growth & metabolism
 <hr>
 <br/>
 
@@ -208,19 +220,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
 
-## Vascular tissues: Xylem composed of water conducted cells
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:650px; HEIGHT:500px" SRC="images/xylem2.jpg">
-
-## Vascular tissues: Phloem composed of sugar conducting cells
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:650px; HEIGHT:500px" SRC="images/phloem2.jpg">
-
-## Primary plant growth through meristems
+## Plant growth occurs through meristems
 <hr>
 <br/>
 
@@ -228,7 +228,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/meristem.jpg">
 
-## Cambium produce secondary growth
+## Cambium produce secondary growth (out not up)
 <hr>
 <br/>
 
