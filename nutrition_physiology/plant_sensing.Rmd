@@ -31,34 +31,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/brains.jpg">
 
-## Sensory cell systems
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
-
-<IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/signals2.jpg">
-
-<div style="float: right; width: 50%;">
-
-**Cell to cell signal networks**
-
-<br/>
-
-**Ca^2+^ based signals are common**
-
-</div>
-
-## Wounding triggers transmission of Ca^2+^ to start defense
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/science_paper.jpg">
-
-##
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Plants grow towards light:  Phototropism via Auxin
 <hr>
 
@@ -213,24 +185,52 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/closed_stomata.jpg">
 
-## Risky stomatal behavior
-<hr>
+<!-- ## Risky stomatal behavior -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:230px; WIDTH:640px; HEIGHT:540px" SRC="images/gs_vpd.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:230px; WIDTH:640px; HEIGHT:540px" SRC="images/gs_vpd.jpg"> -->
 
-## How plants avoid water problems: Refill Soil
+## How plants avoid water problems: Refill soil at night
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:15px; WIDTH:750px; HEIGHT:450px" SRC="images/soil_refilling.png">
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/waterlift.jpg">
 
-## How plants avoid water problems: Alter xylem cells
+## How plants avoid water problems: Alter xylem cells construction
 <hr>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/diameter.png">
+
+## Sensory cell systems - Sensing environmental stimuli
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/signals2.jpg">
+
+<div style="float: right; width: 50%;">
+
+**Cell to cell signal networks**
+
+<br/>
+
+**Ca^2+^ based signals are common**
+
+</div>
+
+## Wounding triggers transmission of Ca^2+^ to start defense
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/science_paper.jpg">
+
+##
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <!-- ## Don't mess with the acacia tree! -->
 <!-- <hr> -->

@@ -21,7 +21,7 @@ output:
 
 <br/>
 
-*All this biomass is produced via leaves*
+<span style="color:purple">*All this biomass is produced via leaves*</span>
 
 <br/>
 
@@ -35,6 +35,8 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 ## Leaves exchange gases via stomata
 <hr>
+<br/>
+<span style="color:darkgreen">**CO~2~ IN, O~2~ and H~2~O OUT**</span>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/stomata.png">
 
@@ -42,15 +44,19 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 ## How stomata work...
 <hr>
+<br/>
+* <span style="color:darkgreen">**CO~2~ enters leaf and then chloroplasts through concentration gradient**</span>
+<br/>
+* <span style="color:darkgreen">**Stomata not always open....WHY???**</span>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
+<IMG STYLE="position:absolute; TOP:270px; LEFT:25px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/stomata4b.jpg">
+<IMG STYLE="position:absolute; TOP:270px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/stomata4b.jpg">
 
 ## Leaf gas exchange impacts the global atmopshere
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/maunaloa.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/maunaloa.png">
 
 ## Vascular tissues in leaves are confined to veins
 <hr>
@@ -72,10 +78,13 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 ## Angiosperms have evolved higher vein densities
 <hr>
+* <span style="color:darkgreen">**Helps explain angiosperm dominance**</span>
+<br/>
+* <span style="color:darkgreen">**Transpiration alters global climate systems!**</span>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
+<IMG STYLE="position:absolute; TOP:270px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
 
-## Are plants intelligent? Leaf economic theory
+## Leaf economic theory: Return on Investment
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafecon.png">
@@ -84,7 +93,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:165px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/complicated.png">
+<IMG STYLE="position:absolute; TOP:165px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/complicated.png">
 
 <!-- ## What do we do when we are hungry? -->
 <!-- <hr> -->
@@ -195,8 +204,8 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 <br/>
 
 * **3. *Regeneration*: Some 3C sugars recycled to make RUBP (5C)**
-    + one 3C sugar leaves to make glucose
-    + recycling also needs ATP
+    + one 3C sugar leaves to make carbohydrates/sugars
+    + recycling step also needs ATP
 
  </div>
 
