@@ -204,11 +204,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/diameter.png">
 
-## Sensory cell systems - Sensing environmental stimuli
+## Sensory cell systems - Sensing environmental stimuli \
 <hr>
+**NOT ON TEST**
 <br/>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/signals2.jpg">
 
