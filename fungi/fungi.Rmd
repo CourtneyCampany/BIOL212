@@ -69,7 +69,7 @@ output:
 
 <br/>
 
-* **Fungi and green plants moved onto land around same time**
+* **Fungi and plants moved onto land around same time**
     + what was the benefit for fungi?
     + helped vascular plants invade the land! 
     + mycorrhizal symbiosis @ 405mya during Devonian period
@@ -114,13 +114,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/body.jpg">
 
-## Mycelium: huge surface and volume for absorption
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mycelium.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/popart.jpg">
-
 ## Most *hyphae* divided into cells by *septa*
 <hr>
 
@@ -155,6 +148,13 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/hypae3.jpg">
+
+## Mycelium: huge surface and volume for absorption
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mycelium.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/popart.jpg">
 
 ## Mycorrhizal fungi: sharing with plants
 <hr>
@@ -234,7 +234,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/leafcutter2.jpg">
 
-## Fungal-animal parasitism: zombie apocalypse
+## Fungal-animal parasitism: Is 'The Last of Us' Real?!?
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XuKjBIBBAL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
