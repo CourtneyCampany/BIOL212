@@ -13,9 +13,13 @@ output:
 
 <div style="float: left; width: 55%;">
 
-**Chemical and physical processes combine to make cells**
+**Chemical and physical processes combine to make primitive cells**
 <br/>
 
+<!-- 1. -->
+<!-- 2. -->
+<!-- 3. -->
+<!-- 4. -->
 1. abiotic synthesis of small organic molecules (amino acids)
 2. small molecules join together (proteins)
 3. molecules packaged into protocells
@@ -24,7 +28,7 @@ output:
 <br/>
 
 * **Early earth had water vapor and compounds from volcanic eruptions (CO~2~, CH~4~, NH~3~)**
-    + atmosphere was *reducing*
+    + atmosphere was *reducing* (now controversial)
     + energy from UV or lightning
     + oceans = primordial soup of organic molecules
 
