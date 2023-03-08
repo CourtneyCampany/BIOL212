@@ -100,7 +100,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Most basal animal group**
+* **Most ancestral animal group**
     + marine
     + adults do not move
     + filter feeders
@@ -140,8 +140,6 @@ output:
 
 ## Phylum Cnidarian
 <hr>
-<br/>
-<br/>
 
 <div style="float: left; width: 45%;">
 
@@ -156,9 +154,13 @@ output:
     
 <br/>
 
-* **Simple <span style="color:blue">diploblastic radial body plan</span>**
-    + motile and sessile
+* **<span style="color:blue">Diploblastic and radial symmetry</span>**
+    + motile and sesile
     + polyp or medusa forms
+
+<br/>
+
+* **Corals have symbiotic relationships with single-celled algae**
     
 </div>
 
@@ -180,7 +182,7 @@ output:
 
 <div style="float: right; width: 45%;">
 
-* **<span style="color:blue">Triploblasty</span> = 3 germ layers**
+* **<span style="color:blue">Triploblasty</span> = 3 germ/tissue layers**
 
 <br/>
 
@@ -215,17 +217,15 @@ output:
     
 <br/>
 
-* **3 major clades of bilaterians**
-1. Lophotrochozoa
-2. Ecdysozoa
-3. Deuterostomia
+* <span style="color:blue">**3 major clades of bilaterians</span>**
+1. **Lophotrochozoa**
+2. **Ecdysozoa**
+3. **Deuterostomia**
 
 </div>
 
 ## Lophotrochozoa: Most share 2 structures
 <hr>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -240,7 +240,10 @@ output:
 * **<span style="color:blue">Trophophore</span>: distinctive larval stage**
     + beating cilia
     + cylinder body
-    
+
+<br/>
+
+* **This group is falling about with new molecular phylogenies**    
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/lopho.jpg">
@@ -262,12 +265,14 @@ output:
 
 * **Many phyla appeared in Cambrian explosion**
 
+
 <IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:250px; HEIGHT:250px" SRC="images/octo.jpg">
 
 <IMG STYLE="position:absolute; TOP:385px; LEFT:650px; WIDTH:250px; HEIGHT:250px" SRC="images/tapeworm.jpg">
 
 ## Phylum Platyhelminthes (flatworms)
 <hr>
+**Flattened body = most cells near environment or gastrovascular cavity**
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/planaria.jpg">
 
@@ -282,7 +287,7 @@ output:
 
 ## Phylum Annelida: Earthworms (<span style="color:blue">*segmentation*</span> on phylogeny)
 <hr>
-
+**Breath through their skin**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/earthworm.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/earthworm2.jpg">
@@ -377,7 +382,7 @@ output:
 
 ## Phylum Echinoderms: Next time
 <hr>
+**Invertebrates are not a monophyletic group!**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/seastar.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/seastar.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/urchin.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/urchin.jpg">

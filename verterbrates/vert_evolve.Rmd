@@ -7,68 +7,64 @@ output:
     smaller: true
 ---
 
+## Deuterostome clade
+<hr>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Phylum Echinoderms (Invertebrates)**
+* **Phylum Chordata (mostly Vertebrates)**
+    + Independent evolution of each group
+
+<br/>
+
+* **Deuterostome = Developmental similarities**
+    + radial cleavage
+    + anus from blastopore
+
+<br/>
+
+* **HOWEVER: other basal animal phyla share some of these traits**
+    + Deuterostomes now defined by DNA
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/brittle.jpg">
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/reptile.jpg">
+
+## Protostome vs Deuterostome
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/phyla2.jpg">
+
+<div style="float: right; width: 40%;">
+
+* **Protostome = First Mouth**
+
+<br/>
+
+* **Deuterostome = Second Mouth**
+
+<br/>
+
+* **Two groups differ by embryonic development**
+
+</div>
+
+## Sexual reproduction in animals results in diploid zygote
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:480px" SRC="images/clevage.png">
+
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/Chordates.jpg">
-
-<!-- ## Protostome vs Deuterostome -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/phyla2.jpg"> -->
-
-<!-- <div style="float: right; width: 40%;"> -->
-
-<!-- * **Protostome = First Mouth** -->
-
-<!-- <br/> -->
-
-<!-- * **Deuterostome = Second Mouth** -->
-
-<!-- <br/> -->
-
-<!-- * **Two groups differ by embryonic development** -->
-
-<!-- </div> -->
-
-<!-- ## Deuterostome clade -->
-<!-- <hr> -->
-<!-- <br/> -->
-
-<!-- <div style="float: left; width: 48%;"> -->
-
-<!-- * **Phylum Echinoderms (Invertebrates)** -->
-<!-- * **Phylum Chordata (mostly Vertebrates)** -->
-<!--     + Independent evolution of each group -->
-
-<!-- <br/> -->
-
-<!-- * **Deuterostome = Developmental similarities** -->
-<!--     + radial cleavage -->
-<!--     + anus from blastopore -->
-
-<!-- <br/> -->
-
-<!-- * **HOWEVER: other basal animal phyla share some of these traits** -->
-<!--     + Deuterostomes now defined by DNA -->
-
-<!-- </div> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/brittle.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:375px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/reptile.jpg">     -->
-
-<!-- ## Sexual reproduction in animals results in diploid zygote -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:480px" SRC="images/clevage.png"> -->
-
-<!-- ## -->
-
-<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/deutro.jpg"> -->
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/deutro.jpg">
 
 ## Phylum Echinoderms
 <hr>
@@ -142,6 +138,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:500px; HEIGHT:250px" SRC="images/chordate2.jpg">
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/Chordates.jpg">
+
 ## Lancelets and Tunicates
 <hr>
 
@@ -183,7 +183,7 @@ output:
 
 <br/>
 
-* **Vertebrate: series of *bones* that make up the vertebral column**
+* **<span style="color:blue">Vertebrate</span>: series of *bones* that make up the vertebral column**
     + 57,000 species
 
 <br/>
@@ -306,7 +306,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/fishes.jpg">
 
-## Ray-finned and Lobe-finned fishes (lung on phylogeny)
+## Ray-finned and Lobe-finned fishes (lungs on phylogeny)
 <hr>
 <br/>
 <br/>
@@ -399,7 +399,7 @@ output:
 
 * **Selection of many terrestrial traits**
     + head separated from body by a neck
-    + add vertebrate to allow head to swing
+    + more vertebrate to allow head to swing
     + bones of pelvis fuse to backbone
     + many species lost gills (became ears)
 
