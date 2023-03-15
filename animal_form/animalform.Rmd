@@ -54,18 +54,18 @@ output:
 <br/>
 
 * **Lack structural support from cell walls**
-    + external proteins connect and strengthen cells
+    + extracellular proteins connect and strengthen cells
     + most abundant are *collagen* (not found in plants/fungi)
 
 <br/>
 
 * **Cells organized into tissues**
-    + similar cells acting as a unit
+    + similar cells acting as a functional unit
     + muscle & nervous tissue allows animals to move
 
 <br/>    
 
-* **Body plan = programmed development driven by evolution**
+* **<span style="color:purple">Body plan = programmed development driven by evolution</span>**
 
 </div>
 
@@ -85,12 +85,12 @@ output:
 <br/>
 
 * **Early multicellular stage called a <span style="color:blue">blastula</span> (hollow ball)**
-    + protostome or deuterostome = alignment of cells
+    + protostome vs deuterostome = alignment of cells
     
 <br/>
 
 * **Germ layers develop in next stage <span style="color:blue">(gastrulation)</span>**
-    + develop into adult body parts
+    + develop into body parts
 
 <br/>
 
@@ -114,7 +114,7 @@ output:
 
 <div style="float: right; width: 48%;">
 
-* **Blastopore: opening of central cavity of an embryo**
+* **<span style="color:blue">Blastopore</span>: opening of central cavity of an embryo**
 
 <br/>
 
@@ -190,9 +190,31 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:450px; WIDTH:600px; HEIGHT:300px" SRC="images/coelom.jpg">
 
-<IMG STYLE="position:absolute; TOP:460px; LEFT:575px; WIDTH:350px; HEIGHT:225px" SRC="images/coelom2.gif">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:450px; WIDTH:600px; HEIGHT:300px" SRC="images/coelom.jpg">
+
+## Mammals develop subdivided body cavities from coelom
+<hr>
+<br/> 
+<br/> 
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/bodycavity.png">
+
+<div style="float: right; width: 60%;">
+
+* **The dorsal cavity and the ventral cavity are the largest body compartments.**
+
+<br/>   
+
+* **Dorsal body cavity includes the cranial cavity, enclosed by the skull, and the spinal cavity, enclosed by the spine**
+
+<br/>  
+
+* **Ventral body cavity subdivided into 2 compartments**
+    + vental contains the lungs and heart
+    + abdominopelvic contains the kidneys, ureters, stomach, intestines, liver, gallbladder, pancreas, bladder, anus and reproductive system
+    
+</div>
     
 ## Form and function in biology
 <hr>
@@ -229,6 +251,22 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/birdform.jpg">
+
+## Movie monsters are mostly not possible.... Godzilla
+<hr>
+* **At that size, his heart wouldn't be able to pump blood to his brain.**
+
+<br/>
+
+* **His brain would send messages too slowly to his muscles, so he wouldn't be able to move properly**
+
+<br/>
+
+* **He'd either have to spend all his time sunbathing to stay warm**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/godzilla3.jpg">
 
 ## Exchange with environment limits animal bodies
 <hr>
