@@ -81,11 +81,11 @@ output:
 * **Fertilized zygote undergoes <span style="color:blue">cleavage</span>**
     + mitotic cell divisions without cell growth
     + rapid division but overall size stays same
+    + protostome vs deuterostome = alignment of cells
 
 <br/>
 
 * **Early multicellular stage called a <span style="color:blue">blastula</span> (hollow ball)**
-    + protostome vs deuterostome = alignment of cells
     
 <br/>
 
@@ -196,11 +196,13 @@ output:
 ## Mammals develop subdivided body cavities from coelom
 <hr>
 <br/> 
-<br/> 
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/bodycavity.png">
 
 <div style="float: right; width: 60%;">
+* **<span style="color:red">DONT memorize!!</span>**
+
+<br/> 
 
 * **The dorsal cavity and the ventral cavity are the largest body compartments.**
 
@@ -211,7 +213,7 @@ output:
 <br/>  
 
 * **Ventral body cavity subdivided into 2 compartments**
-    + vental contains the lungs and heart
+    + thoracic contains the lungs and heart
     + abdominopelvic contains the kidneys, ureters, stomach, intestines, liver, gallbladder, pancreas, bladder, anus and reproductive system
     
 </div>
@@ -233,13 +235,13 @@ output:
 <br/>
 
 * **Animals body plans are constrained by physical laws**
-    + diffusion, movement, heat exchange
+    + diffusion, size and movement, heat exchange
     + gravity
 
 <br/>
 
 * **Example: Properties of water and animal shape**
-    + water more dense = surface bumps cause drag
+    + water more dense than air = surface bumps cause drag
     + natural selection favored tapered smooth bodies
     + convergent selection across aquatic mammals
     
