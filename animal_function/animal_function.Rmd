@@ -32,7 +32,7 @@ output:
 
 <!-- * **#ThermoregulationBasics** -->
 
-## Coordination and control of tisses and organs
+## Coordination and control of tissues and organs
 <hr>
 
 <div style="float: left; width: 60%;">
@@ -60,7 +60,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:375px; HEIGHT:500px" SRC="images/signals.jpg">
 
-## Animals need to maintain internal environment
+## Animals need to maintain their internal environment...
 <hr>
 
 <div style="float: left; width: 48%;">
@@ -122,7 +122,7 @@ output:
 ## Homeostasis: Negative feedbacks
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:300px; WIDTH:525px; HEIGHT:400px" SRC="images/negativefeed.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:230px; WIDTH:650px; HEIGHT:500px" SRC="images/negativefeed.png">
 
 ## Homeostasis is not constant
 <hr>
@@ -166,6 +166,7 @@ output:
 
 * **Animals often move into different environments**
     + changes in elevation, temperature, salinity, etc. 
+    + or seasons (without moving)
 
 <br/>
 
@@ -174,10 +175,10 @@ output:
     
 <br/>
  
-* **Example: animals reach high altitude**
+* **Example: mammals reach high altitude**
     + lower O~2~ causes animals to breath rapid and deeply
     + more CO~2~ is lost when exhaling, changing blood pH
-    + over days, kidneys change urine output to fix blood
+    + over days, kidneys alter urine output to fix blood pH
 
 </div>
 
@@ -214,7 +215,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/coldblood.jpg">
 
-## Thermoregulation: Balancing heat loss and gain
+## Ectotherms: Balancing heat loss and gain
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:275px; WIDTH:550px; HEIGHT:450px" SRC="images/heatexchange.jpg">
@@ -262,7 +263,7 @@ output:
 
 <br/>
 
-* **Insulation key for marine mammals**
+* **Insulation vital for marine mammals**
     + water colder than body core
     + heat transfer faster in water than air
 
