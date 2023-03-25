@@ -57,7 +57,7 @@ output:
 
 <!-- * **#KidneyBasics** -->
 
-## The big picture: Osmoregulation and excretion
+## The Big Picture: Osmoregulation and Excretion
 <hr>
 <br/>
 
@@ -122,7 +122,7 @@ output:
 <br/>
 
 * **Animals maintain water balance by *osmoregulating* internal osmolarity**
-    + may have discharge or uptake water
+    + may have to expel or uptake water
     + common for freshwater/terrestrial animals
 
 <br/>
@@ -287,8 +287,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Mammalian Kidneys: filters blood**
-    + *cortex*:
-    + *medulla*:
+    + *nephron*:
     + regions packed with excretory tubules
     + tubules create filtrate from blood
     + fluid reabsorbed and exits via vein
