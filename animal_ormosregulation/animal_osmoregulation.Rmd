@@ -1,5 +1,5 @@
 ---
-title: "Animal osmoregulation and excretion"
+title: "Animal Osmoregulation and Excretion"
 output: 
   ioslides_presentation:
     css: custom2.css
