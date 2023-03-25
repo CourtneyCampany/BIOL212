@@ -1,5 +1,5 @@
 ---
-title: "Animal circulation and gas exchange"
+title: "Animal Circulation and Gas Exchange"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -34,7 +34,7 @@ output:
 
 <!-- * **#RespiratoryStructures** -->
 
-## The big picture: circulation and gas exchange
+## The Big Picture: Circulation and Gas Exchange
 <hr>
 <br/>
 
@@ -72,7 +72,7 @@ output:
     
 <br/>
 
-* **Molecular trading in animals occurs for every cell!**
+* **Molecule trading in animals occurs for every cell!**
     + gain O~2~ and nutrients
     + release CO~2~ and waste products
     
@@ -129,7 +129,10 @@ output:
 <br/>
 
 * **Mammals &rarr; O~2~ diffuses over 2 cell layers in lungs to reach blood**
-    + molecule trading works like a circuit 
+
+<br/>
+
+* **Molecule trading works like a circuit**
 
 </div>
 
@@ -161,7 +164,6 @@ output:
 * **Hearts of vertebrates have 2+ muscular chambers**
     + *atria*:
     + *ventricles*:
-    
 <br/>
 
 * **Number of chambers related to form and function**
@@ -170,7 +172,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:425px; HEIGHT:400px" SRC="images/circsystem.jpg">
 
-## Single vs Double circulation
+## Single vs Double circulation in vertebrates
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:1050px; HEIGHT:500px" SRC="images/vertebrate.jpg">
@@ -335,7 +337,7 @@ output:
 <br/>
 
 * **Other animals lack enough surface area**
-    + to much volume to supply with O~2~
+    + to much inner volume to supply with O~2~
 
 <br/>
 
