@@ -66,7 +66,7 @@ output:
 <div style="float: right; width: 60%;">
 
 * **Different habitats present osmoregulation challenges**
-    + deserts, oceans and even freshwater
+    + land, oceans and  freshwater
 
 <br/>
 
@@ -133,12 +133,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/salmon.jpg">
 
-## Marine Animals (drink lots of seawater!)
+## Marine Bony Fish (drink lots of seawater!)
 <hr>
     
 <IMG STYLE="position:absolute; TOP:170px; LEFT:235px; WIDTH:625px; HEIGHT:475px" SRC="images/marinefish.jpg">
 
-## Freshwater Animals (lots of excretion!)
+## Freshwater Bony Fish (lots of excretion!)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:235px; WIDTH:625px; HEIGHT:475px" SRC="images/freshwaterfish.jpg">
