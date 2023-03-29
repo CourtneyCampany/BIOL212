@@ -33,15 +33,15 @@ output:
 
 <!-- * **#MammalHormones** -->
 
-## The big picture: Variation in animal reproduction
+## The big picture: Variation in animal reproduction exists
 <hr>
 
 <div style="float: left; width: 60%;">
 
 * **Mating between single male and female is boring**
-    + species can reproduce without sex
+    + species can reproduce without fertilization
     + individual of species can change sex
-    + species have both male and female sex organs
+    + species can have both male and female sex organs
     + some populations have only a few that mate
 
 <br/>
@@ -116,14 +116,14 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 <div style="float: left; width: 60%;">
 
 * **Sexual reproduction commonly between male and female**
-    + finding a partner is difficult
+    + but finding a partner may be difficult
 
 <br/>
 
-* **Stationary animals tend to be hermaphroditic**
+* **Stationary/slow animals can be hermaphroditic**
     + individual have male **and** female reproductive bits
-    + Any 2 individuals can mate/self-fertilize  
-
+    + Any 2 individuals can mate
+    
 <br/>
 
 * **Sex reversal occurs in different animal phyla**
@@ -142,7 +142,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 * **Cycles controlled by hormones and environmental cues**
     + occur with asexual or sexual modes
-    + usually related to seasons
+    + often related to seasons - *?WHY?*
 
 <br/>
 
@@ -154,6 +154,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 * **Daphnia: cycles between asexual and sexual**
     + seasonally related to environment
+    + asexual when environments are stable....
 
 </div>
 
@@ -172,14 +173,14 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <div style="float: left; width: 50%;">
 
-* **Fertilization =  **
-    + can be external or internal
+* **Fertilization =  Fusion of haploid gametes**
+    + external:
+    + internal:
 
 <br/>
 <br/>
 
-* **External: eggs shed by the female & fertilized by sperm in the environment**
-    + moist habitat always required
+* **Moist habitat always required for external fertilization**
     + *spawning*: 
 
 </div>
@@ -194,8 +195,9 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <div style="float: left; width: 55%;">
 
-* **Fertilization: **
-    + can be external or internal
+* **Fertilization =  Fusion of haploid gametes**
+    + external:
+    + internal:
 
 <br/>
 <br/>
@@ -220,22 +222,25 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: right; width: 50%;">
 
 * **Internal fertilization produces fewer gametes**
-    + survival of embyros higher
+    + survival of embryos higher
 
 <br/>
 
 * **Internal associated with protection mechanisms** 
     + parental care of young
-    + shells, amniotic eggs, marsupials(?)
+    + shells, amniotic eggs, marsupials
 
 <br/>
 
 * **Parental care not just in vertebrates..**
+
+<br/>
+
+* **External fertilization produces more offspring with lower survival rates**
 
 </div>
 
@@ -254,7 +259,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <br/>   
 
-* **Many animals have complex systems**
+* **Many animals also have accessory organs**
     + structures to carry, store, protect and nourish gametes
     + e.g. fruit fly (*spermathecae* stores sperm in female)
 
@@ -274,7 +279,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <div style="float: right; width: 58%;">
 
-* **Hormones coordinated from many glands/organs**
+* **Hormones coordinated across many glands/organs**
     + hypothalamus, pituitary and gonads
     + endocrine system
     
@@ -301,7 +306,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 <div style="float: left; width: 55%;">
 
 * **Gonads then produce and secrete 3 hormones** 
-    + testosterone, estradiol and progesterone
+    + testosterone, estrogen and progesterone
     + found in male/females in different amounts
 
 <br/>   
@@ -315,7 +320,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
     
 <br/>  
 
-* **Mature mammals: play role in gamete formation**
+* **Mature mammals: play role in gamete formation and reproductive cycles**
   
 </div>
 
@@ -328,7 +333,6 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 ## Most female mammals have an ovarian cycle
 <hr>
-<br/>
 
 <div style="float: left; width: 58%;">
 
@@ -338,19 +342,18 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 <br/>
 
 * **Ovarian cycle:**
-    + series of changes in ovaries
+    + series of changes in ovaries for maturation and release of eggs
     
 <br/>
  
-* **Menstrual cycle:**
+* **Menstrual cycle: prepares uterus for pregnancy**
     + endometrium thickens with blood vessels
     + preparation for embryo implantation
     + if embryo does not implant, endometrium is shed 
 
 <br/>
  
-* **Both cycles occur concurrently**
-  + use same series of hormones
+* **Both cycles occur concurrently using same series of hormones**
 
 </div>
 
