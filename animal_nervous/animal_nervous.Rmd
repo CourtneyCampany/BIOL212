@@ -13,7 +13,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Early forms of sense-react existed in prokaryotes**
+* **Early forms of 'sense-react' existed in prokaryotes**
 
 <br/>
 
@@ -24,8 +24,8 @@ output:
 <br/>
 
 * **Cnidarians are the simplest organisms with nervous systems**
-    + nerve nets 
-    + contraction & expansion of gastrovascular cavity
+    + nerve nets scattered throughout body
+    + control contraction & expansion of gastrovascular cavity
 
 </div>
 
@@ -37,7 +37,7 @@ output:
 
 <br/>
 
-* **Fibrous- like nerves channels information flow along targeted routes in the nervous system**
+* **Fibrous-like nerves channel information flow along targeted routes in the nervous system**
 
 <br/>
 
@@ -45,7 +45,7 @@ output:
     + sea stars = radial nerves connected to central ring
     + bilaterial animals - *cephalization*
     
-<IMG STYLE="position:absolute; TOP:380px; LEFT:450px; WIDTH:620px; HEIGHT:300px" SRC="images/nerve.jpg">
+<IMG STYLE="position:absolute; TOP:385px; LEFT:450px; WIDTH:620px; HEIGHT:300px" SRC="images/nerve.jpg">
 
 ## Central nervous systems (CNS)
 <hr>
@@ -55,9 +55,9 @@ output:
 <br/>
 
 * **Planaria (flat worms) represent the first defined CNS**
-    + small brain and nerve cords
+    + small brain and 2 nerve cords
     + only a few hundred neurons
-    
+     
 <br/>
 
 <div style="float: left; width: 35%;">
@@ -70,15 +70,15 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:400px; WIDTH:700px; HEIGHT:350px" SRC="images/ganglia.gif">
 
+## Nervous system organization also matches lifestyle
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/nervousorganize.jpg">
+
 ## Peripheral nervous system (PNS) relays info to CNS
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/pns.jpeg">
-
-## Nervous system organization matches lifestyle
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/nervousorganize.jpg">
 
 ## Vertebrate nervous system
 <hr>
@@ -87,12 +87,12 @@ output:
 
 * **CNS develops from hollow dorsal nerve cord**
     + central canal of spinal cord
-    + ventricles of brain
+    + hollow ventricles of brain
     
 <br/>
 
 * **Brain & spinal cord have grey and white matter**
-    + *grey* = neuron cell bodies, dendrites, axon terminals
+    + *grey* = neuron cell bodies, dendrites, terminals
     + *white* = bundled axons
 
 <br/>
@@ -164,7 +164,7 @@ output:
 
 ## Sympathetic and Parasympathetic are antagonistic
 <hr>
-**Arousal and energy generation (symp) vs calming and self-maintenances (para)**
+**Calming and self-maintenance (para) vs Arousal and energy generation (symp)**
 
 <IMG STYLE="position:absolute; TOP:185px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/sympara.jpg">
 
@@ -174,19 +174,22 @@ output:
 
 <div style="float: left; width: 50%;">
 
-**Forebrain = processing of smells, sleep regulation, learning and complex processing**
+**<span style="color:blue">Forebrain</span> = **
+<!-- processing of smells, sleep regulation, learning and complex processing** -->
 
 <br/>
 
-**Midbrain = routing of sensory input**
+**<span style="color:blue">Midbrain</span> = ** 
+<!-- routing of sensory input -->
 
 <br/>
 
-**Hindbrain = involuntary activities such as blood circulation**
+**<span style="color:blue">Hindbrain</span> = **
+<!-- involuntary activities such as blood circulation** -->
 
 <br/>
 
-**Across vertebrates, sizes of each region reflect importance of functions**
+**Across vertebrates, sizes of each region reflect importance of functions to each animal**
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/brainregions.jpg">
@@ -206,7 +209,7 @@ output:
 
 <br/>
 
-**Cerebrum is essential for language, cognition, memory, consciousness and awareness**
+**Cerebrum (enhanced region of forebrain) is essential for language, cognition, memory, consciousness and awareness**
 
 </div>
 
@@ -226,7 +229,7 @@ output:
 
 <br/>
 
-* **Cerebrum is also regionized**
+* **Cerebrum is also regionized (<span style="color:blue">Don't Memorize</span>)**
     + Frontal lobe = temperament and decisions
     + Temporal lobe = hearing
     + Paretial lobe = touch and integration

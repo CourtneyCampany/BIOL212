@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## The fastest predator on Earth: star-nosed mole
+## The fastest predator on Earth?: star-nosed mole
 <hr>
 **Eimer's organ: touch receptors - 120 milliseconds to identify and consume prey**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/mole.jpg">
@@ -45,31 +45,31 @@ output:
 
 <br/>
 
-* **Receptors alert nervous systems**
-    + use action potentials
+* **Receptors alert nervous systems (most animals)**
+    + use *action potentials* (membrane voltage)
     + results in a 'sensation'
 
 <br/>
 
-* **After a stimulus is processed, a motor response may be generated**
+* **After a stimulus is processed, a response may be generated**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mole_sense.jpg">
 
-## Sensory Pathways 
+## Sensory pathways (4) work through neural pathways
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:555px; WIDTH:525px; HEIGHT:400px" SRC="images/neuron.jpg">
 
 <div style="float: left; width: 53%;">
 
 * **Neurons = **
-
+    + sensory, interneurons, and motor neurons
+    
 <br/>
 
-* **Most organelles inside cell body**
+* **Most organelles located in the cell body**
     + includes nucleus
 
 <br/>
@@ -98,14 +98,14 @@ output:
 
 <br/>
 
-* **Sensory pathway starts with perception of sensations**
+* **Sensory pathway starts with stimuli**
 
 <br/>
 
 * **(1) Sensory reception: **
     + sensory cells are specialized neurons
     + inside or outside body
-    + detection of a stimulus
+    + detect stimuli
 
 </div>
 
@@ -128,15 +128,13 @@ output:
 
 * **Membrane potential: gradient that forces ions to passively move in one direction**
     + can be processed by central nervous system
-
+    + magnitude of change in ion flow = strength of stimulus
 </div>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:625px; WIDTH:400px; HEIGHT:475px" SRC="images/radio.jpg">
 
 ## (3) Sensory Transmission: action potentials (nerve impulse)
 <hr>
-<br/>
-<br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:15px; WIDTH:475px; HEIGHT:250px" SRC="images/actionpot.jpg">
@@ -149,11 +147,18 @@ output:
 
 * **Action potential: **
     + caused by change in membrane potential
-
+    + travels along *axon* and flow to other cells
+    
 <br/>
 
 * **Receptor generates action potentials that travel to central nervous system**
     + large stimulus = more action potentials
+
+<br/>
+
+* **Speed of action potential depends on species**
+    + length of axons varies
+    + verterbrate axons are insulated
 
 </div>
 
@@ -179,12 +184,13 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 <br/>
 
 * **How does the brain know the difference in stimuli?**
-    + action potentials are just electrical signals...
+    + action potentials are not different from each other
     
 <br/>
 
 * **Action potentials reach brain via dedicated neural pathways**
     + brain distinguishes stimuli on the path they arrive
+    + 100 million neurons with 100 trillion connections = human brain
 
 </div>
 
@@ -239,7 +245,7 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 <br/>
 
 * **(2) Respond to individual kinds of molecules**
-    + glucose, O~2~, CO~2~, amino acids
+    + glucose, O~2~, CO~2~, amino acids, pheromones
 
 <br/>
 
