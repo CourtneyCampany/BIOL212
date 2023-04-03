@@ -148,14 +148,14 @@ output:
 
 <br/>
 
-* **Motor system carry signals to skeletal muscles**
+* **<span style="color:blue">Motor system carry signals to skeletal muscles</span>**
     + voluntary (raise a hand)
     + involuntary knee-jerk
 
 <br/>
 
-* **Autonomic system regulates *involuntary* smooth and cardiac muscles**
-    + *Sympathetic*, *Parasympathetic*, *Enteric*
+* **<span style="color:blue">Autonomic system regulates *involuntary* smooth and cardiac muscles</span>**
+    + <span style="color:blue">*Sympathetic*, *Parasympathetic*, *Enteric*</span>
     + *Enteric* = digestion, pancreas, gallbladder    
 
 </div>
@@ -199,68 +199,68 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:750px; HEIGHT:500px" SRC="images/braincompare.gif">
 
-## Human brain
-<hr>
-<br/>
+<!-- ## Human brain -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<div style="float: right; width: 50%;">
+<!-- <div style="float: right; width: 50%;"> -->
 
-**100 billion neurons make 100 trillion connections**
+<!-- **100 billion neurons make 100 trillion connections** -->
 
-<br/>
+<!-- <br/> -->
 
-**Cerebrum (enhanced region of forebrain) is essential for language, cognition, memory, consciousness and awareness**
+<!-- **Cerebrum (enhanced region of forebrain) is essential for language, cognition, memory, consciousness and awareness** -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/humanbrain.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/humanbrain.jpg"> -->
 
-## Human brain
-<hr>
-<br/>
+<!-- ## Human brain -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<div style="float: right; width: 50%;">
+<!-- <div style="float: right; width: 50%;"> -->
 
-**100 billion neurons make 100 trillion connections**
+<!-- **100 billion neurons make 100 trillion connections** -->
 
-<br/>
+<!-- <br/> -->
 
-**Cerebrum is essential for language, cognition, memory, consciousness and awareness**
+<!-- **Cerebrum is essential for language, cognition, memory, consciousness and awareness** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Cerebrum is also regionized (<span style="color:blue">Don't Memorize</span>)**
-    + Frontal lobe = temperament and decisions
-    + Temporal lobe = hearing
-    + Paretial lobe = touch and integration
-    + Occipital lobe = vision
-    
-</div>
+<!-- * **Cerebrum is also regionized (<span style="color:blue">Don't Memorize</span>)** -->
+<!--     + Frontal lobe = temperament and decisions -->
+<!--     + Temporal lobe = hearing -->
+<!--     + Paretial lobe = touch and integration -->
+<!--     + Occipital lobe = vision -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:1px; WIDTH:525px; HEIGHT:400px" SRC="images/humanbrain2.png">
+<!-- </div> -->
 
-## Body parts are connected through sensory and motor cortexes
-<hr>
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:1px; WIDTH:525px; HEIGHT:400px" SRC="images/humanbrain2.png"> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/lobes.png">
+<!-- ## Body parts are connected through sensory and motor cortexes -->
+<!-- <hr> -->
 
-## Limbic system responsible for behaviorial, emotions, memory
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/lobes.png"> -->
 
-<div style="float: left; width: 50%;">
+<!-- ## Limbic system responsible for behavioral, emotions, memory -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Hippocampus = memory center (short and long)**
-    + looks like a seahorse
+<!-- <div style="float: left; width: 50%;"> -->
 
-<br/>
+<!-- * **Hippocampus = memory center (short and long)** -->
+<!--     + looks like a seahorse -->
 
-* **Amygdala = emotional responses, including  pleasure, fear, anxiety and anger**
-    + looks like an almond
-    + emotion functions in robust memories
+<!-- <br/> -->
 
-</div>
+<!-- * **Amygdala = emotional responses, including  pleasure, fear, anxiety and anger** -->
+<!--     + looks like an almond -->
+<!--     + emotion functions in robust memories -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/otherbrain.jpg">
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/otherbrain.jpg"> -->
