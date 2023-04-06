@@ -46,7 +46,7 @@ output:
 <div style="float: left; width: 60%;">
 
 * **Behavior:**
-    + works via sensory pathway/nervous systems
+    + works via sensory pathway in nervous systems
     
 <br/>
 
@@ -56,7 +56,7 @@ output:
 <br/>
 
 * **Learning connects experience and behavior **
-    + genetics x environment
+    + Genetics x Environment
     
 </div>
 
@@ -97,7 +97,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Q1: stimuli that trigger behavior**
+* **Q1: stimuli that trigger behavior...**
     + Tinbergen kept fish tanks with stickleback fish
     + Males = red belly; Females= no red belly
 
@@ -110,7 +110,7 @@ output:
 
 * **Fixed Action Pattern: **
     + developmentally 'fixed' &rarr; *innate* behavior
-    + trigger = *sign stimulus* (i.e. red color)
+    + trigger = *specific stimulus* (i.e. red color)
 
 </div>
 
@@ -121,9 +121,9 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:35px; WIDTH:500px; HEIGHT:400px" SRC="images/migration.jpg">
+<IMG STYLE="position:absolute; TOP:205px; LEFT:15px; WIDTH:500px; HEIGHT:400px" SRC="images/migration.jpg">
 
-<div style="float: right; width: 48%;">
+<div style="float: right; width: 52%;">
 
 * **Environmental stimuli trigger and guide animal behaviors**
     + for innate and learned behaviors
@@ -140,7 +140,7 @@ output:
 
 </div>
 
-## Bird Migration: What happens if it is cloudy?
+## Bird Returning Home: What happens if it is cloudy?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/pigeon2.jpg">
@@ -156,7 +156,7 @@ output:
  <br/>
  
 * **Migration and reproduction cued by seasonal cycles**
-    + periods of day length and darkness
+    + periods of day length or temperature cues
     
  <br/>
  
@@ -193,7 +193,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT: 615px; WIDTH:450px; HEIGHT:300px" SRC="images/sheep.jpg">
 
-## Fruit fly courtship
+## Fruit fly courtship use all 4 modes of communication
 <hr>
 <br/>
 
@@ -307,13 +307,13 @@ output:
 <br/>
 
 * **Learning capacity &rarr; nervous system organization during development**
-    + genome encoded (behavvior exists) 
-    + finches can sing, but learn song from father
+    + genome encoded (behavior exists) 
 
 <br/>
 
 * **Both nature (genes) vs nurture (environment)**
-
+    + finches can sing, but learn song from father
+    
 <br/>
 
 * **Learning Types: Imprinting, Spatial, Associative, Cognitive, Social**
@@ -358,12 +358,12 @@ output:
 
 <br/>
 
-* **Fruit flies: variation in an foraging gene (*for*) dictates larva travel when foraging**
+* **Fruit flies: variation in an foraging gene (*for*) dictates larval travel when foraging**
     + *for^R^* (rover) vs *for^S^* (sitter)
     
 <br/>
     
-* **Which allele will be selected for in a population?**
+* **Which allele will be selected for in any population?**
 
 </div>
 
@@ -386,7 +386,7 @@ output:
 
 <br/>
 
-* **Seeking, attracting & choosing mates**
+* **Seeking, attracting & choosing mates are all under selection**
     + mate competition
 
 <br/>
