@@ -232,11 +232,11 @@ output:
 
 <br/>
 
-**Combined there traits represents an organism's *life history* **
+**Combined these traits represents an organism's *life history* **
 <br/>
 
 1. Age at first reproduction
-2. How often reproduction occurs
+2. How often reproduction occurs 
 3. How many offspring are created
     
 </div>

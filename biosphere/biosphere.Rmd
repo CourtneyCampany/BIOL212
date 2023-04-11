@@ -31,7 +31,7 @@ output:
     
 <br/>
 
-* **Earth is divided up into different life zones**
+* **Earth is divided up into different biomes**
     + control the distribution of species
     + climate creates life zones
 
@@ -56,8 +56,9 @@ output:
 <br/>
 <br/>
 
-* **Global climate depends on the amount of energy received by the sun and the amount of energy that is trapped in the system.**
+* **Global climate depends on the amount of energy received by the sun and the amount of energy that is trapped in the system (e.g., atmosphere, living things).**
     + Different regions can have different climates.
+    + Different regions may have seasons, where climate fluctuates
 
 ## 
 
@@ -72,7 +73,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:245px; LEFT:225px; WIDTH:650px; HEIGHT:400px" SRC="images/climate2.png">
 
-## Climate varies by latitude
+## Climate varies by latitude, with temperature &  seasons
 <hr>
 <br/>
 
@@ -111,8 +112,8 @@ output:
 
 <br/>
 
-* **Climates within a latitude may change during the year**
-    + dry & wet seasons
+* **Climates within a latitude may change during the year due to tilt**
+    + seasons
     + wind and ocean currents
 
 <br/>
@@ -129,7 +130,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/latitude.png">
 
-## Bodies of water play huge role in climate
+## Bodies of water play a huge role in climate
 <hr>
 <br/>
 <br/>
@@ -139,6 +140,7 @@ output:
 <div style="float: right; width: 35%;">
 
 * **Oceans are heat conveyor belts**
+    + water absorbs lot of heat!
     + heat/cool air masses
     + currents move them
 
@@ -146,7 +148,7 @@ output:
 <br/>
 
 * **Impacts climate of land**
-    + water absorbs lot of heat!
+    + heat energy can be deposited on land 
 
 </div>
 
@@ -165,7 +167,7 @@ output:
 
 <br/>
 
-* **Biomes are largely defined by temperature and precipitation**
+* **Biome locations are  defined by temperature and precipitation**
     + annual averages
     + seasonal variation
  
@@ -194,7 +196,7 @@ output:
     
 <div style="float: right; width: 50%;"> 
 
-* **Contain organisms adapted for the environment**
+* **Each contains organisms adapted for the specific environment**
     + animals, plants, fungi, etc
 
 <br/> 
@@ -249,8 +251,8 @@ output:
     
 <br/>   
 
-* **Freshwater biomes linked to terrestrial neighbor**
-    + soil inputs determine chemistry
+* **Aquatic biomes linked to terrestrial neighbor**
+    + inputs impact water chemistry
     + related climate
 
 </div>
