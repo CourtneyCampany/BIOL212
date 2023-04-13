@@ -23,7 +23,7 @@ output:
 <br/>
 
 * **Population growth can be 'modeled'**
-    + births & deaths
+    + tracking births & deaths
     
 <br/>
 
@@ -74,25 +74,25 @@ output:
 ## Population statistics change over time (demography)
 <hr>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 45%;">
 
 * **Cohorts:**
-    + how many of one age-group survive to the next?
-    + when does reproduction occur?
+    + how many of one age-group *survive* to the next age level?
+    + when does reproduction occur? 
     
 <br/>
 
 * **Girl power!**
     + only females produce offspring
-    + how many females give rise to new females?
+    + how many *females give rise to new females*`?
+    + how many years do females reproduce?
 
 <br/>
 
 * **Reproductive rates vs Survirorship**
-
+    + key for conservation
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/lifetable.jpg">
