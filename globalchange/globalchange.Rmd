@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## Global Biodiversity
+## Human activity has altered >70% of land surface
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/map.jpg">
@@ -36,7 +36,7 @@ output:
 
 <!-- * **#GlobalChangeBasics** -->
 
-## The big picture: Earth's systems and humans interact
+## The Big Picture: Earth's systems and humans interact
 <hr>
 <br/>
 
@@ -64,7 +64,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:350px; HEIGHT:450px" SRC="images/sixth.jpg">
 
-## What is biodiversity?
+## What is Biodiversity?
 <hr>
 <br/>
 
@@ -116,7 +116,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:500px; HEIGHT:450px" SRC="images/frogs.jpg">
 
-## The selfish view: what does biodiversity provide us?
+## The Selfish View: What does biodiversity provide us?
 <hr>
 <br/>
 
@@ -166,7 +166,7 @@ output:
 
 * **Landscape change by humans is huge threat**
     + nearly all land surface has been altered
-    + causes fragmentation or loss of habitat
+    + causes *fragmentation* or *loss of habitat*
 
 </div>
 
@@ -289,65 +289,65 @@ output:
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/greenhouse.jpg">
 
 
-## Global Change: Nutrients
-<hr>
+<!-- ## Global Change: Nutrients -->
+<!-- <hr> -->
 
-<div style="float: left; width: 47%;">
+<!-- <div style="float: left; width: 47%;"> -->
 
-* **Humans move nutrients around too much**
-    + mostly to support agriculture
-    + disrupts natural cycling
-    
-</div>
+<!-- * **Humans move nutrients around too much** -->
+<!--     + mostly to support agriculture -->
+<!--     + disrupts natural cycling -->
 
-    
-<div style="float: right; width: 53%;">
+<!-- </div> -->
 
-* **Ecosystems may reach *critical load* of a nutrient**
-    + nutrient cannot be taken up by plants
-    + excess N on crops, leaches to aquatic systems
-    + excess N impacts area not intended
-    
-</div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:75px; WIDTH:350px; HEIGHT:350px" SRC="images/fert.jpg">
+<!-- <div style="float: right; width: 53%;"> -->
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/bllom.jpg">
+<!-- * **Ecosystems may reach *critical load* of a nutrient** -->
+<!--     + nutrient cannot be taken up by plants -->
+<!--     + excess N on crops, leaches to aquatic systems -->
+<!--     + excess N impacts area not intended -->
 
-## Global Change: Toxins & Pollution
-<hr>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:5px; WIDTH:600px; HEIGHT:400px" SRC="images/plastics.png">
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:75px; WIDTH:350px; HEIGHT:350px" SRC="images/fert.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:630px; WIDTH:400px; HEIGHT:450px" SRC="images/mercury.png">
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/bllom.jpg"> -->
 
-## Global Change: What can we do?
-<hr>
-<br/> 
+<!-- ## Global Change: Toxins & Pollution -->
+<!-- <hr> -->
 
-<div style="float: left; width: 45%;">
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:5px; WIDTH:600px; HEIGHT:400px" SRC="images/plastics.png"> -->
 
-* **We cannot save all habitats**
-    + which patches are most crucial?
-    
-<br/> 
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:630px; WIDTH:400px; HEIGHT:450px" SRC="images/mercury.png"> -->
 
-* **Sustainable development**
-    + better engineer man-made ecosystems
-    + food security while reducing nutrient/chemical impacts
-    + food security while maintaining ecosystem services
-    
-<br/> 
+<!-- ## Global Change: What can we do? -->
+<!-- <hr> -->
+<!-- <br/>  -->
 
-* **Curb global emissions**
-    + can we do it?
-    + technology?
+<!-- <div style="float: left; width: 45%;"> -->
 
-</div>
+<!-- * **We cannot save all habitats** -->
+<!--     + which patches are most crucial? -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:525px; HEIGHT:400px" SRC="images/emissions.jpg">   
+<!-- <br/>  -->
 
-## Future of the Biosphere: New Mass Extinction?
-<hr> 
+<!-- * **Sustainable development** -->
+<!--     + better engineer man-made ecosystems -->
+<!--     + food security while reducing nutrient/chemical impacts -->
+<!--     + food security while maintaining ecosystem services -->
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/extinction2.jpg">  
+<!-- <br/>  -->
+
+<!-- * **Curb global emissions** -->
+<!--     + can we do it? -->
+<!--     + technology? -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:525px; HEIGHT:400px" SRC="images/emissions.jpg">    -->
+
+<!-- ## Future of the Biosphere: New Mass Extinction? -->
+<!-- <hr>  -->
+
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/extinction2.jpg">   -->

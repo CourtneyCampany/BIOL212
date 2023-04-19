@@ -69,7 +69,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Individuals sharing space will compete for resources**
-    + limits fitness for each species
+    + reduces fitness for each species
     
 <br/>
 
@@ -93,7 +93,7 @@ output:
 <div style="float: left; width: 57%;">
 
 * **Ecological niche: **
-    + temperature, time active, food choice, nest sites
+    + abiotic factors, food choice, nest sites
     + competition occurs for these resources
 
 <br/>
@@ -105,7 +105,8 @@ output:
 <br/>
 
 * **Resource partitioning allows for coexistence**
-    + partial niche overlap
+    + use parts of a habitat, active at different times
+    + allows partial niche overlap (not full)
     + why competitive exclusion is rare!
 
 </div>
@@ -132,7 +133,7 @@ output:
     
 <br/>
 
-* **All animals must eat, which means that most organisms are at the risk of being eaten**
+* **All animals must eat, which means that most organisms are also at the risk of being eaten**
 
 <br/>
 
@@ -155,7 +156,7 @@ output:
     
 <br/>
 
-* **Lot of feeding adaptation in the animal world**
+* **Lots of feeding adaptations in the animal world**
     + reproductive success depends on feeding
 
 <br/>
@@ -188,7 +189,7 @@ output:
     
 <IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/groundhog.jpg">
 
-## Defenses &rarr; Co-evolutionary arms race
+## Defenses vs Predation &rarr; Co-evolutionary arms race
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/coevolution_butterflies.jpg">
@@ -235,7 +236,7 @@ output:
 <br/>
 
 * **Organism (parasite) gets nourishment from host**
-    + host harmed in process
+    + host always harm host in process
     + ~1/3 of all species are parasites!!
     
 <br/>
@@ -287,7 +288,6 @@ output:
 
 * **Often, the 2 species depend on each other for survival/reproduction**
     + plants + insects = pollination + food
-    + nectar production by flowering plants
     
 <br/>
 
@@ -332,7 +332,7 @@ output:
 <br/> 
 
 * **Energy is transferred upward**
-    + plants &rarr; consumers
+    + plants/aglae &rarr; consumers
     + transfer is wasteful (*WHY*?)
     
 <br/> 
