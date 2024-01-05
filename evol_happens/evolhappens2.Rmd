@@ -11,7 +11,7 @@ output:
 <hr>
 <br/>
 
-* **Use these as your study guides. Each one is a story or concept (not a definition).**
+* **Use these as your study guides. Each one is a concept (not a definition).**
     + I use them to write the exam
     + Create a checklist - cross them off as you study
     + Use office hours for ones you don't quite get
@@ -35,6 +35,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/SedimentaryStrata.jpg">
 
+## 
+
+<IMG STYLE="position:absolute; TOP:10px; LEFT:10px; WIDTH:400px; HEIGHT:680px" SRC="images/reef.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/reef2.jpg">
+
 ## Georges Cuvier (1769-1832): The concept of extinction
 <hr>
 
@@ -42,8 +48,7 @@ output:
 
 ## 99% of all species that have existed have already gone extinct!!!
 <hr>
-**Scientists after Cuvier (i.e., Darwin) now had to account for extinction as fact**
-<br/>
+**Scientists after Cuvier (i.e., Darwin) now had to account for <span style="color:blue">extinction</span> as fact**
 <br/>
 <br/>
 <br/>
@@ -67,7 +72,7 @@ output:
 
 <span style="color:blue">**Example: Wooly Mammoths appear and then disappear in the fossil record.**</span>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/extinct.png">
+<IMG STYLE="position:absolute; TOP:191px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/extinct.png">
 
 ## Jean-Baptiste de Lamarck: Famous for being wrong
 <hr>
@@ -99,6 +104,12 @@ output:
 <IMG STYLE="position:absolute; TOP:150px; LEFT:525px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
 
 <IMG STYLE="position:absolute; TOP:460px; LEFT:625px; WIDTH:350px; HEIGHT:250px" SRC="images/bonsai.jpg">
+
+## According it Lamarck, Skee-Lo could get his wish
+<hr>
+<span style="color:darkred">**I wish I was like six-foot-nine so I can get with Leoshi...**</span>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/skeelo.jpg">
 
 ## Transitional Forms
 <hr>
