@@ -16,14 +16,14 @@ output:
     + Create a checklist - cross them off as you study
     + Use office hours for ones you don't quite get
     + Start with hashtags and expand outward when studying
-
-<br/>
-
-<span style="color:blue">**#EvolutionBeginnings**</span>
-
+    
 <br/>
 
 <span style="color:blue">**#FossilClues**</span>
+
+<br/>
+
+<span style="color:blue">**#FirstTheories**</span>
 
 <br/>
 
@@ -82,7 +82,7 @@ output:
 
 * **Lines of descent (early evolution theory)**
     + compared living giraffes  with fossil forms
-    + evolution: simple to complex
+    + evolution =  simple to more complex
 
 <br/>
 
@@ -93,7 +93,7 @@ output:
 <br/>
 
 * **(2) Inheritance of acquired characteristics**
-    + body mods can be passed to offspring
+    + changes can be passed to offspring
     
 <br/>
 
@@ -101,9 +101,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:525px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
-
-<IMG STYLE="position:absolute; TOP:460px; LEFT:625px; WIDTH:350px; HEIGHT:250px" SRC="images/bonsai.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
 
 ## According it Lamarck, Skee-Lo could get his wish
 <hr>
