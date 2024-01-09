@@ -9,21 +9,20 @@ output:
 
 ## Darwin: Evolution as descent with modification
 <hr>
+
+* **Descent with modification was Darwin's theory on how the Tree of Life was created**
+
 <br/>
 
-**The fossil record lets us explore the ancestors that anything living (including us) evolved from**
+* **Darwin knew accounted from extinction and inheritance but did not know about genes or DNA**
 
 <br/>
 
-<div style="float: left; width: 48%;">
+* **The mechanism proposed by Darwin was different from Lamarck**
 
-* **How did this actually happen?**
+<IMG STYLE="position:absolute; TOP:350px; LEFT:100px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe2.jpg">
 
-</div>
-
-<IMG STYLE="position:absolute; TOP:270px; LEFT:450px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe2.jpg">
-
-<IMG STYLE="position:absolute; TOP:320px; LEFT:125px; WIDTH:200px; HEIGHT:325px" SRC="images/tree.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:200px; HEIGHT:325px" SRC="images/tree.jpg">
 
 ## What does 'Descent with modification' really mean?
 <hr>
@@ -44,7 +43,6 @@ output:
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/penguins.jpg">
 
 ## *Population* = group of individuals of same species, coexisting in the same time and place, with the potential of interbreeding 
-
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/penguins.jpg">
 
 ## BIOL211 review: change in *genetic composition*
@@ -81,14 +79,15 @@ output:
 <font size="6">**Bacteria = ?**</font>
 </div>
 
-## Darwinian Evolution
+## Mechanism of Darwinian Evolution
 <hr>
-<br/>
 
 <div align="center">
 * **Focus on <span style="color:blue">adaptation</span> through natural selection (not use/disuse)**
     + characteristics that enhance fitness
     + these characteristics are heritable
+<br/>
+* **Related organisms live in different habitats, so they gradually accumulate changes to be better suited to that habitat (<span style="color:blue">adaptation</span>)**
 
 <br/>
 
@@ -96,12 +95,12 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:380px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/beak.png">
+<IMG STYLE="position:absolute; TOP:390px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/beak.png">
 
 ## Adaptation viewed through *homology*
 <hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:180px; WIDTH:700px; HEIGHT:450px" SRC="images/homology.jpg">
+<span style="color:blue">homologous structures = </span>
+<IMG STYLE="position:absolute; TOP:190px; LEFT:180px; WIDTH:700px; HEIGHT:450px" SRC="images/homology.jpg">
 
 <!-- descent with modification -->
 
@@ -165,7 +164,7 @@ output:
 <br/>
 * **<span style="color:blue">Individuals are selected naturally, by the environment</span>**
 <br/>
-* **Favorable traits accumulate in a population**
+* **Favorable traits will accumulate in a population**
 
 </div>
 
@@ -185,7 +184,7 @@ output:
 <br/>
 
 * **Average beak depth increases over time because deep-beaked individuals had greater reproductive success**
-    + *the individuals during drought do not adapt beak size!*
+    + <span style="color:darkred">*the individuals during drought did not adapt beak size!*</span>
 
 </div>
 
@@ -196,7 +195,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:425px" SRC="images/cdc.jpg">
 
-## Evolution of antibiotic resistance 
+## Modern history of the evolution of antibiotic resistance 
 <hr>
 <br/>
 
@@ -246,7 +245,7 @@ output:
 
 <br/>
 
-* **Multi-drug resistance common in bacteria isolated from Lechuguilla Cave**
+* **Multi-drug resistance found in bacteria isolated from Lechuguilla Cave**
     + ecosystem isolated from surface for 4 million years
     + *Paenibacillus* cave isolate is resistant to most clinical antibiotics
     + 18 resistance mechanisms, including 3 unknown!
@@ -264,7 +263,7 @@ output:
 <br/>
 
 <div align="center">
-**If you were a bacteria today, in 2020....**
+**If you were a bacteria today, in 2024....**
 </div>
 
 <br/>
@@ -307,7 +306,7 @@ output:
 
 **How long is the average course of antibiotic treatment?**
 <br/>
-**Do you better understand new strains of SARS-CoV-2?**
+<span style="color:darkred">**Do you now better understand new variants of SARS-CoV-2?**</span>
 </div>
 
 
