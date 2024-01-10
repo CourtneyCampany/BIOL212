@@ -10,11 +10,11 @@ output:
 ## Darwin: Evolution as descent with modification
 <hr>
 
-* **Descent with modification was Darwin's theory on how the Tree of Life was created**
+* **<span style="color:blue">Descent with modification</span> was Darwin's theory on how the Tree of Life was created**
 
 <br/>
 
-* **Darwin knew accounted from extinction and inheritance but did not know about genes or DNA**
+* **Darwin  accounted for extinction and inheritance but did not know about genes or DNA**
 
 <br/>
 
@@ -115,7 +115,7 @@ output:
 **?What is a trait?**
 
 <br/>
-**Trait variation comes from random mutations**
+**<span style="color:blue">Trait variation comes from random mutations</span>**
 </div>
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/butterflywings.jpg">
