@@ -58,6 +58,25 @@ output:
 ## Is this why males look and behave differently?
 <hr>
 **What are these male traits 'expressing' to females?**
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**If heritability > 0, then traits that increase reproductive success should accumulate**
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:15px; WIDTH:600px; HEIGHT:300px" SRC="images/deer.jpg">
 
@@ -70,11 +89,12 @@ output:
 
 <div style="float: left; width: 45%;">
 
-* **'Choosiness' leads to competition**
-
+* **'Choosiness' drives this competition**
+    + usually between males
+    
 <br/>
 
-* **Occurs among males in many species**
+* **Occurs in many species**
     + Direct combat
     + Subtle combat
     + Display (rituals and colors)
@@ -82,7 +102,6 @@ output:
 <br/>
 
 * **Drives the evolution of secondary sexual characteristics**
-    + between males 
 
 </div>
 
@@ -220,14 +239,15 @@ https://www.youtube.com/watch?v=CQ1VQ-4LYAI
 
 ## Breaking the binary
 <hr>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Sex is not just heterosexual in animals**
-    + ~2,000 species and counting....
+    + ~1,500 species and counting....
     + dragonfly, dolphin, elephant, orcas, turkey...
     + beetles, sheep, bats, orangutans....
+    + most present in social species
+    + animals have collections of sexual behaviors
 
 
 <br/>
@@ -239,8 +259,8 @@ https://www.youtube.com/watch?v=CQ1VQ-4LYAI
 <br/>
 
 * **Intersexual animals**
-    + Female -> Male, Male -> Female
-    + Female and male at same time
+    + female -> male, male -> female
+    + female and male at same time
     + male seahorses can get pregnant
 </div>
 
