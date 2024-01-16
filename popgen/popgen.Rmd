@@ -109,12 +109,12 @@ output:
 
 <br/>
 
-* **Broken CFTR:**
-    + misfolded and not in membrane
+* **Broken CFTR gene = protein channel not working properly**
+    + misfolded and/or not in membrane
     + cannot open channel gate
     + insufficient quantities
     
-<IMG STYLE="position:absolute; TOP:325px; LEFT:650px; WIDTH:350px; HEIGHT:200px" SRC="images/cfprotein.jpg">
+<IMG STYLE="position:absolute; TOP:345px; LEFT:670px; WIDTH:350px; HEIGHT:200px" SRC="images/cfprotein.jpg">
 
 ## 
 <br/>
@@ -169,12 +169,12 @@ AA or Aa or aa
 
 <div style="float: left; width: 50%;">
 
-* **Individuals in a population vary with a trait, that has a genetic basis**
+* **Individuals in a population vary with a trait, that has a genetic basis (Rule 1 & 2) **
     + <span style="color:blue">**Trait = functional or not CFTR gene**</span>
 
 <br/>
 
-* **Variation in trait associated with variation in reproductive success**
+* **Variation in trait associated with variation in reproductive success (Rule 3)**
     + <span style="color:blue">**CF = life expectancy ~44 years**</span>
 
 
@@ -189,7 +189,7 @@ AA or Aa or aa
 
 <div style="float: left; width: 45%;">
 
-* **There will be an increase in frequency of individuals having traits that increased reproductive success in the next generation...**
+* **There will be an increase in frequency of individuals having traits that increased reproductive success in the next generation... (Rule 4)**
 
 <br/>
 
@@ -233,7 +233,7 @@ AA or Aa or aa
 <font size="6"><span style="color:blue">**f(AA)	=	p^2^; 	f(aa)	=	q^2^; 	f(Aa)	=	2pq**	</span>
 <br/>
 <br/>
-<span style="color:blue">**p^2^	+	2pq	+	q^2^	=	1	(100%)**	</span></font>
+<span style="color:blue">**p^2^	+	2pq	+	q^2^	=	1	(100%)** ---Hardy Weinberg equation	</span></font>
 
 ##
 
@@ -253,12 +253,13 @@ AA or Aa or aa
 <br/>
 
 * **It is common for some loci to be in Hardy Weinberg equilibrium**
-    + selection is likely happening on many loci
+    + selection is likely not happening on all loci
  
 <br/>
 
 * **Populations can evolve *very* slowly**
     + really low mutations rates
+    + takes many many generations
     + makes it hard to detect frequency change in alleles
     
 <br/>
