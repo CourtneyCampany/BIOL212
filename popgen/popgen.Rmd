@@ -75,7 +75,7 @@ output:
 
 * **<span style="color:blue">Changes in genetic variation, via alleles, provide the raw materials for evolution**</span>
     + inherit one copy of locus from mother & father
-    + environment selects flower color phenotypes
+    + eg. environment selects flower color phenotypes
     
 </div>
 
@@ -216,10 +216,10 @@ AA or Aa or aa
 
 <br/>
 
-**Let <span style="color:blue">p</span> = frequency of functional CFTR gene (A)**
+**Let <span style="color:blue">p</span> = frequency (%) of functional CFTR gene (A)**
 <br/>
 <br/>
-**Let <span style="color:blue">q</span> = frequency of non-functional CFTR gene (a)**
+**Let <span style="color:blue">q</span> = frequency (%) of non-functional CFTR gene (a)**
 </font>
 
 <br/>
@@ -241,8 +241,8 @@ AA or Aa or aa
 
 ## Hardy Weinberg describes a population NOT evolving
 <hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/HW_conditions.jpg">
+<span style="color:blue">**Allele frequencies should stay the from one generation to the next**</span>
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/HW_conditions.jpg">
 
 ## Does Hardy Weinberg occur in nature? .... Kinda
 <hr>
@@ -264,7 +264,7 @@ AA or Aa or aa
     
 <br/>
 
-* **HW becomes useful to determine the % of a population carrying a specific allele**
+* **Becomes useful to predict the % of a population carrying a specific allele**
     + medical science &rarr; inherited diseases &rarr; Cystis Fibrosis
 
 ## **In Switzerland there are 5 people born with Cystic Fibrosis (aa) out of every 10,000 children. Assuming the Swiss population is not evolving at the locus for the CFTR gene:**
