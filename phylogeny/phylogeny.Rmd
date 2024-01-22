@@ -28,8 +28,30 @@ output:
 <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:800px; HEIGHT:450px" SRC="images/birdsrelate.jpg">
 
 ##
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:275px; WIDTH:525px; HEIGHT:600px" SRC="images/bird_evo.jpg">
+<div style="float: right ; width: 45%;">
+
+* **Critical innovations: Derived traits**
+    + adaptive traits that define new taxa
+    + marked with 'slashes' on tree
+    + <span style="color:blue">'shared derived character'</span> in book
+    + evolutionary novelties
+
+<br/>
+
+* **Shared ancestral traits: a trait that is found in the ancestor of a group and all of the derived taxa have the trait**
+
+<br/>
+
+* **What makes a bird a bird?**
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:50px; WIDTH:525px; HEIGHT:600px" SRC="images/bird_evo.jpg">
+
 
 ## Anatomy of a phylogenetic tree
 <hr>
@@ -50,36 +72,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/shape2.png">
 
-## Mapping traits on a  (review *homology*)
+## Mapping traits on a phylogeny (review *homology*)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/clade.jpg">
-
-##
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-<div style="float: right ; width: 45%;">
-
-* **Critical innovations: Derived traits**
-    + adaptive traits that define new taxa
-    + marked with 'slashes' on tree
-    + 'shared derived character' in book
-    + evolutionary novelties
-
-<br/>
-
-* **Shared ancestal traits: **
-
-</div>
-
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:50px; WIDTH:525px; HEIGHT:600px" SRC="images/bird_evo.jpg">
 
 ## 
 
@@ -90,16 +86,16 @@ output:
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:290px; WIDTH:520px; HEIGHT:470px" SRC="images/convergent.jpg">
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/crabs.png">
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/crabs.png"> -->
 
 ## How to use derived characters to infer phylogeny
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:500px; HEIGHT:450px" SRC="images/chractertable.jpg">
 
-## Let's draw it
+## How to use derived characters to infer phylogeny
 <hr>
 <br/>
 <br/>
@@ -122,7 +118,7 @@ output:
 
 </div>
 
-## How to draw a phylogeny...
+## How to use derived characters to infer phylogeny
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:500px; HEIGHT:450px" SRC="images/chractertable.jpg">
@@ -167,7 +163,7 @@ output:
 <br/>
 
 * **Depends on what data you have!**
-    + poor fossil record 
+    + poor fossil records made this tricky 
 
 <br/>
 
@@ -188,6 +184,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:500px; HEIGHT:600px" SRC="images/treeoflife.jpg">
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:10px; LEFT:100px; WIDTH:900px; HEIGHT:700px" SRC="images/treeoflife3.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:10px; LEFT:100px; WIDTH:900px; HEIGHT:700px" SRC="images/treeoflife3.jpg"> -->
