@@ -52,8 +52,8 @@ output:
 <br/>
 
 * **Letters 'A' and 'a' indicate there are two different alleles at this locus in the population**
-    + *Homozygous* or *Heterozygous* (2 copies on paried chromosomes)
-    + *Why 2 copies?*
+    + individuals are *Homozygous* (AA or aa) or *Heterozygous* (Aa) 
+    + 2 copies on paried chromosomes. *Why 2 copies?*
     
 ## Phenotypic variation reflects genetic variation
 <hr>
@@ -241,7 +241,7 @@ AA or Aa or aa
 
 ## Hardy Weinberg describes a population NOT evolving
 <hr>
-<span style="color:blue">**Allele frequencies should stay the from one generation to the next**</span>
+<span style="color:blue">**So, allele frequencies should stay the from one generation to the next**</span>
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/HW_conditions.jpg">
 
 ## Does Hardy Weinberg occur in nature? .... Kinda
