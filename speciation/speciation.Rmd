@@ -15,16 +15,15 @@ output:
 <br/>
 
 <div style="float: right; width: 50%;">
-* **Microevolution happens at the population level (review)**
+* **Microevolution happens at the population level (natural selection, genetic drift, gene flow)**
 
 <br/>
 
 * **Macroevolution: Speciation events form evolutionary independent populations**
-    + and new taxonomic groups
 
 <br/>
 
-* **New species are the bridge between evolution within a population and larger patterns in evolution**
+* **New species are the bridge between evolution within a population and larger patterns in evolution, such as new taxonomic groups**
 
 </div>
 
@@ -185,7 +184,7 @@ reproduced sexually for > 80 million years
 <!-- ## Sympatric speciation via selection pressures: Lake Victoria -->
 <!-- <hr> -->
 
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/symp2.jpg"> -->
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/symp2.jpg">-->
 
 ## Sympatry in Hawthorn and apple flies
 <hr>
@@ -199,10 +198,10 @@ reproduced sexually for > 80 million years
 
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/fossils.jpg"> -->
 
-<!-- <!-- ## What factors impact speciation rates? --> -->
-<!-- <!-- <hr> --> -->
+<!-- <!-- ## What factors impact speciation rates? --> 
+<!-- <!-- <hr> --> 
 
-<!-- <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/punc.png"> --> -->
+<!-- <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/punc.png"> --> -
 
 ## How much genetic change does it take?
 <hr>
@@ -211,7 +210,7 @@ reproduced sexually for > 80 million years
 <div style="float: left; width: 55%;">
 
 * **Three spine stickleback fish rapidly evolve**
-    + moved from oceans to freshwater when glaciers retreated
+    + moved from oceans to freshwater when glaciers retreated after last ice age
 
 <br/>
 
