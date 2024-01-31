@@ -86,7 +86,7 @@ output:
 
 <br/>
 
-* **Vent organism is missing genes necessary for life**
+* **Vent organism was missing genes necessary for life**
     + must have been relying on chemical components from its environment
     + "half-alive"
     
@@ -123,7 +123,7 @@ output:
 
 * **Cyanobacteria form stromatolites**
     + undisputed fossils = 3.5 bya
-    + western Australia
+    + western Australia has living examples
     + layers of calcium carbonate precipitated over bacterial colonies
 
 </div>
@@ -144,15 +144,15 @@ output:
 <div style="float: left; width: 58%;">
 
 * **'Prokaryotes' are not a monopheyltic group**
-    + Kingdoms Bacteria & Archaea; each with unique traits
+    + domains Bacteria & Archaea; each with unique traits
     + most species diverse groups on Earth
 
 <br/>
 
 * **Diversity of ways of making a living**
-    + sources of energy to make ATP
-    + heterotrophs
-    + autotrophs (photosynthesis)
+    + use different sources of energy to make ATP
+    + heterotrophs (get food from environment)
+    + autotrophs (make their own food)
 
 <br/>
 
@@ -188,12 +188,12 @@ output:
 <br/>
 
 * **In hypertonic environments prokaryotes loss water and shrink away from wall**
-    + an halt reproduction
+    + can halt reproduction
     + why salt is used to preserve food!
 
 <br/>
 
-* **Major component of the bacterial cell wall is <span style="color:purple">peptidoglycan</span>**
+* **Major component of the <span style="color:purple">bacterial</span> cell wall is <span style="color:purple">peptidoglycan</span>**
     + rigid structure 
     + specific only to prokaryotes
     
@@ -240,7 +240,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:650px; HEIGHT:500px" SRC="images/anti.png">
 
-## Evolution of traditional groups:
+## Evolution of traditional bacterial groups:
 <hr>
 <br/>
 
@@ -248,7 +248,7 @@ output:
 
 <br/>
 
-* **Cyanobacteria are monophyletic**
+* **Cyanobacteria (photosynthesis) are monophyletic**
 
 <br/>
 
@@ -278,7 +278,7 @@ output:
 
 <br/>
 
-* **1/2 are motile (*taxis*)**
+* **~1/2 are mobile (*taxis*)**
     + use flagellum
 </div>
 
@@ -299,7 +299,7 @@ output:
 
 * **19 shared proteins are modified versions of existing proteins**
     + protein functions adapted to take on new functions
-    + through selection!
+    + through natural selection!
 
 <br/>
 
