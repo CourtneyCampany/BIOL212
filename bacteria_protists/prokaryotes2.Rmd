@@ -148,7 +148,7 @@ output:
 
 <br/>
 
-* **Mutations are rare but fast reproduction**
+* **Mutations add to diversity but are still rare**
 
 <br/>
 
@@ -200,7 +200,7 @@ output:
 
 <br/>
 
-* **R plasmids have genes that encode for pili**
+* **R plasmids have genes that encode for pili (conjugation bridge)**
     + enable conjugation
     + resistance genes can spread quickly
 
@@ -235,15 +235,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:400px; HEIGHT:500px" SRC="images/compare.png">
 
-## Prokaryotes matter: Oxygen Revolution
-<hr>
-
-<span style="color:purple"> **Banded iron formation (2.4 bya) the result of oxygen, dissolved iron and sea water**</span>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:550px; HEIGHT:350px" SRC="images/archaenera.png">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/bif.jpg">
-
 ## Prokaryotes matter: Cyanobacteria
 <hr>
 <br/>
@@ -269,12 +260,21 @@ output:
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:500px; HEIGHT:450px" SRC="images/cyanobacteria.png">
 
-## Prokaryotes matter: Great Oxygenation
+## Prokaryotes matter: Great Oxygenation 
+<hr>
+
+<span style="color:purple"> **Banded iron formation (2.4 bya) the result of oxygen, dissolved iron and sea water**</span>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:550px; HEIGHT:350px" SRC="images/archaenera.png">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/bif.jpg">
+
+## Prokaryotes matter: Oxygen Revolution
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:75px; WIDTH:950px; HEIGHT:500px" SRC="images/goe2.jpg">
 
-## Prokaryotes matter: Chemical Recycling
+## Prokaryotes matter: Chemical Recycling in Nature
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/cycle.png">
