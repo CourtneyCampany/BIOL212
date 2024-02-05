@@ -57,7 +57,7 @@ output:
  
 <br/>
 
-* **Lifestyles reflected in extensive genetic diversification**
+* **Lifestyles reflected an extensive genetic diversification**
 
 </div>
 
@@ -128,7 +128,7 @@ output:
 <hr>
 
 * **Rapid reproduction and large populations leads to many mutations**
-    + **not through sexual reproduction**
+    + **diversity NOT created through sexual reproduction**
     + 2 x 10^10 new E.coli cells in human intestine each day
     + possible for millions of mutations each day
     + infant microbiome diversifies rapidly based on environment..
@@ -244,7 +244,7 @@ output:
 * **Cyanobacteria: first evidence ~3.5 bya**
     + blue-green algae
     + aquatic and photosynthetic
-    + use chlorophyll
+    + use chlorophyll (pigment that absorbs light)
 
 <br/>
 
