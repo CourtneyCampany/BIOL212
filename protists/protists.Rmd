@@ -98,8 +98,8 @@ output:
 
 <br/>
 
-* **Endosymbiosis: Organisms of one species living inside an organism of another species**
-    + proposed in 1905 but way too crazy
+<!-- * **Endosymbiosis: Organisms of one species living inside an organism of another species** -->
+<!--     + proposed in 1905 but way too crazy -->
 
 </div>
 
@@ -257,7 +257,7 @@ output:
 
 <br/>
 
-* **Some species have structurally different generations (heteromorphic) others have structurally similar generations (isomorphic)**
+* **In some species the different generations look similar while in others they look different**
 
 ## Alternation of Generations: Basic Cycle
 <hr>
