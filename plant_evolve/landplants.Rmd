@@ -7,33 +7,6 @@ output:
     smaller: true
 ---
 
-## The big picture: Plants evolved from green algae
-<hr>
-<br/>
-
-<div style="float: left; width: 50%;">
-
-* **Cyanobacteria & protist made landfall ~1.2 bya**
-    + plants, fungi and animals ~500 mya
-    + first forests 385 mya
-
-<br/>
-
-* **Plants evolved from green algae**
-    + Several key *'shared traits'*
-    + **WHAT DO YOU THINK THEY ARE?**
-
-<br/>
-
-* **Plants support all life on earth**
-    + Oxygen to breath
-    + food to eat
-    + new habitats
-    
-</div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/basicplants.png">
-
 ## Protists that share traits with plants
 <hr>
 <br/>
@@ -63,13 +36,17 @@ output:
 <br/>
 <br/>
 <br/>
+
+**Dinoflagellates**
 <br/>
+**Brown Algae**
 <br/>
-<br/>
-<br/>
+**Diatoms**
+
 <br/>
 
 **Not ancestral to plants!**
+
 <br/>
 
 **Secondary endosymbiosis**
@@ -78,27 +55,58 @@ output:
 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:350px; WIDTH:700px; HEIGHT:575px" SRC="images/notplants.png">
 
-## Green Algae (Oedogonium)
+## The big picture: Plants evolved from green algae
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Cyanobacteria & protist made landfall ~1.2 bya**
+    + plants, fungi and animals ~500 mya
+    + first forests 385 mya
+
+<br/>
+
+* **Plants evolved from green algae**
+    + several key *'shared traits'*
+
+<br/>
+
+* **Plants support all life on earth**
+    + oxygen to breath
+    + food to eat
+    + new habitats for animals
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/basicplants.png">
+
+## Green Algae (genus = Oedogonium)
 <hr>
 <br/>
 
 <div style="float: left; width: 55%;">
 
 * **Sister group to land plants**
-    + all are *photosynthetic*
-    + marine and *freshwater*
-    + single and *multi-cellular*
-    + broad, thick filaments
-    + some have *AoG*
-    + evolved around *~750mya*
+    + all are <span style="color:blue">*photosynthetic*</span>
+    + marine and <span style="color:blue">*freshwater*</span>
+    + single and <span style="color:blue">*multi-cellular*</span>
+    + broad, thick filaments</span>
+    + some have <span style="color:blue">*AoG*
+    + evolved around <span style="color:blue">*~750mya*</span>
     
 <br/>
 
 * **Reproductive features:**
-    + *Oogonia* = egg containing cell
-    + *Antheridium* = sperm containing cell
-    
-</div>
+    + <span style="color:blue">*Oogonia*</span> = egg containing cell
+    + <span style="color:blue">*Antheridium*</span> = sperm containing cell
+
+<br/>
+
+* **<span style="color:blue">Know these!</span>**
+
+
+</div> 
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:575px; WIDTH:350px; HEIGHT:300px" SRC="images/sister.jpg">
 
@@ -106,14 +114,13 @@ output:
 
 ## Molecular evidence points at charophytes as plant ancestors
 <hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/stonewort.jpg">
+**<span style="color:blue">Similar families of genes now that we have the chara genome</span>**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/stonewort.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/chara2.jpg">
 
 ## Charophytes (freshwater green algae)
 <hr>
-<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -123,16 +130,16 @@ output:
 
 * **Transition from water to land starts with Charophytes**
     + freshwater habitats may have dried
-    + a population eventually lived above water line
+    + ancestral species partly lived out of water
 
 <br/>
 
-* **More shared traits with land plants:**
+* **More shared traits with land plants:<span style="color:blue">know one or two!</span>**
     + circular protein rings in plasma membrane
     + make cellulose fibers in cell wall
     + swimming sperm with similar structure
-    + phragmoplast (cell wall synthesis)
-    + ROS genes
+    + phragmoplast (growth hormone)
+    + ROS genes to eliminate free oxygen radicals
     
 </div>
 
@@ -140,8 +147,8 @@ output:
 
 ## Living on Land: The Wild Wild West
 <hr>
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/transition.jpg">
+**<span style="color:blue">What are the pros and cons of living on land?</span>**
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/transition.jpg">
 
 ## Land plants are a monophyletic group
 <hr>
@@ -157,7 +164,7 @@ output:
 
 ## Multi-cellular, Dependent embryos (placental transfer)
 <hr>
-<span style="color:darkgreen">**Fancy science word for plants = embryophytes**</span>
+<span style="color:darkgreen">**Fancy botany word for plants = embryophytes**</span>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/embryo.jpg">
 
@@ -170,7 +177,7 @@ output:
 
 ## Multi-cellular Gametangia
 <hr>
-<span style="color:darkgreen">**Sperm and egg houses**</span>
+<span style="color:darkgreen">**Fancy botany term for sperm and egg houses**</span>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/game.jpg">
 
@@ -202,10 +209,7 @@ output:
 
 ## Alternation of generations
 <hr>
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:175px; WIDTH:750px; HEIGHT:620px" SRC="images/mossex.jpg">
+**<span style="color:red">Can you draw me yet?</span>**
 
 ## First plant group: non-vascular bryophytes (mosses)
 <hr>
@@ -238,3 +242,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png">
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:175px; WIDTH:750px; HEIGHT:620px" SRC="images/mossex.jpg">
