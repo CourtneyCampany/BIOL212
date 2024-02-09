@@ -9,7 +9,6 @@ output:
 
 ## First plant group: non-vascular bryophytes (mosses)
 <hr>
-<br/>
 
 * **Mosses, hornworts and liverworts**
     + Fossils of bryophyte spores ~470mya
@@ -24,19 +23,21 @@ output:
 * **Have a rhizoid but not a root**
     + anchors plant
     + does not uptake water
+    + need to live near water
 
 <br/>
 
-* **Resistant spores**
+* **<span style="color:darkgreen">Gametophyte dominated life cycle</span>**
+    + sperm needs water to swim to egg on gametophyte
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:800px; WIDTH:200px; HEIGHT:450px" SRC="images/bryo.png">
 
-<IMG STYLE="position:absolute; TOP:390px; LEFT:435px; WIDTH:300px; HEIGHT:250px" SRC="images/moss.jpg">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:435px; WIDTH:300px; HEIGHT:250px" SRC="images/moss.jpg">
 
-## Bryophytes have a <span style="color:darkgreen">gametophyte dominated life cycle</span>
-<hr>
+<!-- ## Bryophytes have a <span style="color:darkgreen">gametophyte dominated life cycle</span> -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png"> -->
 
 ## Vascular plants were the next evolutionary step...Why?
 <hr>
@@ -46,14 +47,13 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/fossil_lyco.jpg">
 
-## The Devonian Period: First forests
-<hr>
+<!-- ## The Devonian Period: First forests were lycophytes and ferns -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/devonian.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/devonian.jpg"> -->
 
 ## The big picture: Vascular plants now dominate Earth
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
@@ -66,7 +66,7 @@ output:
 
 * **Plants then evolved vascular tissues**
     + grow taller than bryophytes
-    + connected new leaves & roots
+    + tissues connected leaves to roots
     
 <br/>
 
@@ -91,9 +91,9 @@ output:
 <hr>
 <br/>
 
-**<span style="color:blue"> Xylem	=	water	conducting	(one	way)**</span>
+**<span style="color:blue"> Xylem	=	water	conducting	cells (one	way)**</span>
 <br/>
-**<span style="color:blue"> Phloem	=	sugar sap conducting (multi-directional)**</span>
+**<span style="color:blue"> Phloem	=	sugar sap conducting cells (multi-directional)**</span>
 
 <br/>
 
@@ -101,7 +101,7 @@ output:
     + *lignin* in cell walls
     + does not rot easily
     + does not collapse easily
-    + think bundles of rigid straws or pipes (seedless plants)
+    + 'think' bundles of rigid pipes
     + *allows plant to grow vertically*
     
 <br/>
@@ -146,7 +146,7 @@ output:
 <br/>
 
 * **Absorb water and nutrients**
-    + active explorers
+    + active explorers of soil
     + often connected with fungi
 
 <br/>
@@ -167,17 +167,17 @@ output:
 <br/>
 
 * **Photosynthetic organ on plants**
-    + maximize surface area
+    + shape maximizes surface area
 
 <br/>
 
 * **<span style="color:darkgreen">Microphylls: single unbranched vein</span>**
-    + unique to lycophytes
-
+    + unique to lycophytes (add to phylogeny)
+ 
 <br/>
 
 * **<span style="color:darkgreen">Megaphylls: leaves with many branched veins</span>**
-    + majority of vascular plants
+    + majority of vascular plants (add to phylogeny)
   
 <br/>
 
@@ -185,9 +185,8 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/leaves.jpg">
 
-## Evolution of leaves: sporophylls (#3 on blank AoG)
+## Evolution of leaves: sporophylls (#3 on Mastering AoG)
 <hr>
-<br/>
 
 * **Sporophyll: modified leaf with sporangium**
     + vastly different looks
@@ -198,7 +197,7 @@ output:
 * **<span style="color:darkgreen">Sporagnium:  spore container (*house*)</span>**
     + ferns: clusters of sporagnia called '*sori*'
     + lycophytes: '*stobilus*' holds many sporagnia (like a cone)
-    + angiosperms: structures in flowers
+    + angiosperms: structures inside flowers
 
 <br/>
 
@@ -230,7 +229,7 @@ output:
 <br/>
 
 * **Leaves are microphylls**
-    + Some	with	strobili	(evolved	multiple times)
+    + some	with	strobili	(evolved	multiple times)
 
 <br/>
 
@@ -253,9 +252,9 @@ output:
     
 <br/>
 
-* **Leaves are megaphylls**
-    + whisk ferns lost leaves (enation)
-    + Equistem has simplified megaphylls
+* **Leaves are mostly megaphylls**
+    + whisk ferns lost leaves
+    + Equistem has reduced megaphylls (tiny leaves)
     
 </div>
 
@@ -273,9 +272,9 @@ output:
     
 <br/>
 
-* **Leaves are megaphylls**
+* **Leaves are mostly megaphylls**
     + whisk ferns lost leaves
-    + Equistem has simplified megaphylls
+    + Equistem has reduced megaphylls (tiny leaves)
 
 <br/> 
 
@@ -290,10 +289,37 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/ferns.jpg">
 
+## Seedless vascular plants have free living separate generations
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Sporophyte: The fern you see in the woods**
+    + dominant stage
+
+<br/>
+
+* **Gametophye: independent haploid generation**
+    + start out female or bisexual
+
+<br/>
+
+* **Dependent embryo (2N) develops and replaces gametophyte**
+    + in moss, sporophyte developers and disappears on the living gametophyte
+    
+<br/>
+
+* **<span style="color:blue">What	does natural selection favor diploid dominant	lifecycles?</span>**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/fernstages.jpg">
+
 ## Homosphorous life cycle (mostly) with dominant sporophytes
 <hr>
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:520px" SRC="images/fernlife.jpg">
+**<span style="color:darkgreen">Same AOG drawing, sporophytes are larger and long lived, gametophytes are smaller and short lived</span>**
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:520px" SRC="images/fernlife.jpg">
 
 ## The consequences of homospory
 <hr>
@@ -341,31 +367,6 @@ output:
 
 </div>
 
-## Seedless vascular plants have free living separate generations
-<hr>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-* **Sporophyte: The fern you see in the woods**
-    + dominant stage
-
-<br/>
-
-* **Gametophye: independent haploid generation**
-    + start out female or bisexual
-
-<br/>
-
-* **Dependent embryo (2N) develops and replaces gametophyte**
-
-<br/>
-
-* **<span style="color:blue">What	does natural selection favor diploid dominant	lifecycles?</span>**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/fernstages.jpg">
 
 
 
