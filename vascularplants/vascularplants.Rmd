@@ -348,23 +348,23 @@ output:
 ## How spore-bearing plants avoid self-fertilization...
 <hr>
 <br/>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/gametophyte2.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **Fastest developing gametophyte (female) releases chemical hormone**
+
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:700px; HEIGHT:450px" SRC="images/della.jpg">
-
-<div style="float: right; width: 34%;">
-
-* **Fastest developing gametophyte (female) releases chemical hormone (GA)**
-
-<br/>
-
-* **GA turns other developing gametophytes male**
+* **Hormone turns other developing gametophytes all male**
     + sperm from everywhere!
+    + female power - makes her own boyfriends
 
 <br/>
 
-* **Archegonia (F) and Antheridia (M) mature at different times**
-
+* **Archegonia (F) and Antheridia (M) also mature at different times**
+    + if fertilization doesnt happen gametophyte becomes bisexual
 </div>
 
 
