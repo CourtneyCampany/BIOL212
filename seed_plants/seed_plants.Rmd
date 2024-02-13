@@ -218,6 +218,11 @@ output:
     + sperm &rarr; pollen tube &rarr; egg
     + seed forms, dispersed by wind
 
+<br/>
+
+* **Gymnosperm reproduction requires wind pollination**
+    + very inefficient, so lots of pollen produced
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:530px; WIDTH:550px; HEIGHT:350px" SRC="images/femalecone.jpg">
@@ -257,7 +262,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:310px; LEFT:200px; WIDTH:700px; HEIGHT:375px" SRC="images/angios.jpg">
 
-## Angiosperm evolution: plants and insects
+## Angiosperm evolution: pollination (plants + insects) 
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/butterfly.jpg">

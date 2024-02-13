@@ -185,7 +185,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/leaves.jpg">
 
-## Evolution of leaves: Sporagnium (#3 on Mastering AOG)
+## Evolution of leaves: Sporangium (#3 on Mastering AOG)
 <hr>
 
 * **Sporophyll: modified leaf with sporangium**
@@ -194,7 +194,7 @@ output:
 
 <br/>
 
-* **<span style="color:darkgreen">Sporagnium:  spore container (*house*)</span>**
+* **<span style="color:darkgreen">Sporangium:  spore container (*house*)</span>**
     + ferns: clusters of sporagnia called '*sori*'
     + lycophytes: '*stobilus*' holds many sporagnia (like a cone)
     + angiosperms: structures inside flowers
