@@ -35,8 +35,8 @@ output:
 <br/>
 
 * **2 living seed lineages**
-    + gymnosperms (naked seed)
-    + angiosperms (covered seed )
+    + gymnosperms (<span style="color:blue">naked seed</span>)
+    + angiosperms (<span style="color:blue">covered seed</span>)
     
 </div>
 
@@ -49,12 +49,12 @@ output:
 <br/>
 
 * **Before seeds, spore was only protective structure** 
-    + allowed dispersal but...
-    + dependent embryo still exposed
+    + allowed long-distance dispersal but...
+    + dependent embryo still left exposed
 
 <br/>
 
-* **Multi-cellular <span style="color:purple">endospore</span> = food tissue**
+* **Seeds include multi-cellular <span style="color:purple">endospore</span> = food tissue**
 
 <br/>
 
@@ -182,7 +182,7 @@ output:
 
 * **Male and female cones on same plant**
     + scales &rarr; modified leaves &rarr; sporophyll
-    + sporophyll &rarr; sporangia &rarr; spores 0
+    + sporophyll &rarr; sporangia &rarr; spores
     + pollen (male) and ovulate (female) cones
 
 <br/>
@@ -208,8 +208,7 @@ output:
 
 * **Female cones have 2 ovules per scale**
     + each ovule has megasproangium
-    + megasporangium produce 4 megaspores
-    + 1 megaspore survives
+    + megasporangium produce megaspores
     + megaspore develops megagametophyte with egg
 
 <br/>
@@ -342,8 +341,9 @@ output:
 <br/>
 
 * **Ovary: contains ovules**
-    + megasporangium inside ovule produce 4 megaspores
-    + 1 megaspore survives to make female gametophyte
+    + megasporangium inside ovule produces megaspores
+    + megaspore develops into female gametophyte w/ egg
+    + after fertilization, ovary becomes 'fruit'
 
 </div>
 
@@ -358,6 +358,6 @@ output:
 
 ## Comparing seeds of gymnosperm and angiosperms
 <hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/seedsex.jpg">
+**Seed coat devlops from ovule (2N), embryo = 2N, endospore (food cells) = ???**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/seedsex.jpg">
 

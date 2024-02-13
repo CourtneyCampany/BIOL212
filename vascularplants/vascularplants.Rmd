@@ -28,7 +28,7 @@ output:
 <br/>
 
 * **<span style="color:darkgreen">Gametophyte dominated life cycle</span>**
-    + sperm needs water to swim to egg on gametophyte
+    + sperm need water to swim to egg on gametophyte
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:800px; WIDTH:200px; HEIGHT:450px" SRC="images/bryo.png">
 
@@ -71,8 +71,8 @@ output:
 <br/>
 
 * **First vascular plants lacked seeds**
-    + sperm also need water to swim 
-    + ferns and lycophytes = 1^st^ groups
+    + sperm still needed water to swim 
+    + lycophytes and ferns = 1^st^ groups
 
 <br/>
 
@@ -185,7 +185,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/leaves.jpg">
 
-## Evolution of leaves: sporophylls (#3 on Mastering AoG)
+## Evolution of leaves: Sporagnium (#3 on Mastering AOG)
 <hr>
 
 * **Sporophyll: modified leaf with sporangium**
@@ -210,6 +210,38 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/sporophyll.jpg">
 
+## Seedless vascular plants have free living separate generations
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Sporophyte: The fern you see in the woods**
+    + dominant stage
+
+<br/>
+
+* **Gametophye: independent haploid generation**
+    + start out female or bisexual
+
+<br/>
+
+* **Dependent embryo (2N) develops and replaces gametophyte**
+    + in moss, sporophyte developers and disappears on the living gametophyte
+    
+<br/>
+
+* **<span style="color:blue">What	does natural selection favor diploid dominant	lifecycles?</span>**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/fernstages.jpg">
+
+## Homosphorous life cycle (mostly) with dominant sporophytes
+<hr>
+**<span style="color:darkgreen">Same AOG drawing, sporophytes are larger and long lived, gametophytes are smaller and short lived</span>**
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:520px" SRC="images/fernlife.jpg">
+
 ## Lycophytes: First vascular plants
 <hr>
 <br/>
@@ -229,12 +261,13 @@ output:
 <br/>
 
 * **Leaves are microphylls**
-    + some	with	strobili	(evolved	multiple times)
+    + fertile leaves have	strobili	(evolved	multiple times)
 
 <br/>
 
 * **Some	with	<span style="color:darkgreen">heterospory	(*Selaginella*)</span>**
     + male (micro-) and female (mega-) spores
+    + male (micro-) and female (mega-) gametophytes
 </div>
 
 ## Ferns
@@ -289,38 +322,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/ferns.jpg">
 
-## Seedless vascular plants have free living separate generations
-<hr>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-* **Sporophyte: The fern you see in the woods**
-    + dominant stage
-
-<br/>
-
-* **Gametophye: independent haploid generation**
-    + start out female or bisexual
-
-<br/>
-
-* **Dependent embryo (2N) develops and replaces gametophyte**
-    + in moss, sporophyte developers and disappears on the living gametophyte
-    
-<br/>
-
-* **<span style="color:blue">What	does natural selection favor diploid dominant	lifecycles?</span>**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/fernstages.jpg">
-
-## Homosphorous life cycle (mostly) with dominant sporophytes
-<hr>
-**<span style="color:darkgreen">Same AOG drawing, sporophytes are larger and long lived, gametophytes are smaller and short lived</span>**
-<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:520px" SRC="images/fernlife.jpg">
-
 ## The consequences of homospory
 <hr>
 <br/>
@@ -345,7 +346,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:515px; WIDTH:550px; HEIGHT:400px" SRC="images/homospory.jpg">
 
-## How spore-bearing plants avoid self-fertilization...
+## How ferns avoid self-fertilization...
 <hr>
 <br/>
 
