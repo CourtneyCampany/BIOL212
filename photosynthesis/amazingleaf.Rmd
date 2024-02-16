@@ -45,9 +45,9 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 ## How stomata work...
 <hr>
 <br/>
-* <span style="color:darkgreen">**CO~2~ enters leaf and then chloroplasts through concentration gradient**</span>
+- **<span style="color:darkgreen">CO~2~ enters leaf and then chloroplasts through concentration gradient</span>**
 <br/>
-* <span style="color:darkgreen">**Stomata not always open....WHY???**</span>
+- **<span style="color:darkgreen">Stomata are not always open....WHY??? </span>**
 
 <IMG STYLE="position:absolute; TOP:270px; LEFT:25px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
 
@@ -63,13 +63,13 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 <br/>
 
 <div style="float: right; width: 65%;">
-* **_Transpiration_ is a by‐product of opening stomatal pores**
+* **_Transpiration_ (leaf water loss) is a by‐product of opening stomatal pores**
 <br/>
 
 * **H~2~O transport needs to be sufficient to keep stomata open** 
 <br/>
 
-* **Venation represents investment in H~2~O supply**
+* **Veins represents investment in H~2~O supply**
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:80px; WIDTH:250px; HEIGHT:350px" SRC="images/leafveins.jpg">
@@ -185,7 +185,6 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 ## Calvin cycle is a 3-step process
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
 
@@ -199,7 +198,8 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 <br/>
 
 * **2. *Reduction*: ATP and NADPH turn 3C acids into sugars**
-    + reduction of acids
+    + reduction of acids (requires electron carrier)
+    + requires energy
 
 <br/>
 
