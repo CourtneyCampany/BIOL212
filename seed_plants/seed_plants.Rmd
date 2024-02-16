@@ -22,7 +22,7 @@ output:
 
 * **Seeds changed the course of plant evolution**
     + Gymnosperms evolve ~360 mya
-    + climate became drier = selection pressures?
+    + climate became drier = selection pressures
     + *Elkensia* first fossil seed plant
     
 <br/>
@@ -58,14 +58,14 @@ output:
 
 <br/>
 
-* **Seeds can remain dormant for a long time**
+* **Embryos can remain dormant for a long time inside seed coat**
 
 <br/>
 
 * **Gymnosperms:** seeds exposed on sporophylls, form cones
 * **Angiosperms:** seeds enclosed inside ovary of fruit
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:250px; HEIGHT:450px" SRC="images/cones.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:695px; WIDTH:250px; HEIGHT:450px" SRC="images/cones.jpg">
 
 ## Seed plants further adapt to life on land
 <hr>
@@ -173,14 +173,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/welwitschia.jpg">
 
-## Gymnosperm reproduction: basics
+## Gymnosperm reproduction: everything happens on cones
 <hr>
 <br/>
 <br/>
 
 <div style="float: left; width: 50%;">
 
-* **Male and female cones on same plant**
+* **Male and female cones on same plant (mostly)**
     + scales &rarr; modified leaves &rarr; sporophyll
     + sporophyll &rarr; sporangia &rarr; spores
     + pollen (male) and ovulate (female) cones
@@ -189,8 +189,8 @@ output:
 
 * **Male cones house microsporangium**
     + microsporangium produces microspores
-    + microspores develop into pollen grains
-    + microgametophyte inside pollen grain
+    + <span style="color:blue">microspores develop into pollen grains</span>
+    + <span style="color:blue">microgametophyte inside pollen grain</span>
     + pollen dispersed by wind
     + *male cones usually on bottom of tree*
 
@@ -199,9 +199,8 @@ output:
 <IMG STYLE="position:absolute; TOP:250px; LEFT:560px; WIDTH:500px; HEIGHT:350px" SRC="images/malecone.png">
 
 
-## Gymnosperm reproduction: basics
+## Gymnosperm reproduction: everything happens on cones
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 48%;">
@@ -209,7 +208,7 @@ output:
 * **Female cones have 2 ovules per scale**
     + each ovule has megasproangium
     + megasporangium produce megaspores
-    + megaspore develops megagametophyte with egg
+    + <span style="color:blue">megaspore develops megagametophyte with egg</span>
 
 <br/>
 
@@ -264,12 +263,13 @@ output:
 
 ## Angiosperm evolution: pollination (plants + insects) 
 <hr>
+**Insect pollination improves on inefficient wind pollination in conifers**
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/butterfly.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:45px; WIDTH:500px; HEIGHT:350px" SRC="images/butterfly.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/ants.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:570px; WIDTH:500px; HEIGHT:350px" SRC="images/ants.jpg">
 
-## Angiosperm reproduction: Flowers
+## Angiosperm reproduction: everything happens on flowers
 <hr>
 <br/>
 
@@ -304,7 +304,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Stamens: microsporophylls**
+* **<span style="color:blue">Stamens</span>: microsporophylls**
     + produce microspores that develop into pollen
     
 <br/>    
@@ -331,7 +331,7 @@ output:
 
 <div style="float: right; width: 60%;">
 
-* **Carpel: megasporophyll**
+* **<span style="color:blue">Carpel</span>: megasporophyll</span>**
 
 <br/>
 
@@ -363,6 +363,6 @@ output:
 
 ## Comparing seeds of gymnosperm and angiosperms
 <hr>
-**Seed coat devlops from ovule (2N), embryo = 2N, endospore (food cells) = ???**
+<span style="color:blue">**Seed coat devlops from ovule (2N), embryo = 2N, endospore (food cells) = ???**</span>
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/seedsex.jpg">
 
