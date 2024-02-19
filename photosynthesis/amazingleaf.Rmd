@@ -7,31 +7,31 @@ output:
     smaller: true
 ---
 
-##
-<br/>
-<br/>
-<br/>
+<!-- ## -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:400px; HEIGHT:600px" SRC="images/plantbiomass.png">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:400px; HEIGHT:600px" SRC="images/plantbiomass.png"> -->
 
-<div style="float: right; width: 45%;">
-**22,000% more than animals**
-<br/>
-**749,000% more than humans**
+<!-- <div style="float: right; width: 45%;"> -->
+<!-- **22,000% more than animals** -->
+<!-- <br/> -->
+<!-- **749,000% more than humans** -->
 
-<br/>
+<!-- <br/> -->
 
-<span style="color:purple">*All this biomass is produced via leaves*</span>
+<!-- <span style="color:purple">*All this biomass is produced via leaves*</span> -->
 
-<br/>
+<!-- <br/> -->
 
-https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas
-</div>
+<!-- https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas -->
+<!-- </div> -->
 
 ## Leaf structure and why it matters
 <hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/leaf_structure2.jpg">
+<span style="color:purple">*Most of the worlds biomass begins production in leaves*</span>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/leaf_structure2.jpg">
 
 ## Leaves exchange gases via stomata
 <hr>
@@ -45,7 +45,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 ## How stomata work...
 <hr>
 <br/>
-- **<span style="color:darkgreen">CO~2~ enters leaf and then chloroplasts through concentration gradient</span>**
+- **<span style="color:darkgreen">CO~2~ enters leaf airspaces and then chloroplasts through concentration gradient</span>**
 <br/>
 - **<span style="color:darkgreen">Stomata are not always open....WHY??? </span>**
 
@@ -63,7 +63,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 <br/>
 
 <div style="float: right; width: 65%;">
-* **_Transpiration_ (leaf water loss) is a by‐product of opening stomatal pores**
+* **<span style="color:darkgreen">_Transpiration_ (leaf water loss from evaporation)</span> is a by‐product of opening stomatal pores**
 <br/>
 
 * **H~2~O transport needs to be sufficient to keep stomata open** 
@@ -78,22 +78,24 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 ## Angiosperms have evolved higher vein densities
 <hr>
-* <span style="color:darkgreen">**Helps explain angiosperm dominance**</span>
 <br/>
-* <span style="color:darkgreen">**Transpiration alters global climate systems!**</span>
 
-<IMG STYLE="position:absolute; TOP:270px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
+* **Helps explain angiosperm dominance**
+<br/>
+* **Transpiration alters global climate systems! About 10% of water in atmosphere comes from leaves** 
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
 
 ## Leaf economic theory: Return on Investment
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafecon.png">
 
-## Photosynthesis is complicated....
-<hr>
-<br/>
+<!-- ## Photosynthesis is complicated.... -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:165px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/complicated.png">
+<!-- <IMG STYLE="position:absolute; TOP:165px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/complicated.png"> -->
 
 <!-- ## What do we do when we are hungry? -->
 <!-- <hr> -->
@@ -110,7 +112,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:555px; LEFT:250px; WIDTH:600px; HEIGHT:100px" SRC="images/equation.jpg">
 
-## Photosynthesis is the basis for most life on Earth
+## Photosynthesis is the basis for most biomass on Earth
 <hr>
 <br/>
 <br/>
@@ -126,7 +128,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 * **Photosynthesis is an energy pathway**
     + 2 linked reactions
-    + light reaction + Calvin cycle
+    + light-dependent reaction + Calvin cycle
 
  </div>
  
@@ -161,6 +163,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 ## Photosystems (2) convert light energy to chemical energy
 <hr>
+**<span style="color:darkgreen">Photosystem = packaging of chlorophyll pigments and proteins in thylakoid membranes</span>**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:425px; HEIGHT:450px" SRC="images/photosystem.jpg">
 
@@ -178,6 +181,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 ## Calvin cycle occurs in the stroma
 <hr>
+**<span style="color:darkgreen">Calvin cycle = uses the chemical energy stored by the light-dependent reactions to form sugars</span>**
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/calvin3.jpg">
 
@@ -192,12 +196,12 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 <div style="float: right; width: 50%;">
 
 * **1. *Fixation*: CO~2~ reacts with 5C molecule (RUBP)**
-    + new 6C split into 2 acids (3C each)
     + catalyzed by Rubisco enzyme
+    + new 6C split into two acids (3C each)
 
 <br/>
 
-* **2. *Reduction*: ATP and NADPH turn 3C acids into sugars**
+* **2. *Reduction*: ATP and NADPH convert 3C acids into 3C sugars**
     + reduction of acids (requires electron carrier)
     + requires energy
 
@@ -211,7 +215,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 ## Making sugars requires several cycles
 <hr>
-
+**<span style="color:darkgreen">Three spins needed to remake RUBP and six spins to make glucose (a 6 C molecule) </span>**
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin2.jpg">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
