@@ -1,0 +1,195 @@
+---
+title: "Photosynthesis"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## Photosynthesis is complicated....
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:165px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/complicated.png">
+
+## Photosynthesis is the basis for most biomass on Earth
+<hr>
+<br/>
+
+* **<span style="color:blue">CO~2~ + H~2~0 + light ---> Sugars + O~2~</span>**
+
+<br/>
+
+* **Photosynthesis is an energy pathway**
+    + 2 linked reactions
+    + light-dependent reaction + Calvin cycle
+
+<br/>
+
+* **Everything takes place in the chloroplast**
+    + light reaction = thylakoid membranes
+    + Calvin cycle = stroma (liquid portion)
+
+<br/>
+
+* **<span style="color:blue">Light reaction - light energy into chemical energy (ATP & NADPH)</span>**
+<br/>
+* **<span style="color:blue">Calvin cycle - converts CO~2~ into sugars</span>**
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:570px; WIDTH:500px; HEIGHT:375px" SRC="images/reactions.jpg">
+
+## Chloroplasts: Where the magic happens
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/chlroplasts4.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/chlroplasts3.png">
+
+## When light hits chlorophyll a few things can happen
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/chlroplasts_light.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/pigments.jpg">
+
+## When pigments absorb photons an electron gets excited
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/excite.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/resonance.jpg">
+
+## Photosystems (2) convert light energy to chemical energy
+<hr>
+**<span style="color:darkgreen">Photosystem = packaging of chlorophyll pigments and proteins in thylakoid membranes</span>**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:425px; HEIGHT:450px" SRC="images/photosystem.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:450px; WIDTH:650px; HEIGHT:325px" SRC="images/lightreaction3.png">
+
+## Light reactions: make ATP + NADPH for Calvin cycle
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/photosystems2.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg">
+
+## Calvin cycle occurs in the stroma
+<hr>
+**<span style="color:darkgreen">Calvin cycle = uses the chemical energy stored by the light-dependent reactions to form sugars</span>**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/calvin3.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.png">
+
+## Calvin cycle is a 3-step process
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
+
+
+<div style="float: right; width: 50%;">
+
+* **<span style="color:blue">1. *Fixation*</span>: CO~2~ reacts with 5C molecule (RUBP)**
+    + catalyzed by Rubisco enzyme
+    + new 6C split into two acids (3C each)
+
+<br/>
+
+* **<span style="color:blue">2. *Reduction*</span>: ATP and NADPH convert 3C acids into 3C sugars**
+    + reduction of acids (requires electron carrier)
+    + requires energy
+
+<br/>
+
+* **<span style="color:blue">3. *Regeneration*</span>: Some 3C sugars recycled to make RUBP (5C)**
+    + one 3C sugar leaves to make carbohydrates/sugars
+    + recycling step also needs ATP
+
+ </div>
+
+## Making sugars requires several cycles
+<hr>
+**<span style="color:darkgreen">Three spins needed to remake RUBP and six spins to make glucose (a 6C molecule) </span>**
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin2.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
+
+## Rubisco - the enzyme that dominates carbon fixation
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:425px; HEIGHT:400px" SRC="images/rubisco.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Most abundant enzyme in the world**
+
+<br/>
+
+* **Most CO~2~ converted into biomass is fixed by Rubisco**
+
+<br/>
+
+* **Large molecule : 16 polypeptides : 8 active sites**
+
+</div>
+
+## Rubisco: the slow, clunky and cheating carbon fixer
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Only 3-10 reactions per second**
+
+<br/>
+
+* **20% error rate**
+    + gets worse at high temperatures
+
+<br/>
+<br/>
+
+* **<span style="color:darkgreen">Photorespiration - Rubisco cheats on CO~2~ with O~2~</span>**
+    + Rubisco does have a higher affinity for CO~2~ via natural selection
+    + but.... O~2~ is more prevalent in the atmosphere
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:500px; HEIGHT:250px" SRC="images/photorespiration.jpeg">
+
+<!-- ## C3 photosynthesis how did we get here... -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+
+<!-- <div style="float: left; width: 55%;"> -->
+
+<!-- * **Evolution doesn't necessarily create the best solution** -->
+
+<!-- <br/> -->
+
+<!-- * **Oxygenation products are completely wasteful** -->
+
+<!-- <br/> -->
+
+<!-- * **2x energy to produce the same amount of sugar than if Rubisco just reacted with CO~2~** -->
+
+<!--  </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:325px; HEIGHT:450px" SRC="images/atmosphere.png"> -->
+
+## Calvin Benson won a Nobel prize, his TA won best practical joke
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bensonwilson.png">
