@@ -20,7 +20,7 @@ output:
 * **Do plants sense their environment?**
     * changes in essential resources
     * herbivory/disturbance
-    * external stimulus
+    * external stimuli
 
 <br/>
 
@@ -59,7 +59,7 @@ output:
 <br/>
 
 * **Are their limitations to plant height?**
-    + Redwoods = 116 m
+    + Tallest redwood tree = 116 m
       
 <br/>
 
@@ -67,7 +67,7 @@ output:
 
 </div> 
 
-## Plant Water Transport: Soil - Root - Stem - Leaf - **Air**
+## Plant Water Transport: Soil → Root → Stem → Leaf →  Air
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/spad_water.jpg">
@@ -88,7 +88,7 @@ output:
 
 <br/>
 
-* **Gravity**
+* **Gravity does not help**
     + harder and harder to move water up
     + xylem less efficient @ top
     + theoretically, limits growth to 122-130 m
@@ -112,13 +112,13 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Cohesion tension theory**
+* **Cohesion-tension theory**
     + plants use water properties to cheat gravity
 
 <br/>
 
-* **Cohesion: H~2~0 stick to other H~2~0 molecules**
-    + via H bonds
+* **Cohesion: H~2~0 molecules stick to together**
+    + via Hydrogen bonds
 
 <br/>
 
@@ -128,7 +128,7 @@ output:
 
 <br/>
 
-* **Transpiration can pull water under tension**
+* **Transpiration pulls water under tension**
 </div> 
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
@@ -158,9 +158,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/vessels_pits.jpg">
 
-## Cavitation: When water breaks 
+## Cavitation: When water under tension breaks (cohesion fails)
 <hr>
-
+**When to much tension breaks the 'string' of water, an air bubble is introduced**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/embolism2.jpg">
@@ -185,10 +185,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/closed_stomata.jpg">
 
-<!-- ## Risky stomatal behavior -->
-<!-- <hr> -->
+## Risky stomatal behavior
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:230px; WIDTH:640px; HEIGHT:540px" SRC="images/gs_vpd.jpg"> -->
+<IMG STYLE="position:absolute; TOP:150px; LEFT:230px; WIDTH:640px; HEIGHT:540px" SRC="images/gs_vpd.jpg">
 
 ## How plants avoid water problems: Refill soil at night
 <hr>
@@ -197,14 +197,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/waterlift.jpg">
 
-## How plants avoid water problems: Alter xylem cells construction
+## How plants avoid water problems: Alter xylem cell construction
 <hr>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/diameter.png">
 
-## Sensory cell systems - Sensing environmental stimuli \
+## Sensory cell systems - Sensing environmental stimuli
 <hr>
 **NOT ON TEST**
 <br/>

@@ -29,7 +29,7 @@ output:
 <br/>
 
 * **Cell walls made of chitin**
-    + mushrooms are only a part of the body
+    + 'mushrooms' are only a part of the body
     + filaments belowground for absorption
 
 <br/>
@@ -86,7 +86,7 @@ output:
 * **Heterotrophs: absorb nutrients from environment**
     + decomposers: break down dead things
     + parasites: absorb from host
-    + mutualist: absorb/share with host
+    + mutualist: trade with another species
 
 <br/>
 <br/>
@@ -125,9 +125,8 @@ output:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E_Cy7KkwmWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Specialized hypae in mycorrhizal fungi
+## Specialized hyphae also exist
 <hr>
-<br/>
 <br/>
 <br/>
 
@@ -139,11 +138,13 @@ output:
 <br/>
 
 * **Specialized hyphae that allow extraction of nutrients from plants**
-
+    + *mycorrhizal fungi*
+    
 <br/>
 
 * **Mutualistic fungi have branching hyphae they use to exchange nutrients with plant hosts**
-    + *Arbuscules* invade cell walls
+    + *Arbuscules* invade roots cell walls
+    + Other hyphae can create a 'sheath' around root cells
 
 </div>
 
@@ -164,7 +165,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **~80-90% of plants have association with fungus**
-    + fungi grown in/around plant roots
+    + fungi exist in/around plant roots
     + share what resources?
     + how much sharing is not known
 
