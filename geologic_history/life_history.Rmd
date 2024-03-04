@@ -16,18 +16,14 @@ output:
 **Chemical and physical processes combine to make primitive cells**
 <br/>
 
-<!-- 1. -->
-<!-- 2. -->
-<!-- 3. -->
-<!-- 4. -->
 1. abiotic synthesis of small organic molecules (amino acids)
 2. small molecules join together (proteins)
-3. molecules packaged into protocells
+3. molecules packaged into primitive cells
 4. origin of self-replicating molecules
 
 <br/>
 
-* **Early earth had water vapor and compounds from volcanic eruptions (CO~2~, CH~4~, NH~3~)**
+* **Early earth had water vapor and simple compounds from volcanic eruptions (CO~2~, CH~4~, NH~3~)**
     + atmosphere was *reducing* (now controversial)
     + energy from UV or lightning
     + oceans = primordial soup of organic molecules
@@ -42,19 +38,24 @@ output:
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/miller_urey.gif">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/volcano_amino.jpg">
-  
+
+## Similar experiments have had variable success
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/newmillerurey.png">
+
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:25px; WIDTH:400px; HEIGHT:600px" SRC="images/geologic.jpg">
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:550px; WIDTH:500px; HEIGHT:600px" SRC="images/fossil_record.jpg">
 
-## Fossils are biased
+## Fossils record is incomplete and biased
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/bias.gif">
 
-## Fossils trace the steps of animal evolution
+## Fossils do trace the steps of animal evolution
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/mammal2.jpg">
@@ -105,9 +106,10 @@ output:
 
 <br/>
 
-* **Prior to Cambrian all large animals had soft body**
+* **Prior to Cambrian all large animals had soft bodies**
     + little evidence of predation
     + grazers, scavengers, filter feeders
+    + still all marine
 
 <br/>
 
@@ -134,13 +136,14 @@ output:
 <br/>
 
 * **Hard skeletons and soft bodies**
-    + diverse body morphology (Hox genes)
+    + diverse body morphology (new Hox genes?)
 
 <br/>
 
 * **Bilaterally symmetrical animals**
-    + possible formation of 'head' region
+    + formation of 'head' region
     + organized sensory organs
+    + new direction of movement
 
 </div>
 
@@ -163,8 +166,8 @@ output:
 
 <br/>
 
-* **Mudslides from barren land buried marine organisms**
-    + sediment  deposited in deep-water basin next to enormous algal reef 
+* **Mudslides from land buried marine organisms**
+    + sediment  deposited in deep-water basin next to enormous reef 
     + soft and hard body fossils
 
 </div>
@@ -195,7 +198,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:525px; HEIGHT:350px" SRC="images/animal_record3.gif">
 
-## Animal colonization of land
+## First animal colonization of land
 <hr>
 <br/>
 
@@ -203,7 +206,7 @@ output:
 
 <br/>
 
-* **Tetrapods: 350 mya**
+* **Tetrapods (four-footed animals): 350 mya**
     + evolved from lobe-finned fishes
     
 <IMG STYLE="position:absolute; TOP:400px; LEFT:125px; WIDTH:850px; HEIGHT:225px" SRC="images/fishland.jpg">
@@ -247,14 +250,15 @@ output:
     
 <br/>
 
-* **Landmasses came together 3 times over last billion years**
+* **Landmasses came together 3x over the previous billion years**
     + yields new continents
     + new super continent in ~250 million years
     
 <br/>
   
 * **Mountains and islands form at boundaries**
-    + Indian + Eurasia = Himalayan Mtn (45 mya)
+    + India + may = Himalayan Mtns (45 mya)
+    + Appalachian Mtns ~500 mya
 
 </div>
 
@@ -288,7 +292,7 @@ output:
 
 ## Allopatric speciation: Australian marsupials
 <hr>
-
+**Continental drift caused the success and failure of different mammal groups**
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/marsupial2.png">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:350px; HEIGHT:450px" SRC="images/marsupial.gif">
@@ -301,7 +305,7 @@ output:
 <div style="float: right; width: 44%;">
 
 * **5 mass extinctions in fossil record**
-    + >50% of marine species extinct
+    + ~75% of species go extinct
     
 <br/>
 
@@ -319,7 +323,6 @@ output:
 
 * **Evolution favors innovation but...**
     + innovations can be wiped out
-    + What if early primates went extinct?
 
 </div>
 
@@ -327,7 +330,7 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 48%;">
 
 * **Define:**
 
@@ -339,12 +342,13 @@ output:
 
 <br/>
 
-* **Innovation leads to diversification**
+* **Can also occur when species reaches new open habitat**
+    + Opportunity leads to diversification
 
 <br/>
 
 * **Dinosaur extinction &rarr; mammals**
-    + small and nocturnal &rarr; ...
+    + small & nocturnal in presence of dinosaurs
 
 </div>
 
