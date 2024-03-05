@@ -257,7 +257,7 @@ output:
 <br/>
   
 * **Mountains and islands form at boundaries**
-    + India + may = Himalayan Mtns (45 mya)
+    + India + Eurasia = Himalayan Mtns (45 mya)
     + Appalachian Mtns ~500 mya
 
 </div>
@@ -328,11 +328,10 @@ output:
 
 ## Adaptive Radiation
 <hr>
-<br/>
 
 <div style="float: left; width: 48%;">
 
-* **Define:**
+* **Rapid diversification events to fill new habitats**
 
 <br/>
 

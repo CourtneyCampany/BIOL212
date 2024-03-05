@@ -14,11 +14,11 @@ output:
 
 <div style="float: left; width: 48%;">
 
-* **Chemical evidence in sediments of fossils that is found in modern sponges**
+* **Chemical evidence of steroids in sediment that are found in modern sponges**
 
 <br/>
 
-* **Accepted fossils from Ediacaran (pre-Cambrian)**
+* **Accepted fossils from Ediacaran period (pre-Cambrian)**
     + mollusks, cnidarians and sponges
 
 <br/>
@@ -42,7 +42,7 @@ output:
 
 <br/>
 
-* **All animals, excepts sponges, have:**
+* **All animals, except sponges, have:**
 1. Nerve cells called neurons
 2. Muscle cells
 
@@ -50,7 +50,7 @@ output:
 
 * **Animals are incredibly diverse**
     + 35 major phyla
-    + 1/3 are marine
+    + 1/3 are marine only
     + most phyla have marine members
  
 </div>
@@ -104,7 +104,7 @@ output:
     + marine
     + adults do not move
     + filter feeders
-    + hermaphroditic (alternate)
+    + hermaphroditic (alternate sexes)
     
 <br/>    
 
@@ -150,12 +150,12 @@ output:
 
 * **First lineage to diversify were Cnidarians**
     + corals, hydras and jellyfish
-    + pre-Cambrian
+    + pre-Cambrian origins
     
 <br/>
 
 * **<span style="color:blue">Diploblastic and radial symmetry</span>**
-    + motile and sesile
+    + motile and sessile (non-moving)
     + polyp or medusa forms
 
 <br/>
@@ -168,7 +168,7 @@ output:
 
 ## Basic Cnidarian body plan (<span style="color:blue">*Nematocyst*</span> on phylogeny)
 <hr>
-
+**polyp = non-moving form, medusa = motile form, <span style="color:blue">*Nematocyst*</span> = stinging cell**
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:700px; HEIGHT:400px" SRC="images/cnidarian2.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:730px; WIDTH:350px; HEIGHT:350px" SRC="images/cnidarian3.jpg">
@@ -186,8 +186,8 @@ output:
 
 <br/>
 
-* **<span style="color:blue">Complete digestive tract</span>**
-    + mouth and anus
+* **<span style="color:blue">Complete digestive tract (most groups)</span>**
+    + mouth and anus connected by tube
     
 <br/>
 
@@ -243,7 +243,7 @@ output:
 
 <br/>
 
-* **This group is falling about with new molecular phylogenies**    
+* **This group is falling apart with new molecular-based phylogenies**    
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/lopho.jpg">
@@ -280,14 +280,14 @@ output:
 
 ## Phylum Mollusca: Snails, slugs, clams, mussels, octopus & squid
 <hr>
-
+**Shared body plan, despite diverse forms of different species**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:600px; HEIGHT:400px" SRC="images/mollusc.jpg">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:400px; HEIGHT:300px" SRC="images/mollusc2.jpg">
 
 ## Phylum Annelida: Earthworms (<span style="color:blue">*segmentation*</span> on phylogeny)
 <hr>
-**Breath through their skin**
+**Breath through their skin, circulatory system, each segment has muscles**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/earthworm.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/earthworm2.jpg">
@@ -330,8 +330,8 @@ output:
 <br/>
 
 * **Aquatic, soil, plant tissues, animals tissues**
-    + many parasitic species
-    + humans are host to 50 species
+    + many parasitic species (crop pests)
+    + humans are host to ~50 species!
 
 <br/>
 
@@ -343,6 +343,15 @@ output:
 
 ## C. elegans: model animal species
 <hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Share many developmental characteristics with more complex animals, including humans**
+
+</div>
+
 
 <IMG STYLE="position:absolute; TOP:375px; LEFT:25px; WIDTH:500px; HEIGHT:100px" SRC="images/celegans.jpg">
 
@@ -369,7 +378,8 @@ output:
 <br/>
 
 * **Evolution selected for functional body regions**
-    + specialized functions
+    + head, thorax, abdomen
+    + each with specialized functions
 
 </div>
 
