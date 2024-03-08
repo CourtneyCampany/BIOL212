@@ -24,13 +24,14 @@ output:
 <br/>
 
 * **Animals diversify across Paleozoic, Mesozoic and Cenozoic**
+    + in both aquatic and terrestrial environemnts
     + punctuated by mass extinctions
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/edicar.jpg">
 
-## Animals are monophyletic
+## Animals are a monophyletic group 
 <hr>
 
 <div style="float: left; width: 50%;">
@@ -83,7 +84,7 @@ output:
 
 <br/>
 
-* **Small to huge**
+* **Small to huge (colossal squid)**
 
 <br/>
 
@@ -93,18 +94,23 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/simple_phylo2.jpg">
 
+## Animal Symmetry
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/symmetry.jpg">
+
 ## Phylum Porifera (Sponges)
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
 
 * **Most ancestral animal group**
     + marine
-    + adults do not move
+    + adults do not move, larva have flagella
     + filter feeders
     + hermaphroditic (alternate sexes)
+    + <span style="color:blue">lacks symmetry in body plan</span>
     
 <br/>    
 
@@ -126,8 +132,6 @@ output:
 
 ## Phylum Cnidarian
 <hr>
-<br/>
-<br/>
 
 <div style="float: left; width: 45%;">
 
@@ -287,7 +291,7 @@ output:
 
 ## Phylum Annelida: Earthworms (<span style="color:blue">*segmentation*</span> on phylogeny)
 <hr>
-**Breath through their skin, circulatory system, each segment has muscles**
+**Breath through their skin, each segment has muscles**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/earthworm.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/earthworm2.jpg">

@@ -15,17 +15,16 @@ output:
 
 * **Phylum Echinoderms (Invertebrates)**
 * **Phylum Chordata (mostly Vertebrates)**
-    + Independent evolution of each group
 
 <br/>
 
 * **Deuterostome = Developmental similarities**
-    + radial cleavage
-    + anus from blastopore
+    + radial cleavage of embryo
+    + anus forms first
 
 <br/>
 
-* **HOWEVER: other basal animal phyla share some of these traits**
+* **HOWEVER: other animal phyla share some of these traits**
     + Deuterostomes now defined by DNA
 
 </div>
@@ -36,6 +35,7 @@ output:
 
 ## Protostome vs Deuterostome
 <hr>
+**Groups differ in how the digestive system developes**
 <br/>
 <br/>
 <br/>
@@ -45,15 +45,15 @@ output:
 
 <div style="float: right; width: 40%;">
 
-* **Protostome = First Mouth**
+* **Two groups differ by embryonic development of the blastopore (the first developmental opening) and the alignment of embryonic cells after fertilization**
 
 <br/>
 
-* **Deuterostome = Second Mouth**
+* **Protostome = Mouth develops first**
 
 <br/>
 
-* **Two groups differ by embryonic development**
+* <span style="color:blue">**Deuterostome = Mouth develops second**</span>
 
 </div>
 
@@ -62,9 +62,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:480px" SRC="images/clevage.png">
 
-##
+## <span style="color:blue">**Radial Cleavage: daughter cells are exactly on top of one another**</span>
+<hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/deutro.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/deutro.jpg">
 
 ## Phylum Echinoderms
 <hr>
@@ -163,13 +164,13 @@ output:
 <br/>
 
 * **Derived trait = <span style="color:blue">neural crest</span>**
-    + special cells near neural tube in embryo
+    + special stem cells near neural tube in embryo
     + give rise to many vertebrate traits
     + e.g.. teeth, skull cartilage, etc
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/brach.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/brach.jpg">
 
 ## History of backbones: ~525 million years old
 <hr>
@@ -179,7 +180,7 @@ output:
 
 * **Evolved while predators where developing**
     + Cambrian period
-    + Ocean origins (first 150 mya)
+    + Ocean origins
 
 <br/>
 
@@ -270,7 +271,7 @@ output:
 
 * **<span style="color:blue">Streamlined body</span> for swift swimming**
     + poor maneuverability
-    + near constant motion
+    + stay in near constant motion
     
 <br/>
 
@@ -278,7 +279,7 @@ output:
 
 <br/>
 
-* **Modern species diversity shrinking**
+* **Modern species diversity massively reduced**
 
 </div>
 
@@ -393,7 +394,7 @@ output:
 
 <div style="float: right; width: 43%;">
 
-* **Fossil found in river bed**
+* **Fossils found in river beds**
 
 <br/>
 
@@ -433,7 +434,7 @@ output:
 
 ## <span style="color:blue">Amniotes</span>: tetrapod with terrestrial egg (also rib cage)
 <hr>
-
+**<span style="color:blue">Amniotic egg</span> contains 4 membranes around embryo. Surrounds embryo with amniotic fluid**
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/amnio.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/amnio2.jpg">
@@ -515,14 +516,13 @@ output:
 
 * **Derived Trait: <span style="color:blue">Mammary glands</span>**
     + produce milk for offspring
+    
 <br/>
 
 * **Derived Trait: <span style="color:blue">Hair</span>**
     + insulation/water saver
 <br/>
 
-* **Derived Trait: <span style="color:blue">Kidney</span>**
-    + waste removing/water saving organ
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/mammals.jpg">
