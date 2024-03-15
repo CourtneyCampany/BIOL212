@@ -37,18 +37,13 @@ output:
 
 <!-- * **#WhyAnimalShape** -->
 
-## Body plans are coordinated to optimize biological function
-<hr>
-
-<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bodyplan.png">
-
 ## Animals are multi-cellular, eukaryotic heterotrophs 
 <hr>
 <br/>
 
 <div style="float: left; width: 65%;">
 
-* **Most ingest organic materials**
+* **Must ingest organic materials**
     + consume, breakdown internally with enzymes
 
 <br/>
@@ -71,6 +66,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:350px; HEIGHT:350px" SRC="images/chama.jpg">
 
+## Body plans are coordinated to optimize biological function
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bodyplan.png">
+
 ## Embryonic development key for animal diversity
 <hr>
 
@@ -89,8 +89,8 @@ output:
     
 <br/>
 
-* **Germ layers develop in next stage <span style="color:blue">(gastrulation)</span>**
-    + develop into body parts
+* **Germ (tissue) layers develop in next stage <span style="color:blue">(gastrulation)</span>**
+    + eventually develop into body parts
 
 <br/>
 
@@ -104,7 +104,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:900px; HEIGHT:600px" SRC="images/deutro.jpg">
 
-## Protostomes vs Deuterostomes and the blastopore
+## Devlopment of the blastopore in different animal groups
 <hr>
 <br/>
 <br/>
@@ -123,6 +123,7 @@ output:
     
 <br/>
 
+* **Diploblasts: opening to gastrovascular cavity**
 * **Protostomes: blastopore becomes mouth**
 * **Deuterostomes: blastopore becomes anus**
 
@@ -236,14 +237,14 @@ output:
 
 * **Animals body plans are constrained by physical laws**
     + diffusion, size and movement, heat exchange
-    + gravity
+    + gravity (land), pressure (aquatic)
 
 <br/>
 
 * **Example: Properties of water and animal shape**
     + water more dense than air = surface bumps cause drag
     + natural selection favored tapered smooth bodies
-    + convergent selection across aquatic mammals
+    + convergent selection across aquatic vertebrates
     
 </div>
 
@@ -256,57 +257,57 @@ output:
 
 ## Movie monsters are mostly not possible.... Godzilla
 <hr>
-* **At that size, his heart wouldn't be able to pump blood to his brain.**
+* **At that size, Godzilla's heart wouldn't be able to pump blood to the brain.**
 
 <br/>
 
-* **His brain would send messages too slowly to his muscles, so he wouldn't be able to move properly**
+* **Brain would send messages too slowly to muscles, so wouldn't be able to move properly**
 
 <br/>
 
-* **He'd either have to spend all his time sunbathing to stay warm**
+* **Godzilla would have to sunbathing constantly to stay warm**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:360px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/godzilla3.jpg">
 
-## Exchange with environment limits animal bodies
+## Exchange with environment limits animal bodiy plans
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
-* **Animals must uptake nutrients, lose waste and exchange gases**
+* **Animals must uptake nutrients, expel waste and exchange gases**
     + occurs across plasma membrane of cells
     
 <br/>
 
 * **Simple internal body plan: Hydra**
-    + body wall and cavity open to environment
-    + gastrovascular cavity
+    + outer tissues exposed to environment
+    + gastrovascular cavity also open to environment
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:250px; HEIGHT:450px" SRC="images/hydra.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:250px; HEIGHT:450px" SRC="images/hydra.jpg">
 
 ## Exchange with environment limits animal bodies
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
-* **Animals must uptake nutrients, lose waste and exchange gases**
+* **Animals must uptake nutrients, expel waste and exchange gases**
     + occurs across plasma membrane of cells
     
 <br/>
 
-* **Body plan optimized for surface area: tapeworms**
+* **Body plan optimized for surface area: Tapeworms**
     + thin, flat shape
     + lots of outer cells exposed to environment
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:400px; HEIGHT:450px" SRC="images/tapeworm.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/tapeworm.jpg">
 
 ## Exchange with environment limits animal bodies
 <hr>
@@ -314,7 +315,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Animals must uptake nutrients, lose waste and exchange gases**
+* **Animals must uptake nutrients, expel waste and exchange gases**
     + occurs across plasma membrane of cells
 
 <br/>
@@ -328,6 +329,7 @@ output:
 
 * **Internal structures for exchange evolve...**
     + highly branched or folded
+    + e.g., lungs, intestines, kidneys
 
 </div>
 
@@ -404,7 +406,7 @@ output:
 
 <br/>
 
-* **There are a limited set of cells and tissues**
+* **There are a limited set of tissues in animals**
 1. *epithelial*: 
 2. *connective*: 
 3. *muscle*: 
