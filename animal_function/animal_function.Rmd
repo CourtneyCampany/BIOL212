@@ -43,17 +43,17 @@ output:
 <br/>
 
 * **Animals have 2 systems for stimulus response**
-1. *Endocrine*: signal molecules released in bloodstream
+1. *Endocrine*: chemical signals released in bloodstream
 2. *Nervous*: neurons transmit signals throughout body
 
 <br/>
 
-* **Endocrine signalling via hormones**
+* **Endocrine signalling via <span style="color:blue">hormones</span>**
     + many hormones with unique receptors
     
 <br/>
 
-* **Nervous system signalling via pathways**
+* **Nervous system signalling via <span style="color:blue">electrical pathways</span>**
     + nerve impulses travel to targeted destination
 
 </div>
@@ -75,11 +75,11 @@ output:
     
 <br/>
 
-* **Regulators: **
+* **<span style="color:blue">Regulators</span>: **
 
 <br/>
 
-* **Conformers: **
+* **<span style="color:blue">Conformers</span>: **
 
 <br/>  
     
@@ -93,7 +93,7 @@ output:
 ## Homeostasis: maintenance of internal balance
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:375px; WIDTH:350px; HEIGHT:450px" SRC="images/room.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:350px; WIDTH:400px; HEIGHT:500px" SRC="images/room.jpg">
 
 ## Homeostasis: maintenance of internal balance
 <hr>
@@ -117,14 +117,14 @@ output:
  
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:560px; HEIGHT:450px" SRC="images/glucose.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:505px; WIDTH:560px; HEIGHT:450px" SRC="images/glucose.jpg">
 
-## Homeostasis: Negative feedbacks
+## Homeostasis is maintained via <span style="color:blue">negative feedbacks</span>
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:230px; WIDTH:650px; HEIGHT:500px" SRC="images/negativefeed.png">
 
-## Homeostasis is not constant
+## Homeostasis for variables are not always constant
 <hr>
 <br/>
 
@@ -151,7 +151,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:520px; WIDTH:550px; HEIGHT:375px" SRC="images/circadian.jpg">
 
-## Many human metabolic activities are on circadian clock
+## Many human metabolic activities are on a circadian clock
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/circadian2.jpg">
@@ -215,7 +215,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/coldblood.jpg">
 
-## Ectotherms: Balancing heat loss and gain
+## Ectotherms: Balancing heat loss and gain via behaviors
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:275px; WIDTH:550px; HEIGHT:450px" SRC="images/heatexchange.jpg">
@@ -271,7 +271,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:535px; WIDTH:550px; HEIGHT:450px" SRC="images/blubber.png">
 
-## Thermoregulation: Circulatory Adaptations
+## Thermoregulation: Circulatory Responses
 <hr>
 <br/>
 <br/>
@@ -284,18 +284,18 @@ output:
 <br/>
 
 * **Blood vessels can relax, making them wider**
-    + increases blood flow
+    + increases blood flow near skin to release heat
     
 <br/>
 
 * **Blood vessels can also constrict**
-    + reduces blood flow
+    + reduces blood flow and prevents heat loss
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:520px; WIDTH:550px; HEIGHT:400px" SRC="images/vaso.jpg">
 
-## Counter current heat exchange
+## Counter-current heat exchange
 <hr>
 <br/>
 <br/>
@@ -303,7 +303,7 @@ output:
 
 <div style="float: left; width: 40%;">
 
-**Birds, mammals, sharks, insects often transfer heat between fluids moving in opposite direction **
+**Birds, mammals, sharks, insects often transfer heat between fluids moving in opposite directions**
 
 <br/>
 
@@ -319,7 +319,7 @@ output:
 
 ## Thermoregulation: Evaporative cooling (sweat glands)
 <hr>
-
+**In some mammals, the nervous system stimulates sweat glands to secrete water to the skin surface, where it cools the body by evaporation**
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/sweat.png">
 
 ## Thermoregulation: Social behavior
@@ -349,7 +349,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:490px; WIDTH:600px; HEIGHT:450px" SRC="images/penguin.jpg">
 
-## FUN FACT: The *hypothalamus* is the mammal thermostat
+## The *hypothalamus* is the mammal thermostat
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/hypo1.jpg">

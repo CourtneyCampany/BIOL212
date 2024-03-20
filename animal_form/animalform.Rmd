@@ -123,14 +123,15 @@ output:
     
 <br/>
 
-* **Diploblasts: opening to gastrovascular cavity**
+* **<span style="color:blue">Diploblasts</span>: opening to gastrovascular cavity**
 * **Protostomes: blastopore becomes mouth**
-* **Deuterostomes: blastopore becomes anus**
+* **<span style="color:blue">Deuterostomes</span>: blastopore becomes anus**
 
 </div>
 
 ## Germ layers (primary cell layers in development)
 <hr>
+<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
@@ -153,11 +154,6 @@ output:
 
 * **Mesoderm: **
     <!-- + forms muscles and many organs -->
-    
-<br/>
-<br/>
-
-* **<span style="color:red">Coelom</span>: **
 
     
 </div>
@@ -180,7 +176,7 @@ output:
 
 <br/>   
 
-* **Body cavity called coelom**
+* **Body cavity called <span style="color:red">coelom</span>**
     + cushions organs
     + fluid resistance for muscles
     + allows organs to move independently
@@ -218,11 +214,6 @@ output:
     + abdominopelvic contains the kidneys, ureters, stomach, intestines, liver, gallbladder, pancreas, bladder, anus and reproductive system
     
 </div>
-    
-## Form and function in biology
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/rabbits.png">
 
 ## Evolution of animal size and shape
 <hr>
@@ -250,6 +241,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/swimmers.jpg">
 
+## Form and function in biology
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/rabbits.png">
+
 ## Example: Diversity of bird form
 <hr>
 
@@ -271,7 +267,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:360px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/godzilla3.jpg">
 
-## Exchange with environment limits animal bodiy plans
+## Exchange with environment limits animal bodies
 <hr>
 <br/>
 
@@ -282,7 +278,7 @@ output:
     
 <br/>
 
-* **Simple internal body plan: Hydra**
+* **Simple internal body plan: Cnidaria (jellyfish)**
     + outer tissues exposed to environment
     + gastrovascular cavity also open to environment
     
@@ -301,7 +297,7 @@ output:
     
 <br/>
 
-* **Body plan optimized for surface area: Tapeworms**
+* **Body plan optimized for surface area: Flatworms**
     + thin, flat shape
     + lots of outer cells exposed to environment
 
