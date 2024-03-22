@@ -337,7 +337,7 @@ output:
 <br/>
 
 * **Other animals lack enough surface area**
-    + to much inner volume to supply with O~2~
+    + to much inner cells  to supply with O~2~
 
 <br/>
 
@@ -350,12 +350,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/newt.jpg">
 
-## Gills
+## Gills (branching organs with capillaries exposed to water)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/gills.jpg">
 
-## Trachea in insects
+## Trachea in insects (tubes that connect air to circulatory system)
 <hr>>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/trachae.png">

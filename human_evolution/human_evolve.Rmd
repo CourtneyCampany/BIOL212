@@ -7,29 +7,39 @@ output:
     smaller: true
 ---
 
+##
+<span style="color: blue;">**Mammals are more recently derived amniotic chordates, with fur and mammary glands**</span>
+
+<IMG STYLE="position:absolute; TOP:115px; LEFT:50px; WIDTH:1000px; HEIGHT:550px" SRC="images/mammalphylo.jpg">
+
+## The common display of chimp to man is deeply problematic 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/chimpman.jpg">
+
 ## Common **Mis**conceptions of human evolution
 <hr>
 <br/>
 <br/>
 
 * **Our ancestors were chimpanzees: <span style="color: red;">WRONG!</span>** 
-    + <span style="color: green;">RIGHT</span>: We share a common ancestor with chimps
+    + <span style="color: green;">**RIGHT**</span>: We share a common ancestor with chimps
 
 <br/>
 
 * **Human evolution = series of steps from ancestor to *Homo sapiens*: <span style="color: red;">WRONG!</span>**
-    + <span style="color: green;">RIGHT</span>: Hominid phylogeny is more like bush than a ladder
-    + *Homo sapiens* is a twig on the bush
+    + <span style="color: green;">**RIGHT**</span>: Human evolution is more like bush than a ladder
+    + *Homo sapiens* is a branch on a bushy phylogenetic tree
     
 <br/>
 
 * **Human characteristics like upright posture and large brain evolved together: <span style="color: red;">WRONG!</span>**
-    + <span style="color: green;">RIGHT</span>: Our ancestors include upright walkers with small brains 
+    + <span style="color: green;">**RIGHT**</span>: Early ancestry included upright walkers with small brains 
     
-## Primate phylogeny
+## Primate phylogeny (Misconception #1)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/primate_phylo.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/primate_phylo.jpg">
 
 ##
 
@@ -65,11 +75,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/shared_parasites.jpg">
     
-## Hominins: part of primate family; includes genus *Homo*
+## Hominins: part of primate family that includes genus *Homo*
 <hr>
 <br/>
 
 * **~20 species described (fossils) in the tribe**
+    + several genera
     + brain size, teeth shape, body size
     + inferred tool use/culture/language
     + species had different combos of each
@@ -91,23 +102,25 @@ output:
 ## Hominin evolution was not a linear process
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/homin_phylo2.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/hominidtree.jpg">
 
 ## 
 **Hominin evolution:**
 <br/>
 **brain volume**
+<br/>
+**form and function**
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:600px; HEIGHT:600px" SRC="images/brain.gif">
 
-## Hominin evolution: The jaw
+## Hominin evolution: The jaw (form and function)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/jaw_bone.png">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:635px; WIDTH:400px; HEIGHT:450px" SRC="images/bite.png">
 
-## Brainstorm: Why did we evolve to walk on 2 legs?
+## Why did we evolve to walk on 2 legs? (form and function)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/homininfoot.jpg">
@@ -150,7 +163,7 @@ output:
 ## Lucy (*Australopithecus afirensis*) direct ancestor of *Homo*?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo3.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:275px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo3.png">
 
 ## *Homo* genus in the fossil record
 <hr>
@@ -158,7 +171,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Early *Homo* genus is composed of first humans**
+* **Early *Homo* genus is composed of modern humans**
     + all species are called *humans*
     + ~2mya to present day
 
@@ -185,7 +198,7 @@ output:
 ## Species of Hominins and *Homo* overlapped!
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/overlap.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/overlap.jpg">
 
 ## *Homo* species left Africa (*H.ergaster* then *H.erectus*)
 <hr>
@@ -194,18 +207,21 @@ output:
 
 ## *Homo sapiens* evolution
 <hr>
+
+* **Evolved on the African continent**
+
 <br/>
 
 * **Descended from a *2^nd^* wave of immigration out of Africa**
     + 'Out of Africa' hypothesis
     + ~100,000 ya
-    + fossil and DNA evidence
-    + not the first species to leave
+    + fossil and DNA evidence shows migration
+    + **not the first species to leave**
 
 <br/>
 
-* **1 population left Africa, split into 3 groups**
-    +  2,000 generations ago
+* **1 population left Africa, then split into 3 groups**
+    +  ~2,000 generations ago
 
 <br/>
 
@@ -220,58 +236,62 @@ output:
 <br/>
 
 * **Neanderthals evolved in Eurasia**
-    + Split from a common ancestor ~ 500,000 ya
+    + split from a common ancestor ~ 500,000 ya
     + buried dead
     + used art
 
 <br/>
 
-* **Co-existed until ~ 30,000 years ago**
+* **Co-existed with *H.sapiens* until ~ 30,000 years ago**
     + Middle East and Europe
 
 <br/>
 
 * **Only one lineage survived**
-    + Interbreeding
-    + Competition?
-    + Extirpation of Neanderthals by modern humans? 
+    + natural selection?
+    + out competed?
+    + extirpation of Neanderthals by modern humans? 
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:325px; HEIGHT:450px" SRC="images/homos.jpg">
 
-## *H.neandertalensis* and *H.sapiens* co-occured
+## *H.neandertalensis* and *H.sapiens* interbred!
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/interbred.png">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:350px; HEIGHT:350px" SRC="images/variants.png">
 
-<!-- ## Recent findings: new modern species? -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
+## Recent findings: new modern species?
+<hr>
+<br/>
+<br/>
+<br/>
 
-<!-- <div style="float: right; width: 45%;"> -->
+<div style="float: right; width: 45%;">
 
-<!-- * **Really small new species (H.floresiensis)?** -->
-<!--     + fossils in Indonesian island cave -->
-<!--     + allegedly 13,000 years old -->
+* **Really small new species (*H.floresiensis*)?**
+    + fossils in Indonesian island cave
+    + allegedly 13,000 years old
 
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Archaeologists seeking path to Australia** -->
+* **Archaeologists seeking path to Australia**
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Controversy: diseased *H.sapiens*?**  -->
+* **Controversy: diseased *H.sapiens*?**
 
-<!-- </div> -->
+</div>
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/hobbit.jpg"> -->
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/hobbit.jpg">
 
 ## Where is Human evolution heading?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:700px; HEIGHT:400px" SRC="images/humansevolve.jpg">
+**Newish Traits** = Cooler body temperatures, less hair, smaller jaws and teeth
+<br/>
+
+**Regional populations adaptions** = surface area:volume by climate (regional), nose and lips shapes by climate, strait hair in cool climates, eye lid folds in Asian populations to protect eye from UV, thicker fat in artic populations, large brain volumes in cold, climates, reemergence of lactase, skin color and vitamin D synthesis by region, resistance to malaria, increased susceptibility to allergies/asthma
+<IMG STYLE="position:absolute; TOP:290px; LEFT:225px; WIDTH:700px; HEIGHT:400px" SRC="images/humansevolve.jpg">
