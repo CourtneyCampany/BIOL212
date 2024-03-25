@@ -99,7 +99,7 @@ output:
 * **Central *gastrovascular cavity* functions to distribute substances**
     + opening at one end connects cavity to water
     + allows fluid to bath inner and outer tissues
-    + *diffusion distance kept short*
+    + *diffusion distance with environment is short*
 
 <br/>
 
@@ -132,7 +132,7 @@ output:
 
 <br/>
 
-* **Molecule trading works like a circuit**
+* **Molecule trading with circulatory fluid works like a circuit**
 
 </div>
 
@@ -274,7 +274,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:400px" SRC="images/mammal2.jpg"> -->
 
-## Blood flow
+## Blood flow is reduced in capillaries
 <hr>
 <br/>
 <br/>
@@ -293,7 +293,7 @@ output:
 
 * **Blood flow is slowest in the capillaries**
     + over large cross-sectional area
-    + necessary for gas exchange
+    + necessary for efficient gas exchange
 
 </div>
 
@@ -322,7 +322,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:595px; WIDTH:500px; HEIGHT:450px" SRC="images/gasexchange.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:595px; WIDTH:445px; HEIGHT:400px" SRC="images/trade.jpg">
     
 ## Respiratory Surfaces
 <hr>
@@ -350,48 +350,49 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/newt.jpg">
 
-## Gills (branching organs with capillaries exposed to water)
+## Gills in fish
 <hr>
+**Fish exchange gases by pulling oxygen-rich water through their mouths and pumping it over their gills. Within the gill filaments, capillary blood flows in the opposite direction to the water**
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/gills.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/gills.jpg">
-
-## Trachea in insects (tubes that connect air to circulatory system)
+## Trachea in insects 
 <hr>>
-
+**Trachea are a series of tubes that open to the air and connect internally to the circulatory system**
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/trachae.png">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:525px; HEIGHT:250px" SRC="images/trachae2.jpg">
 
 ## Lungs in mammals, reptiles and birds
 <hr>
+**Elastic sacs with branching passages into which air is drawn, so that oxygen can pass into the blood and carbon dioxide be removed**
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/lungs_human.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/lungs_human.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/airsac.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/airsac.jpg">
 
 ## Coordination of circulation and gas exchange
 <hr>
 <br/>
 <br/>
 
-<div style="float: left; width: 53%;">
+<div style="float: left; width: 58%;">
 
-* **Most animals need to exchange large amounts of O~2~ and CO~2~**
-    + to meet metabolic needs
+* **Animals need to exchange large amounts of O~2~ and CO~2~**
+    + to meet metabolic needs of all cells
 
 <br/>
 
-* **During inhalation, fresh air fills in lung**
+* **During inhalation, fresh air fills in lungs**
     + molecule trading occurs via diffusion
 
 <br/>
     
 * **Blood is then pumped through circuit**
     + O~2~ carried in pigments (metal bound to protein)
+    + CO~2~ picked up from body cells and returned to sites of exchange with environment
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/respiratorygas.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:620px; WIDTH:425px; HEIGHT:450px" SRC="images/respiratorygas.jpg">
 
 ## 
 
