@@ -24,7 +24,7 @@ output:
 <br/>
 
 * **Both humans and albatross must maintain balance of fluids and solutes**
-    + levels of ions (Na, Cl, Ca) too
+    + e.g., levels of ions (Na, Cl, Ca) 
     
 <br/>
 
@@ -79,7 +79,7 @@ output:
 
 * **Animals must also get rid of ammonia, which can be toxic**
     + *excretion* = ridding the body of waste products
-    
+    + may require water
 <br/>
 
 </div>
@@ -117,13 +117,13 @@ output:
 
 * **Animals maintain water balance by *osmoconforming* to surroundings**
     + internal osmolarity = environment
-    + many marine animals
+    + many marine invertebrates
     
 <br/>
 
 * **Animals maintain water balance by *osmoregulating* internal osmolarity**
     + may have to expel or uptake water
-    + common for freshwater/terrestrial animals
+    + common for vertebrates (aquatic & terrestrial)
 
 <br/>
 
@@ -133,12 +133,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/salmon.jpg">
 
-## Marine Bony Fish (drink lots of seawater!)
+## Marine Bony Fish (concentrated urine)
 <hr>
     
 <IMG STYLE="position:absolute; TOP:170px; LEFT:235px; WIDTH:625px; HEIGHT:475px" SRC="images/marinefish.jpg">
 
-## Freshwater Bony Fish (lots of excretion!)
+## Freshwater Bony Fish (lots of dilute urine)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:235px; WIDTH:625px; HEIGHT:475px" SRC="images/freshwaterfish.jpg">
@@ -177,9 +177,9 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/camels.jpg">
+<IMG STYLE="position:absolute; TOP:235px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/camels.jpg">
 
-## Being a 'osmoregulator' is expensive
+## Being a 'osmoregulator' is energy expensive
 <hr>
 <br/>
 
@@ -199,13 +199,13 @@ output:
 * **Body fluids are adapted to habitat**
     + lower [solute] in freshwater
     + higher [solute] in marine
-    + minimizes energy costs
+    + minimizes energy costs of homeostasis
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:375px" SRC="images/bodyfluid.jpg">
 
-## Poop has a large impact on water balance
+## Waste has a large impact on water balance
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/wastes.jpg">
@@ -224,10 +224,10 @@ output:
 
 <br/>
 
-* **Urea: NH~3~ + CO~2~ in liver**
+* **Urea: NH~3~ + CO~2~ made in liver**
     + less toxic
     + energy expensive to produce
-    + requires less water
+    + requires less water to eliminate
     
 <br/>
 
@@ -237,9 +237,8 @@ output:
     
 </div>
 
-## Excretory systems filter body fluids
+## Excretory systems filter body fluids to create urine
 <hr>
-<br/>
 <br/>
 <br/>
 
@@ -248,6 +247,10 @@ output:
 * **Excretory systems regulate solute movement**
     + internal fluids &larr; &rarr; environment
     + key for water balance
+
+<br/>
+
+* **Functional unit = filtering tube (tubule) + capillary**
     
 <br/>
 
@@ -269,7 +272,7 @@ output:
 
 <div style="float: right; width: 52%;">
 
-* **Network of tubes with large surface area**
+* **Network of tubul es with large surface area**
     + large exchange of water, solutes & wastes
     + *Insects*: nearly all water reabsorbed
     + *Vertebrates*: kidney used for osmoregulation & excretion
@@ -297,7 +300,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/kidney.jpg">
 
-## Vertebrate/Mammalian kidney is key for life on land
+## Vertebrate  kidney is key for life on land
 <hr>
 <br/> 
 
