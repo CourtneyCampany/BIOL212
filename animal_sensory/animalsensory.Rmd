@@ -36,12 +36,12 @@ output:
 ## The Big Picture: Perception to Behavior
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Sensory processes begin with stimuli**
     + stimuli are forms of energy
+    + internal or external
 
 <br/>
 
@@ -80,7 +80,7 @@ output:
 
 * **Most neurons have a single *axon* to transmit signals**
     + transmit pulses of electrical current
-    + terminals connect cells
+    + terminals connect nerve cells
     
 </div>
 
@@ -104,7 +104,7 @@ output:
 
 * **(1) Sensory reception: **
     + sensory cells are specialized neurons
-    + inside or outside body
+    + inside or on outside of body
     + detect stimuli
 
 </div>
