@@ -33,7 +33,7 @@ output:
 
 <!-- * **#MammalHormones** -->
 
-## The big picture: Variation in animal reproduction exists
+## The Big P icture: Variation in animal reproduction exists
 <hr>
 
 <div style="float: left; width: 60%;">
@@ -93,23 +93,17 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:350px; HEIGHT:350px" SRC="images/budding.jpg">
 
-## Review video on budding, fragmentation (+ unnecessary extras)
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in-in-asexual-reproduction-and-its-types/v/budding-fragmentation-regeneration-spores-how-do-organisms-reproduce-biology-khan-academy
-
 ## *Parthenogenesis*: Male drone bees are fertile and haploid!
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/bees.jpg">
 
-## Animal sex blurs the lines of male and female
+## *Parthenogenesis* in Charlotte the stingray?!?!?!?!?!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/charlotte.png">
+
+## Animal reproduction blurs the lines of male and female
 <hr>
 <br/>
 
@@ -142,12 +136,12 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 * **Cycles controlled by hormones and environmental cues**
     + occur with asexual or sexual modes
-    + often related to seasons - *?WHY?*
+    + often related to seasons
 
 <br/>
 
 * **Ovulation: release of eggs at midpoint of female cycle**
-    + cycles are variable in length, synced with seasons
+    + cycles are variable in length 
     + sheep: cycle + pregnancy = birth in spring
 
 <br/>
@@ -181,7 +175,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 <br/>
 
 * **Moist habitat always required for external fertilization**
-    + *spawning*: 
+    + *spawning*: when many individuals release gametes at the same time and place
 
 </div>
 
@@ -272,7 +266,7 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:350px; HEIGHT:450px" SRC="images/fruitfly.jpg">
 
-## Mammalian reproduction governed by hormones
+## Mammalian reproduction reproduction governed by hormones
 <hr>
 <br/> 
 <br/>
@@ -281,11 +275,11 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 
 * **Hormones coordinated across many glands/organs**
     + hypothalamus, pituitary and gonads
-    + endocrine system
+    + endocrine system chemical messaging 
     
 <br/> 
 
-* **Gonadotropin-releasing hormone (GnRH) is secreted by the hypothalamus** 
+* **Gonadotropin-releasing hormone (GnRH) is secreted by the hypothalamus (a region of the brain)** 
     + directs release of FSH (follicle-stimulating hormone) 
     + directs release of LH (luteinizing hormone)
     + both from pituitary gland 
@@ -293,13 +287,13 @@ https://www.khanacademy.org/science/in-in-class-10-biology/in-in-reproduction/in
 <br/>   
 
 * **FSH and LH act on male and female gonads**
-    + stimulate sex hormone production
+    + stimulate reproductive hormone production
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:425px; HEIGHT:450px" SRC="images/sexhormones.png">
 
-## Mammalian reproduction governed by hormones
+## Mammalian reproduction system governed by hormones
 <hr>
 <br/> 
 
