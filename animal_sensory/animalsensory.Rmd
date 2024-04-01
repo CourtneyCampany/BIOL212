@@ -57,7 +57,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mole_sense.jpg">
 
-## Sensory pathways (4) work through neural pathways
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/screendeath.png"> -->
+
+## Sensory systems work through neural pathways
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:555px; WIDTH:525px; HEIGHT:400px" SRC="images/neuron.jpg">
@@ -69,8 +73,8 @@ output:
     
 <br/>
 
-* **Most organelles located in the cell body**
-    + includes nucleus
+* **Fundamental unit of the brain and nervous system**
+    + Most organelles located in the cell body
 
 <br/>
 
@@ -104,8 +108,8 @@ output:
 
 * **(1) Sensory reception: **
     + sensory cells are specialized neurons
-    + inside or on outside of body
-    + detect stimuli
+    + located inside or on outside of body
+    + detect specific stimuli
 
 </div>
 
@@ -116,18 +120,18 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Transduction: **
-    + strength of stimulus determine how much
 
 <br/>
 
-* **Stimulus receptors change flow of ions across membranes**
+* **Stimulus receptors change flow of ions across nerve cell membranes**
     + opens/closes ion channels
-    + Ca^2+^, Na^+^, K^+^
+    + Cl^-^, Na^+^, K^+^
 
 <br/>
 
 * **Membrane potential: gradient that forces ions to passively move in one direction**
     + can be processed by central nervous system
+    + at rest, inside of cell is more negative than outside
     + magnitude of change in ion flow = strength of stimulus
 </div>
 
@@ -147,7 +151,7 @@ output:
 
 * **Action potential: **
     + caused by change in membrane potential
-    + travels along *axon* and flow to other cells
+    + travels along *axon* and flows  to other cells
     
 <br/>
 
@@ -158,7 +162,7 @@ output:
 
 * **Speed of action potential depends on species**
     + length of axons varies
-    + verterbrate axons are insulated
+    + vertebrate axons are insulated
 
 </div>
 
@@ -239,7 +243,7 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 <div style="float: right; width: 59%;">
 
-* **(1) Transmit information about solute concentration**
+* **(1) Transmit information about solute concentrations  **
     + detect change in blood solutes &rarr; stimulate thirst
 
 <br/>
@@ -250,12 +254,12 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 <br/>
 
 * **Stimulus molecule binds to a chemoreceptor**
-
+    + silk worms detect pheromones from females several kilometers away
+    
 <br/>
 
 * **Chemoreceptor becomes more or less permeable to ions**
-    + silk worms detect pheromones from females several kilometers away
-    
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:440px; HEIGHT:450px" SRC="images/chemo.jpg">
@@ -328,7 +332,6 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 * **Hot pepper science has really helped!!!**
     + Receptors that respond to capsaicin also respond to high temperatures 
-    + open a calcium channels
     + taste 'hot": activate same receptors as hot soup
     + opposite for 'cold' flavor
 
