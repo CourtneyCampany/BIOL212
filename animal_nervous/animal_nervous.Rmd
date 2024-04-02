@@ -31,9 +31,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/cambrian2.jpg">
 
+## Nerve net in jellyfish
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/nervousjelly.jpg">
+
 ## Nervous systems consist of circuits of neurons and cells
 <hr>
-* **In complex animals, axons of many *neurons* are bundled into 'nerves'**
+* **In complex animals, axons of many *neurons* are bundled into 'nerves' with other tissues**
 
 <br/>
 
@@ -65,7 +70,7 @@ output:
 <br/>
 
 * **Higher animals have more complicated brains and nerve cords with ganglia**
-
+    + ganglia - clusters of nerves at at key points in spinal cord
 </div>
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:400px; WIDTH:700px; HEIGHT:350px" SRC="images/ganglia.gif">
@@ -130,7 +135,7 @@ output:
 
 <br/>
 
-* **Nerve bundles include afferent and efferent neurons**
+* **Nerve bundles include both afferent and efferent neurons**
 
 </div>
 
@@ -154,7 +159,7 @@ output:
 
 <br/>
 
-* **<span style="color:blue">Autonomic system regulates *involuntary* smooth and cardiac muscles</span>**
+* **<span style="color:blue">Autonomic system regulates *involuntary* smooth (organs) and cardiac muscles</span>**
     + <span style="color:blue">*Sympathetic*, *Parasympathetic*, *Enteric*</span>
     + *Enteric* = digestion, pancreas, gallbladder    
 
@@ -199,45 +204,45 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:750px; HEIGHT:500px" SRC="images/braincompare.gif">
 
-<!-- ## Human brain -->
-<!-- <hr> -->
-<!-- <br/> -->
+## Human brain
+<hr>
+<br/>
 
-<!-- <div style="float: right; width: 50%;"> -->
+<div style="float: right; width: 50%;">
 
-<!-- **100 billion neurons make 100 trillion connections** -->
+**100 billion neurons make 100 trillion connections**
 
-<!-- <br/> -->
+<br/>
 
-<!-- **Cerebrum (enhanced region of forebrain) is essential for language, cognition, memory, consciousness and awareness** -->
+**Cerebrum (enhanced region of forebrain) is essential for language, cognition, memory, consciousness and awareness**
 
-<!-- </div> -->
+</div>
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/humanbrain.jpg"> -->
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/humanbrain.jpg">
 
-<!-- ## Human brain -->
-<!-- <hr> -->
-<!-- <br/> -->
+## Human brain
+<hr>
+<br/>
 
-<!-- <div style="float: right; width: 50%;"> -->
+<div style="float: right; width: 50%;">
 
-<!-- **100 billion neurons make 100 trillion connections** -->
+**100 billion neurons make 100 trillion connections**
 
-<!-- <br/> -->
+<br/>
 
-<!-- **Cerebrum is essential for language, cognition, memory, consciousness and awareness** -->
+**Cerebrum is essential for language, cognition, memory, consciousness and awareness**
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Cerebrum is also regionized (<span style="color:blue">Don't Memorize</span>)** -->
-<!--     + Frontal lobe = temperament and decisions -->
-<!--     + Temporal lobe = hearing -->
-<!--     + Paretial lobe = touch and integration -->
-<!--     + Occipital lobe = vision -->
+* **Cerebrum is also regionized (<span style="color:blue">Don't Memorize</span>)**
+    + Frontal lobe = temperament and decisions
+    + Temporal lobe = hearing
+    + Paretial lobe = touch and integration
+    + Occipital lobe = vision
 
-<!-- </div> -->
+</div>
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:1px; WIDTH:525px; HEIGHT:400px" SRC="images/humanbrain2.png"> -->
+<IMG STYLE="position:absolute; TOP:200px; LEFT:1px; WIDTH:525px; HEIGHT:400px" SRC="images/humanbrain2.png">
 
 <!-- ## Body parts are connected through sensory and motor cortexes -->
 <!-- <hr> -->
