@@ -13,7 +13,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Early forms of 'sense-react' existed in prokaryotes**
+* **Early forms of 'sense-react' existed in prokaryotes (not animals)**
 
 <br/>
 
@@ -70,7 +70,7 @@ output:
 <br/>
 
 * **Higher animals have more complicated brains and nerve cords with ganglia**
-    + ganglia - clusters of nerves at at key points in spinal cord
+    + ganglia - clusters of nerves at at key points in the body
 </div>
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:400px; WIDTH:700px; HEIGHT:350px" SRC="images/ganglia.gif">
@@ -107,7 +107,7 @@ output:
 
 <br/>
 
-* **White matter exists on the outer layer of the spinal cord to link CNS with PNS**
+* **Grey matter exists on the outer layer of the spinal cord to link CNS with PNS**
  
 </div>
 
@@ -115,7 +115,7 @@ output:
 
 ## Spinal cord relays info to and from brain
 <hr>
-**Also, acts independently for simple *rapid* reflexes**
+**Can act independently for simple *rapid* reflexes**
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:650px; HEIGHT:500px" SRC="images/whitematter.jpg">
 

@@ -45,7 +45,7 @@ output:
 
 <div style="float: left; width: 60%;">
 
-* **Behavior:**
+* <span style="color:blue">**Behavior: an action carried out by muscles under control of the nervous system**</span>
     + works via sensory pathway in nervous systems
     
 <br/>
@@ -85,7 +85,7 @@ output:
 
 <br/>
 
-**Take home message: **
+**Take home message: <span style="color:blue">Behaviors are not just a spontaneous reaction to a stimulus</span>**
 
 </div>
 
@@ -160,7 +160,7 @@ output:
     
  <br/>
  
-* **Behaviors rhythms related to lunar cycles**
+* **Behaviors rhythms can be related to lunar cycles**
     + includes tides (e.g. crab reproduction, turtle nesting)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:660px; WIDTH:400px; HEIGHT:400px" SRC="images/turtles.jpg">
@@ -176,12 +176,12 @@ output:
 
 <br/>
 
-* **Signal: **
+* **Signal: a variety of mechanisms to communicate**
     + male waving claw at female crab
 
 <br/>
 
-* **Communication: transmission and reception of signals**
+* <span style="color:blue">**Communication: transmission and reception of signals**</span>
     + plays a role in primary cause ('the How')
 
 <br/>
@@ -210,7 +210,7 @@ output:
 <br/>
 
 * **Step 3: Male vibrate wing in courtship song**
-    + *auditory* behaviors tells female he is of right species
+    + *auditory* behaviors shows female he is 'fit'
     
 <br/>
 
@@ -302,7 +302,7 @@ output:
 
 <div style="float: left; width: 60%;">
 
-* **Learning:  **
+* **Learning: <span style="color:blue">Modifications of behaviors as a result of experience</span>**
 
 <br/>
 
@@ -419,8 +419,9 @@ output:
 * **Courtship fruit fly: series of behaviors in male flies**
     + single gene (*flu*) controls entire ritual
     + if *flu* mutated &rarr; no mating
-    + can be reversed in male and female!!!
     + variation in gene &rarr; variation in behavior
+    + e.g., roles can be reversed in male and female!!!
+
     
 <br/>
 
@@ -440,7 +441,7 @@ output:
 <br/>
 
 * **Altruism: **
-    + sterile male bees
+    + sterile bees
     + animals that vocalize warning calls
 
 <br/>    

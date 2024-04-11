@@ -272,7 +272,7 @@ output:
 
 <div style="float: right; width: 52%;">
 
-* **Network of tubul es with large surface area**
+* **Network of tubules with large surface area**
     + large exchange of water, solutes & wastes
     + *Insects*: nearly all water reabsorbed
     + *Vertebrates*: kidney used for osmoregulation & excretion

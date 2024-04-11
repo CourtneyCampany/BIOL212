@@ -52,13 +52,12 @@ output:
 
 * **More often impractical or impossible to count all individuals**
     + indirect estimates are needed
-    + dusk deer surverys in Biol 303
+    + dusk deer surveys in Biol 303
     
 <br/>
 
 * **Density is not static**
-    + immigration:
-    + emigration:
+    + migration in and out of populations
     + births & deaths
     + motility
 
@@ -76,6 +75,10 @@ output:
 <br/>
 
 <div style="float: left; width: 45%;">
+* **Reproductive rates vs Survivorship**
+    + key for conservation
+
+<br/>
 
 * **Cohorts:**
     + how many of one age-group *survive* to the next age level?
@@ -87,11 +90,6 @@ output:
     + only females produce offspring
     + how many *females give rise to new females*`?
     + how many years do females reproduce?
-
-<br/>
-
-* **Reproductive rates vs Survirorship**
-    + key for conservation
     
 </div>
 
@@ -117,7 +115,7 @@ output:
 
 * **Start with ideal conditions:**
     + few individuals to start
-    + unlimited environment
+    + non=limiting environment
 
 <br/>
 
@@ -141,7 +139,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/elephants.jpg">
 
-## Resources rarely remain unlimited
+## Resources rarely remain non-limiting 
 <hr>
 <br/>
 <br/>
@@ -266,9 +264,9 @@ output:
 
 <br/> 
 
-* **Density dependent = **
+* **Density dependent factors = crowdedness**
     + resources, predation
-    + disease, toxic waste
+    + disease, waste becomes toxic
 
 <br/> 
 
