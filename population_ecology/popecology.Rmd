@@ -27,8 +27,9 @@ output:
     
 <br/>
 
-* **Density matters**
-
+* **Density (#/area) matters**
+    + crowdedness impacts population growth
+    
 <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:450px; HEIGHT:500px" SRC="images/bearflorida.jpg">
 
 ## Populations often described by their boundaries
@@ -38,7 +39,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/florirdabear.jpg">
 
-## Population density is dynamic
+## Measuring population size and density
 <hr>
 <br/>
 <br/>
@@ -56,7 +57,7 @@ output:
     
 <br/>
 
-* **Density is not static**
+* **Population size and Density is not static**
     + migration in and out of populations
     + births & deaths
     + motility
@@ -65,12 +66,13 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/density.jpg">
 
-## Local densities vary within a population
+## Densities vary within a population
 <hr>
+**The density of these populations is the same but their ecology differs**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:380px" SRC="images/dispersion.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:380px" SRC="images/dispersion.jpg">
 
-## Population statistics change over time (demography)
+## Tracking population trends through time (demography)
 <hr>
 <br/>
 
@@ -80,7 +82,7 @@ output:
 
 <br/>
 
-* **Cohorts:**
+* **Cohorts: group of individuals born at the same time**
     + how many of one age-group *survive* to the next age level?
     + when does reproduction occur? 
     
@@ -115,7 +117,7 @@ output:
 
 * **Start with ideal conditions:**
     + few individuals to start
-    + non=limiting environment
+    + non-limiting environment
 
 <br/>
 
@@ -252,7 +254,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/animals.jpg">
 
-## Density in populations matter
+## Density in populations matter (carrying capacity)
 <hr>
 <br/> 
 <br/> 
@@ -265,21 +267,21 @@ output:
 <br/> 
 
 * **Density dependent factors = crowdedness**
-    + resources, predation
+    + resources, predator-prey
     + disease, waste becomes toxic
 
 <br/> 
 
-* **Population density works as a negative feedback**
+* **Population density works as a negative feedback for predator-prey populations**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/hare.jpg">
 
-## Brainstorm: What factors are *density independent*?
+## What factors are *density independent*?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:700px; HEIGHT:450px" SRC="images/drought.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/drought.jpg">
     
 ## Patterns in human population
 <hr>

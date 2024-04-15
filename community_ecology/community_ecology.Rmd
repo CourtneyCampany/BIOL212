@@ -80,7 +80,7 @@ output:
 
 * **Competitive exclusion: **
     + local extinction
-    + rare in nature
+    + rare in nature (sometimes on islands)
     
 </div>
 
@@ -100,18 +100,17 @@ output:
 
 * **Natural selection reduces overlap between niches!**
     + *resource partitioning*: division of limited resources
-    + How?
 
 <br/>
 
-* **Resource partitioning allows for coexistence**
+* **Resource division  allows for coexistence**
     + use parts of a habitat, active at different times
     + allows partial niche overlap (not full)
     + why competitive exclusion is rare!
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:450px; HEIGHT:350px" SRC="images/anole.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:625px; WIDTH:450px; HEIGHT:500px" SRC="images/niche.jpg">
 
 ## Resource partitioning in *Anolis* lizards
 <hr>
@@ -139,7 +138,7 @@ output:
 
 * **Exploitation: species feeding interactions (+/-)**
     + predation, herbivory & parasitism
-    + drama causes evolution!
+    + the drama drives natural selection!
 
 </div>
 
@@ -151,8 +150,7 @@ output:
 
 <div style="float: right; width: 52%;">
 
-* **One species (predator) kills and eats other (prey)**
-    + does not have to be animal on animal
+* **One species (predator) kills and eats other (prey)** 
     
 <br/>
 
@@ -236,17 +234,18 @@ output:
 <br/>
 
 * **Organism (parasite) gets nourishment from host**
-    + host always harm host in process
+    + host harmed but rarely killed
     + ~1/3 of all species are parasites!!
     
 <br/>
 
 * **Parasites live inside or outside body of host**
-    + tapeworms &rarr; ticks
+    + tapeworms to ticks
     
 <br/>
 
-* **Parasite usually have complex life cycles**
+* **Parasites  usually have complex life cycles**
+    + feeding and reproductive cycles using host
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:560px; WIDTH:500px; HEIGHT:400px" SRC="images/malaria.gif">
     
@@ -263,11 +262,12 @@ output:
     
 <br/>
 
-* **Positive interactions affect diversity of ecological communities**
-
+* **Positive interactions common in ecological communities**
+    + drive higher biodiversity
+    
 <br/>
 
-* **Mutualisms and commensalism are the most common**
+* **Mutualism and commensalism are the most common**
     
 </div>
 
@@ -320,7 +320,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:395px; LEFT:15px; WIDTH:500px; HEIGHT:300px" SRC="images/egret.jpg">
 
-## Trophic Structure
+## Trophic (feeding) structure defined by species interactions
 <hr>
 <br/> 
 <br/> 
@@ -333,12 +333,12 @@ output:
 
 * **Energy is transferred upward**
     + plants/aglae &rarr; consumers
-    + transfer is wasteful (*WHY*?)
+    + transfer is wasteful (most energy is lost)
     
 <br/> 
 
 * **Trophic level:**
-    + organisms in a community share a trophic level
+    + many species can share a trophic level
 
 </div>
 
