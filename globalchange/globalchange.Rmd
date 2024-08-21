@@ -72,7 +72,7 @@ output:
 
 * **Level 1: Genetic Diversity**
     + within and among populations
-    + loss reduces adaptive potential
+    + loss of alleles reduces adaptive potential
     
 <br/>
 
@@ -84,7 +84,7 @@ output:
 
 * **Level 3: Ecosystem Diversity**
     + variety of ecosystems on Earth
-    + provide services to living things
+    + provide services to humans
     
 </div>
 
@@ -105,11 +105,12 @@ output:
     + how many species?
     + how *even* are the species?
     + roles of dominant, keystone & rare species
+    + are *endemic* species present?
     
 <br/>
 
 * **Ecosystem Diversity**
-    + what services does an ecosystem provide?
+    + what benefits do healthy ecosystems provide?
     + are the abiotic variables changing?
 
 </div>
@@ -172,7 +173,7 @@ output:
 
 ## Introduced species and over-harvesting
 <hr>
-
+**Native vs Non-Native vs Invasive Species**
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/kudzu.jpg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/overharvest.jpg">
@@ -215,12 +216,12 @@ output:
 <br/>
 
 * **Prioritize the factors causing decline**
-    + habitat loss or climate change   
+    + habitat loss, climate change, etc.   
         
 <br/>
 
 * **What are the environmental needs of the species?**
-    + What causes the decline
+    + What is the root cause of the decline?
     + How do we stop it?
     
 </div>
@@ -229,6 +230,7 @@ output:
 
 ## Landscape conservation: Building habitat corridors
 <hr>
+**Establishing large scale protected areas (terrestrial or aquatic) is first priority**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/corridor.jpg">
 
@@ -265,7 +267,7 @@ output:
 <div style="float: left; width: 58%;">
 
 * **Climate change is strongly related to the chemistry of the atmosphere**
-    + greenhouse gas effect 
+    + enhances existing greenhouse gas effect 
     + CO~2~, CH~4~, NO~x~ & H~2~O
     
 <br/> 
@@ -275,7 +277,7 @@ output:
     
 <br/> 
 
-* **Burning of fossil fuels has increased atmospheric CO~2~**
+* **Burning of fossil fuels increases atmospheric CO~2~**
     + makes biosphere warmer
     + impacts weather and climate
     
@@ -321,33 +323,33 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:630px; WIDTH:400px; HEIGHT:450px" SRC="images/mercury.png"> -->
 
-<!-- ## Global Change: What can we do? -->
-<!-- <hr> -->
-<!-- <br/>  -->
+## Global Change: What can we do?
+<hr>
+<br/>
 
-<!-- <div style="float: left; width: 45%;"> -->
+<div style="float: left; width: 45%;">
 
-<!-- * **We cannot save all habitats** -->
-<!--     + which patches are most crucial? -->
+* **We cannot save all habitats**
+    + which patches are most crucial?
 
-<!-- <br/>  -->
+<br/>
 
-<!-- * **Sustainable development** -->
-<!--     + better engineer man-made ecosystems -->
-<!--     + food security while reducing nutrient/chemical impacts -->
-<!--     + food security while maintaining ecosystem services -->
+* **Sustainable development**
+    + better engineer man-made ecosystems
+    + food security while reducing environmental impacts of agriculture
+    + food security while maintaining ecosystem services
 
-<!-- <br/>  -->
+<br/>
 
-<!-- * **Curb global emissions** -->
-<!--     + can we do it? -->
-<!--     + technology? -->
+* **Curb global emissions**
+    + projected warming by end of century is uncertain
+    + changes needed at individual, community and policy levels
 
-<!-- </div> -->
+</div>
 
-<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:525px; HEIGHT:400px" SRC="images/emissions.jpg">    -->
+<IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:525px; HEIGHT:400px" SRC="images/emissions.jpg">
 
-<!-- ## Future of the Biosphere: New Mass Extinction? -->
-<!-- <hr>  -->
-
-<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/extinction2.jpg">   -->
+## Future of the Biosphere: New Mass Extinction?
+<hr>
+**Present-day extinction rate is 1,000 to 10,000 times the background extinction rate because of deforestation, habitat loss, overhunting, pollution, climate change, and other human activities**
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/extinction2.jpg">
