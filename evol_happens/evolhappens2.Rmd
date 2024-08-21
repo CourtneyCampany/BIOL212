@@ -7,6 +7,51 @@ output:
     smaller: true
 ---
 
+## What BIOL 211/212 are all about...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/211212.png">
+
+## What BIOL 211/212 are all about...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/hierarchy.png">
+
+## Day 1 Advice - Work with me, not against me
+<hr>
+<br/>
+
+* **It is up to <span style="color:gold">YOU</span> to seek help when needed and/or inform me of any issues**
+    + I can't help if I dont know what is going on
+    + You are NOT bothering me! 
+
+<br/>
+
+* **Email is the best way to contact me outside of class**
+    + Make sure your question in not answered in the syllabus!
+
+<br/>
+
+* **Office Hours are awesome, I promise!**
+    + There will be no judgement, we will just get to work
+    + Alternative: You can always swipe my in at Ram's Den
+    
+<br/>
+
+* **In Class: Keep the lines of communication working!**
+    + Not enough days for homework, lecture slides, etc. 
+    
+<IMG STYLE="position:absolute; TOP:300px; LEFT:670px; WIDTH:400px; HEIGHT:250px" SRC="images/youme.png">
+
+## Day 1 Advice - DONT SKIP
+<hr>
+<br/>
+
+* **Class attendance correlates with high performance**
+    + Study after study after study shows that class attendance is the most important factor contributing to academic success
+    
+<IMG STYLE="position:absolute; TOP:280px; LEFT:300px; WIDTH:400px; HEIGHT:400px" SRC="images/testscores.png">
+
 ## Hash tags for each lecture...
 <hr>
 <br/>
