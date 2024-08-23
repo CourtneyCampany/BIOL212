@@ -32,13 +32,13 @@ output:
 
 <br/>
 
-* **Office Hours are awesome, I promise!**
+* **~~Office~~ Student Hours are awesome, I promise!**
     + There will be no judgement, we will just get to work
     + Alternative: You can always swipe my in at Ram's Den
     
 <br/>
 
-* **In Class: Keep the lines of communication working!**
+* **In Class: Keep the lines of communication flowing!**
     + Not enough days for homework, lecture slides, etc. 
     
 <IMG STYLE="position:absolute; TOP:300px; LEFT:670px; WIDTH:400px; HEIGHT:250px" SRC="images/youme.png">
@@ -52,15 +52,15 @@ output:
     
 <IMG STYLE="position:absolute; TOP:280px; LEFT:300px; WIDTH:400px; HEIGHT:400px" SRC="images/testscores.png">
 
-## Hash tags for each lecture...
+## Hash tags (*Things to know*) for each lecture...
 <hr>
 <br/>
 
 * **Use these as your study guides. Each one is a concept (not a definition).**
     + I use them to write the exam
     + Create a checklist - cross them off as you study
-    + Use office hours for ones you don't quite get
-    + Start with hashtags and expand outward when studying
+    + Use student hours for ones you don't quite get
+    + Start with #s and expand outward when studying
     
 <br/>
 
@@ -68,11 +68,16 @@ output:
 
 <br/>
 
-<span style="color:blue">**#FirstTheories**</span>
+<span style="color:blue">**#EvolutionTheories**</span>
 
 <br/>
 
 <span style="color:blue">**#SharedAncestry**</span>
+
+## What is evolution?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/evolve.jpg">
 
 ## Sedimentary rocks reveal the vastness of geologic time
 <hr>
@@ -132,8 +137,8 @@ output:
 <br/>
 
 * **(1) Theory of use and disuse**
-    + body parts used: **<span style="color:red">?</span>**
-    + body parts disused: **<span style="color:red">?</span>**
+    + body parts used: **<span style="color:red">enhanced</span>**
+    + body parts disused: **<span style="color:red">minimized</span>**
 
 <br/>
 
@@ -142,7 +147,7 @@ output:
     
 <br/>
 
-* **The long muscular neck of Giraffes**
+* **The long muscular neck of Giraffes...**
 
 </div>
 
@@ -178,7 +183,7 @@ output:
 
 </div>
 
-## Vestigial traits: leftover structures
+## Vestigial traits: leftover structures that have lost their function
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:600px; HEIGHT:450px" SRC="images/whales2.jpg">
@@ -210,7 +215,7 @@ output:
 
 <div style="float: left; width: 48%;">
 
-* **Next Time: How did this actually happen?**
+* **Next Time: <span style="color:darkred">How did giraffes really evolve longer necks?</span>**
 
 </div>
 
