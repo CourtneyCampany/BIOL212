@@ -87,14 +87,22 @@ output:
 
 ## 
 
+<div style="float: right; width: 50%;">
+    
+* **Geology and fossils reveal key facts:**
+1. The Earth and life on Earth are old
+2. Fossils look very different across geologic time
+
+</div>
+
 <IMG STYLE="position:absolute; TOP:10px; LEFT:10px; WIDTH:400px; HEIGHT:680px" SRC="images/reef.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/reef2.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/reef2.jpg">
 
 ## Georges Cuvier (1769-1832): The concept of extinction
 <hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mastodon.jpg">
+**Cuvier's finding refute the idea of species permanence**
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mastodon.jpg">
 
 ## 99% of all species that have existed have already gone extinct!!!
 <hr>
@@ -143,7 +151,7 @@ output:
 <br/>
 
 * **(2) Inheritance of acquired characteristics**
-    + changes can be passed to offspring
+    + <span style="color:green">changes can be passed to offspring</span>
     
 <br/>
 
@@ -159,7 +167,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/skeelo.jpg">
 
-## Transitional Forms
+## Transitional Forms Exist in the Fossil Record
 <hr>
 <br/>
 <br/>
