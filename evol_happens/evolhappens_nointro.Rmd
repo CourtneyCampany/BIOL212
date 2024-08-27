@@ -1,0 +1,230 @@
+---
+title: "Evolution Happens!"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+<!-- ## What BIOL 211/212 are all about... -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/211212.png"> -->
+
+<!-- ## What BIOL 211/212 are all about... -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/hierarchy.png"> -->
+
+<!-- ## Day 1 Advice - Work with me, not against me -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- * **It is up to <span style="color:gold">YOU</span> to seek help when needed and/or inform me of any issues** -->
+<!--     + I can't help if I dont know what is going on -->
+<!--     + You are NOT bothering me!  -->
+
+<!-- <br/> -->
+
+<!-- * **Email is the best way to contact me outside of class** -->
+<!--     + Make sure your question in not answered in the syllabus! -->
+
+<!-- <br/> -->
+
+<!-- * **~~Office~~ Student Hours are awesome, I promise!** -->
+<!--     + There will be no judgement, we will just get to work -->
+<!--     + Alternative: You can always swipe my in at Ram's Den -->
+
+<!-- <br/> -->
+
+<!-- * **In Class: Keep the lines of communication flowing!** -->
+<!--     + Not enough days for homework, lecture slides, etc.  -->
+
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:670px; WIDTH:400px; HEIGHT:250px" SRC="images/youme.png"> -->
+
+<!-- ## Day 1 Advice - DONT SKIP -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- * **Class attendance correlates with high performance** -->
+<!--     + Study after study after study shows that class attendance is the most important factor contributing to academic success -->
+
+<!-- <IMG STYLE="position:absolute; TOP:280px; LEFT:300px; WIDTH:400px; HEIGHT:400px" SRC="images/testscores.png"> -->
+
+## Hash tags (*Things to know*) for each lecture...
+<hr>
+<br/>
+
+* **Use these as your study guides. Each one is a concept (not a definition).**
+    + I use them to write the exam
+    + Create a checklist - cross them off as you study
+    + Use student hours for ones you don't quite get
+    + Start with #s and expand outward when studying
+    
+<br/>
+
+<span style="color:blue">**#FossilClues**</span>
+
+<br/>
+
+<span style="color:blue">**#EvolutionTheories**</span>
+
+<br/>
+
+<span style="color:blue">**#SharedAncestry**</span>
+
+## What is evolution?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/evolve.jpg">
+
+## Sedimentary rocks reveal the vastness of geologic time
+<hr>
+<span style="color:darkred">**Fossils are glimpses into the past...**</span>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/SedimentaryStrata.jpg">
+
+## 
+
+<div style="float: right; width: 50%;">
+    
+* **Geology and fossils reveal key facts:**
+1. The Earth and life on Earth are old
+2. Fossils look very different across geologic time
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:10px; LEFT:10px; WIDTH:400px; HEIGHT:680px" SRC="images/reef.jpg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/reef2.jpg">
+
+## Georges Cuvier (1769-1832): The concept of extinction
+<hr>
+**Cuvier's finding refute the idea of species permanence**
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mastodon.jpg">
+
+## 99% of all species that have existed have already gone extinct!!!
+<hr>
+**Scientists after Cuvier (i.e., Darwin) now had to account for <span style="color:blue">extinction</span> as fact**
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<span style="color:blue">**Example: Wooly Mammoths appear and then disappear in the fossil record.**</span>
+
+<IMG STYLE="position:absolute; TOP:191px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/extinct.png">
+
+## Jean-Baptiste de Lamarck: Famous for being wrong
+<hr>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Lines of descent (early evolution theory)**
+    + compared living giraffes  with fossil forms
+    + evolution =  simple to more complex
+
+<br/>
+
+* **(1) Theory of use and disuse**
+    + body parts used: **<span style="color:red">enhanced</span>**
+    + body parts disused: **<span style="color:red">minimized</span>**
+
+<br/>
+
+* **(2) Inheritance of acquired characteristics**
+    + <span style="color:green">changes can be passed to offspring</span>
+    
+<br/>
+
+* **The long muscular neck of Giraffes...**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
+
+## According it Lamarck, Skee-Lo could get his wish
+<hr>
+<span style="color:darkred">**I wish I was like six-foot-nine so I can get with Leoshi...**</span>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/skeelo.jpg">
+
+## Transitional Forms Exist in the Fossil Record
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:500px; HEIGHT:300px" SRC="images/nostril_migration.gif">
+
+<div style="float: right; width: 40%;">
+
+* **There appear to be connections between living things and fossils**
+    + Lamarck and Cuvier
+    + **Intermediate Creatures**?
+
+
+<br/>
+
+* **Whales: past and present**
+    + nostrils
+    + pelvis
+    + hind limbs!
+    + unique skulls
+
+</div>
+
+## Vestigial traits: leftover structures that have lost their function
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:600px; HEIGHT:450px" SRC="images/whales2.jpg">
+
+## Vestigial traits: leftover structures
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:600px; HEIGHT:450px" SRC="images/whales2.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/humans.jpg">
+
+## Traits connections argue for <span style="color:blue">*Shared Ancestry*</span>
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/TransitionToSea.jpg">
+
+## Evolution as descent with modification
+<hr>
+<br/>
+
+**The fossil record lets us explore the ancestors that anything living (including us) evolved from**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Next Time: <span style="color:darkred">How did giraffes really evolve longer necks?</span>**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:485px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">

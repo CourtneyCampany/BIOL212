@@ -45,14 +45,18 @@ output:
 ## *Population* = group of individuals of same species, coexisting in the same time and place, with the potential of interbreeding 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/penguins.jpg">
 
-## BIOL211 review: change in *genetic composition*
+## What does change in *genetic composition* mean?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:500; HEIGHT:450px" SRC="images/dna.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:500; HEIGHT:450px" SRC="images/dna.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/code.jpg">
+## Change in DNA nucleotide sequence (*genotype*) that leads to a alternate version of a trait (*phenotype*)
 
-## 6 genetically distinct lineages of giraffes
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:500; HEIGHT:450px" SRC="images/dna.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/genopheno.jpg">
+
+## At least 6 genetically distinct lineages of giraffes exist
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/giraffe.jpg">
@@ -87,7 +91,7 @@ output:
     + characteristics that enhance fitness
     + these characteristics are heritable
 <br/>
-* **Related organisms live in different habitats, so they gradually accumulate changes to be better suited to that habitat (<span style="color:blue">adaptation</span>)**
+* **Different populations of organisms live in different habitats, so they gradually accumulate changes to be better suited to that habitat (<span style="color:blue">adaptation</span>)**
 
 <br/>
 
@@ -104,7 +108,7 @@ output:
 
 <!-- descent with modification -->
 
-## Evolution by Natural Selection rules (1)
+## Evolution by natural selection rules (1)
 <hr>
 
 <div align="center">
@@ -112,7 +116,7 @@ output:
 **(1) Individuals in a population vary in their traits**
 
 <br/>
-**?What is a trait?**
+**trait is an observable and measurable characteristic of an organism phenotype**
 
 <br/>
 **<span style="color:blue">Trait variation comes from random mutations</span>**
@@ -120,7 +124,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/butterflywings.jpg">
 
-## Evolution by Natural Selection rules (2)
+## Evolution by natural selection rules (2)
 <hr>
 <br/>
 <br/>
@@ -133,9 +137,9 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/heritable.png">
+<IMG STYLE="position:absolute; TOP:325px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/heritable.png">
 
-## Evolution by Natural Selection rules (3)
+## Evolution by natural selection rules (3)
 <hr>
 
 <div align="center">
@@ -151,16 +155,16 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/survival.png">
 
-## Evolution by Natural Selection rules (4)
+## Evolution by natural selection rules (4)
 <hr>
 
 <div align="center">
 
-**(4) Individuals with certain heritable traits are more likely to survive and reproduce (adaptation)**
+**(4) Individuals with certain heritable traits are more likely to survive and reproduce (<span style="color:blue">adaptation</span>)**
 
 <br/>
 
-* **Individuals with certain traits produce more offspring than those without those traits (selection)**
+* **Individuals with certain traits produce more offspring than those without those traits (<span style="color:blue">selection</span>)**
 <br/>
 * **<span style="color:blue">Individuals are selected naturally, by the environment</span>**
 <br/>
@@ -179,7 +183,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Droughts cause shifts in beaks of finches on the Galapagos Islands**
-    + selection pressures from a single food source
+    + selection pressures from food availability (seeds) changed as certain plants suffered from drought
 
 <br/>
 
