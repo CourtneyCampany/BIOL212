@@ -50,7 +50,7 @@ output:
 <br/>
 
 * **Often: male 'showiness' in nature**
-    + benefits versus risks...
+    + benefits and risks of showiness...
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/matechoice.jpg">
@@ -89,7 +89,7 @@ output:
 
 <div style="float: left; width: 45%;">
 
-* **'Choosiness' drives this competition**
+* **'Choosiness' drives competition**
     + usually between males
     
 <br/>
@@ -233,9 +233,12 @@ https://www.youtube.com/watch?v=CQ1VQ-4LYAI
 ## Runaway sexual selection
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/peacock.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/peacock.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:585px; WIDTH:450px; HEIGHT:450px" SRC="images/widowbird.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/widowbird.jpg">
+
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:515px; WIDTH:525px; HEIGHT:450px" SRC="images/widow1.png">
 
 ## Breaking the binary
 <hr>
