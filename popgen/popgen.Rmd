@@ -40,13 +40,13 @@ output:
 <br/>
 
 * **Allele: a variant of a gene**
-    + 'A' = ACTGATCCCGATCCCGATAAATAGG
+    + 'A' allele for flower color = ACTGATCCCGATCCCGATAAATAGG
     + sequence is transcibed into mRNA then translated to red pigment
     
 <br/>
 
 * **Another allele is possible with a different sequence**
-    + 'a' = ACTGATCCCGATC**TT**GATAAATAGG
+    + 'a' allele for flower color = ACTGATCCCGATC**TT**GATAAATAGG
     + new allele 'a' gives white pigment
 
 <br/>
@@ -112,7 +112,7 @@ output:
 * **Broken CFTR gene = protein channel not working properly**
     + misfolded and/or not in membrane
     + cannot open channel gate
-    + insufficient quantities
+    + insufficient quantities to lubricate cells
     
 <IMG STYLE="position:absolute; TOP:345px; LEFT:670px; WIDTH:350px; HEIGHT:200px" SRC="images/cfprotein.jpg">
 
@@ -147,6 +147,7 @@ AA or Aa or aa
 
 * **Fertilization from haploid gametes (1N)**
     + gametes = reproductive cells (sperm and eggs)
+    + have only one copy of a chromosome (meiosis)
     
 <br/>
 
@@ -241,14 +242,14 @@ AA or Aa or aa
 
 ## Hardy Weinberg describes a population NOT evolving
 <hr>
-<span style="color:blue">**So, allele frequencies should stay the from one generation to the next**</span>
+<span style="color:blue">**Allele and geneotype should stay the from one generation to the next**</span>
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/HW_conditions.jpg">
 
-## Does Hardy Weinberg occur in nature? .... Kinda
+## Does Hardy Weinberg equilbrium occur in nature? .... Kinda
 <hr>
 <br/>
 
-* **Allele and genetic frequencies *do* change over time in populations**
+* **Allele and geneotype frequencies *do* change over time in populations**
 
 <br/>
 
@@ -260,7 +261,7 @@ AA or Aa or aa
 * **Populations can evolve *very* slowly**
     + really low mutations rates
     + takes many many generations
-    + makes it hard to detect frequency change in alleles
+    + makes it hard to detect frequency change in alleles from one generation to the next
     
 <br/>
 
@@ -295,19 +296,19 @@ AA or Aa or aa
 
 **One year later, we observed 650 otters in the same location. How many individuals would you expect to be brown, assuming our population did not evolve?**
 
-## 
-<br/>
-<br/>
+<!-- ##  -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-**The hard content is from today - pop gen covers 2 lectures**
+<!-- **The hard content is from today - pop gen covers 2 lectures** -->
 
-<br/>
+<!-- <br/> -->
 
-**Harder soybean exercise in book, also on Mastering**
+<!-- **Harder soybean exercise in book, also on Mastering** -->
 
-<br/>
+<!-- <br/> -->
 
-**The practice questions and the Mastering homeworks ?'s = quiz/test material**
+<!-- **The practice questions and the Mastering homeworks ?'s = quiz/test material** -->
 
 
 
