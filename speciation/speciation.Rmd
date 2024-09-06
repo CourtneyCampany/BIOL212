@@ -15,11 +15,11 @@ output:
 <br/>
 
 <div style="float: right; width: 50%;">
-* **Microevolution happens at the population level (natural selection, genetic drift, gene flow)**
+* **<span style="color:blue">Microevolution</span> happens at the population level (natural selection, genetic drift, gene flow)**
 
 <br/>
 
-* **Macroevolution: *Speciation* events form evolutionary independent populations**
+* **<span style="color:blue">Macroevolution</span>: *Speciation* events form evolutionary independent populations**
 
 <br/>
 
@@ -60,11 +60,11 @@ output:
 
 <div style="float: left; width: 48%;">
 
-* **Textbooks: A group of populations whose members have the potential to interbreed in nature and produce viable offspring**
+* **Textbooks: A group of populations whose members have the *potential to interbreed* in nature and produce viable offspring**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/finches.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:505px; WIDTH:600px; HEIGHT:400px" SRC="images/finches.png">
 
 ## Biological Species Concept: Unity of reproduction
 <hr>
@@ -95,7 +95,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/snail.jpg">
 
-## Mechanisms of reproductive isolation? (Fig 24.3)
+## Mechanisms of reproductive isolation in Meadowlarks
 <hr>
 <br/>
 
@@ -117,7 +117,7 @@ output:
 
 <br/>
 
-* **Asexual reproduction**
+* **Asexual reproduction is unaccounted for...**
     + *Belloid* rotifers haven’t
 reproduced sexually for > 80 million years 
     + An estimated 2000 species of asexual rotifers are known
@@ -128,7 +128,7 @@ reproduced sexually for > 80 million years
 
 ## Morphological Species Concept: Unity of body plans
 <hr>
-
+**MSC solves issues with fossils and asexual organisms**
 <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:750px; HEIGHT:450px" SRC="images/morph.png">
 
 ## Issues with the morphological species concept
@@ -154,9 +154,9 @@ reproduced sexually for > 80 million years
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:500px; HEIGHT:400px" SRC="images/mimic.png">
 
-## Phylogenetic Species Concept: Unity of ancestry
+## Lineage Species Concept: Unity of ancestry
 <hr>
-
+**LSC uses genetic similarity/differences to determine species but is subjective in the magnitude of differences needed.**
 <IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/phylo.jpg">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:615px; WIDTH:450px; HEIGHT:300px" SRC="images/phylo2.gif">
@@ -168,8 +168,8 @@ reproduced sexually for > 80 million years
 
 ## Allopatric speciation in Hawaiian fruit flies
 <hr>
-**Hawaiian islands form through time. Fruit flies from one population migrate to a new island (physical separation) and have formed many new species**
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/allo_fruit.jpg">
+**Hawaiian islands form through time. Fruit flies from one population migrate to a new island (physical separation) and have formed many new species.**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/allo_fruit.jpg">
 
 ## Allopatric speciation in shrimp
 <hr>
