@@ -219,19 +219,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:600px; HEIGHT:300px" SRC="images/selection.gif">
 
-## 
+## Natural Selection: Directional selection of heritable traits
+<hr>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/directional.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/directional2.png">
 
-## 
+## Natural Selection: Diversifying selection of heritable traits
+<hr>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/disrupt.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/diversifying.png">
 
-##
+## Natural Selection: Stabilizing selection of heritable traits
+<hr>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/stable.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/stablilizing.png">
 
-
-##
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/birth.jpg">
