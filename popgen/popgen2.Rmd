@@ -62,16 +62,6 @@ knitr::opts_chunk$set(echo = FALSE)
       
 <IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:350px; HEIGHT:400px" SRC="images/beetle.jpg">
 
-## Hypothetical coin flips to choose 2 alleles
-<hr>
-* **Expected frequencies of alleles are just mathematical probability (not certainty)**
-
-<br/>
-
-* **In small populations should we expect the allele frequencies to remain identical across generations?**
-
-<IMG STYLE="position:absolute; TOP:295px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/genetic-drift-chart.jpg">
-
 ## Allele frequencies change in beetles: Genetic Drift
 <hr>
 <br/>
@@ -93,6 +83,16 @@ knitr::opts_chunk$set(echo = FALSE)
     + did it matter if alleles were dominant or recessive? or better suited?
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/beetlesmush.png">
+
+## Hypothetical coin flips to choose 2 alleles
+<hr>
+* **Expected frequencies of alleles are just mathematical probability (not certainty)**
+
+<br/>
+
+* **In small populations should we expect the allele frequencies to remain identical across generations?**
+
+<IMG STYLE="position:absolute; TOP:295px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/genetic-drift-chart.jpg">
 
 ## Mechanism of Genetic Drift: Founder Effect
 <hr>
