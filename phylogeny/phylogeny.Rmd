@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## Connecting classification with phylogeny
+## Connecting classification with systematics
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:500px; HEIGHT:450px" SRC="images/class.jpg">
@@ -30,23 +30,22 @@ output:
 ##
 <br/>
 <br/>
-<br/>
 
 <div style="float: right ; width: 45%;">
+* **<span style="color:blue">What makes a bird a bird?</span>**
 
-* **Critical innovations: Derived traits**
+<br/>
+
+* **Critical innovations = <span style="color:blue">Shared Derived Character</span>**
     + adaptive traits that define new taxa
     + marked with 'slashes' on tree
-    + <span style="color:blue">'shared derived character'</span> in book
-    + evolutionary novelties
+    + evolutionary novelties to distinguish taxa
 
 <br/>
 
-* **Shared ancestral traits: a trait that is found in the ancestor of a group and all of the derived taxa have the trait**
+* **<span style="color:blue">Shared ancestral character</span>: a trait that is found in the ancestor of a group and all of the derived taxa have the trait**
+    + common ancestor for all taxa at *root* of the tree
 
-<br/>
-
-* **What makes a bird a bird?**
 </div>
 
 
@@ -125,6 +124,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/draw.jpg">
 
+## Visualizig Parsimony (homology vs analogy)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/parsimony.jpg">
+
+
 ## Whale Evolution: A Case History
 <hr>
 <br/>
@@ -136,8 +141,8 @@ output:
 
 <br/>
 
-* **Atiodactyl: mammals - cows, deer and hippos** 
-    + hooves, even number of toes
+* **Atiodactyl mammals = cows, deer and hippos** 
+    + hooves with even number of toes
     + unusual pulley-shaped ankle bone
 
 <br/>
@@ -157,7 +162,7 @@ output:
 <div style="float: right ; width: 50%;">
 
 * **How do we determine evol'n relationships?**
-    + morphology - presence/absence of weird ankle bone
+    + morphology - presence/absence of ankle bone
     + DNA sequences - shared gene families
 
 <br/>
@@ -167,7 +172,7 @@ output:
 
 <br/>
 
-* **Molecular data suggests a closer relationship between whales and hippos...**
+* **Modern genetic data suggests a closer relationship between whales and hippos...**
 
 </div>
 
