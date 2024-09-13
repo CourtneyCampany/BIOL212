@@ -80,7 +80,7 @@ output:
 <br/>
 
 * **~20 species described (fossils) in the tribe**
-    + several genera
+    + at least 3 different genera (e.g., *Homo*)
     + brain size, teeth shape, body size
     + inferred tool use/culture/language
     + species had different combos of each
@@ -95,7 +95,7 @@ output:
 
 <br/>  
    
-* **We (*Homo sapiens*) are the sole surviving lineage**
+* **We (*Homo sapiens*) are the sole surviving taxon**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/ardi.jpg">
 
@@ -105,13 +105,13 @@ output:
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/hominidtree.jpg">
 
 ## 
+<div style="float: left; width: 45%;">
 **Hominin evolution:**
 <br/>
-**brain volume**
-<br/>
-**form and function**
+**brain volume increases over macroevolutionary events**
+</div>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:600px; HEIGHT:600px" SRC="images/brain.gif">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:400px; WIDTH:600px; HEIGHT:600px" SRC="images/brain.gif">
 
 ## Hominin evolution: The jaw (form and function)
 <hr>
@@ -139,7 +139,7 @@ output:
 
 <div style="float: right; width: 72%;">
 
-* **All but the 4 most recent species are found on the African continent**
+* **All but the 4 most recent species were found only on the African continent**
 
 <br/>
 
@@ -231,7 +231,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/outafrica.jpg">
 
-## *H.neandertalensis* and *H.sapiens* co-occured
+## *H.neandertalensis* and *H.sapiens* interacted!
 <hr>
 <br/>
 
@@ -293,5 +293,5 @@ output:
 **Newish Traits** = Cooler body temperatures, less hair, smaller jaws and teeth
 <br/>
 
-**Regional populations adaptions** = surface area:volume by climate (regional), nose and lips shapes by climate, strait hair in cool climates, eye lid folds in Asian populations to protect eye from UV, thicker fat in artic populations, large brain volumes in cold, climates, reemergence of lactase, skin color and vitamin D synthesis by region, resistance to malaria, increased susceptibility to allergies/asthma
+**Regional populations adaptions** = surface area:volume by climate (regional), nose and lips shapes by climate, strait hair in cool climates, eye lid folds in Asian populations to protect eye from UV, thicker fat in artic populations, large brain volumes in cold climates, reemergence of lactase, skin color and vitamin D synthesis by region, resistance to malaria, increased susceptibility to allergies/asthma
 <IMG STYLE="position:absolute; TOP:290px; LEFT:225px; WIDTH:700px; HEIGHT:400px" SRC="images/humansevolve.jpg">
