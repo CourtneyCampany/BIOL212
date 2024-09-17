@@ -75,7 +75,7 @@ output:
 <br/>
 <div style="float: left; width: 68%;">
 
-* **Ancestor was a single-cell, bacterium-like organism**
+* **Ancestor was likely a single-cell, bacterium-like organism**
     + Last Universal Common Ancestor <span style="color:blue">**(LUCA)**</span>
     + ~4 billion years ago
 
@@ -107,7 +107,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/oldlife.png">
 
-## Prokaryotes matter: First fossils
+## Prokaryotes: First fossils
 <hr>
 <br/>
 <br/>
@@ -122,7 +122,7 @@ output:
 <br/>
 
 * **Cyanobacteria form stromatolites**
-    + undisputed fossils = 3.5 bya
+    + first undisputed fossils = 3.5 bya
     + western Australia has living examples
     + layers of calcium carbonate precipitated over bacterial colonies
 
@@ -195,7 +195,7 @@ output:
 
 * **Major component of the <span style="color:purple">bacterial</span> cell wall is <span style="color:purple">peptidoglycan</span>**
     + rigid structure 
-    + specific only to prokaryotes
+    + specific only to bacterial prokaryotes
     
 </div>
 
@@ -269,7 +269,7 @@ output:
 <br/>
 
 * **Small**
-    + microscopic to poppy seed
+    + microscopic to size of a poppy seed
 
 <br/>
 
