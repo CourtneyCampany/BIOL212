@@ -36,7 +36,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:490px; LEFT:700px; WIDTH:300px; HEIGHT:200px" SRC="images/yellowstone.jpg">
 
-## Prokaryotes do it all! (review Table 27.1)
+## Prokaryotes do it all!
 <hr>
 <br/>
 
@@ -52,8 +52,8 @@ output:
 
 * **Energy for ATP (no mitochondria)**
     + sunlight
-    + organic molecules
-    + inorganic molecules
+    + breakdown of organic molecules
+    + breakdown of inorganic molecules
  
 <br/>
 
@@ -74,7 +74,7 @@ output:
 ## Prokaryotes need nitrogen and may need oxygen
 <hr>
 
-* **Metabolism varies with respect to oxygen**
+* **Metabolism varies with respect to oxygen (reflect deep evolutionary history)**
     + use for cellular respiration
     + or poisoned by it!
     + some can extract chemical energy from nitrite or sulfate
@@ -82,7 +82,7 @@ output:
  <br/>
  
 * **Nitrogen is essential for production of amino acids**
-    + prokaryotes less limited in obtaining nitrogen
+    + prokaryotes less limited in obtaining nitrogen compared to other organisms
  
  <br/>
  
@@ -97,7 +97,7 @@ output:
 </div>
 <IMG STYLE="position:absolute; TOP:400px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/photonitro.jpg">
 
-## Metabolic cooperation leads to *Biofilms*
+## Metabolic cooperation by bacteria leads to *Biofilms*
 <hr>
 <br/>
 
@@ -142,8 +142,7 @@ output:
 <div style="float: left; width: 45%;">
 
 * **Asexual: daughter cells identical to parent**
-    + rapid reproduction
-    + not sustainable!
+    + rapid reproduction via mitosis
     + not great for genetic diversity
 
 <br/>
@@ -269,7 +268,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/bif.jpg">
 
-## Prokaryotes matter: Oxygen Revolution
+## Prokaryotes matter: Oxygen Revolution via cyanobacteria
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:75px; WIDTH:950px; HEIGHT:500px" SRC="images/goe2.jpg">
@@ -284,7 +283,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:650px; HEIGHT:500px" SRC="images/species.png">
 
-## Prokaryotes matter: Microbiomes
+## Prokaryotes matter: Microbiomes in Animals
 <hr>
 <span style="color:purple">**Helps with digestion, destroys harmful bacteria and helps control your immune system.**</span>
 

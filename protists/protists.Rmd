@@ -47,8 +47,8 @@ output:
 <br/>
 
 * **First undisputed fossils ~1.8 bya**
-    + many have no hard parts
     + spherical algal protists
+    + many protists no hard parts
     + ancestry unresolved
 
 </div>
@@ -56,12 +56,12 @@ output:
 <IMG STYLE="position:absolute; TOP:225px; LEFT:545px; WIDTH:500px; HEIGHT:400px" SRC="images/protist_collage.jpg">
 
 
-## Tiny Cambrian acritarch Reticella corrugata - 1.7bya
-<hr>
+<!-- ## Tiny Cambrian acritarch Reticella corrugata - 1.7bya -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:700px; HEIGHT:500px" SRC="images/algalfossil.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:700px; HEIGHT:500px" SRC="images/algalfossil.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/algalfossil2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/algalfossil2.jpg"> -->
 
 ## 
 
@@ -146,10 +146,10 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/nuclearenvelope2.jpg"> -->
 
-## Endomembrane system: Outside in or Inside out?
-<hr>
+<!-- ## Endomembrane system: Outside in or Inside out? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/outin.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/outin.jpg"> -->
 
 
 <!-- ##  -->
@@ -165,7 +165,7 @@ output:
 
 <br/>
 
-* **Both organelles replicate by fission, as do bacteria** 
+* **Both organelles replicate independently by fission, as do bacteria** 
     + have their own ribosomes to make their own proteins
       
 <br/>
@@ -217,15 +217,15 @@ output:
 ## Eukaryotes have diverse sex lives
 <hr>
 
-* **Haplonic life cycles**: most life spent with one set of chromosomes
+* **Haplonic life cycles**: most life spent with one set of chromosomes (1N)
     + zygote only diploid &rarr; <span style="color:red"> meiosis</span> into daughter cells
-    + some multi-celluar algae, fungi
+    + all cells are haploid (some multi-celluar algae, and fungi)
 
 <br/>
 
-* **Diplonic life cycles**: most life with pairs of chromosomes
+* **Diplonic life cycles**: most life with pairs of chromosomes (2N)
     + sex cells (gametes) are haploid via meiosis &rarr; then fuse
-    + animals
+    + body cells (e.g., animals) are all diploid
     
 <br/>
 
