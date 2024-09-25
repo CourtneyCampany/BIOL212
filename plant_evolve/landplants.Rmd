@@ -7,8 +7,9 @@ output:
     smaller: true
 ---
 
-## Protists that share traits with plants
+## What organism is the common ancestor to plants?
 <hr>
+**Many Protists share traits with plants**
 <br/>
 
 * **Dinoflagellates - unicellular aquatic**
@@ -68,11 +69,11 @@ output:
 <br/>
 
 * **Plants evolved from green algae**
-    + several key *'shared traits'*
+    + several key *'shared derived traits'*
 
 <br/>
 
-* **Plants support all life on earth**
+* **Plants support all other life on land**
     + oxygen to breath
     + food to eat
     + new habitats for animals
@@ -91,8 +92,8 @@ output:
     + all are <span style="color:blue">*photosynthetic*</span>
     + marine and <span style="color:blue">*freshwater*</span>
     + single and <span style="color:blue">*multi-cellular*</span>
-    + broad, thick filaments</span>
-    + some have <span style="color:blue">*AoG*
+    + broad, thick filaments (not stems)
+    + some have <span style="color:blue">*A.o.G*
     + evolved around <span style="color:blue">*~750mya*</span>
     
 <br/>
@@ -100,12 +101,7 @@ output:
 * **Reproductive features:**
     + <span style="color:blue">*Oogonia*</span> = egg containing cell
     + <span style="color:blue">*Antheridium*</span> = sperm containing cell
-
-<br/>
-
-* **<span style="color:blue">Know these!</span>**
-
-
+    + these 'houses' for egg and sperm are protections from the environment
 </div> 
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:575px; WIDTH:350px; HEIGHT:300px" SRC="images/sister.jpg">
@@ -114,7 +110,7 @@ output:
 
 ## Molecular evidence points at charophytes as plant ancestors
 <hr>
-**<span style="color:blue">Similar families of genes now that we have the chara genome</span>**
+**<span style="color:blue">Many shared gene families with plants, now that we have the chara genome</span>**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/stonewort.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/chara2.jpg">
@@ -134,7 +130,7 @@ output:
 
 <br/>
 
-* **More shared traits with land plants:<span style="color:blue">know one or two!</span>**
+* **More shared traits with land plants:<span style="color:blue">know a few!</span>**
     + circular protein rings in plasma membrane
     + make cellulose fibers in cell wall
     + swimming sperm with similar structure
@@ -155,7 +151,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:460px" SRC="images/phlyo.jpg">
 
-## Shared Traits define land plant evolution
+## Shared derived traits define land plant evolution
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/basicplantphylo.jpg">
@@ -239,8 +235,8 @@ output:
 
 ## Bryophytes have a <span style="color:darkgreen">gametophyte dominated life cycle</span>
 <hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png">
+**Early plants, like moss, have sperm that swim from antheridia to archegonia**
+<IMG STYLE="position:absolute; TOP:210px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png">
 
 ##
 

@@ -235,8 +235,8 @@ output:
 
 <br/>  
 
-* **There are more....Read about *Paramecium* in text book**
-    + parasites require hosts...
+* **There are more....**
+    + parasites require hosts
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:775px; WIDTH:200px; HEIGHT:500px" SRC="images/protistsex.jpg">
 
