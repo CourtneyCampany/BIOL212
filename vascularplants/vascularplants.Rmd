@@ -97,12 +97,12 @@ output:
 
 <br/>
 
-* **Conducting cells provide *biomechanical* support**
-    + *lignin* in cell walls
+* **Conducting cells also provide *biomechanical* support**
+    + <span style="color:blue">*lignin*</span> in cell walls
     + does not rot easily
     + does not collapse easily
     + 'think' bundles of rigid pipes
-    + *allows plant to grow vertically*
+    + *allows plants to grow vertically*
     
 <br/>
 
@@ -147,7 +147,7 @@ output:
 
 * **Absorb water and nutrients**
     + active explorers of soil
-    + often connected with fungi
+    + often in symbiosis with fungi
 
 <br/>
 
@@ -172,6 +172,7 @@ output:
 <br/>
 
 * **<span style="color:darkgreen">Microphylls: single unbranched vein</span>**
+    + *vein*: leaf structure containing xylem + phloem
     + unique to lycophytes (add to phylogeny)
  
 <br/>
@@ -185,7 +186,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/leaves.jpg">
 
-## Evolution of leaves: Sporangium (#3 on Mastering AOG)
+## Evolution of leaves: Sporangium
 <hr>
 
 * **Sporophyll: modified leaf with sporangium**
@@ -197,12 +198,12 @@ output:
 * **<span style="color:darkgreen">Sporangium:  spore container (*house*)</span>**
     + ferns: clusters of sporagnia called '*sori*'
     + lycophytes: '*stobilus*' holds many sporagnia (like a cone)
-    + angiosperms: structures inside flowers
+    + angiosperms: structures inside of flowers
 
 <br/>
 
 * **Spore mother cell: cell inside sporagnium**
-    + undergoes meiosis to make spores
+    + diplod cell (2N) undergoes meiosis to make a spore (1N)
 
 <br/>
 
@@ -217,7 +218,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Sporophyte: The fern you see in the woods**
-    + dominant stage
+    + now the dominant stage of the lifecycle
 
 <br/>
 
@@ -239,8 +240,8 @@ output:
 
 ## Homosphorous life cycle (mostly) with dominant sporophytes
 <hr>
-**<span style="color:darkgreen">Same AOG drawing, sporophytes are larger and long lived, gametophytes are smaller and short lived</span>**
-<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:520px" SRC="images/fernlife.jpg">
+**<span style="color:darkgreen">Sporophytes are larger and long lived, gametophytes are smaller and shorter lived, spore makes bisexual gametophyte lived</span>**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/fernlife.jpg">
 
 ## Lycophytes: First vascular plants
 <hr>
@@ -261,7 +262,7 @@ output:
 <br/>
 
 * **Leaves are microphylls**
-    + fertile leaves have	strobili	(evolved	multiple times)
+    + fertile leaves have	strobili
 
 <br/>
 
@@ -364,8 +365,8 @@ output:
 
 <br/>
 
-* **Archegonia (F) and Antheridia (M) also mature at different times**
-    + if fertilization doesnt happen gametophyte becomes bisexual
+* **Archegonia (F) and Antheridia (M) can develop at different times**
+    + if fertilization doesnt happen, female gametophyte becomes bisexual
 </div>
 
 
