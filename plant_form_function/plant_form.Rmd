@@ -65,13 +65,13 @@ output:
 
 * **Plants extract materials from environment**
     * ~18 essential elements
-    * soil (most)
-    * atmosphere (a few)
-    * materials can be limiting
+      * soil (most)
+      * atmosphere (a few)
+    * these materials can be limiting
 
 <br/> 
 
-* **Above- and belowground body plan**
+* **Above- and belowground body plan to extract resources**
     * connected via vascular tissues
 
 </div>

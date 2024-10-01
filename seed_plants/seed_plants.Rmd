@@ -50,7 +50,7 @@ output:
 
 * **Before seeds, spore was only protective structure** 
     + allowed long-distance dispersal but...
-    + dependent embryo still left exposed
+    + dependent young embryo still left exposed
 
 <br/>
 
@@ -80,17 +80,16 @@ output:
 
 * **Heterosporous life cycle only**
     + *2 kinds of spores*
-    + form male/female gametopytes
+    + form male or female gametopytes
 
 <br/>
 
-* **Ovules (protect female gametophyte)**
-    + sporangium kept inside sporophyte
+* **<span style="color:purple">Ovules</span> (protect female gametophyte)**
     + ovule contains female spores
     
 <br/>
 
-* **Pollen (protect male gametophyte)**
+* **<span style="color:purple">Pollen</span> (protect male gametophyte)**
     + male spores develops into pollen grain
 
     
@@ -181,7 +180,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Male and female cones on same plant (mostly)**
-    + scales &rarr; modified leaves &rarr; sporophyll
+    + cone scales &rarr; modified leaves &rarr; sporophyll
     + sporophyll &rarr; sporangia &rarr; spores
     + pollen (male) and ovulate (female) cones
 
@@ -214,7 +213,7 @@ output:
 
 * **Pollen grain reaches ovule and germinates**
     + pollen tube grows toward megaspore
-    + sperm &rarr; pollen tube &rarr; egg
+    + sperm &rarr; pollen tube &rarr; egg (no water!)
     + seed forms, dispersed by wind
 
 <br/>
