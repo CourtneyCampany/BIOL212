@@ -45,7 +45,7 @@ output:
 ## How stomata work...
 <hr>
 <br/>
-- **<span style="color:darkgreen">CO~2~ enters leaf airspaces and then chloroplasts through concentration gradient</span>**
+- **<span style="color:darkgreen">CO~2~ enters leaf air spaces and then chloroplasts (organelle) through a concentration gradient</span>**
 <br/>
 - **<span style="color:darkgreen">Stomata are not always open....WHY??? </span>**
 
@@ -129,12 +129,13 @@ output:
 * **Photosynthesis is an energy pathway**
     + 2 linked reactions
     + light-dependent reaction + Calvin cycle
+    + light reaction makes chemical products for use in the Calvin cycle
 
  </div>
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/reactions.jpg">
 
-## Chloroplasts: Where the magic happens
+## Chloroplasts: Where the photosynthetic magic happens
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/chlroplasts4.jpg">
@@ -144,17 +145,34 @@ output:
 ## The nature of light
 <hr>
 <br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/light_spectrum.jpg">
+<div style="float: left; width: 45%;">
+
+* **Light is a form on every, characterized by wavelengths**
+
+<br/>
+
+* **Short wavelengths have more energy than long wavelengths**
+
+<br/>
+
+* **Sunlight includes wavelengths in the visible spectrum,  UV, and infrared**
+    + UV is too powerful and infrared to weak for photosynthesis
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/light_spectrum.jpg">
 
 ## When light hits chlorophyll a few things can happen
 <hr>
-
+**Chlorophyll pigments (A & B) absorb different wavelengths in the visible spectrum**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/chlroplasts_light.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/pigments.jpg">
 
-## When pigments absorb photons an electron gets excited
+## When pigments absorb light photons an electron gets excited
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/excite.jpg">
@@ -171,7 +189,7 @@ output:
 
 ## Light reactions: make ATP + NADPH for Calvin cycle
 <hr>
-<br/>
+**<span style="color:darkgreen">ATP = energy molecule, NADPH = electron carrier</span>**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/photosystems2.png">
 
@@ -215,7 +233,7 @@ output:
 
 ## Making sugars requires several cycles
 <hr>
-**<span style="color:darkgreen">Three spins needed to remake RUBP and six spins to make glucose (a 6C molecule) </span>**
+**<span style="color:darkgreen">Three spins needed to remake RUBP and six spins to make glucose (a 6 carbon molecule) </span>**
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin2.jpg">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
