@@ -31,7 +31,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/brains.jpg">
 
-## Plants grow towards light:  Phototropism via Auxin
+## Plants grow towards light:  Phototropism via Auxin hormone
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:550px; HEIGHT:350px" SRC="images/auxin2.jpg">
@@ -83,7 +83,7 @@ output:
 
 <div style="float: left; width: 45%;">
 
-* **Large trees move hundreds of gallons of water a day**
+* **Large trees may move hundreds of gallons of water a day**
     + only small amounts needed for growth/photosynthesis
 
 <br/>
@@ -96,6 +96,7 @@ output:
 <br/>
 
 * **Drying soil adds opposite tension**
+    + water potential of soil becomes more negative
 
 </div> 
 
@@ -111,13 +112,16 @@ output:
 <br/>
 
 <div style="float: left; width: 55%;">
-
-* **Cohesion-tension theory**
-    + plants use water properties to cheat gravity
+* **Transpiration pulls water under tension**
 
 <br/>
 
-* **Cohesion: H~2~0 molecules stick to together**
+* **Cohesion-tension theory**
+    + properties of water help to cheat gravity
+
+<br/>
+
+* **Cohesion: H~2~0 molecules stick together**
     + via Hydrogen bonds
 
 <br/>
@@ -126,9 +130,6 @@ output:
     + stick to sides of xylem tissues
     + H~2~0 not pulled straight up!
 
-<br/>
-
-* **Transpiration pulls water under tension**
 </div> 
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
@@ -190,14 +191,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:230px; WIDTH:640px; HEIGHT:540px" SRC="images/gs_vpd.jpg">
 
-## How plants avoid water problems: Refill soil at night
+## How plants avoid water problems: Refill soil water at night
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:15px; WIDTH:750px; HEIGHT:450px" SRC="images/soil_refilling.png">
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/waterlift.jpg">
 
-## How plants avoid water problems: Alter xylem cell construction
+## How plants avoid water problems: Taper xylem cell shape
 <hr>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
