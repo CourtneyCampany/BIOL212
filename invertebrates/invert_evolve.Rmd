@@ -18,12 +18,12 @@ output:
 
 <br/>
 
-* **Accepted fossils from Ediacaran period (pre-Cambrian)**
+* **Accepted fossils from Ediacaran period (pre-Cambrian, ~600mya)**
     + mollusks, cnidarians and sponges
 
 <br/>
 
-* **Animals diversify across Paleozoic, Mesozoic and Cenozoic**
+* **Animals then diversify across Paleozoic, Mesozoic and Cenozoic**
     + in both aquatic and terrestrial environemnts
     + punctuated by mass extinctions
 
@@ -160,7 +160,7 @@ output:
 
 * **<span style="color:blue">Diploblastic and radial symmetry</span>**
     + motile and sessile (non-moving)
-    + polyp or medusa forms
+    + medusa or polyp forms
 
 <br/>
 
