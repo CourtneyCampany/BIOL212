@@ -20,7 +20,7 @@ output:
 
 * **Deuterostome = Developmental similarities**
     + radial cleavage of embryo
-    + anus forms first
+    + anus forms first (then mouth)
 
 <br/>
 
@@ -143,7 +143,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/Chordates.jpg">
 
-## Lancelets and Tunicates
+## Lancelets and Tunicates (invertebrates)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/squirts.jpg">
@@ -166,7 +166,7 @@ output:
 * **Derived trait = <span style="color:blue">neural crest</span>**
     + special stem cells near neural tube in embryo
     + give rise to many vertebrate traits
-    + e.g.. teeth, skull cartilage, etc
+    + e.g.. teeth, skull, cartilage, etc
 
 </div>
 
@@ -215,6 +215,7 @@ output:
 <br/>
 
 * **Hagfish escape by releasing slime**
+    + slime threads act as hydrogel and rapidly expand when mixed with water
     + researched to stop bleeding in surgery
 
 </div>
@@ -234,11 +235,6 @@ output:
 
 * **Have rudimentary backbones**
     + more cartilage than bone
-
-<br/>
-
-* **Hagfish escape by releasing slime**
-    + researched to stop bleeding in surgery
 
 <br/>
 
