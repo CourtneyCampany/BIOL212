@@ -81,7 +81,7 @@ output:
 * **Fertilized zygote undergoes <span style="color:blue">cleavage</span>**
     + mitotic cell divisions without cell growth
     + rapid division but overall size stays same
-    + protostome vs deuterostome = alignment of cells
+    + protostome vs deuterostome = alignment of these cells
 
 <br/>
 
@@ -171,7 +171,7 @@ output:
 
 <div style="float: left; width: 40%;">
 
-* **Fluid/air spaces between mesoderm layers**
+* **Fluid/air spaces form between mesoderm layers**
     + digestive track and body wall
 
 <br/>   
@@ -322,8 +322,8 @@ output:
     + 'think' whale versus flea
     
 <br/>
-
-* **Internal structures for exchange evolve...**
+ 
+* **Internal structures for exchange evolved...**
     + highly branched or folded
     + e.g., lungs, intestines, kidneys
 

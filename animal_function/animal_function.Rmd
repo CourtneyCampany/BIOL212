@@ -245,7 +245,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/chicadee.jpg">
     
-## Thermoregulation: Insulation
+## Thermoregulation: Insulation reduces heat loss
 <hr>
 <br/>
 
@@ -276,7 +276,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 47%;">
 
 * **Animals can alter blood flow when temperatures change**
     + between internal body and skin
