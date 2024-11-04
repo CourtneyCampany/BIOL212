@@ -98,8 +98,8 @@ output:
 
 * **Central *gastrovascular cavity* functions to distribute substances**
     + opening at one end connects cavity to water
-    + allows fluid to bath inner and outer tissues
-    + *diffusion distance with environment is short*
+    + allows fluid to also bath inner tissues
+    + *diffusion distance with environment is very short*
 
 <br/>
 
@@ -318,7 +318,7 @@ output:
     
 <br/>
  
-* **Efficient surfaces for gas exchange have evolved**
+* **Efficient surfaces for gas exchange have evolved across animals**
 
 </div>
 
@@ -337,7 +337,7 @@ output:
 <br/>
 
 * **Other animals lack enough surface area**
-    + to much inner cells  to supply with O~2~
+    + to many inner cells  to supply with O~2~
 
 <br/>
 
