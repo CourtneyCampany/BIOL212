@@ -205,7 +205,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:375px" SRC="images/bodyfluid.jpg">
 
-## Waste has a large impact on water balance
+## Nitrogen-based waste has a large impact on water balance
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/wastes.jpg">
@@ -246,7 +246,7 @@ output:
 
 * **Excretory systems regulate solute movement**
     + internal fluids &larr; &rarr; environment
-    + key for water balance
+    + key for water balance (releasing or keeping)
 
 <br/>
 
@@ -284,17 +284,24 @@ output:
 ## Excretory systems are diverse in animals
 <hr>
 <br/>  
-<br/> 
-<br/> 
 
 <div style="float: left; width: 55%;">
 
-* **Mammalian Kidneys: filters blood**
+* **Vertebrate Kidneys: filters blood**
     + *nephron*:
     + regions packed with excretory tubules
     + tubules create filtrate from blood
     + fluid reabsorbed and exits via vein
     + *ureter*:
+
+<br/> 
+
+* **In kidneys, urine that leaves is usually far more concentrated that the blood that gets filtered**
+    + key for life on land
+
+<br/> 
+
+* **Mammals have 2 kidneys, both with inner and outer layers that are packed with tubules and capillaries**
 
 </div>
 
