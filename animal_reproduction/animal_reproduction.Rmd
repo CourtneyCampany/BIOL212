@@ -33,7 +33,7 @@ output:
 
 <!-- * **#MammalHormones** -->
 
-## The Big P icture: Variation in animal reproduction exists
+## The Big Picture: Variation in animal reproduction exists
 <hr>
 
 <div style="float: left; width: 60%;">
@@ -249,6 +249,7 @@ output:
 <br/>   
 
 * **Animals usually have *gonads* that produce gametes**
+    + *testes* in males, *ovary* in females
     + often established early in embryo development
 
 <br/>   

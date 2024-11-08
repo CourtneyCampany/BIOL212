@@ -84,7 +84,7 @@ output:
 
 * **Most neurons have a single *axon* to transmit signals**
     + transmit pulses of electrical current
-    + terminals connect nerve cells
+    + *terminals* connect nerve cells
     
 </div>
 
@@ -109,7 +109,7 @@ output:
 * **(1) Sensory reception: **
     + sensory cells are specialized neurons
     + located inside or on outside of body
-    + detect specific stimuli
+    + detect specific types of stimuli
 
 </div>
 
@@ -124,7 +124,7 @@ output:
 <br/>
 
 * **Stimulus receptors change flow of ions across nerve cell membranes**
-    + opens/closes ion channels
+    + opens/closes ion membrane channels along axon
     + Cl^-^, Na^+^, K^+^
 
 <br/>
@@ -168,13 +168,9 @@ output:
 
 ## Action Potential further explained...
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 https://www.youtube.com/watch?v=XnksofQN8_s
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:700px; HEIGHT:450px" SRC="images/actionpot2.jpg">
 
 ## (4) Sensory Perception: Processing the stimulus
 <hr>
@@ -192,7 +188,7 @@ https://www.youtube.com/watch?v=XnksofQN8_s
     
 <br/>
 
-* **Action potentials reach brain via dedicated neural pathways**
+* **Action potentials reach brain/spinal cord via dedicated neural pathways**
     + brain distinguishes stimuli on the path they arrive
     + 100 million neurons with 100 trillion connections = human brain
 
@@ -353,8 +349,8 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 <div style="float: left; width: 55%;">
 
 * **Pain receptors (nocioreceptors) detect stimuli that reflect harmful conditions**
-    + damaged or inflammed tissues
-    + gene mutations can cause C.I.P.
+    + damaged or inflamed tissues
+    + gene mutations can cause chronic insensitivity to pain (C.I.P.) by making nocioreceptos non-functional
     
 <br/>
 
