@@ -227,9 +227,8 @@ output:
 
 ## Forms of communication evolve with animal's environment
 <hr>
-<br/>
 
-<div style="float: left; width: 48%;">
+<div style="float: left; width: 53%;">
 
 * **Many terrestrial mammals are nocturnal**
     + use olfactory and auditory forms
@@ -243,12 +242,12 @@ output:
 
 <br/>
 
-* **The amount of information communicated is variable**
-    + read Honey Bee dance language in book
+* **The amount of information communicated varies**
+    + Bees communicate flower location using special dances. One bee dances, while other bees watch to learn the directions to a specific flower patch. The dancing bee smells like the flower patch, and also gives the watching bees a taste of the nectar she gathered. Smell and taste helps other bees find the correct flower patch.
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:425px; HEIGHT:450px" SRC="images/nocturnal.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/nocturnal.png">
 
 <!-- ##  -->
 

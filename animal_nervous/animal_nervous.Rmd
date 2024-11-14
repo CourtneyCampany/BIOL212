@@ -73,7 +73,7 @@ output:
     + ganglia - clusters of nerves at at key points in the body
 </div>
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:400px; WIDTH:700px; HEIGHT:350px" SRC="images/ganglia.gif">
+<IMG STYLE="position:absolute; TOP:310px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/flatworm.png">
 
 ## Nervous system organization also matches lifestyle
 <hr>
@@ -107,7 +107,7 @@ output:
 
 <br/>
 
-* **Grey matter exists on the outer layer of the spinal cord to link CNS with PNS**
+* **White matter exists on the outer layer of the spinal cord to link CNS with PNS**
  
 </div>
 
@@ -135,7 +135,7 @@ output:
 
 <br/>
 
-* **Nerve bundles include both afferent and efferent neurons**
+* **Nerve bundles include both afferent and efferent neurons, sending signals in opposite directions**
 
 </div>
 
@@ -167,7 +167,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:560px; WIDTH:500px; HEIGHT:450px" SRC="images/cnspns.jpg">
 
-## Sympathetic and Parasympathetic are antagonistic
+## Sympathetic and Parasympathetic divisions are antagonistic
 <hr>
 **Calming and self-maintenance (para) vs Arousal and energy generation (symp)**
 
