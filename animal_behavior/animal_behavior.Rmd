@@ -97,7 +97,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Q1: stimuli that trigger behavior...**
+* **Q1: what stimuli trigger behaviors...**
     + Tinbergen kept fish tanks with stickleback fish
     + Males = red belly; Females= no red belly
 
@@ -108,7 +108,8 @@ output:
 
 <br/>
 
-* **Fixed Action Pattern: **
+* **What mechanism regulates the response...?**
+    + <span style="color:red">Fixed Action Pattern:</span>
     + developmentally 'fixed' &rarr; *innate* behavior
     + trigger = *specific stimulus* (i.e. red color)
 
