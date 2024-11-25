@@ -51,12 +51,12 @@ output:
 
 * **Climate: ** 
     + i.e. temperature, precipitation, sunlight & wind
-    + often 30 year averages
+    + often long term averages (30 year)
 
 <br/>
 <br/>
 
-* **Global climate depends on the amount of energy received by the sun and the amount of energy that is trapped in the system (e.g., atmosphere, living things).**
+* **Global climate depends on the amount of energy received by the sun and how that energy flows through the biosphere (e.g., atmosphere, living things).**
     + Different regions can have different climates.
     + Different regions may have seasons, where climate fluctuates
 
@@ -73,7 +73,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:245px; LEFT:225px; WIDTH:650px; HEIGHT:400px" SRC="images/climate2.png">
 
-## Climate varies by latitude, with temperature &  seasons
+## Climate is driven by the sun's energy, which varies by latitude
 <hr>
 <br/>
 
@@ -125,7 +125,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/seasons.jpg">
 
-## Climate varies by latitude
+## Climate zones exist by latitude
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/latitude.png">

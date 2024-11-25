@@ -57,7 +57,7 @@ output:
     
 <br/>
 
-* **Population size and Density is not static**
+* **Population size and density is dynamic**
     + migration in and out of populations
     + births & deaths
     + motility
@@ -88,7 +88,7 @@ output:
     
 <br/>
 
-* **Girl power!**
+* **Female power!**
     + only females produce offspring
     + how many *females give rise to new females*`?
     + how many years do females reproduce?
