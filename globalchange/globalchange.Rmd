@@ -124,7 +124,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Moral code: Each species belongs**
-    + what happens when a species becomes locally extinct?
+    + what is the role of humans in causing, saving, or allowing extinction?
     
 <br/>
 

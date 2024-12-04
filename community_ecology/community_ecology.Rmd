@@ -155,11 +155,11 @@ output:
 <br/>
 
 * **Lots of feeding adaptations in the animal world**
-    + reproductive success depends on feeding
+    + fangs, claws, echo-location, venom, etc. etc. etc.
 
 <br/>
 
-* **Fangs, claws, echo-location, venom, etc. etc. etc.**
+* **Fitness (reproductive success) depends on feeding**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:500px; HEIGHT:400px" SRC="images/cougar.jpg">
 
