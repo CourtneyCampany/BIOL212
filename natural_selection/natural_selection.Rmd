@@ -56,7 +56,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/genopheno.jpg">
 
-## At least 6 genetically distinct lineages of giraffes exist
+## At least 7 genetically distinct lineages of giraffes exist
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/giraffe.jpg">
@@ -81,21 +81,27 @@ output:
 <br/>
 
 <font size="6">**Bacteria = ?**</font>
+
+
+<br/>
+<br/>
+
+**Remember: Generations are the timescale for inheritance from parent to offspring**
 </div>
 
-## Mechanism of Darwinian Evolution
+## Mechanism of Darwinian Evolution = Natural Selection
 <hr>
 
 <div align="center">
-* **Focus on <span style="color:blue">adaptation</span> through natural selection (not use/disuse)**
-    + characteristics that enhance fitness
-    + these characteristics are heritable
+* **Focuses on <span style="color:blue">adaptation</span> through natural selection (not use/disuse)**
+    + characteristics that enhance fitness in an environment
+    + these characteristics must be heritable
 <br/>
 * **Different populations of organisms live in different habitats, so they gradually accumulate changes to be better suited to that habitat (<span style="color:blue">adaptation</span>)**
 
 <br/>
 
-**?Could new species arise from an *ancestral form* by <span style="color:blue">adaptations to different environments?</span>**
+**<span style="color:green">?Proposed that new species could arise from an ancestral form with enough adaptations</span>**
 
 </div>
 
@@ -103,7 +109,7 @@ output:
 
 ## Adaptation viewed through *homology*
 <hr>
-<span style="color:blue">homologous structures = </span>
+<span style="color:blue">Homology = </span>
 <IMG STYLE="position:absolute; TOP:190px; LEFT:180px; WIDTH:700px; HEIGHT:450px" SRC="images/homology.jpg">
 
 <!-- descent with modification -->
@@ -116,13 +122,13 @@ output:
 **(1) Individuals in a population vary in their traits**
 
 <br/>
-**trait is an observable and measurable characteristic of an organism phenotype**
+**A trait is an observable and measurable characteristic of an organisms phenotype**
 
 <br/>
-**<span style="color:blue">Trait variation comes from random mutations</span>**
+**<span style="color:blue">Trait variation comes from random mutations in the genetic code</span>**
 </div>
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/butterflywings.jpg">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/ladybugs.jpg">
 
 ## Evolution by natural selection rules (2)
 <hr>
@@ -168,7 +174,7 @@ output:
 <br/>
 * **<span style="color:blue">Individuals are selected naturally, by the environment</span>**
 <br/>
-* **Favorable traits will accumulate in a population**
+* **Favorable traits will accumulate in a population over generations**
 
 </div>
 
@@ -177,29 +183,32 @@ output:
 ## Natural Selection acts on individuals but populations evolve
 <hr>
 <br/>
-<br/>
-<br/>
+
+* **Populations are the unit of evolution**
+    + <span style="color:red">INDIVIDUALS DO NOT EVOLVE (remember Skee Lo)</span>
 
 <div style="float: left; width: 50%;">
 
-* **Droughts cause shifts in beaks of finches on the Galapagos Islands**
+<br/>
+
+* **E.g. Drought caused adaptation in beaks of finches on the Galapagos Islands**
     + selection pressures from food availability (seeds) changed as certain plants suffered from drought
 
 <br/>
 
 * **Average beak depth increases over time because deep-beaked individuals had greater reproductive success**
-    + <span style="color:darkred">*the individuals during drought did not adapt beak size!*</span>
+    + <span style="color:red">*short-beaked finches did not adapt longer beaks during drought!*</span>
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:400px; HEIGHT:450px" SRC="images/beakdepth.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/beakdepth.png">
 
 ## Evolution happens: Antibiotic resistance
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:425px" SRC="images/cdc.jpg">
 
-## Modern history of the evolution of antibiotic resistance 
+## Modern history of the evolution of antibiotic resistant bacteria
 <hr>
 <br/>
 
@@ -262,7 +271,7 @@ output:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/plVk4NVIUh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Generational time...
+## Why generational time matters...
 <hr>
 <br/>
 
