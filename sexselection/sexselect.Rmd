@@ -40,7 +40,7 @@ output:
 
 * **Selection can occur as an association between phenotype and mating success**
     + *secondary* traits in mating
-    + *Sexual Dimorphism* = males and females look different
+    + *Sexual Dimorphism* = males and females exhibit different traits
     
 <br/>
 
@@ -191,19 +191,20 @@ https://www.youtube.com/watch?v=CQ1VQ-4LYAI
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 47%;">
+
+* **How common is choosiness??**
+    + in what species does preferential mating occur?
+    
+<br/>
+
 
 * **Why be choosy?**
     + what are the real rewards for the female?
 
 <br/>
 
-* **How common is choosiness??**
-
-<br/>
-
-* **Sexual	selection	results	in the	evolution	of	sexually	dimorphic	traits**
-    + preferential mating
+* **What do	dimorphic	traits actually express to the opposite sex**
     + direct fitness benefit
     + indirect fitness benefit
 
