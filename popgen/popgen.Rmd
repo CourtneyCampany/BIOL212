@@ -14,7 +14,7 @@ output:
 
 <div style="float: left; width: 48%;">
 
-* **EVOLUTION: Change in *allele frequencies* in a population over generational time**
+* **EVOLUTION: Change in <span style="color:blue">*allele frequencies*</span> in a population over generational time**
  
 <br/>
 
@@ -25,7 +25,7 @@ output:
 * **Expression of trait variation**
     + allelic differences among individuals
     + may lead to reproductive success in current environment, via selection
-    + <span style="color:blue">*allele frequencies* change in populations</span>
+    + <span style="color:blue">*allele frequencies* change in populations across generations</span>
     
 </div>
 
@@ -104,7 +104,7 @@ output:
 <br/>
 
 * **The defective gene is from a 'mutation'**
-    + 1,700 known mutations of CFTR
+    + 1,700 known mutations of the CFTR gene
     + deletions, early termination codons, point mutations
 
 <br/>
@@ -158,6 +158,7 @@ AA or Aa or aa
 <br/>
 
 * **Cross between Aa and Aa = 1:2:1 ratio in offspring**
+    + punnet square simple Mendelian cross
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:475px; HEIGHT:475px" SRC="images/autorecessive.jpg">
 
@@ -171,13 +172,13 @@ AA or Aa or aa
 <div style="float: left; width: 50%;">
 
 * **Individuals in a population vary with a trait, that has a genetic basis (Rule 1 & 2) **
-    + <span style="color:blue">**Trait = functional or not CFTR gene**</span>
+    + <span style="color:blue">**Trait = functional or not CFTR gene that is inherited from each of your parents**</span>
 
 <br/>
 
 * **Variation in trait associated with variation in reproductive success (Rule 3)**
-    + <span style="color:blue">**CF = life expectancy ~44 years**</span>
-
+    + <span style="color:blue">**CF = life expectancy ~50 years with modern medicine**</span>
+    + life expectancy outcomes have changed dramatically over past decades
 
 </div>
 
@@ -242,7 +243,7 @@ AA or Aa or aa
 
 ## Hardy Weinberg describes a population NOT evolving
 <hr>
-<span style="color:blue">**Allele and geneotype should stay the from one generation to the next**</span>
+<span style="color:blue">**Allele and genotype frequencies should stay the from one generation to the next, UNLESS......**</span>
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/HW_conditions.jpg">
 
 ## Does Hardy Weinberg equilbrium occur in nature? .... Kinda
