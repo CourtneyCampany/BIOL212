@@ -79,11 +79,11 @@ output:
 <br/>
 
 * **Individuals do not interbred with other populations or are unable to produce viable offspring after mating**
-    + pre- and post-zygotic barriers
+    + via pre- and post-zygotic barriers
 
 <br/>
 
-* <span style="color:blue">**BSC: Members of a biological species are united by the potential ability to be reproductively compatible**</span>
+* <span style="color:blue">**BSC: Members of a biological speci es are united by the potential ability to be reproductively compatible**</span>
 
 </div>
 
@@ -128,8 +128,10 @@ reproduced sexually for > 80 million years
 
 ## Morphological Species Concept: Unity of body plans
 <hr>
-**MSC solves issues with fossils and asexual organisms**
-<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:750px; HEIGHT:450px" SRC="images/morph.png">
+**MSC: defines a species based on groups of physical traits that are unique to each species**
+<br/>
+**MSC: no issues with fossils or reproductive type**
+<IMG STYLE="position:absolute; TOP:210px; LEFT:175px; WIDTH:750px; HEIGHT:450px" SRC="images/morph.png">
 
 ## Issues with the morphological species concept
 <hr>
@@ -156,7 +158,7 @@ reproduced sexually for > 80 million years
 
 ## Lineage Species Concept: Unity of ancestry
 <hr>
-**LSC uses genetic similarity/differences to determine species but is subjective in the magnitude of differences needed.**
+**LSC uses genetic similarity/differences based on ancestry to determine species but is subjective in the magnitude of differences needed.**
 <IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/phylo.jpg">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:615px; WIDTH:450px; HEIGHT:300px" SRC="images/phylo2.gif">
@@ -171,10 +173,10 @@ reproduced sexually for > 80 million years
 **Hawaiian islands form through time. Fruit flies from one population migrate to a new island (physical separation) and have formed many new species.**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/allo_fruit.jpg">
 
-## Allopatric speciation in shrimp
+<!--## Allopatric speciation in shrimp
 <hr>
 **The Atlantic and Pacific oceans used to connect before what we call Panama arose from the ocean. Different shrimp species live at different depths (colors on the picture). As Panama split the ocean these populations (by depth) became isolated and formed different species. The deep species (red) on opposite sides are more different than shallow species (green) because they have been separated longer!!** 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/shrimp.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/shrimp.jpg"> -->
 
 ## How new species arise: Sympatry
 <hr>

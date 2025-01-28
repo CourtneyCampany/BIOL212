@@ -82,7 +82,7 @@ output:
 
 ## Convergent evolution in marine mammals (analogous traits)
 <hr>
-**<span style="color:blue">Aquatic mammals are a large polyphyletic group in the mammals phylogeney</span>**
+**<span style="color:blue">Aquatic mammals are a large polyphyletic group in the mammal phylogeney</span>**
 <IMG STYLE="position:absolute; TOP:190px; LEFT:290px; WIDTH:520px; HEIGHT:470px" SRC="images/convergent.jpg">
 
 <!-- ##  -->
@@ -129,7 +129,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/parsimony.jpg">
 
-
 ## Whale Evolution: A Case History
 <hr>
 <br/>
@@ -148,6 +147,7 @@ output:
 <br/>
 
 * **Astragalus ankle bone is a *shared derived trait* for all artiodactyls**
+    + the principle of parsimony, based on this trait, should exclude whales
 
 </div>
 
@@ -172,7 +172,7 @@ output:
 
 <br/>
 
-* **Modern genetic data suggests a closer relationship between whales and hippos...**
+* **Modern genetic data now suggests a closer relationship between whales and hippos...**
 
 </div>
 
