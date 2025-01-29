@@ -140,7 +140,7 @@ output:
 
 <br/>
 
-* **Atiodactyl mammals = cows, deer and hippos** 
+* **Artiodactyl mammals = cows, deer and hippos** 
     + hooves with even number of toes
     + unusual pulley-shaped ankle bone
 
