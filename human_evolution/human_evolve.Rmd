@@ -22,14 +22,14 @@ output:
 <br/>
 <br/>
 
-* **Our ancestors were chimpanzees: <span style="color: red;">WRONG!</span>** 
+* **Humans descended from chimpanzees: <span style="color: red;">WRONG!</span>** 
     + <span style="color: green;">**RIGHT**</span>: We share a common ancestor with chimps
 
 <br/>
 
 * **Human evolution = series of steps from ancestor to *Homo sapiens*: <span style="color: red;">WRONG!</span>**
     + <span style="color: green;">**RIGHT**</span>: Human evolution is more like bush than a ladder
-    + *Homo sapiens* is a branch on a bushy phylogenetic tree
+    + *Homo sapiens* is a single branch on a bushy phylogenetic tree of 'humans'
     
 <br/>
 
@@ -54,7 +54,7 @@ output:
 
 * **Our closest *living* relatives are the chimpanzees**
     + common ancestor with chimps ~ 6-7mya
-    + genomes are 98-99% similar to chimps
+    + genomes are 98.9% identical to chimps
     + 1% difference means a lot!!
         + 19 regulatory genes differ
         + 600 genes differ in protein expression
@@ -63,8 +63,8 @@ output:
 
 * **Hominin derived characters:**
     + bipedal
-    + large brain...
-    + reduce jawbone and jaw muscles
+    + large brain
+    + reduce jawbone, jaw muscles, and bite force
     + shorter digestive tract
 
 <br/>
@@ -79,27 +79,29 @@ output:
 <hr>
 <br/>
 
-* **~20 species described (fossils) in the tribe**
-    + at least 3 different genera (e.g., *Homo*)
-    + brain size, teeth shape, body size
+* **~20 species described (fossils) in the Hominin tribe**
+    + at least 6 different genera (e.g., *Homo*)
+    + key brain size, teeth shape, and body size traits
     + inferred tool use/culture/language
     + species had different combos of each
-
-<br/>
-
-* **Really old fossils**
-    + *Sahelantrophus tchadensis* (Toumai): 6.5mya
-        + fossil connection to hominins missing
-    + *Ardipithecus ramidus* (Ardi): 4.4 mya
-        + lived in trees & on ground
 
 <br/>  
    
 * **We (*Homo sapiens*) are the sole surviving taxon**
 
+<br/>
+
+* **Really old fossils**
+    + *Sahelantrophus tchadensis* (Toumai): 6.5mya
+        + fossil connection to first hominins missing
+    + *Ardipithecus ramidus* (Ardi): 4.4 mya
+        + lived in trees & on ground
+
+
+
 <IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:200px; HEIGHT:450px" SRC="images/ardi.jpg">
 
-## Hominin evolution was not a linear process
+## Hominin evolution was not a linear process (Misconception #2)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/hominidtree.jpg">
@@ -108,7 +110,11 @@ output:
 <div style="float: left; width: 45%;">
 **Hominin evolution:**
 <br/>
-**brain volume increases over macroevolutionary events**
+
+**Brain volume increases over macroevolutionary events**
+<br/>
+
+**(Misconception #3)**
 </div>
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:400px; WIDTH:600px; HEIGHT:600px" SRC="images/brain.gif">
@@ -139,7 +145,7 @@ output:
 
 <div style="float: right; width: 72%;">
 
-* **All but the 4 most recent species were found only on the African continent**
+* **All but the 4 most recent species were found *only* on the African continent**
 
 <br/>
 
@@ -150,7 +156,7 @@ output:
  <br/>
  
 * **Hominin diversity increased ~4-2 mya**
-    + *Australopithecus* genus
+    + long lived *Australopithecus* genus
     + 'Lucy' fossil in Ethiopia
         + more diverse diet
     + definitely bipedal
@@ -160,7 +166,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:250px; HEIGHT:450px" SRC="images/lucy.jpg">
 
-## Lucy (*Australopithecus afirensis*) direct ancestor of *Homo*?
+## Lucy (*Australopithecus afarensis*) direct ancestor of *Homo*?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:275px; WIDTH:550px; HEIGHT:450px" SRC="images/homin_phylo3.png">
@@ -200,7 +206,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/overlap.jpg">
 
-## *Homo* species left Africa (*H.ergaster* then *H.erectus*)
+## *Homo* species migrated out of Africa (*H.erectus* likely first)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/travel.png">
@@ -248,7 +254,7 @@ output:
 <br/>
 
 * **Only one lineage survived**
-    + natural selection?
+    + natural selection based on climate?
     + out competed?
     + extirpation of Neanderthals by modern humans? 
 </div>
@@ -277,7 +283,7 @@ output:
 
 <br/>
 
-* **Archaeologists seeking path to Australia**
+* **Archaeologists seeking to understand migratory path to Australia**
 
 <br/>
 
@@ -290,8 +296,8 @@ output:
 ## Where is Human evolution heading?
 <hr>
 
-**Newish Traits** = Cooler body temperatures, less hair, smaller jaws and teeth
+**Newish Traits** = Cooler body temperatures, less hair, even smaller jaws and teeth
 <br/>
 
-**Regional populations adaptions** = surface area:volume by climate (regional), nose and lips shapes by climate, strait hair in cool climates, eye lid folds in Asian populations to protect eye from UV, thicker fat in artic populations, large brain volumes in cold climates, reemergence of lactase, skin color and vitamin D synthesis by region, resistance to malaria, increased susceptibility to allergies/asthma
+**Regional populations adaptions** = surface area:volume by climate (regional), nose and lips shapes by climate, strait hair in cool climates, eye lid folds in Asian populations to protect eye from UV, thicker fat in arctic populations, large brain volumes in cold climates, reemergence of lactase, skin color and vitamin D synthesis by region, resistance to malaria, increased susceptibility to allergies/asthma
 <IMG STYLE="position:absolute; TOP:290px; LEFT:225px; WIDTH:700px; HEIGHT:400px" SRC="images/humansevolve.jpg">
