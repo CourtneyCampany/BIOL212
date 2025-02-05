@@ -88,7 +88,7 @@ output:
 
 * **Vent organism was missing genes necessary for life**
     + must have been relying on chemical components from its environment
-    + "half-alive"
+    + microbial 'mats' helped retain nutrients
     
 </div>
 
@@ -102,7 +102,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:360px; LEFT:510px; WIDTH:450px; HEIGHT:300px" SRC="images/vent.jpg">
 
-## Prokaryotes first to inhabit the Earth
+## Bacterial prokaryotes first to inhabit the Earth
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/oldlife.png">
@@ -115,8 +115,9 @@ output:
 <div style="float: left; width: 50%;">
 
 * **First TRACES of living organisms**
-    + Graphite carbon from Canadian rocks
-    + Formed by ‘prokaryotes’
+    + graphite carbon from Canadian rocks
+    + deep-sea vent bacteria can create graphite
+    + formed by ‘prokaryotes’
     + ~ 3.9 billion years ago! 
 
 <br/>
@@ -175,7 +176,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/differ.png">
 
-## Most Prokaryotes have a cell wall
+## Prokaryotes have a cell wall
 <hr>
 <br/>
 
@@ -195,7 +196,7 @@ output:
 
 * **Major component of the <span style="color:purple">bacterial</span> cell wall is <span style="color:purple">peptidoglycan</span>**
     + rigid structure 
-    + specific only to bacterial prokaryotes
+    + Archaean cells walls do not have peptidoglycan
     
 </div>
 
@@ -206,13 +207,13 @@ output:
 
 ## Hospitals: Gram staining as a fast diagnostic tool
 <hr>
-<br/>
 
 <div style="float: left; width: 50%;">
  
 * **2 main categories of bacterial infections**
     + Gram-positive and Gram-negative
-
+    + allows treatment guidance to the most effective antibiotic
+    
 <br/>
 
 * **Gram stain is colored purple**
@@ -235,7 +236,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:500px; HEIGHT:350px" SRC="images/mrsa.jpg">
 
-## Gram - bacteria are more antibiotic resistance
+## Gram - bacteria are more antibiotic resistant
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:650px; HEIGHT:500px" SRC="images/anti.png">
