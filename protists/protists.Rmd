@@ -7,20 +7,20 @@ output:
     smaller: true
 ---
 
-## Van Leeuwenoek: First microbiologist
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- ## Van Leeuwenoek: First microbiologist -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:600px; HEIGHT:450px" SRC="images/leeuwenhoek.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:600px; HEIGHT:450px" SRC="images/leeuwenhoek.jpg"> -->
 
-<div style="float: right; width: 40%;">
+<!-- <div style="float: right; width: 40%;"> -->
 
-**"For me this was among all the marvels that I have discovered in nature the most marvelous of all, and I must say that, for my part, no more pleasant sight has yet met my eye than this of so many thousands of living creatures in one small drop of water, all huddling and moving, but each creature having its own motion."**
+<!-- **"For me this was among all the marvels that I have discovered in nature the most marvelous of all, and I must say that, for my part, no more pleasant sight has yet met my eye than this of so many thousands of living creatures in one small drop of water, all huddling and moving, but each creature having its own motion."** -->
 
-</div>
+<!-- </div> -->
 
 ##
 
@@ -138,7 +138,7 @@ output:
 
 ## Endosymbiosis Theory: Origin of eukaryotic cells
 <hr>
-
+**We do not know whether nucleus or organelles occurred first!**
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:950px; HEIGHT:350px" SRC="images/endosymb.jpeg">
 
 <!-- ## Origin of the nuclear envelope/membrane -->
@@ -152,14 +152,12 @@ output:
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/outin.jpg"> -->
 
 
-<!-- ##  -->
+##
 
-<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:850px; HEIGHT:600px" SRC="images/endo_mito.jpg"> -->
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:850px; HEIGHT:600px" SRC="images/endo_mito.jpg">
 
 ## Does data support Endosymbiosis Theory? YES!!!
 <hr>
-<br/>
-<br/>
 
 * **Mitochondria and chloroplasts are about the size of an average bacterium**
 
@@ -167,6 +165,7 @@ output:
 
 * **Both organelles replicate independently by fission, as do bacteria** 
     + have their own ribosomes to make their own proteins
+    + mitochondria/chloroplasts have circular chromosome
       
 <br/>
 
@@ -177,6 +176,7 @@ output:
 * **Genes of each organelle closely resemble ancestors!**
     + cyanobacteria for chloroplasts
     + proteobacteria for mitrochondria
+    + some genes appeared to have shifted from bacteria to host, possibly explaining why 'mitochondria' are not free-living
     
 ## 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/chloroplast3.jpg">
@@ -231,7 +231,7 @@ output:
 
 * **Asexual life cycles**: binary fission
     + body pinches into 2 parts &rarr; then <span style="color:red">mitosis</span>
-    + many-single celled protists
+    + many-single celled protists can switch to asexual reproduction
 
 <br/>  
 

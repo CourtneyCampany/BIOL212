@@ -36,7 +36,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:490px; LEFT:700px; WIDTH:300px; HEIGHT:200px" SRC="images/yellowstone.jpg">
 
-## Prokaryotes do it all!
+## Prokaryote functional diversity
 <hr>
 <br/>
 
@@ -97,7 +97,7 @@ output:
 </div>
 <IMG STYLE="position:absolute; TOP:400px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/photonitro.jpg">
 
-## Metabolic cooperation by bacteria leads to *Biofilms*
+## Metabolic cooperation by bacteria can lead to *Biofilms*
 <hr>
 <br/>
 
@@ -151,7 +151,7 @@ output:
 
 <br/>
 
-* **Horizontal gene transfer increases diversity:**
+* **Horizontal gene transfer does increases genetic diversity:**
     + transformation = 
     + transduction = 
     + conjugation = 
@@ -209,12 +209,11 @@ output:
 
 ## Prokaryotes are incredible diverse
 <hr>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Acutally a big assumption!**
-    + only 16,000 described
+    + ~23,000 described but > 2 million estimated
 
 <br/>
 
@@ -222,13 +221,14 @@ output:
 
 <br/>
 
-* **Bacteria: prokaryotic species most commonly known**
+* **Bacteria are the most commonly known prokaryotic species**
     + from pathogens to yogurt
 
 <br/>
 
 * **Archaea: share traits with bacteria and eukaryotes**
     + earliest ancestors in extreme environments
+    + important for environmental methane production
 
 </div>
 
@@ -248,8 +248,8 @@ output:
 <br/>
 
 * **Photosynthesis evolved independently in distant groups**
-    + mono, para or polyphyletic?
-    + cyanobacteria are a monophyletic group
+    + molecular mechanisms, pigments and oxygen conditions differ
+    + cyanobacteria are a monophyletic group (oxygenic photosynthesis)
 
 <br/>
 
@@ -316,3 +316,7 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:525px; HEIGHT:350px" SRC="images/oilspill.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/remediate.jpg">
