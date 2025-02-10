@@ -28,7 +28,6 @@ output:
 
 ## Protists: The big picture
 <hr>
-<br/>
 
 <div style="float: left; width: 50%;">
 
@@ -40,7 +39,7 @@ output:
 <br/>
 
 * **Extraordinarily diverse**
-    + can be smaller than prokaryotes
+    + typically larger than prokaryotes
     + <span style="color:purple"> *functions carried out by organelles*</span>
     + <span style="color:purple"> *membrane bound nucleus*</span>
 
@@ -49,7 +48,7 @@ output:
 * **First undisputed fossils ~1.8 bya**
     + spherical algal protists
     + many protists no hard parts
-    + ancestry unresolved
+    + common ancestry unresolved
 
 </div>
 
@@ -85,9 +84,9 @@ output:
 
 <br/>
 
-* **Origin of mitochondria?**
+* **Origin of mitochondria (organelle that produces energy)?**
     + *All* eukaryotic cells have mitochondria 
-    + so mitochondria is common ancestor?
+    + so mitochondria are homologous...
 
 <br/>
 
@@ -103,7 +102,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:350px; HEIGHT:250px" SRC="images/bacteria.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:660px; WIDTH:350px; HEIGHT:250px" SRC="images/bacteria.jpg">
 
 <IMG STYLE="position:absolute; TOP:405px; LEFT:660px; WIDTH:350px; HEIGHT:350px" SRC="images/Cell_animal.jpg">
 
@@ -116,9 +115,9 @@ output:
 
 <br/>
 
-* **Origin of mitochondria?**
+* **Origin of mitochondria (organelle that produces energy)?**
     + *All* eukaryotic cells have mitochondria 
-    + so mitochondria is common ancestor?
+    + so mitochondria are homologous...
 
 <br/>
 
@@ -134,11 +133,11 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/mitochloro.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:660px; WIDTH:350px; HEIGHT:450px" SRC="images/mitochloro.jpg">
 
 ## Endosymbiosis Theory: Origin of eukaryotic cells
 <hr>
-**We do not know whether nucleus or organelles occurred first!**
+<span style="color:purple">**We do not know whether nucleus or organelles occurred first!**</span>
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:950px; HEIGHT:350px" SRC="images/endosymb.jpeg">
 
 <!-- ## Origin of the nuclear envelope/membrane -->
@@ -165,7 +164,7 @@ output:
 
 * **Both organelles replicate independently by fission, as do bacteria** 
     + have their own ribosomes to make their own proteins
-    + mitochondria/chloroplasts have circular chromosome
+    + mitochondria/chloroplasts each have a circular chromosome
       
 <br/>
 
@@ -214,23 +213,23 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:555px; WIDTH:500px; HEIGHT:400px" SRC="images/euglena2.jpg">
 
-## Eukaryotes have diverse sex lives
+## Eukaryotes have diverse reproduction
 <hr>
 
 * **Haplonic life cycles**: most life spent with one set of chromosomes (1N)
-    + zygote only diploid &rarr; <span style="color:red"> meiosis</span> into daughter cells
-    + all cells are haploid (some multi-celluar algae, and fungi)
-
+    + all cells are haploid (some multi-cellular algae, and fungi)
+    + zygote only diploid cell &rarr; <span style="color:red"> meiosis</span> into daughter cells
+    
 <br/>
 
 * **Diplonic life cycles**: most life with pairs of chromosomes (2N)
-    + sex cells (gametes) are haploid via meiosis &rarr; then fuse
     + body cells (e.g., animals) are all diploid
+    + sex cells (gametes) are haploid via meiosis &rarr; then fuse
     
 <br/>
 
 * **Asexual life cycles**: binary fission
-    + body pinches into 2 parts &rarr; then <span style="color:red">mitosis</span>
+    + nucleus divides, then cell divides into two separate organisms &rarr;<span style="color:red">mitosis</span>
     + many-single celled protists can switch to asexual reproduction
 
 <br/>  
@@ -238,13 +237,13 @@ output:
 * **There are more....**
     + parasites require hosts
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:775px; WIDTH:200px; HEIGHT:500px" SRC="images/protistsex.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:810px; WIDTH:200px; HEIGHT:500px" SRC="images/protistsex.jpg">
 
 ## Life cycles in Eukaryotes: Alternation of Generations
 <hr>
 <br/>
 
-* **Most complex life cycles include an *alternation of generations***
+* **More complex life cycles include an *alternation of generations***
     + some algae and plants
     + both generations must be multi-cellular
 
