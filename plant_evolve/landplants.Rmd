@@ -10,11 +10,12 @@ output:
 ## What organism is the common ancestor to plants?
 <hr>
 **Many Protists share traits with plants**
+
 <br/>
 
 * **Dinoflagellates - unicellular aquatic**
     + some are photosynthetic
-    + haploid dominate life cycle
+    + but haploid dominate life cycle
 
 <br/>
 
@@ -26,7 +27,7 @@ output:
 
 * **Diatoms - unicellular aquatic**
     + all are photosynthetic
-    + diploid dominated life cycle
+    + but diploid dominated life cycle
     
 </div>
 
@@ -88,7 +89,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Sister group to land plants**
+* **Sister group to land plants (embryophytes)**
     + all are <span style="color:blue">*photosynthetic*</span>
     + marine and <span style="color:blue">*freshwater*</span>
     + single and <span style="color:blue">*multi-cellular*</span>
@@ -206,6 +207,12 @@ output:
 ## Alternation of generations
 <hr>
 **<span style="color:red">Can you draw me yet?</span>**
+
+## Alternation of generations - Homosporous
+<hr>
+**Homospory - one type of spore, that germinates into a bisexual gametophyte**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/aog.png">
 
 ## First plant group: non-vascular bryophytes (mosses)
 <hr>

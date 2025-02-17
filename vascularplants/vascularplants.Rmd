@@ -65,7 +65,7 @@ output:
 <br/>
 
 * **Plants then evolved vascular tissues**
-    + grow taller than bryophytes
+    + light competition selection pressures
     + tissues connected leaves to roots
     
 <br/>
@@ -106,11 +106,11 @@ output:
     
 <br/>
 
-* **Vascular elements move liquid under tension**
+* **Vascular tissues move liquid under tension**
 
 <br/>
 
-* **Vascular elements evolved independently several times**
+* **Vascular tissues evolved independently several times**
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:650px; WIDTH:300px; HEIGHT:545px" SRC="images/vascular.png">
 
@@ -137,7 +137,6 @@ output:
 
 ## Evolution of roots (add to phylogeny)
 <hr>
-<br/>
 
 * **Vascular tissues belowground**
     + extension of ancient stems
@@ -147,6 +146,7 @@ output:
 
 * **Absorb water and nutrients**
     + active explorers of soil
+    + most elements for plant growth are in soil
     + often in symbiosis with fungi
 
 <br/>
@@ -164,16 +164,17 @@ output:
 ## Evolution of leaves (add to phylogeny)
 <hr>
 <br/>
-<br/>
+
+<div style="float: left; width: 52%;">
 
 * **Photosynthetic organ on plants**
-    + shape maximizes surface area
+    + shape generally maximizes surface area exposed to sunlight
 
 <br/>
 
-* **<span style="color:darkgreen">Microphylls: single unbranched vein</span>**
+* **<span style="color:darkgreen">Microphylls: leaves with single unbranched vein</span>**
     + *vein*: leaf structure containing xylem + phloem
-    + unique to lycophytes (add to phylogeny)
+    + <span style="color:blue">unique to lycophytes (add to phylogeny)</span>
  
 <br/>
 
@@ -184,6 +185,8 @@ output:
 
 * **Why do more veins matter?** 
 
+</div>
+
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/leaves.jpg">
 
 ## Evolution of leaves: Sporangium
@@ -191,7 +194,7 @@ output:
 
 * **Sporophyll: modified leaf with sporangium**
     + vastly different looks
-    + *Trophophyll*: vegetative leaf
+    + fertile leaf (w/ spores)
 
 <br/>
 
@@ -228,7 +231,7 @@ output:
 <br/>
 
 * **Dependent embryo (2N) develops and replaces gametophyte**
-    + in moss, sporophyte developers and disappears on the living gametophyte
+    + in moss, sporophyte develops and dies on the living gametophyte
     
 <br/>
 
@@ -240,7 +243,7 @@ output:
 
 ## Homosphorous life cycle (mostly) with dominant sporophytes
 <hr>
-**<span style="color:darkgreen">Sporophytes are larger and long lived, gametophytes are smaller and shorter lived, spore makes bisexual gametophyte lived</span>**
+**<span style="color:darkgreen">Sporophytes are larger and long lived, gametophytes are smaller and shorter lived, each spore produces a bisexual gametophyte</span>**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/fernlife.jpg">
 
 ## Lycophytes: First vascular plants
@@ -262,11 +265,11 @@ output:
 <br/>
 
 * **Leaves are microphylls**
-    + fertile leaves have	strobili
+    + fertile leaves have	strobili (spore house)
 
 <br/>
 
-* **Some	with	<span style="color:darkgreen">heterospory	(*Selaginella*)</span>**
+* **Some	with	<span style="color:darkgreen">heterospory	(*Selaginella* spp)</span>**
     + male (micro-) and female (mega-) spores
     + male (micro-) and female (mega-) gametophytes
 </div>
