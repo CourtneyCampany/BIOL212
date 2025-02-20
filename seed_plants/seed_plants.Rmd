@@ -22,7 +22,7 @@ output:
 
 * **Seeds changed the course of plant evolution**
     + Gymnosperms evolve ~360 mya
-    + climate became drier = selection pressures
+    + drier climate = new selection pressure
     + *Elkensia* first fossil seed plant
     
 <br/>
@@ -30,7 +30,7 @@ output:
 * **Seeds consist of embryo & nutrients**
     + surrounded by protective coat
     + seeds can be dispersed long distances
-    + supply of stored food
+    + supply of food for embryo
 
 <br/>
 
@@ -72,7 +72,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Miniaturization of gametophyte**
+* **Miniaturization/protection of gametophyte**
     + mosses &rarr; ferns &rarr; seed plants
     + gametophyte became microscopic
 
@@ -81,6 +81,7 @@ output:
 * **Heterosporous life cycle only**
     + *2 kinds of spores*
     + form male or female gametopytes
+    + more resources allocated to female spores
 
 <br/>
 
@@ -112,31 +113,32 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/gamspor2.jpg">
 
-<!-- ## Gymnosperms take over -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
+## Gymnosperms take over first
+<hr>
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:600px; HEIGHT:450px" SRC="images/earlyseedplants.jpg"> -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:1px; WIDTH:700px; HEIGHT:500px" SRC="images/earlyseedplants.jpg">
 
-<!-- <div style="float: right; width: 38%;"> -->
+<div style="float: right; width: 35%;">
 
-<!-- * **Seed plant ancestors extinct** -->
-<!--     + oldest fossils in Carboniferous -->
+* **Seed plant ancestors now extinct**
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **~300-250 mya climate become drier** -->
-<!--     + Carboniferous &rarr; Permian -->
-<!--     + gymnosperms replaced lycophytes -->
+* **~300-250 mya climate become drier**
+    + Carboniferous &rarr; Permian
+    + new gymnosperms forests
 
-<!-- <br/> -->
+<br/>
 
 
-<!-- * **Gymnosperms with thin needles thrived till ~ 60 mya** -->
-<!--     + earliest evidence of insect pollination with gymnosperms -->
+* **Many gymnosperms have thin needle-like leaves**
+    + reduce surface area
+    + sunken stomata
+    + evergreen
+    + thick waxy cuticle
 
-<!-- </div> -->
+</div>
 
 ## 4 living lineages of gymnosperms
 <hr>
@@ -167,15 +169,15 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/gymnos.jpg">
 
-## Welwitchia: the weirdest f'in plant on Earth
-<hr>
+<!-- ## Welwitchia: the weirdest f'in plant on Earth -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/welwitschia.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/welwitschia.jpg"> -->
 
 ## Gymnosperm reproduction: everything happens on cones
 <hr>
 <br/>
-<br/>
+<span style="color:green">**INTERNAL FERTILIZATION (Seed Plant Trait)**</span>
 
 <div style="float: left; width: 50%;">
 
@@ -213,7 +215,7 @@ output:
 
 * **Pollen grain reaches ovule and germinates**
     + pollen tube grows toward megaspore
-    + sperm &rarr; pollen tube &rarr; egg (no water!)
+    + <span style="color:green">sperm &rarr; pollen tube &rarr; egg (no water!)</span>
     + seed forms, dispersed by wind
 
 <br/>
@@ -263,6 +265,8 @@ output:
 ## Angiosperm evolution: pollination (plants + insects) 
 <hr>
 **Insect pollination improves on inefficient wind pollination in conifers**
+<br/>
+**Evolved ~125 million years ago and diversified rapidly**
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:45px; WIDTH:500px; HEIGHT:350px" SRC="images/butterfly.jpg">
 
@@ -303,7 +307,8 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **<span style="color:blue">Stamens</span>: microsporophylls**
+* **<span style="color:blue">Stamens</span>: Male fertile organ**
+    + microsporophyll (male fertile leaf)
     + produce microspores that develop into pollen
     
 <br/>    
@@ -323,24 +328,23 @@ output:
 
 ## Flowers - Female
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:375px; HEIGHT:450px" SRC="images/flower4.jpg">
 
 
 <div style="float: right; width: 60%;">
 
-* **<span style="color:blue">Carpel</span>: megasporophyll</span>**
+* **<span style="color:blue">Carpel</span>: Female fertile organ**
+    + megasporophyll (female fertile leaf)
 
 <br/>
 
-* **Stigma: receives pollen**
-    + sticky
+* **Stigma: sticky top that receives pollen**
 
 <br/>
 
 * **Style: leads from stigma to ovary**
-    + where pollen tube forms
+    + where pollen tube forms (<span style="color:green">**INTERNAL FERTILIZATION**</span>)
     
 <br/>
 
