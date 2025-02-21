@@ -59,7 +59,6 @@ output:
 
 ## Themes in vascular plant form
 <hr>
-<br/>
 
 <div style="float: left; width: 38%;">
 
@@ -71,7 +70,7 @@ output:
 
 <br/> 
 
-* **Above- and belowground body plan to extract resources**
+* **Above- and belowground body plan adapted to extract resources**
     * connected via vascular tissues
 
 </div>
@@ -80,19 +79,18 @@ output:
 
 ## Themes in vascular plant form
 <hr>
-<br/>
 
 <div style="float: left; width: 38%;">
 
 * **Plants extract materials from environment**
     * ~18 essential elements
-    * soil (most)
-    * atmosphere
+      * soil (most)
+      * atmosphere
     * many materials are limited
 
 <br/> 
 
-* **Above- and belowground body plan**
+* **Above- and belowground body plan adapted to extract resources**
     * connected via vascular tissues
   
 <br/> 
@@ -110,15 +108,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/areavolume.png">
 
-## Diversity in plant form via evolutionary history
-<hr>
-<span style="color:blue">**Derived traits on the plant phylogeny allowed plants to colonize most land surfaces**</span>
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:950px; HEIGHT:400px" SRC="images/angioradiation.png">
-
-## Diversity in plant form via environment (e.g., climate)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/leafsize.jpg">
+<!-- ## Diversity in plant form via evolutionary history -->
+<!-- <hr> -->
+<!-- <span style="color:blue">**Derived traits on the plant phylogeny allowed plants to colonize most land surfaces**</span> -->
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:950px; HEIGHT:400px" SRC="images/angioradiation.png"> -->
 
 ## Plants adapt form to persist in different environments
 <hr>
@@ -126,6 +119,11 @@ output:
 <IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:450px; HEIGHT:350px" SRC="images/forest.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/spectrum_plantform.jpg">
+
+## Diversity in plant form via environment (e.g., climate)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/leafsize.jpg">
 
 ## Plants have 3 tissue systems connecting all plant organs
 <hr>
@@ -140,6 +138,14 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cell_types.png">
+
+## Epidermal cells: interact with the environment
+<hr>
+<span style="color:darkgreen">**Outermost layer of cells on a plant, forming a protective barrier that covers the entire plant organ**</span>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:20px; WIDTH:500px; HEIGHT:300px" SRC="images/epiderm.jpeg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/epiderm2.png">
 
 ## Parenchyma cells: living with metabolic function
 <hr>
@@ -162,6 +168,8 @@ output:
 
 <span style="color:darkgreen">**Parenchyma cells in leaves = Mesophyll cells**</span>
 <span style="color:darkgreen">**Contain chloroplast and carry out photosynthesis**</span>
+
+</div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/parenchyma.jpg">
 
@@ -216,9 +224,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
 
-## Indeterminate growth occurs at meristems (tips)
+## Indeterminate growth occurs at apical meristems (tips)
 <hr>
-<span style="color:blue">**Undifferentiated cells divide until they are 'told' what cells to turn into**</span>
+<span style="color:blue">**Undifferentiated cells divide until gene expression 'tells' them what cells to turn into**</span>
 
 <IMG STYLE="position:absolute; TOP:185px; LEFT:150px; WIDTH:300px; HEIGHT:500px" SRC="images/root_growth.jpg">
 
@@ -226,7 +234,7 @@ output:
 
 ## Cambium produce secondary growth (out not up)
 <hr>
-<span style="color:blue">**Vascular cambium creates new xlyem and phloem (tree rings) and cork cambium creates cork (bark)**</span>
+<span style="color:blue">**Vascular cambium creates new xylem and phloem (tree rings) and cork cambium creates cork (bark)**</span>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:90px; WIDTH:500px; HEIGHT:400px" SRC="images/vascular_cambium.jpg">
