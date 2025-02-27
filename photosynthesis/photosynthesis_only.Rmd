@@ -7,11 +7,11 @@ output:
     smaller: true
 ---
 
-## Photosynthesis is complicated....
-<hr>
-<br/>
+<!-- ## Photosynthesis is complicated.... -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:165px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/complicated.png">
+<!-- <IMG STYLE="position:absolute; TOP:165px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/complicated.png"> -->
 
 ## Photosynthesis is the basis for most biomass on Earth
 <hr>
@@ -33,9 +33,9 @@ output:
 
 <br/>
 
-* **<span style="color:blue">Light reaction - light energy into chemical energy (ATP & NADPH)</span>**
+* **<span style="color:blue">Light reaction = light energy into chemical energy (ATP & NADPH)</span>**
 <br/>
-* **<span style="color:blue">Calvin cycle - converts CO~2~ into sugars</span>**
+* **<span style="color:blue">Calvin cycle = converts CO~2~ into sugars</span>**
 
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:570px; WIDTH:500px; HEIGHT:375px" SRC="images/reactions.jpg">
@@ -47,7 +47,30 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/chlroplasts3.png">
 
-## When light hits chlorophyll a few things can happen
+## The nature of light
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Light is a form of energy, characterized by wavelengths**
+
+<br/>
+
+* **Short wavelengths have more energy than long wavelengths**
+
+<br/>
+
+* **Sunlight includes wavelengths in the visible spectrum,  UV, and infrared**
+    + UV is too powerful and infrared to weak for photosynthesis
+
+ </div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/light_spectrum.jpg">
+
+## When light hits chlorophyll pigments a few things can happen
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/chlroplasts_light.png">
