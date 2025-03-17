@@ -16,7 +16,7 @@ output:
 **Chemical and physical processes combine to make primitive cells**
 <br/>
 
-1. abiotic synthesis of small organic molecules (amino acids)
+1. abiotic synthesis of small organic molecules (e.g., amino acids)
 2. small molecules join together (proteins)
 3. molecules packaged into primitive cells
 4. origin of self-replicating molecules
@@ -55,7 +55,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/bias.gif">
 
-## Fossils do trace the steps of animal evolution
+## Fossils DO trace the steps of animal evolution
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/mammal2.jpg">
@@ -73,11 +73,11 @@ output:
 
 <br/>
 
-**4. Phanerozoic: last 500 million years**
+**4. Phanerozoic: last 540 million years**
 
 <br/>
 
-* **Recent geologic ages (3), each with unique animal life**
+* **Recent geologic ages (3), each with unique animal life (within Phanerozoic)**
 1. Paleozoic
 2. Mesozoic
 3. Cenozoic
@@ -106,7 +106,7 @@ output:
 
 <br/>
 
-* **Prior to Cambrian all large animals had soft bodies**
+* **Prior to Cambrian all 'large' animals had soft bodies**
     + little evidence of predation
     + grazers, scavengers, filter feeders
     + still all marine
@@ -116,7 +116,7 @@ output:
 * **Large predators evolve in early Cambrian**
     + 545-525 mya
     + predator vs prey evolution
-    + evolution of eyes
+    + evolution of eyes (sensory organs)
 
 </div>
 
@@ -131,11 +131,11 @@ output:
 <br/>
 
 * **Abrupt period: only 10-20 million years!**
-    + troubled Darwin
+    + speed of diversification troubled Darwin
 
 <br/>
 
-* **Hard skeletons and soft bodies**
+* **Hard skeletons evolved**
     + diverse body morphology (new Hox genes?)
 
 <br/>
@@ -161,7 +161,7 @@ output:
  
 <br/>
  
-* **Creatures from the Cambrian explosion**
+* **Animals from the Cambrian explosion**
     + origins dating 545 to 525 million years ago
 
 <br/>
@@ -192,7 +192,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/edicar3.jpg"> -->
 
-## Geologic history of plants and animals on land
+## Geologic history of life on land follows Cambrian period
 <hr>
 <IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:480px; HEIGHT:500px" SRC="images/animal_record2.jpg">
 
@@ -279,7 +279,7 @@ output:
 <br/>
 
 * **Landmass change alters climate**
-    + Canada was once tropical
+    + Canada (burgess shale) was once tropical
     
 <br/>
   
@@ -331,7 +331,7 @@ output:
 
 <div style="float: left; width: 48%;">
 
-* **Rapid diversification events to fill new habitats**
+* **Rapid diversification events to fill new habitat opportunities**
 
 <br/>
 

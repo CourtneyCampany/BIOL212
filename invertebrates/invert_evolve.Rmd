@@ -43,7 +43,7 @@ output:
 
 <br/>
 
-* **All animals, except sponges, have:**
+* **All animals, except sponges, also have:**
 1. Nerve cells called neurons
 2. Muscle cells
 
@@ -88,7 +88,7 @@ output:
 
 <br/>
 
-* **Groupings characterized by tissue layers,symmetry and unique structures**
+* **Groupings characterized by tissue layers during embryonic development, body symmetry and unique structures from evolution**
 
 </div>
 
@@ -136,7 +136,7 @@ output:
 <div style="float: left; width: 45%;">
 
 * **Animals except sponges are considered "True Animals"**
-    + contain tissues
+    + bodies contain tissues
     
 </div>    
 
@@ -148,7 +148,7 @@ output:
 <div style="float: left; width: 45%;">
 
 * **Animals except sponges are considered "True Animals"**
-    + contain tissues
+    + bodies contain tissues
     
 <br/>
 
@@ -228,7 +228,7 @@ output:
 
 </div>
 
-## Lophotrochozoa: Most share 2 structures
+## Lophotrochozoa: Most have one or both of 2 distinct structures
 <hr>
 <br/>
 <br/>
@@ -267,7 +267,7 @@ output:
 
 <br/>
 
-* **Many phyla appeared in Cambrian explosion**
+* **Many phyla evolved during the Cambrian explosion**
 
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:250px; HEIGHT:250px" SRC="images/octo.jpg">
@@ -284,14 +284,14 @@ output:
 
 ## Phylum Mollusca: Snails, slugs, clams, mussels, octopus & squid
 <hr>
-**Shared body plan, despite diverse forms of different species**
+**Shared body plan, despite diverse forms across different species**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:600px; HEIGHT:400px" SRC="images/mollusc.jpg">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:400px; HEIGHT:300px" SRC="images/mollusc2.jpg">
 
 ## Phylum Annelida: Earthworms (<span style="color:blue">*segmentation*</span> on phylogeny)
 <hr>
-**Breath through their skin, each segment has muscles**
+**Breath through their skin, each segment has muscles (series of fused rings)**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/earthworm.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/earthworm2.jpg">
@@ -302,7 +302,7 @@ output:
 
 <div style="float: right; width: 50%;">
 
-* **Animals with cuticle**
+* **<span style="color:blue">Animals with cuticle</span>**
     + shed tough external coat
     + shed as grow; <span style="color:blue">molting; *ecdysis*</span>
     

@@ -31,6 +31,40 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/brains.jpg">
 
+## Sensory cell systems - Sensing environmental stimuli
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/plasmo.png">
+
+<div style="float: right; width: 50%;">
+
+* **Cell to cell signaling via plasmodesmata**
+    * Ca^2+^ based signals are common
+    
+<br/>
+
+* **Vascular tissues provide long-distance transport**
+
+<br/>
+
+
+
+
+</div>
+
+## Wounding triggers transmission of Ca^2+^ to start defense
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/science_paper.jpg">
+
+##
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Plants grow towards light:  Phototropism via Auxin hormone
 <hr>
 
@@ -55,7 +89,8 @@ output:
 <div style="float: right; width: 40%;">
 
 * **Primary and secondary growth allow trees to be giants**
-
+    + meristems + cambium
+    
 <br/>
 
 * **Are their limitations to plant height?**
@@ -90,8 +125,7 @@ output:
 
 * **Gravity does not help**
     + harder and harder to move water up
-    + xylem less efficient @ top
-    + theoretically, limits growth to 122-130 m
+    + xylem become less efficient @ top 
 
 <br/>
 
@@ -113,6 +147,7 @@ output:
 
 <div style="float: left; width: 55%;">
 * **Transpiration pulls water under tension**
+    + creates 'capillary action'
 
 <br/>
 
@@ -142,7 +177,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **H~2~O also pulled in zig zag motion**
-    + pits in xylem cells
+    + pits (holes) in all xylem cells
     + tracheids are twisted
 
 <br/>
@@ -186,7 +221,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/closed_stomata.jpg">
 
-## Risky stomatal behavior
+## Stomatal behavior: play it safe vs risky
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:230px; WIDTH:640px; HEIGHT:540px" SRC="images/gs_vpd.jpg">
@@ -205,34 +240,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/diameter.png">
 
-## Sensory cell systems - Sensing environmental stimuli
-<hr>
-**NOT ON TEST**
-<br/>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
-
-<IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/signals2.jpg">
-
-<div style="float: right; width: 50%;">
-
-**Cell to cell signal networks**
-
-<br/>
-
-**Ca^2+^ based signals are common**
-
-</div>
-
-## Wounding triggers transmission of Ca^2+^ to start defense
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/science_paper.jpg">
-
-##
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <!-- ## Don't mess with the acacia tree! -->
 <!-- <hr> -->
