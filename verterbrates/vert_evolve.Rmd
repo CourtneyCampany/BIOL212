@@ -19,13 +19,13 @@ output:
 <br/>
 
 * **Deuterostome = Developmental similarities**
-    + radial cleavage of embryo
-    + anus forms first (then mouth)
+    + <span style="color:blue">radial cleavage of embryo</span>
+    + <span style="color:blue">anus forms first (then mouth)</span>
 
 <br/>
 
 * **HOWEVER: other animal phyla share some of these traits**
-    + Deuterostomes now defined by DNA
+    + Deuterostomes now mostly defined by molecular evidence
 
 </div>
 
@@ -35,7 +35,7 @@ output:
 
 ## Protostome vs Deuterostome
 <hr>
-**Groups differ in how the digestive system developes**
+**Groups differ in how the digestive system develops**
 <br/>
 <br/>
 <br/>
@@ -281,13 +281,8 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:350px; HEIGHT:450px" SRC="images/sharks.jpg">
 
-## Ray-finned and Lobe-finned fish
+## Ray-finned fish
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 <div style="float: left; width: 45%;">
@@ -297,18 +292,9 @@ output:
 
 <br/>
 
-**Add <span style="color:blue">lungs/lung derivatives</span> to phylogeny**
+* **Add <span style="color:blue">lungs/lung derivatives</span> to phylogeny**
 
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/fishes.jpg">
-
-## Ray-finned and Lobe-finned fishes (lungs on phylogeny)
-<hr>
 <br/>
-<br/>
-
-<div style="float: left; width: 45%;">
 
 * **Important derived traits for fishes:**
     + <span style="color:blue">operculum</span>:
@@ -320,13 +306,11 @@ output:
   + trout, sea horses, eels
 
 <br/>
-
-* **<span style="color:blue">Lobe-finned</span>: rod-shaped bone surrounded by muscle in fins**
-  + lungfish, *Coelacanths*, earliest tetrapods
-
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/fishes.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:550px; WIDTH:400px; HEIGHT:240px" SRC="images/tuna.jpg">
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:625px; WIDTH:275px; HEIGHT:275px" SRC="images/rayfin.jpg">
 
 ## Evolution had to solve a density problem for bony fishes
 <hr>
@@ -355,6 +339,28 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/swimbladder.png">
+
+## Lobe-finned fish and Lungfish
+<hr>
+
+<div style="float: left; width: 45%;">
+
+* **<span style="color:blue">Lobe-finned</span>: rod-shaped bone surrounded by muscle in fins**
+  + two living species, both *Coelacanths*
+  + ancestors to earliest tetrapods
+
+<br/>
+
+* **Lungfish are freshwater vertebrates**
+    + have the ability to breath air
+    + can live out of water in a state of hibernation for up to a year
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:550px; WIDTH:400px; HEIGHT:240px" SRC="images/lobe2.jpg">
+
+<IMG STYLE="position:absolute; TOP:445px; LEFT:90px; WIDTH:230px; HEIGHT:230px" SRC="images/lobe.jpg">
+
+<IMG STYLE="position:absolute; TOP:425px; LEFT:625px; WIDTH:325px; HEIGHT:225px" SRC="images/lungfish.jpg">
 
 ## Evolution of <span style="color:blue">Tetrapod group</span>
 <hr>
