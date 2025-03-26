@@ -38,7 +38,7 @@ output:
 <div style="float: left; width: 60%;">
 
 * **Animal tissues and organs must be synced**
-    + hunting predator: nose &rarr; brain &rarr; muscles
+    + hunting predator: nose/ears &rarr; brain &rarr; muscles
 
 <br/>
 
@@ -90,7 +90,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/regulators.jpg">
 
-## Homeostasis: maintenance of internal balance
+## Homeostasis: maintenance of internal balance for regulators
 <hr>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:350px; WIDTH:400px; HEIGHT:500px" SRC="images/room.jpg">
@@ -103,16 +103,16 @@ output:
 
 <div style="float: left; width: 45%;">
 
-* **Animals exhibit *homeostasis* for many properties**
+* **Animals exhibit *homeostasis* for many internal properties**
     + temperature, pH, blood glucose, etc. 
 
 <br/>
 
-* **Fluctuation in properties is a *stimulus* **
+* **Fluctuation in properties is a <span style="color:blue">*stimulus*</span> **
 
 <br/>
 
-* **Animal detect stimulus by a *receptor*, which triggers a *response* **
+* **Animal detect stimulus by a <span style="color:blue">*receptor*</span>, which triggers a <span style="color:blue">*response*</span> **
     + returns variable  to target value
  
 </div>

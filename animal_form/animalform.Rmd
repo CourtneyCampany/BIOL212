@@ -54,7 +54,7 @@ output:
 
 <br/>
 
-* **Cells organized into tissues**
+* **Cells organized into tissues for "True Animals"**
     + similar cells acting as a functional unit
     + muscle & nervous tissue allows animals to move
 
@@ -68,8 +68,9 @@ output:
 
 ## Body plans are coordinated to optimize biological function
 <hr>
+**Hox genes are a group of related genes that specify regions of the body plan of an embryo along the head-tail axis of animals**
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bodyplan.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bodyplan.png">
 
 ## Embryonic development key for animal diversity
 <hr>
@@ -94,7 +95,7 @@ output:
 
 <br/>
 
-* **Many animals have larval and adult stage**
+* **Many animals have a larval and adult stage**
     + larva are sexually immature
     + larva look, live and eat differently
 
@@ -171,7 +172,7 @@ output:
 
 <div style="float: left; width: 40%;">
 
-* **Fluid/air spaces form between mesoderm layers**
+* **Fluid/air spaces form within mesoderm layers**
     + digestive track and body wall
 
 <br/>   
@@ -246,7 +247,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/rabbits.png">
 
-## Example: Diversity of bird form
+## Example: Diversity of bird form is tremendous
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/birdform.jpg">
@@ -261,7 +262,7 @@ output:
 
 <br/>
 
-* **Godzilla would have to sunbathing constantly to stay warm**
+* **Godzilla would have to sunbath constantly to stay warm**
 
 </div>
 
@@ -273,12 +274,12 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Animals must uptake nutrients, expel waste and exchange gases**
-    + occurs across plasma membrane of cells
+* **Basic Animal Function: uptake nutrients, expel waste and exchange gases**
+    + occurs across plasma membrane of all cells
     
 <br/>
 
-* **Simple internal body plan: Cnidaria (jellyfish)**
+* **Simple internal body plan: Cnidarians (jellyfish)**
     + outer tissues exposed to environment
     + gastrovascular cavity also open to environment
     
@@ -292,8 +293,8 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Animals must uptake nutrients, expel waste and exchange gases**
-    + occurs across plasma membrane of cells
+* **Basic Animal Function: uptake nutrients, expel waste and exchange gases**
+    + occurs across plasma membrane of all cells
     
 <br/>
 
@@ -311,15 +312,15 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Animals must uptake nutrients, expel waste and exchange gases**
-    + occurs across plasma membrane of cells
+* **Basic Animal Function: uptake nutrients, expel waste and exchange gases**
+    + occurs across plasma membrane of all cells
 
 <br/>
 
 * **Many animals (like humans) have more complex internal bodies**
     + reduces total # of cells on outer surface
     + volume > surface area
-    + 'think' whale versus flea
+    + 'think' whale versus flatworm
     
 <br/>
  
@@ -337,14 +338,14 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Animals must uptake nutrients, lose waste and exchange gases**
-    + occurs across plasma membrane of cells
+* **Basic Animal Function: uptake nutrients, expel waste and exchange gases**
+    + occurs across plasma membrane of all cells
 
 <br/>
 
 * **Many animals (like humans) have more complex internal bodies**
     + reduces total # of cells on outer surface
-    + 'think' whale versus flea
+    + 'think' whale versus flatworm
     
 <br/>
 
