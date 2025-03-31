@@ -28,8 +28,8 @@ output:
     
 <br/>
 
-* **Homeostasis requires *osmoregulation*: **
-    + Balance water gain and loss
+* **Homeostasis requires <span style="color:blue">*osmoregulation*</span>: **
+    + <span style="color:blue">internal regulation of water and solutes</span>
  
  </div>
  
@@ -65,12 +65,12 @@ output:
 
 <div style="float: right; width: 60%;">
 
-* **Different habitats present osmoregulation challenges**
+* **Habitats present different osmoregulation challenges**
     + land, oceans and  freshwater
 
 <br/>
 
-* **Animals will have 'cell problems' if they do not regulate solutes**
+* **Animals (without cells walls) will have 'cell problems' if they do not regulate solutes...**
     + excessive water uptake = 
     + substantial water loss = 
     
@@ -79,7 +79,7 @@ output:
 
 * **Animals must also get rid of ammonia, which can be toxic**
     + *excretion* = ridding the body of waste products
-    + may require water
+    + may also require water to dilute toxic waste
 <br/>
 
 </div>
@@ -250,7 +250,7 @@ output:
 
 <br/>
 
-* **Functional unit = filtering tube (tubule) + capillary**
+* **<span style="color:blue">Functional unit = filtering tube (tubule) + capillary</span>**
     
 <br/>
 

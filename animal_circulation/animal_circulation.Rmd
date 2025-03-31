@@ -105,13 +105,13 @@ output:
 
 * **Gastrovascular cavity can be highly branched**
     + extends into tentacles of cnidarians
-    + covers high surface area of flatworms
+    + covers high surface area within flatworms
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:70px; WIDTH:300px; HEIGHT:500px" SRC="images/gastro.jpg">
 
-## Animals with circulatory systems
+## Animals with circulatory systems (most bilateral animals)
 <hr>
 <br/>
 
@@ -124,15 +124,15 @@ output:
 
 <br/>
 
-* **Fluid transport, via vessels, connects cytoplasm of cells to organs for gas exchange **
+* **Fluid transport, via vessels, connects cytoplasm of cells to the gas exchange organs**
 
 <br/>
 
-* **Mammals &rarr; O~2~ diffuses over 2 cell layers in lungs to reach blood**
+* **Mammals &rarr; O~2~ diffuses over just 2 cell layers in lungs to reach blood**
 
 <br/>
 
-* **Molecule trading with circulatory fluid works like a circuit**
+* **Molecule trading with circulatory fluid often works like a circuit**
 
 </div>
 
@@ -236,7 +236,7 @@ output:
 
 * **Blood flows to left ventricle and pumped to tissues via arteries into capillaries**
     + First branches supply the heart muscle
-    + Further branches lead to organs and hind limbs
+    + Further branches lead to organs and limbs
 
 <br/>   
 
@@ -318,7 +318,8 @@ output:
     
 <br/>
  
-* **Efficient surfaces for gas exchange have evolved across animals**
+* **Efficient surfaces for gas exchange have evolved across animals that live in water and on land**
+    + form is always going to include high surface area
 
 </div>
 

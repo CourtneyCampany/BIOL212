@@ -330,6 +330,8 @@ output:
 ## Most female mammals have an ovarian cycle
 <hr>
 
+<br/>
+
 <div style="float: left; width: 58%;">
 
 * **Some females have linked menstrual cycle**
@@ -337,8 +339,7 @@ output:
 
 <br/>
 
-* **Ovarian cycle:**
-    + series of changes in ovaries for maturation and release of eggs
+* **Ovarian cycle:** series of changes in ovaries for maturation and release of eggs
     
 <br/>
  
