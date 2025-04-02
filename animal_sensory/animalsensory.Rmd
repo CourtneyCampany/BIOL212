@@ -70,19 +70,17 @@ output:
 
 * **Neurons = **
     + sensory, interneurons, and motor neurons
-    
+    + Fundamental unit of the brain and nervous system**
+
 <br/>
 
-* **Fundamental unit of the brain and nervous system**
+* **Neuron structure is all about form and function**
     + Most organelles located in the cell body
+    + Highly branched extensions, called *dendrites*, receive signals
 
 <br/>
 
-* **Highly branched extensions, called *dendrites*, receive signals**
-
-<br/>
-
-* **Most neurons have a single *axon* to transmit signals**
+* **Neurons have a single *axon* to transmit signals**
     + transmit pulses of electrical current
     + *terminals* connect nerve cells
     
@@ -191,6 +189,7 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 * **Action potentials reach brain/spinal cord via dedicated neural pathways**
     + brain distinguishes stimuli on the path they arrive
     + 100 million neurons with 100 trillion connections = human brain
+    + actions potentials sent back to target receptors via motor neurons
 
 </div>
 
