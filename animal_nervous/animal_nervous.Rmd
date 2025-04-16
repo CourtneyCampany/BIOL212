@@ -85,7 +85,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/pns.jpeg">
 
-## Vertebrate nervous system
+## Vertebrate nervous systems
 <hr>
 
 <div style="float: left; width: 50%;">

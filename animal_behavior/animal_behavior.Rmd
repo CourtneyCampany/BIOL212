@@ -136,12 +136,12 @@ output:
 
 <br/>
 
-* **Animals may use sun or moon position to navigate**
-    + adjust route with circadian clocks!
+* **Animals may use sun or moon position or gravitational fields to navigate**
+    + adjust routes with circadian clocks!
 
 </div>
 
-## Bird Returning Home: What happens if it is cloudy?
+## Pigeon Returning Home: What happens if it is cloudy?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/pigeon2.jpg">
@@ -173,7 +173,7 @@ output:
 
 <div style="float: left; width: 57%;">
 
-* **Stimulus may come from other animals (Q1)**
+* **Stimuli may come from other animals (Q1)**
 
 <br/>
 
@@ -331,7 +331,7 @@ output:
 
 ## Trouble with assembling IKEA furniture? Call a crow...
 <hr>
-**Cognitive learning = problem solving through experimentation **
+<span style="color:blue">**Cognitive learning = problem solving through experimentation**</span>
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:450px; HEIGHT:425px" SRC="images/crow.png">
     
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:275px" SRC="images/crow2.jpg">    
@@ -358,7 +358,7 @@ output:
 
 <br/>
 
-* **Fruit flies: variation in an foraging gene (*for*) dictates larval travel when foraging**
+* **Fruit flies: variation in a 'foraging' gene (*for*) dictates larval travel when foraging**
     + *for^R^* (rover) vs *for^S^* (sitter)
     
 <br/>
@@ -387,7 +387,7 @@ output:
 <br/>
 
 * **Seeking, attracting & choosing mates are all under selection**
-    + mate competition
+    + creates mate competition
 
 <br/>
 
@@ -412,11 +412,11 @@ output:
 
 <div style="float: right; width: 60%;">
 
-* **Behaviors have a genetic basis**
+* **Behaviors have a genetic basis over the history of the species**
 
 <br/>
 
-* **Courtship fruit fly: series of behaviors in male flies**
+* **Fruit fly courtship: series of behaviors in male flies**
     + single gene (*flu*) controls entire ritual
     + if *flu* mutated &rarr; no mating
     + variation in gene &rarr; variation in behavior
@@ -440,9 +440,9 @@ output:
 
 <br/>
 
-* **Altruism: **
-    + sterile bees
-    + animals that vocalize warning calls
+* **Altruism: selfless concern for others...**
+    + sterile bees?
+    + animals that vocalize warning calls?
 
 <br/>    
     
@@ -451,7 +451,7 @@ output:
 
 <br/>
 
-* **Inclusive fitness: increases genetic representation of related offspring**
+* **Inclusive fitness: increases genetic representation of related offspring...**
 
 </div>
 
