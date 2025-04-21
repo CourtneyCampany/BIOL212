@@ -23,7 +23,7 @@ output:
 <br/>
 
 * **Population growth can be 'modeled'**
-    + tracking births & deaths
+    + tracking births & deaths can show trends
     
 <br/>
 
@@ -97,10 +97,100 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/lifetable.jpg">
 
+<!-- ## Patterns of survivorship in natural populations -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/curves.jpg"> -->
+
+## Trade offs exists between reproduction and survival
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Frequency of reproduction**
+* **Number of offspring**
+* **Investment into parental care**
+
+<br/>
+
+**Combined, the traits represents an organism's *life history* **
+<br/>
+
+1. Age at first reproduction?
+2. How often reproduction occurs?
+3. How many offspring are created?
+4. What happens to offspring after birth?
+    
+</div>
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:200px; HEIGHT:450px" SRC="images/age.jpg">
+
+## Trade offs exists between reproduction and survival
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Frequency of reproduction**
+* **Number of offspring**
+* **Investment into parental care**
+
+<br/>
+
+**Combined, the traits represents an organism's *life history* **
+<br/>
+
+1. Age at first reproduction?
+2. How often reproduction occurs?
+3. How many offspring are created?
+4. What happens to offspring after birth?
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:200px; HEIGHT:450px" SRC="images/semel.jpg">
+
+## Trade offs exists between reproduction and survival
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Frequency of reproduction**
+* **Number of offspring**
+* **Investment into parental care**
+
+<br/>
+
+**Combined, the traits represents an organism's *life history* **
+<br/>
+
+1. Age at first reproduction?
+2. How often reproduction occurs?
+3. How many offspring are created?
+4. What happens to offspring after birth?
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:200px; HEIGHT:450px" SRC="images/howmany.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:75px; WIDTH:900px; HEIGHT:600px" SRC="images/rvsk3.png">
+
 ## Patterns of survivorship in natural populations
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/curves.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:45px; WIDTH:550px; HEIGHT:400px" SRC="images/curves.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/animals.jpg">
+
 
 ## Populations grow fast when resources are abundant
 <hr>
@@ -158,7 +248,7 @@ output:
  
 <br/>
 
-* **Resource limitation causes birth rate to decline**
+* **Resource limitation causes *'r'* to decline**
 
 <br/>
 
@@ -168,95 +258,8 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:565px; WIDTH:500px; HEIGHT:450px" SRC="images/logistic.jpg">
 
-## Trade offs exists between survival and reproduction
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 60%;">
-
-* **Frequency of reproduction**
-* **Number of offspring**
-* **Investment into parental care**
-
-<br/>
-
-**Combined there traits represents an organism's *life history* **
-<br/>
-
-1. Age at first reproduction
-2. How often reproduction occurs
-3. How many offspring are created
-    
-</div>
-    
-<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:200px; HEIGHT:450px" SRC="images/age.jpg">
-
-## Trade offs exists between reproduction and survival
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 60%;">
-
-* **Frequency of reproduction**
-* **Number of offspring**
-* **Investment into parental care**
-
-<br/>
-
-**Combined there traits represents an organism's *life history* **
-<br/>
-
-1. Age at first reproduction
-2. How often reproduction occurs
-3. How many offspring are created
-    
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:200px; HEIGHT:450px" SRC="images/semel.jpg">
-
-## Trade offs exists between survival and reproduction
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 60%;">
-
-* **Frequency of reproduction**
-* **Number of offspring**
-* **Investment into parental care**
-
-<br/>
-
-**Combined these traits represents an organism's *life history* **
-<br/>
-
-1. Age at first reproduction
-2. How often reproduction occurs 
-3. How many offspring are created
-    
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:200px; HEIGHT:450px" SRC="images/howmany.jpg">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:75px; WIDTH:900px; HEIGHT:600px" SRC="images/rvsk3.png">
-
-## Trade-offs and Life Histories
-<hr>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:45px; WIDTH:550px; HEIGHT:400px" SRC="images/curves.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/animals.jpg">
-
 ## Density in populations matter (carrying capacity)
 <hr>
-<br/> 
 <br/> 
 <br/> 
 
@@ -273,6 +276,7 @@ output:
 <br/> 
 
 * **Population density works as a negative feedback for predator-prey populations**
+    + creates a cyclical relationship where both populations are regulated by the other's density. 
 
 </div>
 

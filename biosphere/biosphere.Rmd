@@ -33,11 +33,11 @@ output:
 
 * **Earth is divided up into different biomes**
     + control the distribution of species
-    + climate creates life zones
+    + climate defines these life zones
 
 <br/>
 
-* **Abiotic and biotic factors determine where species can exist**
+* **Abiotic *and* biotic factors determine where species can exist**
 
 </div>
 
@@ -62,7 +62,7 @@ output:
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/climate.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/climateweather.jpg">
 
 ## What is climate?
 <hr>
@@ -82,12 +82,12 @@ output:
 * **Solar energy (sun) warms the air, land & water**
     + impacts temperature
     + impacts air movement (wind patterns)
-    + impacts evaporation
+    + impacts evaporation (adds water vapor into atmosphere)
 
 <br/>
 
 * **Earth is round, sun radiation strikes unevenly**
-    + direct @ equator
+    + strikes directly @ equator
     + more diffuse (spread out) towards poles
 
 <br/>
@@ -99,7 +99,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/radiation.jpg">
 
-## Climate varies by season
+## Climate also varies by season
 <hr>
 <br/>
 
@@ -112,7 +112,7 @@ output:
 
 <br/>
 
-* **Climates within a latitude may change during the year due to tilt**
+* **Climates within a latitude may change during the year due to this tilt**
     + seasons
     + wind and ocean currents
 
@@ -208,29 +208,29 @@ output:
 
 <IMG STYLE="position:absolute; TOP:400px; LEFT:100px; WIDTH:900px; HEIGHT:250px" SRC="images/ecotone.jpg">
 
-## What makes a biome a biome?
-<hr>
-<br/> 
-<br/> 
+<!-- ## What makes a biome a biome? -->
+<!-- <hr> -->
+<!-- <br/>  -->
+<!-- <br/>  -->
 
-<div style="float: left; width: 50%;">
+<!-- <div style="float: left; width: 50%;"> -->
 
-* **Biomes are divided into vertical layers**
-    + aboveground & belowground
-    + each layer has distinct species
+<!-- * **Biomes are divided into vertical layers** -->
+<!--     + aboveground & belowground -->
+<!--     + each layer has distinct species -->
 
-<br/>   
-   
-* **Species composition varies within biomes**
-    + abundance or presence/absence
-    
-<br/>
+<!-- <br/>    -->
 
-* **Question: Why will different deserts have similar looking but unrelated species of cacti?**
+<!-- * **Species composition varies within biomes** -->
+<!--     + abundance or presence/absence -->
 
-</div>
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:535px; WIDTH:550px; HEIGHT:400px" SRC="images/layers.jpg">
+<!-- * **Question: Why will different deserts have similar looking but unrelated species of cacti?** -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:535px; WIDTH:550px; HEIGHT:400px" SRC="images/layers.jpg"> -->
 
 ## Aquatic biomes are also diverse
 <hr>
@@ -304,8 +304,8 @@ output:
 <br/>
  
 * **Why are different kangaroos in some habitats but not others?**
-    + abiotic factors?
-    + biotic factors?
+    + abiotic (non-living) factors...
+    + biotic (living) factors...
 
 </div>
 

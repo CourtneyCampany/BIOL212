@@ -51,7 +51,7 @@ output:
 <br/>
 
 * **Outcome of interactions determine which species are present**
-
+    
 <br/>
 
 * **Sum of interactions determine how an ecosystem functions**
@@ -86,6 +86,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:560px; WIDTH:500px; HEIGHT:350px" SRC="images/competition.jpg">
 
+## Competitive exclusion: squirrel species in the UK
+<hr>
+
+**The Eurasian red squirrel has suffered competitive exclusion due to the introduction of the Eastern grey squirrel from the USA**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:850px; HEIGHT:425px" SRC="images/squirrel.png">
+
+
 ## Natural selection favors those that do not compete
 <hr>
 <br/>
@@ -112,10 +120,15 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:625px; WIDTH:450px; HEIGHT:500px" SRC="images/niche.jpg">
 
-## Resource partitioning in *Anolis* lizards
+## Resource partitioning in warblers
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:925px; HEIGHT:450px" SRC="images/lizards.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/warbler.png">
+
+<!-- ## Resource partitioning in *Anolis* lizards -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:925px; HEIGHT:450px" SRC="images/lizards.jpg"> -->
 
 ## There is serious DRAMA in the animal kingdom!!!
 <hr>
@@ -190,7 +203,7 @@ output:
 ## Defenses vs Predation &rarr; Co-evolutionary arms race
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/coevolution_butterflies.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/mouse.jpg">
 
 ## https://youtube/w-K_YtWqMro
 <hr>
@@ -204,7 +217,7 @@ output:
 <div style="float: left; width: 60%;">
 
 * **Organism (herbivore) eats part of plant or alga**
-    + harms the plant
+    + harms the plant by removing biomass
     
 <br/>
 
@@ -286,7 +299,7 @@ output:
     
 <br/>
 
-* **Often, the 2 species depend on each other for survival/reproduction**
+* **The 2 species may or may not depend on each other for survival/reproduction**
     + plants + insects = pollination + food
     
 <br/>
@@ -344,7 +357,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/food1.jpg">
 
-## Trophic Structure
+## Trophic (feeding) structure defined by species interactions
 <hr>
 <br/> 
 <br/> 
