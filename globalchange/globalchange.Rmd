@@ -72,19 +72,20 @@ output:
 
 * **Level 1: Genetic Diversity**
     + within and among populations
-    + loss of alleles reduces adaptive potential
+    + *loss of alleles reduces adaptive potential*
     
 <br/>
 
 * **Level 2: Species Diversity**
     + number of species in a system
     + local or whole extinctions possible
+    + *each species has a 'role' in the community*
     
 <br/>
 
 * **Level 3: Ecosystem Diversity**
     + variety of ecosystems on Earth
-    + provide services to humans
+    + *provide services to humans*
     
 </div>
 
@@ -97,7 +98,7 @@ output:
 <div style="float: left; width: 57%;">
 
 * **Genetic Diversity: alleles in populations**
-    + what happens when a population disappears?
+    + what happens when populations decline/disappear?
     
 <br/>
 
@@ -115,7 +116,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:500px; HEIGHT:450px" SRC="images/frogs.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:610px; WIDTH:500px; HEIGHT:450px" SRC="images/frogs.jpg">
 
 ## The Selfish View: What does biodiversity provide us?
 <hr>
@@ -141,7 +142,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:535px; WIDTH:525px; HEIGHT:425px" SRC="images/services.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:555px; WIDTH:525px; HEIGHT:425px" SRC="images/services.jpg">
 
 ## Why is biodiversity changing?
 <hr>
@@ -165,8 +166,8 @@ output:
 
 <br/>
 
-* **Landscape change by humans is huge threat**
-    + nearly all land surface has been altered
+* **Landscape change is huge threat**
+    + land surfaces altered for human needs
     + causes *fragmentation* or *loss of habitat*
 
 </div>
@@ -174,6 +175,9 @@ output:
 ## Introduced species and over-harvesting
 <hr>
 **Native vs Non-Native vs Invasive Species**
+<br/>
+
+**Harvesting organisms at rates that exceed the ability of the population to recover**
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/kudzu.jpg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/overharvest.jpg">
@@ -181,12 +185,14 @@ output:
 ## How does conservation biology work? 
 <hr>
 <br/>
+**<span style="color:blue">Small Population Approach</span> - increase migration/dispersal between populations**
+
 <br/>
 
 <div style="float: left; width: 50%;">
 
 * **Small populations are the most vulnerable**
-    + population getting pushed to extinction 
+    + populations lose adaptive potential
     
 <br/>
 
@@ -202,13 +208,17 @@ output:
 
 * **Goal: Maintain genetic diversity to avoid extinction vortex**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/vortex.jpg">
+<IMG STYLE="position:absolute; TOP:255px; LEFT:555px; WIDTH:500px; HEIGHT:400px" SRC="images/vortex.jpg">
 
 ## How does conservation biology work? 
 <hr>
 <br/>
 
 <div style="float: left; width: 60%;">
+
+**<span style="color:blue">Declining Population Approach</span>**
+
+<br/>
 
 * **Detect downward trends in population sizes**
     + may be a large population
@@ -231,6 +241,8 @@ output:
 ## Landscape conservation: Building habitat corridors
 <hr>
 **Establishing large scale protected areas (terrestrial or aquatic) is first priority**
+<br/>
+<span style="color:blue">**Goal: to increase gene flow between fragmented populations**</span>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/corridor.jpg">
 
@@ -325,7 +337,6 @@ output:
 
 ## Global Change: What can we do?
 <hr>
-<br/>
 
 <div style="float: left; width: 45%;">
 

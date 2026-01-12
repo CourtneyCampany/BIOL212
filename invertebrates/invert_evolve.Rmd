@@ -24,7 +24,7 @@ output:
 <br/>
 
 * **Animals then diversify across Paleozoic, Mesozoic and Cenozoic**
-    + in both aquatic and terrestrial environemnts
+    + in both aquatic and terrestrial environments
     + punctuated by mass extinctions
 
 </div>
