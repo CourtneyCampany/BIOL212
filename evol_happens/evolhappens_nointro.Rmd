@@ -9,26 +9,26 @@ output:
 
 ## Hash tags (*Things to know*) for each lecture...
 <hr>
-<br/>
 
 * **Use these as your study guides. Each one is a concept (not a definition).**
-    + I use them to write the exam
-    + Generally, you should be able to write 2-3 sentences about a # (with no notes)
+    + I use these *concepts* to write the exam/quiz questions
+    + Generally, you should be able to write 2-3 sentences about each # (with no notes)
     + Create a checklist - cross them off as you study
     + Use student hours (or email) for ones you don't quite get
     + Start with #s and expand outward when studying
+    + <span style="color:blue">Extra Credit *Mastery Cards* are based on these</span>
     
 <br/>
 
-<span style="color:blue">**#FossilClues**</span>
+<span style="color:blue">**#Fossil Clues**</span>
 
 <br/>
 
-<span style="color:blue">**#EvolutionTheories**</span>
+<span style="color:blue">**#Early Evolution Theories**</span>
 
 <br/>
 
-<span style="color:blue">**#SharedAncestry**</span>
+<span style="color:blue">**#Shared Ancestry**</span>
 
 ## What is evolution?
 <hr>
@@ -37,16 +37,16 @@ output:
 
 ## Sedimentary rocks reveal the vastness of geologic time
 <hr>
-<span style="color:darkred">**Fossils are glimpses into the past...**</span>
+<span style="color:green">**Fossils buried in those rocks tell the evolutionary story of life on Earth...**</span>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/SedimentaryStrata.jpg">
 
 ## 
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 55%;">
     
 * **Geology and fossils reveal key facts:**
-1. The Earth and life on Earth are old
+1. The Earth and life on Earth are billions of years old
 2. Fossils look very different across geologic time
 
 </div>
@@ -57,7 +57,7 @@ output:
 
 ## Georges Cuvier (1769-1832): The concept of extinction
 <hr>
-**Cuvier's finding refute the idea of species permanence**
+**Cuvier's findings refute the idea of species permanence**
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mastodon.jpg">
 
 ## 99% of all species that have existed have already gone extinct!!!
@@ -92,11 +92,11 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 48%;">
-
 * **Lines of descent (early evolution theory)**
-    + compared living giraffes  with fossil forms
-    + evolution =  simple to more complex
+    + compared living giraffes with fossil forms
+    + evolution =  'life evolves from simple to more complex' as organisms passed *developed* characteristics to their offspring
+
+<div style="float: left; width: 48%;">
 
 <br/>
 
@@ -115,7 +115,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:525px; WIDTH:550px; HEIGHT:325px" SRC="images/giraffe.jpg">
 
 ## According it Lamarck, Skee-Lo could get his wish
 <hr>
@@ -139,7 +139,7 @@ output:
 
 <br/>
 
-* **Whales: past and present**
+* **Aquatic mammals: past and present**
     + nostrils
     + pelvis
     + hind limbs!
