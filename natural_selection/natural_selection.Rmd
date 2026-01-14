@@ -6,6 +6,25 @@ output:
     widescreen: true
     smaller: true
 ---
+## Things to Know
+<hr>
+<br/>
+<br/>
+<br/>
+
+<span style="color:blue">#Evolution Components (terms within the definition)</span>
+
+<br/>
+<br/>
+<br/>
+
+<span style="color:blue">#Natural Selection Rules (4) - ORDER MATTERS</span>
+
+<br/>
+<br/>
+<br/>
+
+<span style="color:blue">#Adaptation through *Homology*</span>
 
 ## Darwin: Evolution as descent with modification
 <hr>
@@ -56,7 +75,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/genopheno.jpg">
 
-## At least 7 genetically distinct lineages of giraffes exist
+## How many species of giraffe are there...
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/giraffe.jpg">
@@ -86,22 +105,22 @@ output:
 <br/>
 <br/>
 
-**Remember: Generations are the timescale for inheritance from parent to offspring**
+<span style="color:blue">**Remember: Generations are the timescale for inheritance from parent to offspring**</span>
 </div>
 
 ## Mechanism of Darwinian Evolution = Natural Selection
 <hr>
 
 <div align="center">
-* **Focuses on <span style="color:blue">adaptation</span> through natural selection (not use/disuse)**
-    + characteristics that enhance fitness in an environment
-    + these characteristics must be heritable
+* **Focuses on <span style="color:blue">adaptation</span> through <span style="color:blue">natural selection</span> (not use/disuse)**
+    + some traits enhance fitness in an environment
+    + these traits can be heritable
 <br/>
 * **Different populations of organisms live in different habitats, so they gradually accumulate changes to be better suited to that habitat (<span style="color:blue">adaptation</span>)**
 
 <br/>
 
-**<span style="color:green">?Proposed that new species could arise from an ancestral form with enough adaptations</span>**
+**<span style="color:red">?Proposed that new species could arise from an ancestral form with enough adaptations</span>**
 
 </div>
 
@@ -276,7 +295,7 @@ output:
 <br/>
 
 <div align="center">
-**If you were a bacteria today, in 2024....**
+**If you were a bacteria today, in 2026....**
 </div>
 
 <br/>
