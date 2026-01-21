@@ -7,6 +7,23 @@ output:
     smaller: true
 ---
 
+## Things to Know
+<hr>
+<br/>
+<br/>
+
+#**Sexual Selection**
+
+<br/>
+<br/>
+
+#**Mate Choice Benefits**
+
+<br/>
+<br/>
+
+#**Sex Competition**
+
 ## Does having 'Good Genes' make you sexy?
 <hr>
 <br/>
@@ -17,8 +34,8 @@ output:
 <div style="float: left; width: 58%;">
 
 * **Natural Selections rule #4:**
-    + If variation in a heritable trait is associated with variation in reproductive success...
-    + those traits accumulate in population
+    + If variation in a heritable trait is associated with *variation in reproductive success*...
+    + then advantageous traits will accumulate in a population
 
 <br/>
 
@@ -135,7 +152,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:450px; HEIGHT:450px" SRC="images/penis_insects.png">
 
-## Subtle combat
+## Subtle combat in Argentinian Wood Ducks
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/duckphallus.jpg">
