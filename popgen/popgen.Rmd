@@ -6,6 +6,22 @@ output:
     widescreen: true
     smaller: true
 ---
+## Things to KNow
+<hr>
+<br/>
+<br/>
+
+**# Hardy Wienberg Rules**
+
+<br/>
+<br/>
+
+**#Allele Frequencies**
+
+<br/>
+<br/>
+
+**#PopGen Problem**
 
 ## The smallest unit of evolution: Populations
 <hr>
@@ -31,7 +47,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/microevo.gif">
     
-## Viewing the world via one-locus and two alleles
+## Basic POPGEN: Viewing the world via one-locus and two alleles
 <hr>
 
 * **Locus: a region of DNA that encodes for a trait**
@@ -45,19 +61,18 @@ output:
     
 <br/>
 
-* **Another allele is possible with a different sequence**
+* **Another allele is possible with a different sequence created by a random mutation**
     + 'a' allele for flower color = ACTGATCCCGATC**TT**GATAAATAGG
     + new allele 'a' gives white pigment
 
 <br/>
 
 * **Letters 'A' and 'a' indicate there are two different alleles at this locus in the population**
-    + individuals are *Homozygous* (AA or aa) or *Heterozygous* (Aa) 
+    + *diploid* individuals are *Homozygous* (AA or aa) or *Heterozygous* (Aa) 
     + 2 copies on paried chromosomes. *Why 2 copies?*
     
-## Phenotypic variation reflects genetic variation
+## Phenotype variation reflects genetic variation
 <hr>
-<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -74,8 +89,8 @@ output:
 <br/>
 
 * **<span style="color:blue">Changes in genetic variation, via alleles, provide the raw materials for evolution**</span>
-    + inherit one copy of locus from mother & father
-    + eg. environment selects flower color phenotypes
+    + environment *selects* flower color phenotypes that are best suited
+    + e.g., bees may prefer to pollinate white flowers and those flowers produce more seeds
     
 </div>
 
@@ -110,9 +125,9 @@ output:
 <br/>
 
 * **Broken CFTR gene = protein channel not working properly**
-    + misfolded and/or not in membrane
-    + cannot open channel gate
-    + insufficient quantities to lubricate cells
+    + misfolded and/or not embedded in the membrane
+    + channel gate cannot open to move Cl^-^
+    + insufficient quantities of channels to lubricate cells
     
 <IMG STYLE="position:absolute; TOP:345px; LEFT:670px; WIDTH:350px; HEIGHT:200px" SRC="images/cfprotein.jpg">
 
@@ -142,13 +157,16 @@ AA or Aa or aa
 
 ## Cystic Fibrosis = autosomal recessive (aa genoptypes)
 <hr>
-<br/>
-<br/>
 
 * **Fertilization from haploid gametes (1N)**
     + gametes = reproductive cells (sperm and eggs)
     + have only one copy of a chromosome (meiosis)
     
+<br/>
+
+* **In aa genotypes (w/ Cystic Fibrosis):**
+    + all gametes have a allele
+
 <br/>
 
 * **In Aa genotypes:**
@@ -167,13 +185,13 @@ AA or Aa or aa
 <br/>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Individuals in a population vary with a trait, that has a genetic basis (Rule 1 & 2) **
     + <span style="color:blue">**Trait = functional or not CFTR gene that is inherited from each of your parents**</span>
 
+<br/>
 <br/>
 
 * **Variation in trait associated with variation in reproductive success (Rule 3)**
@@ -214,7 +232,7 @@ AA or Aa or aa
 <hr>
 
 <font size="6">
-**In a given populations of humans...**
+**In a given population of humans...**
 
 <br/>
 
@@ -255,7 +273,7 @@ AA or Aa or aa
 <br/>
 
 * **It is common for some loci to be in Hardy Weinberg equilibrium**
-    + selection is likely not happening on all loci
+    + selection is likely not happening on all loci in a population
  
 <br/>
 
@@ -273,11 +291,11 @@ AA or Aa or aa
 
 <br/>
 
-**What is the frequency of broken CFTR allele?**
+**What is the frequency of broken CFTR allele? (q)**
 
 <br/>
 
-**What is the frequency of the normal CFTR allele?**
+**What is the frequency of the normal CFTR allele? (p)**
 
 <br/>
 
@@ -285,7 +303,7 @@ AA or Aa or aa
 
 <br/>
 
-**Due to modern medicine, Cystic Fibrosis is no longer fatal to children.  Explain how population genetics should/should not be used monitor CF in Swiss people, through time.**
+**Variants: In the next generation, (1) what is the chance of being heterozygous, or (2) what is the change of being homozygous dominant, or (3) what is the change of having at least one copy of the A allele?**
 
 ## A population of otters has 336 brown and 64 tan individuals. The brown allele is dominant and the tan allele is recessive. The groundhogs appear to be in Hardy Weinberg equilibrium  at the fur color locus
 
