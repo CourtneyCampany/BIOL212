@@ -63,8 +63,9 @@ output:
 
 ## How to draw phylogenies: branch shape and length
 <hr>
+**Length of branch represents evolutionary time from a common ancestor (units can vary)**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/shape.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/shape.jpg">
 
 ## How to draw phylogenies: branch shape and length
 <hr>
@@ -82,7 +83,7 @@ output:
 
 ## Convergent evolution in marine mammals (analogous traits)
 <hr>
-**<span style="color:blue">Aquatic mammals are a large polyphyletic group in the mammal phylogeney</span>**
+**<span style="color:blue">Aquatic mammals are a large *polyphyletic* group in the mammal phylogeney</span>**
 <IMG STYLE="position:absolute; TOP:190px; LEFT:290px; WIDTH:520px; HEIGHT:470px" SRC="images/convergent.jpg">
 
 <!-- ##  -->
@@ -124,7 +125,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/draw.jpg">
 
-## Visualizig Parsimony (homology vs analogy)
+## Visualizing Parsimony (homology vs analogy)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/parsimony.jpg">
@@ -168,7 +169,7 @@ output:
 <br/>
 
 * **Depends on what data you have!**
-    + poor fossil records made this tricky 
+    + poor fossil records make this tricky 
 
 <br/>
 
