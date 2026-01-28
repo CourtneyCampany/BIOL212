@@ -7,11 +7,27 @@ output:
     smaller: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+## Things to Know
+<hr>
+<br/>
+<br/>
+<br/>
 
-## Last time: is a population evolving?
+**#Genetic Drift**
+
+<br/>
+<br/>
+<br/>
+
+**#Gene Flow**
+
+<br/>
+<br/>
+<br/>
+
+**#Directional Selection**
+
+## Review: is a population evolving?
 <hr>
 <br/>
 <br/>
@@ -42,23 +58,22 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Allele frequency change in beetles: Mutation
 <hr>
 <br/>
+<br/>
 
 * **Mutations in the beetle color gene, resulting in more brown**
-    + to rare to be considered evolutionary change
+    + to rare to change allele frequencies on their own
+    + require synergy with a another driver (e.g., selection)
 
 <br/>
 
-* **Mutation	rate = **	
+* **Mutation	rate = probablity that one allele changes to another via mutation**	
     + mutation rates	are	generally	small	(~0.0001%).	
     + humans = 2.5 x 10^-8^ mutations nucleotide^-1^ generation^-1^
     + negligible change from one generation to the next
 
 <br/>
 
-* **Mutation may counterbalance	selection**		
-    + selection	against	a	deleterious	recessive	allele (a)
-    + but	mutation	from	A	-> a	
-    + selection	may not completely eliminate	the	'a' allele
+* **Mutation ARE the ultimate source of genetic diversity**
       
 <IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:350px; HEIGHT:400px" SRC="images/beetle.jpg">
 
@@ -66,21 +81,21 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 
-* **Genetic drift describes how allele frequencies fluctuate unpredictably across generations**
+* **Genetic drift describes how *allele frequencies may fluctuate unpredictably across generations***
     + happens	in every	population
     + pronounced	in	small	populations
     + extremely	important	evolutionary	“force”
 
 <br/>
 
-* **Reduced genetic variation through the random loss of alleles**
+* **Reduces genetic variation through the random loss of alleles**
 
 <br/>
 
 * **In a small population, beetles are green or brown**
     + several green beetles get stepped on by Dr. C
     + next generation has more brown beetles, by chance
-    + did it matter if alleles were dominant or recessive? or better suited?
+    + did it matter if alleles were dominant or recessive? or better suited? or helped with mating?
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/beetlesmush.png">
 
@@ -100,11 +115,11 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 <br/>
 
-<div style="float: right; width: 43%;">
+<div style="float: right; width: 52%;">
 
-* **Founder Effect: when a few individuals become isolated from a larger population**
-    + some alleles make it, others lost
-    + non-random
+* **Founder Effect: when a few individuals become isolated from a larger population and establish a new population**
+    + some alleles are kept, others are lost
+    + allele frequencies likely change by chance
 
 <br/>
 
@@ -113,7 +128,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:600px; HEIGHT:450px" SRC="images/founder.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:500px; HEIGHT:400px" SRC="images/founder.jpg">
 
 ## 
 
@@ -128,9 +143,9 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
-* **Bottlenecks occurs after a drastic reduction in population size**
+* **Bottlenecks occurs when *an event drastically reduces a population size, likely altering allele frequencies***
     + sudden change in the environment 
     + fire, flood, invasive species, etc. 
     
@@ -140,18 +155,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **If the population stays small, genetic drift could increase**
+* **If the population stays small, genetic drift could increase across populations**
     + black robins on Chatham island
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/bottle.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:640px; WIDTH:450px; HEIGHT:300px" SRC="images/bottle.jpg">
 
 ## Bottlenecks, species habitat loss, and conservation
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/chicken.jpg">
 
-## Allele frequencies change in beetles: Gene Flow
+## Allele frequencies can change through Gene Flow
 <hr>
 <br/>
 
@@ -159,11 +174,11 @@ knitr::opts_chunk$set(echo = FALSE)
     
 * **Gene flow: exchange of alleles between 2 or more populations**
     + aka 'Gene migration'
-    + like mutation but way more powerful
+    + like mutations but way more frequent
 
 <br/>
 
-* **Occurs when new individual migrates and mates successfully**
+* **Occurs when individuals migrate and mate successfully**
     + brown beetles enters population
     + changes allele frequency for color
 
@@ -171,11 +186,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Gene flow can be good or bad**
     + may increase genetic diversity
-    + bring harmful alleles
+    + may bring harmful alleles
 
 <br/>
 
-* **Does gene flow make populations more or less unique?**
+* **Does gene flow tend to make populations more or less unique?**
 
 ## 
 
@@ -199,7 +214,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Certain traits lead to greater *Relative Fitness* **
-    + individuals with good trait (alleles) will contribute more to gene pool
+    + individuals with beneficial traits (alleles) will contribute more to gene pool
     + *better survival/reproduction compared to others*
     
 <br/>
@@ -217,19 +232,19 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Natural Selection: selection of heritable traits
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:600px; HEIGHT:300px" SRC="images/selection.gif">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:400px" SRC="images/selection.gif">
 
-## Natural Selection: Directional selection of heritable traits
+## Natural Selection: *Directional selection* of heritable traits
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/directional2.png">
 
-## Natural Selection: Diversifying selection of heritable traits
+## Natural Selection: *Diversifying selection* of heritable traits
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/diversifying.png">
 
-## Natural Selection: Stabilizing selection of heritable traits
+## Natural Selection: *Stabilizing selection* of heritable traits
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/stablilizing.png">
