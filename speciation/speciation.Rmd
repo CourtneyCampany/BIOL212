@@ -6,6 +6,28 @@ output:
     widescreen: true
     smaller: true
 ---
+## Things to Know (#'s)
+<hr>
+<br/>
+
+<span style="color: blue;">**# Species Concepts (3)**</span>
+<br/>
+
+**Snow day guide: Write out the criteria for each concept, then write out one flaw**
+
+<br/>
+
+<span style="color: blue;">**# Barriers to Mating**</span>
+<br/>
+
+**Snow day guide: This is an extension of the biological species concept. Focus on being able to recognize/write out scenarios that prevent mating from occurring (pre-zygotic = habitat, temporal, behavioral, and mechanical isolation)**
+
+<br/>
+
+<span style="color: blue;">**#Allopatry vs Sympatry**</span>
+<br/>
+
+**Snow day guide: These are two 'mechanisms' by which species *actually* form (different from above). Be able to recognize/write out scenarios that would form new species for each**
 
 ## Macroevolution
 <hr>
@@ -80,6 +102,7 @@ output:
 
 * **Individuals do not interbred with other populations or are unable to produce viable offspring after mating**
     + via pre- and post-zygotic barriers
+        + prevent mating (pre) or prevent viable offspring (post)
 
 <br/>
 
@@ -109,7 +132,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **How do we effectively evaluate isolation?**
-    + Is this even possible in fossils?
+    + Is this even possible do to in fossils?
 
 <br/>
 
@@ -156,17 +179,64 @@ reproduced sexually for > 80 million years
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:500px; HEIGHT:400px" SRC="images/mimic.png">
 
-## Lineage Species Concept: Unity of ancestry
+## Ecological species concept: Unity of Niche
 <hr>
-**LSC uses genetic similarity/differences based on ancestry to determine species but is subjective in the magnitude of differences needed.**
-<IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/phylo.jpg">
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:615px; WIDTH:450px; HEIGHT:300px" SRC="images/phylo2.gif">
+<div style="float: left; width: 59%;">
 
-## How new species arise: Allopatry
+* **ESC: defines a species in terms of its ecological niche**
+    + *Niche = sum of how members of the species interact with the nonliving and living parts of their environment*
+    + living map of the habitat + other species interactions any species requires
+
+<br/>
+
+* **Key idea: members of the same species occupy the same niche and are shaped by the same selection pressures**
+    + different species would occupy different niches
+    + any new species should have a 'new niche' compared to its ancestor
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:645px; WIDTH:400px; HEIGHT:500px" SRC="images/ecomorph.png">
+
+## Issues with the ecological species concept
+<hr>  
+<br/>
+
+* **Niches can overlap or shift = niche boundaries can be fuzzy**
+    + many forest birds both eat the same insects in the same trees
+    + a fish species may eat insects in streams but switch to zooplankton in lakes
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Humans define a species' niche based on 'X' factors they can measure**
+    + more/less factors can redefine the niche
+
+<br/>
+
+* **One species can occupy multiple niches across life stages or environments—making boundaries fuzzy**
+    + tadpole & adult frog have different niches
+ 
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:255px; LEFT:555px; WIDTH:500px; HEIGHT:400px" SRC="images/frogniche.png">
+    
+<!-- ## Lineage Species Concept: Unity of ancestry -->
+<!-- <hr> -->
+<!-- **LSC uses genetic similarity/differences based on ancestry to determine species but is subjective in the magnitude of differences needed.** -->
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/phylo.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:615px; WIDTH:450px; HEIGHT:300px" SRC="images/phylo2.gif"> -->
+
+## How new species form: Allopatry
 <hr>
+<span style="color: blue;">**Allopatric speciation: the formation of new species due to geographic (physical) isolation that stops gene flow between populations**</span>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/allo.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/allo.png">
 
 ## Allopatric speciation in Hawaiian fruit flies
 <hr>
@@ -178,8 +248,9 @@ reproduced sexually for > 80 million years
 **The Atlantic and Pacific oceans used to connect before what we call Panama arose from the ocean. Different shrimp species live at different depths (colors on the picture). As Panama split the ocean these populations (by depth) became isolated and formed different species. The deep species (red) on opposite sides are more different than shallow species (green) because they have been separated longer!!** 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/shrimp.jpg"> -->
 
-## How new species arise: Sympatry
+## How new species form: Sympatry
 <hr>
+<span style="color: blue;">**Sympatric speciation: the process by which new species evolve from a single ancestral population while inhabiting the same geographic location**</span>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:350px" SRC="images/symp.png">
 
@@ -205,30 +276,30 @@ reproduced sexually for > 80 million years
 
 <!-- <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/punc.png"> --> -
 
-<!-- ## How much genetic change does it take? -->
-<!-- <hr> -->
-<!-- <br/> -->
+## How much genetic change does it take to form a new species?
+<hr>
+<br/>
 
-<!-- <div style="float: left; width: 55%;"> -->
+<div style="float: left; width: 55%;">
 
-<!-- * **Three spine stickleback fish rapidly evolve** -->
-<!--     + moved from oceans to freshwater when glaciers retreated after last ice age -->
+* **Three spine stickleback fish rapidly evolve**
+    + moved from oceans to freshwater when glaciers retreated after last ice age
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Freshwater habitats brought new selection pressures** -->
-<!--     + variety of habitats -->
-<!--     + new resources -->
-<!--     + change in competition -->
+* **Freshwater habitats brought new selection pressures**
+    + variety of habitats
+    + new resources
+    + change in competition
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Molecular biology examined each speciation** -->
-<!--     + ocean &rarr; fresh: one gene with bony armor plate -->
-<!--     + fresh habitats &rarr; many genes based on selection pressures -->
-<!-- </div> -->
+* **Molecular biology examined each speciation**
+    + ocean &rarr; fresh: one gene with bony armor plate
+    + fresh habitats &rarr; many genes based on selection pressures
+</div>
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/fish.jpg"> -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/fish.jpg">
 
 ## Study aid: The geography of speciation
 <hr>
