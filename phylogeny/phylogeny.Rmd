@@ -7,6 +7,23 @@ output:
     smaller: true
 ---
 
+## Things to Know (#)
+<hr>
+<br/>
+<br/>
+
+**#Ancestral - Derived Traits**
+
+<br/>
+<br/>
+
+**#Mono-, Para-, Poly-phyletic Groups**
+
+<br/>
+<br/>
+
+**#Convergent Evolution**
+
 ## Connecting classification with systematics
 <hr>
 
@@ -28,6 +45,7 @@ output:
 <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:800px; HEIGHT:450px" SRC="images/birdsrelate.jpg">
 
 ##
+
 <br/>
 <br/>
 
