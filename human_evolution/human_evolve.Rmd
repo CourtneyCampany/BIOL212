@@ -10,7 +10,7 @@ output:
 ##
 <span style="color: blue;">**Mammals are more recently derived amniotic chordates, with fur and mammary glands**</span>
 
-<IMG STYLE="position:absolute; TOP:115px; LEFT:50px; WIDTH:1000px; HEIGHT:550px" SRC="images/mammalphylo.jpg">
+<IMG STYLE="position:absolute; TOP:135px; LEFT:200px; WIDTH:700px; HEIGHT:530px" SRC="images/mammalphylo2.png">
 
 ## The common display of chimp to man is deeply problematic 
 <hr>
@@ -75,15 +75,15 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/shared_parasites.jpg">
     
-## Hominins: part of primate family that includes genus *Homo*
+## Hominins: part of primate tribe that includes genus *Homo*
 <hr>
 <br/>
 
-* **~20 species described (fossils) in the Hominin tribe**
+* **~30 species described (fossils) in the Hominin tribe**
     + at least 6 different genera (e.g., *Homo*)
     + key brain size, teeth shape, and body size traits
     + inferred tool use/culture/language
-    + species had different combos of each
+    + each species had different combos of those traits
 
 <br/>  
    
@@ -91,7 +91,7 @@ output:
 
 <br/>
 
-* **Really old fossils**
+* **Old fossils in Africa suggests origins of the tribe**
     + *Sahelantrophus tchadensis* (Toumai): 6.5mya
         + fossil connection to first hominins missing
     + *Ardipithecus ramidus* (Ardi): 4.4 mya
@@ -145,7 +145,7 @@ output:
 
 <div style="float: right; width: 72%;">
 
-* **All but the 4 most recent species were found *only* on the African continent**
+* **All but the 4 most recent species existed *only* on the African continent**
 
 <br/>
 
@@ -160,7 +160,7 @@ output:
     + 'Lucy' fossil in Ethiopia
         + more diverse diet
     + definitely bipedal
-    + gorilla-like shoulders: climbers
+    + gorilla-like shoulders: climber?
     + possible tool use
 </div>
 
@@ -177,13 +177,13 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Early *Homo* genus is composed of modern humans**
+* ***Homo* genus is composed of modern humans**
     + all species are called *humans*
     + ~2mya to present day
 
 <br/>
 
-* **8-10 species described!**
+* **15+ species described!**
     + flat and narrow faces
     + small jaws and teeth
     + larger brain cases
@@ -208,31 +208,31 @@ output:
 
 ## *Homo* species migrated out of Africa (*H.erectus* likely first)
 <hr>
+***H.erectus migrated* ~2 million years ago, followed by  *H.heidelbergensis***
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/travel.png">
 
 ## *Homo sapiens* evolution
 <hr>
 
-* **Evolved on the African continent**
+* **Evolved on the African continent ~ 300,000 years ago**
 
 <br/>
 
-* **Descended from a *2^nd^* wave of immigration out of Africa**
-    + 'Out of Africa' hypothesis
-    + ~100,000 ya
-    + fossil and DNA evidence shows migration
+* **Migrated in later waves of immigration out of Africa**
+    + ~100,000 years ago
     + **not the first species to leave**
 
 <br/>
 
 * **1 population left Africa, then split into 3 groups**
+    +  fossil and DNA evidence shows migration paths
     +  ~2,000 generations ago
 
 <br/>
 
-* **Natural selection for the ability to reason and communicate**
-    + Increased tool use and language
+* **Natural selection for the ability to reason and communicate?**
+    + increased tool use and language
     + resulted in larger brains 
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:325px; HEIGHT:450px" SRC="images/outafrica.jpg">
@@ -241,7 +241,7 @@ output:
 <hr>
 <br/>
 
-* **Neanderthals evolved in Eurasia**
+* **Neanderthals evolved in Eurasia (not Africa)**
     + split from a common ancestor ~ 500,000 ya
     + buried dead
     + used art
