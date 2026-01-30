@@ -7,6 +7,23 @@ output:
     smaller: true
 ---
 
+## Things to Know (#'s)
+<hr>
+<br/>
+<br/>
+
+**#Hominin Traits**
+
+<br/>
+<br/>
+
+**#Why 2 Legs?**
+
+<br/>
+<br/>
+
+**#Out of Africa**
+
 ##
 <span style="color: blue;">**Mammals are more recently derived amniotic chordates, with fur and mammary glands**</span>
 
