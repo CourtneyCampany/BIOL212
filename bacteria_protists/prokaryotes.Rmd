@@ -87,7 +87,7 @@ output:
 <br/>
 
 * **Vent organism was missing genes necessary for life**
-    + must have been relying on chemical components from its environment
+    + likely relied on chemical components from its environment
     + microbial 'mats' helped retain nutrients
     
 </div>
@@ -152,15 +152,15 @@ output:
 
 * **Diversity of ways of making a living**
     + use different sources of energy to make ATP
-    + heterotrophs (get food from environment)
-    + autotrophs (make their own food)
+      + heterotrophs (get food from environment)
+      + autotrophs (make their own food)
 
 <br/>
 
 * **Co-evolution with the planet and other organisms**
     + oxygen poor to oxygen rich world
     + extremeophiles (temperature, pH, salt,etc.)
-    + *prokaryotes are most abundant organisms on Earth!*
+    + *prokaryotes are most diverse and abundant organisms!*
 </div>
 
 <IMG STYLE="position:absolute; TOP:145px; LEFT:650px; WIDTH:450px; HEIGHT:350px" SRC="images/diversitywit.png">
@@ -185,10 +185,11 @@ output:
 <div style="float: right; width: 55%;">
 
 * **Maintains cell shape, protects cells and prevents it from bursting in *hypotonic* solution**
-
+    + most prokaryotes are aquatic
+    
 <br/>
 
-* **In hypertonic environments prokaryotes loss water and shrink away from wall**
+* **In *hypertonic* environments prokaryotes loss water and shrink away from wall**
     + can halt reproduction
     + why salt is used to preserve food!
 
@@ -200,10 +201,11 @@ output:
     
 </div>
 
-## Cell surface structures: Gram + & - bacteria
+## Cell surface structures of bacteria: Gram postive and negative
 <hr>
+**Gram stain separates bacteria into Gram-positive (purple, thick wall) and Gram-negative (pink/red, thin wall) groups. This is a classification system, not a universal rule for every bacterial species**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/gram2.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/gram2.jpg">
 
 ## Hospitals: Gram staining as a fast diagnostic tool
 <hr>
@@ -274,7 +276,7 @@ output:
 
 <br/>
 
-* **Many Shapes**
+* **Many shapes**
     + spherical, rod, spiral
 
 <br/>
@@ -298,14 +300,13 @@ output:
     
 <br/>
 
-* **19 shared proteins are modified versions of existing proteins**
-    + protein functions adapted to take on new functions
-    + through natural selection!
+* **Flagella proteins are modified versions of existing proteins**
+    + adapted for new functions through natural selection!
 
 <br/>
 
 * **Allows for *chemotaxis*, direct movement in response to chemicals**
-    + towards or away
+    + towards or away 
 
 </div>
 
