@@ -7,6 +7,24 @@ output:
     smaller: true
 ---
 
+## Things to Know (#'s)
+<hr>
+<br/>
+<br/>
+<br/>
+
+**#LUCA**
+
+<br/>
+<br/>
+
+**#Prokaryote vs Eukaryote**
+
+<br/>
+<br/>
+
+**#Gram Positive/Negative**
+
 ## BIOL 212: The Diversity of Life ---Where should we start?
 <hr>
 <br/>
