@@ -34,7 +34,7 @@ output:
 <div style="float: left; width: 58%;">
 
 * **'Prokaryotes' are not a monopheyltic group**
-    + Kingdoms Bacteria & Archaea; each with unique traits
+    + Domains Bacteria & Archaea; each with unique traits
     + most species diverse groups on Earth
 
 <br/>
@@ -139,7 +139,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:30px; WIDTH:350px; HEIGHT:250px" SRC="images/teeth.jpg">
 
-## Rapid reproduction contributes to genetic diversity via mutations
+## Rapid reproduction contributes to diversity via mutations
 <hr>
 
 * **Rapid reproduction and large populations leads to many mutations**
