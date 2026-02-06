@@ -7,9 +7,29 @@ output:
     smaller: true
 ---
 
-## Prokaryotes: The big picture
+## Things to Know
 <hr>
 <br/>
+<br/>
+<br/>
+
+**#Prokaryote Nutrition**
+
+<br/>
+<br/>
+<br/>
+
+**#Prokaryote Reproduction**
+
+<br/>
+<br/>
+<br/>
+
+**Horizontal Gene Transfer**
+
+
+## Prokaryotes: The big picture
+<hr>
 
 <div style="float: left; width: 58%;">
 
@@ -21,8 +41,9 @@ output:
 
 * **Diversity of ways of making a living**
     + sources of energy to make ATP
-    + heterotrophs
-    + autotrophs (photosynthesis)
+    + sources to produce carbon
+      + hetrotrophs
+      + autotrophs (light, chemical)
 
 <br/>
 
@@ -38,46 +59,38 @@ output:
 
 ## Prokaryote functional diversity
 <hr>
-<br/>
 
-<div style="float: left; width: 58%;">
 
 * **Sources of carbon**
-    + autotrophs (make themselves)
-        + chemically
-        + light
-    + heterotrophs (get from others)
+    + *autotrophs* produce organic molecules themselves
+        + chemically through oxidation of inorganic molecules
+        + utilize light energy & inorganic molecules
+    + *heterotrophs* obtain organic molecules from environment
 
 <br/>
 
-* **Energy for ATP (no mitochondria)**
-    + sunlight
-    + breakdown of organic molecules
-    + breakdown of inorganic molecules
- 
-<br/>
 
-* **Lifestyles reflected an extensive genetic diversification**
-
-</div>
+* **Energy for ATP (without mitochondria)**
+    + aerobic respiration= electron transport chain uses O~2~
+    + anaerobic respiration = electron transport chain does not use O~2~
+    + fermentation = breakdown of sugar directly
+    + via photosynthesis
+    + directly from inorganic molucules
 
 <br/>
 
-<div style="float: left; width: 100%;">
+*Picture: Iron-oxidizing bacteria derive ATP by oxidizing ferrous iron to power the electron transport chain*
 
-*Picture: Iron-oxidizing bacteria are chemoautotrophic bacteria that derive energy by oxidizing ferrous iron*
 
-</div>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/iron.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:350px; HEIGHT:270px" SRC="images/iron.png">
 
 ## Prokaryotes need nitrogen and may need oxygen
 <hr>
 
-* **Metabolism varies with respect to oxygen (reflect deep evolutionary history)**
-    + use for cellular respiration
-    + or poisoned by it!
-    + some can extract chemical energy from nitrite or sulfate
+* **Metabolism varies with respect to oxygen (reflects deep evolutionary history)**
+    + required for cellular respiration for some
+    + harmed or killed by O~2~ for others
+    + some can adjust based on presence/absence of O~2~
  
  <br/>
  
@@ -87,6 +100,7 @@ output:
  <br/>
  
 <div style="float: left; width: 45%;">
+
 * **Some bacteria convert atmospheric nitrogen (N~2~) into usable forms**
     + termed *Nitrogen fixation*
 
@@ -94,8 +108,9 @@ output:
  
 * **Picture: Bacteria work together**
     + photosynthesis and N fixation
+    
 </div>
-<IMG STYLE="position:absolute; TOP:400px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/photonitro.jpg">
+<IMG STYLE="position:absolute; TOP:420px; LEFT:500px; WIDTH:560px; HEIGHT:280px" SRC="images/photonitro.jpg">
 
 ## Metabolic cooperation by bacteria can lead to *Biofilms*
 <hr>
@@ -124,16 +139,28 @@ output:
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:30px; WIDTH:350px; HEIGHT:250px" SRC="images/teeth.jpg">
 
-## Rapid reproduction leads to high genetic diversity
+## Rapid reproduction contributes to genetic diversity via mutations
 <hr>
 
 * **Rapid reproduction and large populations leads to many mutations**
     + **diversity NOT created through sexual reproduction**
     + 2 x 10^10 new E.coli cells in human intestine each day
     + possible for millions of mutations each day
-    + infant microbiome diversifies rapidly based on environment..
 
-<IMG STYLE="position:absolute; TOP:320px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/infant.png">
+<br/>
+
+* **Example: Infant microbiome diversifies rapidly**
+    + colonization happens right after birth 
+        + parent, milk, skin, environment
+    + selection pressures are strong
+        + developing immune shifts
+        + diets shifts
+        + antibiotics, illnesses, etc.
+    + community is unstable
+        + mutations/new traits can spread fast
+        + *horizontal gene transfer*
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/infant2.png">
 
 ## Reproduction in prokaryotes: Binary fision
 <hr>
@@ -144,10 +171,12 @@ output:
 * **Asexual: daughter cells identical to parent**
     + rapid reproduction via mitosis
     + not great for genetic diversity
+        + no mixing of DNA from parents
+        + no meiosis to shuffle genes
 
 <br/>
 
-* **Mutations add to diversity but are still rare**
+* **Mutations add to diversity but are still *rare***
 
 <br/>
 
@@ -159,14 +188,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:525px; HEIGHT:500px" SRC="images/binary2.jpg">
 
-## Genetic Recombination: Transformation
+## Genetic Recombination: Bacterial Transformation
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/transformation.jpg">
 
 ## Utilizing transformation for science advancement...
 <hr>
-* **Manipulating DNA sequences in vitro,  creates recombinant DNA molecules that have new combinations of genetic material**
+* **Manipulating DNA sequences in vitro, creates recombinant DNA molecules that have new combinations of genetic material**
 
 <br/>
 
@@ -178,10 +207,11 @@ output:
 ## 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/transduction.png">
 
-## Genetic Recombination: Conjugation (mechanism unresolved)
+## Genetic Recombination: Bacterial Conjugation
 <hr>
+**Donor cell attaches to recipient via *pilus* (bridge) and transfers plasmids or chromosomal DNA (less common). Does not have to be same species or even genera!!!**
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/conjugation.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/conjugation.png">
 
 ## Many R plasmids carry genes for antibiotic resisitance
 <hr>
@@ -212,8 +242,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Acutally a big assumption!**
-    + ~23,000 described but > 2 million estimated
+* **>20,000 described but > millions estimated**
 
 <br/>
 
@@ -247,9 +276,9 @@ output:
 
 <br/>
 
-* **Photosynthesis evolved independently in distant groups**
+* **Photosynthesis evolved independently in other bacterial groups**
     + molecular mechanisms, pigments and oxygen conditions differ
-    + cyanobacteria are a monophyletic group (oxygenic photosynthesis)
+    + cyanobacteria *are* a monophyletic group (oxygenic photosynthesis)
 
 <br/>
 
@@ -259,7 +288,7 @@ output:
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:500px; HEIGHT:450px" SRC="images/cyanobacteria.png">
 
-## Prokaryotes matter: Great Oxygenation 
+## Prokaryotes matter: Great Oxygenation by Cyanobacteria
 <hr>
 
 <span style="color:purple"> **Banded iron formation (2.4 bya) the result of oxygen, dissolved iron and sea water**</span>
@@ -268,7 +297,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/bif.jpg">
 
-## Prokaryotes matter: Oxygen Revolution via cyanobacteria
+## Prokaryotes matter: Oxygen revolution
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:75px; WIDTH:950px; HEIGHT:500px" SRC="images/goe2.jpg">
