@@ -7,39 +7,58 @@ output:
     smaller: true
 ---
 
-<!-- ## Van Leeuwenoek: First microbiologist -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
+## Things to Know (#)
+<hr>
+<br/>
+<br/>
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:600px; HEIGHT:450px" SRC="images/leeuwenhoek.jpg"> -->
+**#Prokaryote vs Eukaryote**
 
-<!-- <div style="float: right; width: 40%;"> -->
+<br/>
+<br/>
 
-<!-- **"For me this was among all the marvels that I have discovered in nature the most marvelous of all, and I must say that, for my part, no more pleasant sight has yet met my eye than this of so many thousands of living creatures in one small drop of water, all huddling and moving, but each creature having its own motion."** -->
+**#Endosymbiosis**
 
-<!-- </div> -->
+<br/>
+<br/>
 
-##
+**#Eukaryote Reproduction**
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:275px; WIDTH:500px; HEIGHT:650px" SRC="images/phyla.jpg">
+<br/>
+<br/>
+
+**#A.O.G.**
+
+## Van Leeuwenoek: First Microbiologist
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:600px; HEIGHT:450px" SRC="images/leeuwenhoek.jpg">
+
+<div style="float: right; width: 40%;">
+
+**"For me this was among all the marvels that I have discovered in nature the most marvelous of all, and I must say that, for my part, no more pleasant sight has yet met my eye than this of so many thousands of living creatures in one small drop of water, all huddling and moving, but each creature having its own motion."**
+
+</div>
 
 ## Protists: The big picture
 <hr>
 
-<div style="float: left; width: 50%;">
-
 * **All Eukaryotes are protists except plants, animals and fungi**
     + mostly unicellular
-    + amoeba, slime molds, algae, protozoa
+    + several 'supergroups'
 
 
 <br/>
 
 * **Extraordinarily diverse**
-    + typically larger than prokaryotes
+    + >60,000 species described
+    + autotrophs, heterotrophs, or mixotrophs
+    + asexual or sexual reproduction
     + <span style="color:purple"> *functions carried out by organelles*</span>
     + <span style="color:purple"> *membrane bound nucleus*</span>
 
@@ -47,29 +66,31 @@ output:
 
 * **First undisputed fossils ~1.8 bya**
     + spherical algal protists
-    + many protists no hard parts
+    + many protists do not make fossils
     + common ancestry unresolved
 
-</div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:545px; WIDTH:500px; HEIGHT:400px" SRC="images/protist_collage.jpg">
+<IMG STYLE="position:absolute; TOP:235px; LEFT:545px; WIDTH:500px; HEIGHT:400px" SRC="images/protist_collage.jpg">
 
+##
 
-<!-- ## Tiny Cambrian acritarch Reticella corrugata - 1.7bya -->
-<!-- <hr> -->
+<IMG STYLE="position:absolute; TOP:25px; LEFT:275px; WIDTH:500px; HEIGHT:650px" SRC="images/phyla.jpg">
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:700px; HEIGHT:500px" SRC="images/algalfossil.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/algalfossil2.jpg"> -->
-
-## 
-
-<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/compare.jpg"> -->
+##
 
 <IMG STYLE="position:absolute; TOP:10px; LEFT:200px; WIDTH:725px; HEIGHT:675px" SRC="images/cells.png">
 
+## First protist fossils, *Reticella corrugata* - 1.8bya
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:700px; HEIGHT:500px" SRC="images/algalfossil.jpg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/algalfossil2.jpg">
+
 ## Basic protist cell: *Euglena*
 <hr>
+
+**Single-celled does not = simple for Eukaryotes. Protists can have very elaborate cells**
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/euglena.jpg">
 
@@ -128,22 +149,22 @@ output:
 
 <br/>
 
-* **Endosymbiosis: Organisms of one species living inside an organism of another species**
-    + proposed in 1905 but way too crazy
+* <span style="color:purple"> **Endosymbiosis: Organisms of one species living inside an organism of another species**</span>
+    + undigested prey? internal parasites?
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:660px; WIDTH:350px; HEIGHT:450px" SRC="images/mitochloro.jpg">
 
-## Endosymbiosis Theory: Origin of eukaryotic cells
+## Origin of the nucleus (several theories exist)
 <hr>
 <span style="color:purple">**We do not know whether nucleus or organelles occurred first!**</span>
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:950px; HEIGHT:350px" SRC="images/endosymb.jpeg">
 
-<!-- ## Origin of the nuclear envelope/membrane -->
-<!-- <hr> -->
+## Origin of the nuclear envelope/membrane
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/nuclearenvelope2.jpg"> -->
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/nuclearenvelope2.jpg">
 
 <!-- ## Endomembrane system: Outside in or Inside out? -->
 <!-- <hr> -->
@@ -175,12 +196,12 @@ output:
 * **Genes of each organelle closely resemble ancestors!**
     + cyanobacteria for chloroplasts
     + proteobacteria for mitrochondria
-    + some genes appeared to have shifted from bacteria to host, possibly explaining why 'mitochondria' are not free-living
+    + *some genes have shifted from bacteria to host, possibly explaining why 'mitochondria' are not free-living*
     
 ## 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/chloroplast3.jpg">
 
-## Red and green algae underwent secondary endosymbiosis
+## Many photosynthetic protists had secondary endosymbiosis
 <hr>
 <br/>
 <br/>
