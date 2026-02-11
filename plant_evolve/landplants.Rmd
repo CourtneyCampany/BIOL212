@@ -1,5 +1,5 @@
 ---
-title: "How plants conquered land"
+title: "How Plants Evolved and Conquered Land"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -63,7 +63,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Cyanobacteria & protist made landfall ~1.2 bya**
+* **Cyanobacteria & protists made landfall ~1.2 bya**
     + plants, fungi and animals ~500 mya
     + first forests 385 mya
 
@@ -74,16 +74,16 @@ output:
 
 <br/>
 
-* **Plants support all other life on land**
+* **Plants now support all other life on land**
     + oxygen to breath
     + food to eat
-    + new habitats for animals
+    + new habitats
     
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/basicplants.png">
 
-## Green Algae (genus = Oedogonium)
+## Green Algae (genus = *Oedogonium*)
 <hr>
 <br/>
 
@@ -94,15 +94,15 @@ output:
     + marine and <span style="color:blue">*freshwater*</span>
     + single and <span style="color:blue">*multi-cellular*</span>
     + broad, thick filaments (not stems)
-    + some have <span style="color:blue">*A.o.G*
+    + some species have <span style="color:blue">*A.o.G*
     + evolved around <span style="color:blue">*~750mya*</span>
     
 <br/>
 
-* **Reproductive features:**
+* **Key reproductive features:**
     + <span style="color:blue">*Oogonia*</span> = egg containing cell
     + <span style="color:blue">*Antheridium*</span> = sperm containing cell
-    + these 'houses' for egg and sperm are protections from the environment
+    + these 'houses' for egg and sperm are *single-celled* protections for drier environments
 </div> 
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:575px; WIDTH:350px; HEIGHT:300px" SRC="images/sister.jpg">
@@ -133,9 +133,9 @@ output:
 
 * **More shared traits with land plants:<span style="color:blue">know a few!</span>**
     + circular protein rings in plasma membrane
-    + make cellulose fibers in cell wall
+        + make cellulose fibers in cell wall
     + swimming sperm with similar structure
-    + phragmoplast (growth hormone)
+    + phragmoplast (cell division/cell wall formation)
     + ROS genes to eliminate free oxygen radicals
     
 </div>
@@ -161,7 +161,7 @@ output:
 
 ## Multi-cellular, Dependent embryos (placental transfer)
 <hr>
-<span style="color:darkgreen">**Fancy botany word for plants = embryophytes**</span>
+<span style="color:darkgreen">**Fancy botany word for plants = embryophytes (embryo retained on gametophyte) **</span>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/embryo.jpg">
 
@@ -174,45 +174,56 @@ output:
 
 ## Multi-cellular Gametangia
 <hr>
-<span style="color:darkgreen">**Fancy botany term for sperm and egg houses**</span>
+<span style="color:darkgreen">**Fancy botany term for the sperm and egg 'houses'**</span>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/game.jpg">
 
-## Photosynthesis with unique pigments (chlorophyll A & B)
+## Photosynthesis with unique pigments (chlorophyll a & b)
 <hr>
+<span style="color:darkgreen">**Chlorophyll a/b are specialized to absorb the intense direct solar radiation at specific wavelengths**</span>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/pigments.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/pigments.png">
 
 ## Unique cell walls
 <hr>
 <br/>
-<br/>
-<br/>
+
+<div style="float: left; width: 41%;">
 
 * **Cells walls made of cellulose** 
     + not unique to plants
     
 <br/>
 
-* **Pectin to fortify cell walls **
-    + unique to plants
+* **Pectin to fortify cell walls**
+    + needed by plants for mechanical strength
+    + also used as cement to hold adjacent cells together
+    + 'pectinase' is an enzyme that degrades pectin in ripening fruit!
 
 <br/>
 
 * **Produce cells walls in unique way**
     + at end of mitosis
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/cellwall.jpg">
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:470px; WIDTH:600px; HEIGHT:400px" SRC="images/cellwall.jpg">
 
 ## Alternation of generations
 <hr>
 **<span style="color:red">Can you draw me yet?</span>**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:475px" SRC="images/aogfern.png">
 
 ## Alternation of generations - Homosporous
 <hr>
 **Homospory - one type of spore, that germinates into a bisexual gametophyte**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/aog.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/fernhomo.jpg">
 
 ## First plant group: non-vascular bryophytes (mosses)
 <hr>
@@ -234,7 +245,7 @@ output:
 
 <br/>
 
-* **Resistant spores**
+* **Very resistant spores**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:800px; WIDTH:200px; HEIGHT:450px" SRC="images/bryo.png">
 
