@@ -7,8 +7,27 @@ output:
     widescreen: yes
 ---
 
+## Things to Know
+<hr>
+<br/>
+
+**#Vascular Plants/Traits**
+
+<br/>
+<br/>
+<br/>
+
+**#Homospory vs Heterospory**
+
+<br/>
+<br/>
+<br/>
+
+**#Plant Phylogeny**
+
 ## First plant group: non-vascular bryophytes (mosses)
 <hr>
+<br/>
 
 * **Mosses, hornworts and liverworts**
     + Fossils of bryophyte spores ~470mya
@@ -23,21 +42,24 @@ output:
 * **Have a rhizoid but not a root**
     + anchors plant
     + does not uptake water
-    + need to live near water
 
 <br/>
 
-* **<span style="color:darkgreen">Gametophyte dominated life cycle</span>**
-    + sperm need water to swim to egg on gametophyte
+* **Very resistant spores**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:800px; WIDTH:200px; HEIGHT:450px" SRC="images/bryo.png">
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:435px; WIDTH:300px; HEIGHT:250px" SRC="images/moss.jpg">
+<IMG STYLE="position:absolute; TOP:390px; LEFT:435px; WIDTH:300px; HEIGHT:250px" SRC="images/moss.jpg">
 
-<!-- ## Bryophytes have a <span style="color:darkgreen">gametophyte dominated life cycle</span> -->
-<!-- <hr> -->
+## Bryophytes have a <span style="color:darkgreen">gametophyte dominated life cycle</span>
+<hr>
+**Early plants, like moss, have sperm that swim from antheridia to archegonia (need water)**
+<IMG STYLE="position:absolute; TOP:210px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png">
 
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png"> -->
+## Mosses, homosporous AoG with gametophyte dominance
+<hr>
+
+<IMG STYLE="position:absolute; TOP:140px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/mossaog.jpg">
 
 ## Vascular plants were the next evolutionary step...Why?
 <hr>
@@ -65,7 +87,7 @@ output:
 <br/>
 
 * **Plants then evolved vascular tissues**
-    + light competition selection pressures
+    + light competition = selection pressure
     + tissues connected leaves to roots
     
 <br/>
@@ -193,8 +215,7 @@ output:
 <hr>
 
 * **Sporophyll: modified leaf with sporangium**
-    + vastly different looks
-    + fertile leaf (w/ spores)
+    + 'fertile' leaf (w/ spores)
 
 <br/>
 
@@ -202,6 +223,7 @@ output:
     + ferns: clusters of sporagnia called '*sori*'
     + lycophytes: '*stobilus*' holds many sporagnia (like a cone)
     + angiosperms: structures inside of flowers
+    + exception - moss have sporangia but not leaves
 
 <br/>
 
@@ -212,13 +234,13 @@ output:
 
 * **What is the ploidy of each cell type in this picture?**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/sporophyll.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:660px; WIDTH:400px; HEIGHT:450px" SRC="images/sporophyll.jpg">
 
 ## Seedless vascular plants have free living separate generations
 <hr>
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 53%;">
 
 * **Sporophyte: The fern you see in the woods**
     + now the dominant stage of the lifecycle
@@ -260,7 +282,7 @@ output:
 <br/>
 
 * **Lignified	vascular	tissue,	tracheids & roots**
-    + *tracheid* = special xylem cell
+    + *tracheid* = long, twisted xylem cell
 
 <br/>
 
@@ -311,7 +333,7 @@ output:
 
 * **Leaves are mostly megaphylls**
     + whisk ferns lost leaves
-    + Equistem has reduced megaphylls (tiny leaves)
+    + Equistem has reduced leaves
 
 <br/> 
 
@@ -330,25 +352,26 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 47%;">
 
 * **One	spore	&rarr; one	gametophyte	&rarr; bisexual gametophyte**
     + everything is haploid (1N)
 
 <br/>
 
-* **Produces	both	sperm	and	egg	via mitosis**
+* **Produces	both	sperm	and	egg	via mitosis from haploid cells**
+    + sperm must swim to the egg
 
 <br/>
 
 * **A lot of self fertilization**
-    + What is good/bad about this?
+    + what is good/bad about this?
+    
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:515px; WIDTH:550px; HEIGHT:400px" SRC="images/homospory.jpg">
+<IMG STYLE="position:absolute; TOP:215px; LEFT:515px; WIDTH:550px; HEIGHT:400px" SRC="images/homospory.jpg">
 
 ## How ferns avoid self-fertilization...
 <hr>
@@ -356,7 +379,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/gametophyte2.jpg">
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 47%;">
 
 * **Fastest developing gametophyte (female) releases chemical hormone**
 
@@ -368,8 +391,8 @@ output:
 
 <br/>
 
-* **Archegonia (F) and Antheridia (M) can develop at different times**
-    + if fertilization doesnt happen, female gametophyte becomes bisexual
+* **Archegonia (F) and Antheridia (M) can also develop at different times**
+    + if fertilization doesn't happen, female gametophyte becomes bisexual
 </div>
 
 
