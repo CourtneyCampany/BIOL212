@@ -7,6 +7,25 @@ output:
     smaller: true
 ---
 
+## Things to Know
+<hr>
+<br/>
+<br/>
+
+**#Plants - Algae shared traits**
+
+<br/>
+<br/>
+
+**#Land Plant Traits**
+
+<br/>
+<br/>
+
+**#Plant Phylogeny**
+
+
+
 ## What organism is the common ancestor to plants?
 <hr>
 **Many Protists share traits with plants**
@@ -221,9 +240,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/aog.png">
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/fernhomo.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/fernhomo.jpg"> -->
 
 ## First plant group: non-vascular bryophytes (mosses)
 <hr>
@@ -256,6 +275,7 @@ output:
 **Early plants, like moss, have sperm that swim from antheridia to archegonia**
 <IMG STYLE="position:absolute; TOP:210px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png">
 
-##
+## Mosses, homosporous AoG with gametophyte dominance
+<hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:175px; WIDTH:750px; HEIGHT:620px" SRC="images/mossex.jpg">
+<IMG STYLE="position:absolute; TOP:140px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/mossaog.jpg">
