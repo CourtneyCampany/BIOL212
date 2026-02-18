@@ -1,0 +1,318 @@
+---
+title: "Plant form and function"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## Plants as sessile organisms
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Mostly defined by their total inability to move**
+
+<br/>
+
+* **Is this a good thing or a bad thing?**
+
+<br/>
+
+* *Their Darwinian struggle for growth, survival and reproduction in very different arenas has resulted in an extremely wide variety of form and function (Diaz et al 2016)*
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/plantscool.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/biomass2.jpg">
+
+<!-- ## Themes in vascular plant form -->
+<!-- <hr> -->
+
+<!-- <div style="float: left; width: 38%;"> -->
+
+<!-- * **Plants extract materials from environment** -->
+<!--     * ~18 essential elements -->
+<!--       * soil (most) -->
+<!--       * atmosphere (a few) -->
+<!--     * these materials can be limiting -->
+
+<!-- <br/>  -->
+
+<!-- * **Above- and belowground body plan adapted to extract resources** -->
+<!--     * connected via vascular tissues -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:500px; HEIGHT:450px" SRC="images/plantbody.jpg"> -->
+
+## Themes in vascular plant form
+<hr>
+
+<div style="float: left; width: 38%;">
+
+* **Plants extract materials from environment**
+    * ~18 essential elements
+      * soil (most)
+      * atmosphere
+    * many materials are limited
+
+<br/> 
+
+* **Above- and belowground body plan adapted to extract resources**
+    * connected via vascular tissues
+  
+<br/> 
+
+* **Plants exhibit _indeterminate growth_**
+    * "foragers"
+    * diversity of sizes & shapes
+  
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/raunkiaer.jpg">
+
+## Diversity in plant form via resource uptake vs support
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/areavolume.png">
+
+<!-- ## Diversity in plant form via evolutionary history -->
+<!-- <hr> -->
+<!-- <span style="color:blue">**Derived traits on the plant phylogeny allowed plants to colonize most land surfaces**</span> -->
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:950px; HEIGHT:400px" SRC="images/angioradiation.png"> -->
+
+## Plants adapt form to persist in different environments
+<hr>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:450px; HEIGHT:350px" SRC="images/forest.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/spectrum_plantform.jpg">
+
+<!-- ## Diversity in plant form via environment (e.g., climate) -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/leafsize.jpg"> -->
+
+## Plants have 3 tissue systems connecting all plant organs
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:300px; HEIGHT:450px" SRC="images/tissues.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:375px; WIDTH:200px; HEIGHT:200px" SRC="images/tissue_structure.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/organ.jpg">
+
+## How do plants create such dynamic structures? <span style="color:blue">**Cells!**</span>
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cell_types.png">
+
+## Epidermal cells: interact with the environment
+<hr>
+<span style="color:darkgreen">**Outermost layer of cells on a plant, forming a protective barrier that covers the entire plant organ**</span>
+
+<br/>
+**Aboveground cells = protective barrier, Belowground cells = absorptive surfaces**
+
+<IMG STYLE="position:absolute; TOP:290px; LEFT:20px; WIDTH:500px; HEIGHT:300px" SRC="images/epiderm.jpeg">
+
+<IMG STYLE="position:absolute; TOP:290px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/epiderm2.png">
+
+## Parenchyma cells: living cells with metabolic function
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div style="float: right; width: 50%;">
+
+<span style="color:darkgreen">**Parenchyma cells in leaves = Mesophyll cells**</span>
+<span style="color:darkgreen">**Contain chloroplast and carry out photosynthesis**</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/parenchyma.jpg">
+
+## Collenchyma (flexible) & Sclerenchyma (rigid) for support
+<hr>
+**Although quite different, both cells types provide mechanical support for plants**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/celery.png">
+
+## Vascular tissues: Xylem composed of water conducting cells
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:650px; HEIGHT:500px" SRC="images/xylem2.jpg">
+
+## Vascular tissues: Phloem composed of sugar conducting cells
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:650px; HEIGHT:500px" SRC="images/phloem2.jpg">
+
+## Plant organs are easy! Leaves, stems and roots
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Plant cells differentiate and organize into specialized tissues (dermal, ground, vascular) that combine to form functional plant organs***
+
+<br/>
+
+**All 3 tissue types are present in each plant organ**
+
+<br/>
+
+**Flowers/Cones are reproductive organs that are highly modified versions of leaves**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:525px; WIDTH:600px; HEIGHT:500px" SRC="images/organ2.png">
+
+
+## Dynamic root growth integral for plant function
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:185px; WIDTH:700px; HEIGHT:500px" SRC="images/root_roles.jpg">
+
+<!-- ## Root morphology is super diverse -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:170px; LEFT:10px; WIDTH:750px; HEIGHT:500px" SRC="images/rootsystems1.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/roots.jpg"> -->
+
+<!-- ## Root exudation: Who's in charge? -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:450px; HEIGHT:400px" SRC="images/exudates.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/mycorr.jpg"> -->
+
+## Roots supply nutrients & water for growth & metabolism
+<hr>
+<br/>
+**Roots uptake resources through osmosis and diffusion (actively/passively)**
+<br/>
+
+**Roots can also  faciliate resource uptake by pumping H+ into the soil, which protons bind to negatively charged soil particles, displacing nutrient cations (like K+, Ca2+, Mg2+) into the soil**
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/rootuptake.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
+
+## Roots are a member of a living soil community
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:250px; HEIGHT:450px" SRC="images/rootsfungi.jpg">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:450px" SRC="images/plants-fungi3.jpg">
+
+## Indeterminate growth occurs at tips of stems/roots (meristems)
+<hr>
+<span style="color:blue">**Undifferentiated cells divide until gene expression 'tells' them what cells to turn into**</span>
+
+<IMG STYLE="position:absolute; TOP:185px; LEFT:150px; WIDTH:300px; HEIGHT:500px" SRC="images/root_growth.jpg">
+
+<IMG STYLE="position:absolute; TOP:235px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/meristem.jpg">
+
+## Cambium produce secondary growth (out not up) in stems
+<hr>
+**Stems are mostly vascular tissue, with xylem and phloem forming the main transport system that runs through the plant**
+<br/>
+
+<span style="color:blue">**Vascular cambium creates new xylem and phloem (tree rings) and cork cambium creates cork (bark)**</span>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:90px; WIDTH:500px; HEIGHT:400px" SRC="images/vascular_cambium.jpg">
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:585px; WIDTH:400px; HEIGHT:400px" SRC="images/woodgrowth.jpg">
+
+## Leaf structure and function = biomass factory
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/leaf_structure2.jpg">
+
+<!-- ## Leaves exchange gases via stomata -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <span style="color:darkgreen">**CO~2~ IN, O~2~ and H~2~O OUT**</span> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/stomata.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:425px; WIDTH:625px; HEIGHT:325px" SRC="images/stomata6.jpg"> -->
+
+## Leaves exchange gases via stomata = CO~2~ in, O~2~ and H~2~O out
+<hr>
+<br/>
+- **<span style="color:darkgreen">CO~2~ enters leaf air spaces and then the chloroplast organelle through a concentration gradient</span>**
+<br/>
+- **<span style="color:darkgreen">Stomata are not always open....WHY??? </span>**
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:25px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/stomata4b.jpg">
+
+## Leaf gas exchange impacts the global atmopshere
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/maunaloa.png">
+
+## Vascular tissues in leaves are confined to veins
+<hr>
+<br/>
+
+<div style="float: right; width: 65%;">
+* **<span style="color:darkgreen">_Transpiration_ (leaf water loss from evaporation)</span> is a by‐product of opened stomatal pores**
+<br/>
+
+* **H~2~O transport needs to be sufficient to keep stomata open** 
+<br/>
+
+* **Veins represents investment in H~2~O supply**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:80px; WIDTH:250px; HEIGHT:350px" SRC="images/leafveins.jpg">
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:395px; WIDTH:600px; HEIGHT:300px" SRC="images/venation.jpg">
+
+## Angiosperms have evolved higher vein densities
+<hr>
+<br/>
+
+* **Helps explain angiosperm dominance**
+<br/>
+* **Transpiration alters global climate systems! About 10% of water in atmosphere comes from leaves** 
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
+
+## Leaf economic theory: Return on Investment
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafecon.png">
+
