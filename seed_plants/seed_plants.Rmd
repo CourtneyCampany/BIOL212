@@ -7,6 +7,32 @@ output:
     smaller: true
 ---
 
+## Things to Know (#'s)
+<hr>
+<br/>
+<br/>
+<br/>
+
+**#Seed Plant Traits**
+
+<br/>
+<br/>
+<br/>
+
+**#Homospory vs Heterospory**
+
+<br/>
+<br/>
+<br/>
+
+**#Plant Phylogeny**
+
+<br/>
+<br/>
+<br/>
+
+**#Seed Plant Sex**
+
 ## Seed plants were the most recent evolutionary step
 <hr>
 
@@ -136,7 +162,7 @@ output:
     + reduce surface area
     + sunken stomata
     + evergreen
-    + thick waxy cuticle
+    + thicker waxy cuticle
 
 </div>
 
@@ -348,10 +374,10 @@ output:
     
 <br/>
 
-* **Ovary: contains ovules**
+* **<span style="color:blue">Ovary:</span> contains ovules**
     + megasporangium inside ovule produces megaspores
     + megaspore develops into female gametophyte w/ egg
-    + after fertilization, ovary becomes 'fruit'
+    + after fertilization, *ovary becomes 'fruit'*
 
 </div>
 
