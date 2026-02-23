@@ -8,6 +8,24 @@ output:
     smaller: true
 ---
 
+## Things to Know (#)
+<hr>
+<br/>
+<br/>
+<br/>
+
+**#Plant Tissues**
+
+<br/>
+<br/>
+
+**#Plant Cells**
+
+<br/>
+<br/>
+
+**#How Plants Grow (indeterminate, meristems, cambium)**
+
 ## Plants as sessile organisms
 <hr>
 <br/>
@@ -58,13 +76,13 @@ output:
 ## Themes in vascular plant form
 <hr>
 
-<div style="float: left; width: 38%;">
-
 * **Plants extract materials from environment**
     * ~18 essential elements
       * soil (most)
       * atmosphere
     * many materials are limited
+
+<div style="float: left; width: 38%;">
 
 <br/> 
 
@@ -74,8 +92,8 @@ output:
 <br/> 
 
 * **Plants exhibit _indeterminate growth_**
-    * "foragers"
-    * diversity of sizes & shapes
+    * stems/roots do NOT have predetermined shape
+    * allows 'foraging'
   
 </div>
 
@@ -83,6 +101,7 @@ output:
 
 ## Diversity in plant form via resource uptake vs support
 <hr>
+**If function is uptake then surface area ↑, if function is support then volume ↑**
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/areavolume.png">
 
@@ -103,6 +122,29 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/leafsize.jpg"> -->
 
+## Plant organs are easy! Leaves, stems and roots
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+**Plant cells differentiate and organize into specialized tissues (dermal, ground, vascular) that combine to form functional plant organs**
+
+<br/>
+
+**All 3 tissue types are present in each plant organ**
+
+<br/>
+
+**Flowers/Cones are reproductive organs that are highly modified versions of leaves**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:525px; WIDTH:600px; HEIGHT:500px" SRC="images/organ2.png">
+
 ## Plants have 3 tissue systems connecting all plant organs
 <hr>
 
@@ -119,7 +161,7 @@ output:
 
 ## Epidermal cells: interact with the environment
 <hr>
-<span style="color:darkgreen">**Outermost layer of cells on a plant, forming a protective barrier that covers the entire plant organ**</span>
+<span style="color:darkgreen">**Outermost layer of cells on a plant, forming a barrier that covers the entire plant organ**</span>
 
 <br/>
 **Aboveground cells = protective barrier, Belowground cells = absorptive surfaces**
@@ -156,7 +198,7 @@ output:
 
 ## Collenchyma (flexible) & Sclerenchyma (rigid) for support
 <hr>
-**Although quite different, both cells types provide mechanical support for plants**
+**Although quite different, both cell types provide mechanical support for plants**
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/celery.png">
 
@@ -172,30 +214,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:650px; HEIGHT:500px" SRC="images/phloem2.jpg">
 
-## Plant organs are easy! Leaves, stems and roots
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 50%;">
-
-**Plant cells differentiate and organize into specialized tissues (dermal, ground, vascular) that combine to form functional plant organs***
-
-<br/>
-
-**All 3 tissue types are present in each plant organ**
-
-<br/>
-
-**Flowers/Cones are reproductive organs that are highly modified versions of leaves**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:525px; WIDTH:600px; HEIGHT:500px" SRC="images/organ2.png">
-
-
-## Dynamic root growth integral for plant function
+## Dynamic root growth vital for plant function
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:185px; WIDTH:700px; HEIGHT:500px" SRC="images/root_roles.jpg">
@@ -220,11 +239,11 @@ output:
 **Roots uptake resources through osmosis and diffusion (actively/passively)**
 <br/>
 
-**Roots can also  faciliate resource uptake by pumping H+ into the soil, which protons bind to negatively charged soil particles, displacing nutrient cations (like K+, Ca2+, Mg2+) into the soil**
+**Roots can also  faciliate resource uptake by pumping H+ into the soil, which bind to negatively charged soil particles, displacing cations (like K+, Ca2+, Mg2+) into the soil**
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/rootuptake.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
 
 ## Roots are a member of a living soil community
 <hr>
@@ -233,15 +252,15 @@ output:
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:450px" SRC="images/plants-fungi3.jpg">
 
-## Indeterminate growth occurs at tips of stems/roots (meristems)
+## Indeterminate growth occurs at tips of stems/roots (*meristems*)
 <hr>
-<span style="color:blue">**Undifferentiated cells divide until gene expression 'tells' them what cells to turn into**</span>
+<span style="color:blue">**Undifferentiated cells divide until gene expression 'tells' them what cells to develop into**</span>
 
 <IMG STYLE="position:absolute; TOP:185px; LEFT:150px; WIDTH:300px; HEIGHT:500px" SRC="images/root_growth.jpg">
 
 <IMG STYLE="position:absolute; TOP:235px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/meristem.jpg">
 
-## Cambium produce secondary growth (out not up) in stems
+## *Cambium* produce secondary growth (out not up) in stems
 <hr>
 **Stems are mostly vascular tissue, with xylem and phloem forming the main transport system that runs through the plant**
 <br/>
@@ -311,8 +330,8 @@ output:
 
 <IMG STYLE="position:absolute; TOP:280px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
 
-## Leaf economic theory: Return on Investment
-<hr>
+<!-- ## Leaf economic theory: Return on Investment -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafecon.png">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafecon.png"> -->
 
