@@ -7,20 +7,43 @@ output:
     smaller: true
 ---
 
-## Plant cognition
+## Things to Know (#'s)
 <hr>
 <br/>
 <br/>
 <br/>
+
+**#Plant Signaling**
+
+<br/>
+<br/>
+<br/>
+
+**#Plant Water Transport**
+
+<br/>
+<br/>
+<br/>
+
+**#Cavitation Risk**
+
+
+## Plant cognition
+<hr>
 <br/>
 <br/>
 
 <div style="float: right; width: 50%;">
 
-* **Do plants sense their environment?**
+* **Plants do not have brains or nervous systems**
+
+<br/>
+<br/>
+
+* **BUT, can plants sense their environment?**
     * changes in essential resources
     * herbivory/disturbance
-    * external stimuli
+    * external/internal stimuli
 
 <br/>
 
@@ -33,26 +56,21 @@ output:
 
 ## Sensory cell systems - Sensing environmental stimuli
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
 
-<IMG STYLE="position:absolute; TOP:380px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/plasmo.png">
+<IMG STYLE="position:absolute; TOP:420px; LEFT:555px; WIDTH:460px; HEIGHT:270px" SRC="images/plasmo.png">
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 60%;">
 
 * **Cell to cell signaling via plasmodesmata**
-    * Ca^2+^ based signals are common
+    * *plasmodesmata* = small tubes with membranes allow direct but regulated transport of small molecules
+    * chemicals/hormones as signals
+    * Ca^2+^ signal waves are common
     
 <br/>
 
 * **Vascular tissues provide long-distance transport**
-
-<br/>
-
-
-
-
 </div>
 
 ## Wounding triggers transmission of Ca^2+^ to start defense
@@ -124,13 +142,13 @@ output:
 <br/>
 
 * **Gravity does not help**
-    + harder and harder to move water up
+    + harder and harder to move water higher
     + xylem become less efficient @ top 
 
 <br/>
 
 * **Drying soil adds opposite tension**
-    + water potential of soil becomes more negative
+    + water potential of dry soil becomes more negative (less free)
 
 </div> 
 
@@ -145,24 +163,24 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 58%;">
 * **Transpiration pulls water under tension**
     + creates 'capillary action'
 
 <br/>
 
-* **Cohesion-tension theory**
+* ***Capillary action*: passive rise of H~2~0 in a narrow tube**
     + properties of water help to cheat gravity
 
 <br/>
 
-* **Cohesion: H~2~0 molecules stick together**
+* ***Cohesion*: H~2~0 molecules stick together**
     + via Hydrogen bonds
 
 <br/>
 
-* **Adhesion: water sticks to non-water molecules**
-    + stick to sides of xylem tissues
+* ***Adhesion*: water sticks to non-water molecules**
+    + stick to sides of xylem cells
     + H~2~0 not pulled straight up!
 
 </div> 
@@ -182,7 +200,7 @@ output:
 
 <br/>
 
-* **Vascular tissue is tough**
+* **Vascular tissuea are tough**
     + high resistance of lignified walls
     + built not to collapse under tension
   
