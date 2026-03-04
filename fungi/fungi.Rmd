@@ -7,6 +7,25 @@ output:
     smaller: true
 ---
 
+## Things to Know (#'s)
+<hr>
+<br/>
+<br/>
+<br/>
+
+**#Fungi Form and Function**
+
+<br/>
+<br/>
+<br/>
+
+**#Fungi Reproduction**
+
+<br/>
+<br/>
+<br/>
+**#Fungi-Plant Share**
+
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:600px" SRC="images/phylo.png">
@@ -34,7 +53,7 @@ output:
 
 <br/>
 
-* **Wild reproduction**
+* **Complex reproduction**
     
 </div>
 
@@ -95,7 +114,7 @@ output:
     + diverse enzymes for diverse food sources
     + secreted outside the cell (*extracelluar*)
 
-
+</div>
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/fungienzymes.png">
 
@@ -111,18 +130,20 @@ output:
 
 ## Fungal body plan: Not-motile and mostly multi-cellular
 <hr>
+**Exception: Single-celled yeasts living in plant sap/animal tissues with plenty of resources**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/body.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/body.jpg">
 
 ## Most *hyphae* divided into cells by *septa*
 <hr>
+***Hyphae* == tube-shaped cells walls, with flexible chitin, surrounding plasma membrane**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hypae.jpg">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:625px; WIDTH:350px; HEIGHT:300px" SRC="images/hypae2.jpg">
 
 ##
-
+**As fungi absorb nutrients, [nutrient] ↑ in cells, causing water to enter cells by osmosis** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E_Cy7KkwmWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Specialized hyphae also exist
@@ -192,8 +213,6 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 53%;">
-
 * **Life cycles can be complex**
     + spores are produced sexually or asexually
     + spores and nuclei of hypae are haploid (1N)
@@ -201,11 +220,15 @@ output:
 <br/>
 
 * **Lots of spores are produced**
+    + mostly single-celled
+    + reproductive unit - next generation
 
 <br/>
 
 **Sexual Reproduction:**
-
+<br/>
+First, pheromones attract hyphae together
+    
 **1. Plasmogamy:**
 
 **2. Karyogamy: **
