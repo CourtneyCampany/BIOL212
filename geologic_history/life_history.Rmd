@@ -7,18 +7,43 @@ output:
     smaller: true
 ---
 
-## Oparin and Haldane hypothesis
+## Things to Know
+<hr>
+<br/>
+
+**#Life Starts?**
+
+<br/>
+<br/>
+<br/>
+
+**#Cambrian Explosion**
+
+<br/>
+<br/>
+<br/>
+
+**#Animal Land History**
+
+<br/>
+<br/>
+<br/>
+
+**#Diversity  Rise/Fall**
+
+
+## Oparin and Haldane hypothesis (primordial soup)
 <hr>
 <br/>
 
 <div style="float: left; width: 55%;">
 
-**Chemical and physical processes combine to make primitive cells**
+**Chemical and physical processes combine to make primitive cells from an inorganic starting point**
 <br/>
 
 1. abiotic synthesis of small organic molecules (e.g., amino acids)
 2. small molecules join together (proteins)
-3. molecules packaged into primitive cells
+3. molecules then packaged into primitive cells
 4. origin of self-replicating molecules
 
 <br/>
@@ -27,6 +52,7 @@ output:
     + atmosphere was *reducing* (now controversial)
     + energy from UV or lightning
     + oceans = primordial soup of organic molecules
+    + connection = deep sea vents more suitable...
 
 </div>
 
@@ -39,7 +65,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/volcano_amino.jpg">
 
-## Similar experiments have had variable success
+## Similar experiments repeated successfuly
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/newmillerurey.png">
@@ -60,7 +86,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/mammal2.jpg">
 
-## Progression of life on earth
+## Geologic progression of life on earth
 <hr>
 <br/>
 
@@ -78,7 +104,7 @@ output:
 <br/>
 
 * **Recent geologic ages (3), each with unique animal life (within Phanerozoic)**
-1. Paleozoic
+1. Paleozoic (includes Cambrian period)
 2. Mesozoic
 3. Cenozoic
 
@@ -114,21 +140,17 @@ output:
 <br/>
 
 * **Large predators evolve in early Cambrian**
-    + 545-525 mya
+    + 540-485 mya
     + predator vs prey evolution
-    + evolution of eyes (sensory organs)
+    + evolution of sensory organs (e.g., eyes)
 
 </div>
 
-## Cambrian explosion = bizarre aquatic creatures
+## Cambrian explosion increased aquatic animal diversity
 <hr>
 <br/>
 
 <div style="float: left; width: 50%;">
-
-* **Spectacular diversification of animals**
-
-<br/>
 
 * **Abrupt period: only 10-20 million years!**
     + speed of diversification troubled Darwin
@@ -136,20 +158,21 @@ output:
 <br/>
 
 * **Hard skeletons evolved**
-    + diverse body morphology (new Hox genes?)
+    + diverse body morphology
+    + likely via new HOX genes
 
 <br/>
 
-* **Bilaterally symmetrical animals**
+* **Bilaterally symmetrical animals evolved**
     + formation of 'head' region
-    + organized sensory organs
+        + organized sensory organs
     + new direction of movement
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/creatures.jpg">
 
-## Burgess Shale
+## Burgess Shale (Canada) captured the Cambrian explosion
 <hr>
 <br/>
 
@@ -174,7 +197,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:560px; WIDTH:500px; HEIGHT:400px" SRC="images/burgess.jpg">
 
-## Nearly all major animal groups in Burgess Shale!!!
+## Nearly all aquatic animal groups in Burgess Shale!!!
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/burgess_creatures.png">
@@ -274,7 +297,7 @@ output:
 * **Landmass change alters livable habitats**
     + species distributions change
     + oceans change (Valley of Whales)
-    + Pangaea (250 mya) drained shallow oceans
+    + Pangaea (335 mya) drained shallow oceans
 
 <br/>
 
@@ -290,7 +313,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:215px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/tectonic.jpg">
 
-## Allopatric speciation: Australian marsupials
+## *Allopatric speciation*: Australian marsupials
 <hr>
 **Continental drift caused the success and failure of different mammal groups**
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/marsupial2.png">
@@ -317,7 +340,7 @@ output:
 * **Causes are varied**
     + volcanoes & meteors
     + massive climate change
-    + ocean chemistry
+    + ocean chemistry shifts
     
 <br/>
 
@@ -331,7 +354,7 @@ output:
 
 <div style="float: left; width: 48%;">
 
-* **Rapid diversification events to fill new habitat opportunities**
+* ***Rapid diversification events to fill new habitat opportunities***
 
 <br/>
 
@@ -341,7 +364,7 @@ output:
 
 <br/>
 
-* **Can also occur when species reaches new open habitat**
+* **Can also occur when species reach new open habitat**
     + Opportunity leads to diversification
 
 <br/>
