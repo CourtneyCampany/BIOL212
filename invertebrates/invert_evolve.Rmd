@@ -7,6 +7,18 @@ output:
     smaller: true
 ---
 
+## Things to Know (#'s)
+<hr>
+<br/>
+<br/>
+
+**#Bilateral Clades**
+
+<br/>
+<br/>
+
+**#Invertebrate Traits**
+
 ## History of animals ~700 million years old
 <hr>
 <br/>
@@ -106,7 +118,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Most ancestral animal group**
-    + marine
+    + marine/freshwater
     + adults do not move, larva have flagella
     + filter feeders
     + hermaphroditic (alternate sexes)
@@ -115,12 +127,12 @@ output:
 <br/>    
 
 * **Lots of cells, but <span style="color:blue">no tissue layers</span>**
-    + produce many antibiotics
+    + produce many antimicrobial coumpounds
     
 <br/>
 
 * **Share similarities with protist Chonaflagellates**
-    + feed using cells called <span style="color:blue">*choanocytes*</span>
+    + cells used for feeding called <span style="color:blue">*choanocytes*</span>
 
 </div>
 
@@ -136,7 +148,7 @@ output:
 <div style="float: left; width: 45%;">
 
 * **Animals except sponges are considered "True Animals"**
-    + bodies contain tissues
+    + bodies develop w/ tissue layers (2 or 3)
     
 </div>    
 
@@ -148,7 +160,7 @@ output:
 <div style="float: left; width: 45%;">
 
 * **Animals except sponges are considered "True Animals"**
-    + bodies contain tissues
+    + bodies develop w/ tissue layers (2 or 3)
     
 <br/>
 
@@ -164,7 +176,7 @@ output:
 
 <br/>
 
-* **Corals have symbiotic relationships with single-celled algae**
+* **Corals have symbiotic relationships with single-celled photosynthetic algae**
     
 </div>
 
@@ -173,9 +185,17 @@ output:
 ## Basic Cnidarian body plan (<span style="color:blue">*Nematocyst*</span> on phylogeny)
 <hr>
 **polyp = non-moving form, medusa = motile form, <span style="color:blue">*Nematocyst*</span> = stinging cell**
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:700px; HEIGHT:400px" SRC="images/cnidarian2.jpg">
+<br/>
+**<span style="color:blue">blue</span>/<span style="color:yellow">yellow</span> colors in images below represent the 2 tissue layers (diploblast)**
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:730px; WIDTH:350px; HEIGHT:350px" SRC="images/cnidarian3.jpg">
+<IMG STYLE="position:absolute; TOP:245px; LEFT:25px; WIDTH:700px; HEIGHT:400px" SRC="images/cnidarian2.jpg">
+
+<IMG STYLE="position:absolute; TOP:245px; LEFT:730px; WIDTH:350px; HEIGHT:350px" SRC="images/cnidarian3.jpg">
+
+## Phylum Cnidarian = Nerve net, not a brain 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/nervenet.jpg">
 
 ## Most animals are *triploblastic*, *bilaterians*
 <hr>
