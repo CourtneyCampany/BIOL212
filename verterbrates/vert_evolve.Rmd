@@ -7,6 +7,20 @@ output:
     smaller: true
 ---
 
+## Things to Know (#s)
+<hr>
+<br/>
+<br/>
+<br/>
+
+**#Invert Phylogeny**
+
+<br/>
+<br/>
+<br/>
+
+**#Chordate Phylogeny**
+
 ## Deuterostome clade
 <hr>
 <br/>
@@ -143,7 +157,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/Chordates.jpg">
 
-## Lancelets and Tunicates (invertebrates)
+## Lancelets and Tunicates (2 invertebrate phyla)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/squirts.jpg">
@@ -165,8 +179,8 @@ output:
 
 * **Derived trait = <span style="color:blue">neural crest</span>**
     + special stem cells near neural tube in embryo
-    + give rise to many vertebrate traits
-    + e.g.. teeth, skull, cartilage, etc
+      + give rise to many vertebrate traits
+      + e.g.. teeth, skull, cartilage, etc
 
 </div>
 
@@ -185,7 +199,8 @@ output:
 <br/>
 
 * **<span style="color:blue">Vertebrate</span>: series of *bones* that make up the vertebral column**
-    + 57,000 species
+    + >65,000 species described
+      + fish are most diverse group
 
 <br/>
 
@@ -228,7 +243,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Only members of vertebrates without jaws**
+* **Only vertebrates phyla without jaws**
     + <span style="color:blue">sister group of jawless fish</span>
 
 <br/>
@@ -370,7 +385,7 @@ output:
 
 <div style="float: left; width: 45%;">
 
-* **Lobe fins gradually evolved into limbs**
+* **Lobe-fins gradually evolved into limbs**
     + Tetrapods colonized land 365 mya
     + move away from fish-like vertebrates
 
@@ -418,7 +433,7 @@ output:
 
 * **Include salamanders, frogs and caecilians**
     + >6,000 species
-    + caecilians lost legs
+    + caecilians lost limbs
 
 <br/>
 
@@ -446,7 +461,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 42%;">
 
 * **Lizards, snakes, turtles, crocs and BIRDS**
     + many extinct groups
@@ -463,37 +478,38 @@ output:
 <br/>
 
 * **Most reptiles are ectothermic**
+    + dependent on external sources of body heat
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/reptiles.jpg">
 
-## Reptiles
-<hr>
-<br/>
-<br/>
+<!-- ## Reptiles -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 50%;">
+<!-- <div style="float: left; width: 50%;"> -->
 
-* **Lizards, snakes, turtles, crocs and BIRDS**
-    + many extinct groups
-    + small (16mm) to large (12m)
+<!-- * **Lizards, snakes, turtles, crocs and BIRDS** -->
+<!--     + many extinct groups -->
+<!--     + small (16mm) to large (12m) -->
 
-<br/>
+<!-- <br/> -->
 
-* **<span style="color:blue">Scales</span> with keratin**
+<!-- * **<span style="color:blue">Scales</span> with keratin** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Lay <span style="color:blue">shelled eggs</span> on land**
+<!-- * **Lay <span style="color:blue">shelled eggs</span> on land** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Most reptiles are ectothermic**
+<!-- * **Most reptiles are ectothermic** -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/tiny_gecko.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/tiny_gecko.jpg"> -->
 
 ## The origin of birds (members of the reptile family tree)
 <hr>
