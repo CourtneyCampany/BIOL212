@@ -44,7 +44,7 @@ output:
 <div style="float: left; width: 65%;">
 
 * **Must ingest organic materials**
-    + consume, breakdown internally with enzymes
+    + consume, breakdown *internally* with enzymes
 
 <br/>
 
@@ -82,7 +82,7 @@ output:
 * **Fertilized zygote undergoes <span style="color:blue">cleavage</span>**
     + mitotic cell divisions without cell growth
     + rapid division but overall size stays same
-    + protostome vs deuterostome = alignment of these cells
+    + protostome vs *deuterostome* = alignment of these cells
 
 <br/>
 
@@ -95,7 +95,7 @@ output:
 
 <br/>
 
-* **Many animals have a larval and adult stage**
+* **Many animals have a larval (post-embryo) and adult stage**
     + larva are sexually immature
     + larva look, live and eat differently
 
@@ -130,7 +130,7 @@ output:
 
 </div>
 
-## Germ layers (primary cell layers in development)
+## Germ/tissue layers (primary cell layers in development)
 <hr>
 <br/>
 <br/>
@@ -254,7 +254,8 @@ output:
 
 ## Movie monsters are mostly not possible.... Godzilla
 <hr>
-* **At that size, Godzilla's heart wouldn't be able to pump blood to the brain.**
+
+* **At that size, Godzilla's heart wouldn't be able to pump blood to the brain**
 
 <br/>
 
@@ -264,9 +265,51 @@ output:
 
 * **Godzilla would have to sunbath constantly to stay warm**
 
+<IMG STYLE="position:absolute; TOP:360px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/godzilla3.jpg">
+
+## Movie monsters and the square-cube law
+<hr>
+
+<div style="float: left; width: 65%;">
+
+* **Cube-square law: if you make an animal larger, the surface area increases by the square of the growth factor, while the volume (and mass) increases by the cube of that factor (huh?!?)**
+    + *when an animal gets bigger, its weight/volume increases faster than its body surface*
+
+<br/>
+
+* **You’re Gonna Need Thicc Legs**
+    + support structures like bones and muscles must carry much more mass
+    + leg size would have to scale up disproportionately, severely limiting movement
+
+<br/>
+
+* **Movie monsters would not be able to run fast (too eat or fight heros), and would struggle to lose heat through their skin**
+    + shooting fire from the mouth would actually be required
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:360px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/godzilla3.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:695px; WIDTH:350px; HEIGHT:500px" SRC="images/godzilla4.png">
+
+## Real large animals and the square-cube law
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 60%;">
+
+* **Elephants exist because they are slow, have uniform thick legs, have slow metabolism, and eat infrequently (grass)**
+
+<br/>
+
+* **Large dinosaurs existed because they had stable environments with tons of food but likely represent the practical limit for land animals!!**
+
+<br/>
+
+* **Large whales exist because its bouyancy reduces the effects of gravity. Water supports much of the body weight. On land, the whale's mass would crush it. **
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:370px; HEIGHT:500px" SRC="images/cubelaw.png">
 
 ## Exchange with environment limits animal bodies
 <hr>
@@ -274,7 +317,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Basic Animal Function: uptake nutrients, expel waste and exchange gases**
+* **Required Animal Functions: uptake nutrients, expel waste and exchange gases**
     + occurs across plasma membrane of all cells
     
 <br/>
@@ -293,7 +336,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Basic Animal Function: uptake nutrients, expel waste and exchange gases**
+* **Required Animal Functions: uptake nutrients, expel waste and exchange gases**
     + occurs across plasma membrane of all cells
     
 <br/>
@@ -301,6 +344,7 @@ output:
 * **Body plan optimized for surface area: Flatworms**
     + thin, flat shape
     + lots of outer cells exposed to environment
+    + gastrovascular cavity also open to environment
 
 </div>
 
@@ -312,7 +356,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Basic Animal Function: uptake nutrients, expel waste and exchange gases**
+* **Required Animal Functions: uptake nutrients, expel waste and exchange gases**
     + occurs across plasma membrane of all cells
 
 <br/>
@@ -338,7 +382,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Basic Animal Function: uptake nutrients, expel waste and exchange gases**
+* **Required Animal Functions: uptake nutrients, expel waste and exchange gases**
     + occurs across plasma membrane of all cells
 
 <br/>
