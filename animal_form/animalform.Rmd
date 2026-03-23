@@ -7,6 +7,26 @@ output:
     smaller: true
 ---
 
+## Things to Know (#s)
+<hr>
+<br/>
+<br/>
+<br/>
+
+**#Embryo Develop**
+
+<br/>
+<br/>
+<br/>
+
+**#Germ/Tissue Layers**
+
+<br/>
+<br/>
+<br/>
+
+**#Animal Body Plans**
+
 <!-- ## Animal Form and Function (Part 1) -->
 <!-- <hr> -->
 
