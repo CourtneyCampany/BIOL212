@@ -7,30 +7,22 @@ output:
     smaller: true
 ---
 
-<!-- ## How can japenese macaques live in the snow and the jungle? -->
-<!-- <hr> -->
+## Things to Know (#s)
+<hr>
+<br/>
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/monkeys.jpg"> -->
+* **#Homeostasis**
 
-<!-- ## Animal form and function hash-tags -->
-<!-- <hr> -->
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **This lecture will cover animal function, by examining the mechanisms of homeostasis.** -->
+* **#CircadianClocks**
 
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **#Homeostasis** -->
-
-<!-- <br/> -->
-
-
-<!-- * **#CircadianClocks** -->
-
-<!-- <br/> -->
-
-
-<!-- * **#ThermoregulationBasics** -->
+* **#ThermoregulationBasics**
 
 ## Coordination and control of tissues and organs
 <hr>
@@ -50,6 +42,8 @@ output:
 
 * **Endocrine signalling via <span style="color:blue">hormones</span>**
     + many hormones with unique receptors
+    + produced in cells/glands throughout the body
+        + parts of the brain, gonads, pancreas
     
 <br/>
 
@@ -130,7 +124,7 @@ output:
 
 <div style="float: left; width: 46%;">
 
-* **Regulation occurs @ different life stages**
+* **Regulation varies @ different life stages**
     + hormones at puberty
     + larva vs adults
 
@@ -166,7 +160,7 @@ output:
 
 * **Animals often move into different environments**
     + changes in elevation, temperature, salinity, etc. 
-    + or seasons (without moving)
+    + or endure seasons (without moving)
 
 <br/>
 
@@ -210,17 +204,17 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:610px; WIDTH:475px; HEIGHT:375px" SRC="images/endoecto.jpg">
 
-## Stop saying animals are 'Cold' or 'Warm' blooded
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/coldblood.jpg">
-
 ## Ectotherms: Balancing heat loss and gain via behaviors
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:275px; WIDTH:550px; HEIGHT:450px" SRC="images/heatexchange.jpg">
 
-## Endotherms must produce heat: *Thermogenesis*
+## Stop saying animals are 'Cold' or 'Warm' blooded
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/coldblood.jpg">
+
+## Endotherms can produce internal heat: *Thermogenesis*
 <hr>
 <br/>
 <br/>
