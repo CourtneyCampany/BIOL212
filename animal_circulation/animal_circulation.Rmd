@@ -7,32 +7,27 @@ output:
     smaller: true
 ---
 
-<!-- ## What are those crazy feathers for? -->
-<!-- <hr> -->
+## Things to Know (#s)
+<hr>
+<br/>
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/newt.jpg"> -->
+* **#Molecule Trading**
 
-<!-- ## Animal circulation and gas exchange hash-tags -->
-<!-- <hr> -->
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **This lecture will cover animal circulation and gas exchange by examining species across the animal phylogeny** -->
+* **#Circulatory Basics**
 
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **#ExchangeTransportLink** -->
+* **#Circulatory Mammal**
 
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **#CirculatoryBasics** -->
-
-<!-- <br/> -->
-
-<!-- * **#CirculatoryMammal** -->
-
-<!-- <br/> -->
-
-<!-- * **#RespiratoryStructures** -->
+* **#Respiratory Structures**
 
 ## The Big Picture: Circulation and Gas Exchange
 <hr>
@@ -40,8 +35,8 @@ output:
 
 <div style="float: left; width: 60%;">
 
-* **Direct exchange between every cell and the environment is not possible in all animals**
-    + special structures for exchange & transport needed
+* **Direct exchange between every cell and the environment is not possible in all animals (*remember square-cube law*)**
+    + structures for exchange & transport needed
 
 <br/>
 
@@ -72,7 +67,7 @@ output:
     
 <br/>
 
-* **Molecule trading in animals occurs for every cell!**
+* **Molecule trading in animals must occur for every cell**
     + gain O~2~ and nutrients
     + release CO~2~ and waste products
     
@@ -98,14 +93,14 @@ output:
 
 * **Central *gastrovascular cavity* functions to distribute substances**
     + opening at one end connects cavity to water
-    + allows fluid to also bath inner tissues
-    + *diffusion distance with environment is very short*
+    + allows fluid to also bath inner tissues/cells
+    + *diffusion distance with environment remains short*
 
 <br/>
 
 * **Gastrovascular cavity can be highly branched**
     + extends into tentacles of cnidarians
-    + covers high surface area within flatworms
+    + covers high surface area within flatworm bodies
 
 </div>
 
@@ -186,13 +181,13 @@ output:
 
 <div style="float: right; width: 64%;">
 
-* **Amphibians and reptile hearts have 1 ventricle**
+* **Amphibians and reptile hearts have only 1 ventricle**
     + still use double circulation
 
 <br/>
 
 * **Do not always fill their lungs**
-    + pass long periods without gas exchange
+    + pass long periods without gas exchange when underwater
     + or use another tissue (skin)
     
 <br/>
@@ -234,9 +229,9 @@ output:
 
 <br/>   
 
-* **Blood flows to left ventricle and pumped to tissues via arteries into capillaries**
-    + First branches supply the heart muscle
-    + Further branches lead to organs and limbs
+* **Blood flows to left ventricle and is pumped to tissues via arteries into capillaries**
+    + first branches supply the heart muscles
+    + further branches lead to organs and limbs
 
 <br/>   
 
@@ -292,14 +287,14 @@ output:
 <br/>
 
 * **Blood flow is slowest in the capillaries**
-    + over large cross-sectional area
-    + necessary for efficient gas exchange
+    + spread over large cross-sectional area
+    + *necessary for efficient gas exchange*
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:690px; WIDTH:350px; HEIGHT:450px" SRC="images/flow.jpeg">
 
-## Gas exchange over respiratory surfaces
+## Gas exchange occurs across respiratory surfaces
 <hr>
 <br/>
 <br/>
@@ -338,11 +333,11 @@ output:
 <br/>
 
 * **Other animals lack enough surface area**
-    + to many inner cells  to supply with O~2~
+    + to many inner cells to supply with O~2~
 
 <br/>
 
-* **Respiratory organs evolve**
+* **Different respiratory organs evolved:**
     + Gills &rarr; aquatic animals
     + Trachea &rarr; insects
     + Lungs &rarr; reptiles and mammals
@@ -363,7 +358,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:525px; HEIGHT:250px" SRC="images/trachae2.jpg">
 
-## Lungs in mammals, reptiles and birds
+## Lungs in mammals, reptiles, and birds
 <hr>
 **Elastic sacs with branching passages into which air is drawn, so that oxygen can pass into the blood and carbon dioxide be removed**
 <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/lungs_human.jpg">
