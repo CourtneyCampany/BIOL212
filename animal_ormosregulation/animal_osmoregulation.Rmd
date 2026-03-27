@@ -24,38 +24,41 @@ output:
 <br/>
 
 * **Both humans and albatross must maintain balance of fluids and solutes**
-    + e.g., levels of ions (Na, Cl, Ca) 
+    + e.g., levels of ions (Na, Cl, Ca, K, Mg) 
     
 <br/>
 
-* **Homeostasis requires <span style="color:blue">*osmoregulation*</span>: **
-    + <span style="color:blue">internal regulation of water and solutes</span>
- 
  </div>
  
-<IMG STYLE="position:absolute; TOP:250px; LEFT:570px; WIDTH:500px; HEIGHT:350px" SRC="images/albatross.jpg">
+ <div style="float: left; width: 99%;">
+
+* **Homeostasis requires <span style="color:blue">*osmoregulation*</span>: **
+    + <span style="color:blue">internal regulation of solutes in body fluids</span>
+ 
+ </div>
+<IMG STYLE="position:absolute; TOP:240px; LEFT:570px; WIDTH:500px; HEIGHT:350px" SRC="images/albatross.jpg">
     
-<!-- ## Osmoregulation and Excretion hash-tags -->
-<!-- <hr> -->
-<!-- <br/> -->
+## Things to Know (#s)
+<hr>
+<br/>
+<br/>
 
-<!-- * **This lecture will cover animal osmoregulation and excretion, which are necessary for homeostasis in different environments** -->
+* **#Osmolarity - H~2~O Movement**
 
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **#SoluteMovement** -->
+* **#Conform Regulate**
 
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **#ConformRegulate** -->
+* **#Nitrogen Waste**
 
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **#PoopTypes** -->
-
-<!-- <br/> -->
-
-<!-- * **#KidneyBasics** -->
+* **#Kidney Basics**
 
 ## The Big Picture: Osmoregulation and Excretion
 <hr>
@@ -79,7 +82,7 @@ output:
 
 * **Animals must also get rid of ammonia, which can be toxic**
     + *excretion* = ridding the body of waste products
-    + may also require water to dilute toxic waste
+    + may require water to dilute toxic waste
 <br/>
 
 </div>
@@ -97,7 +100,7 @@ output:
 <br/>
 
 * **2 solutions with same osmolarity are *isoosmotic* ** 
-    + no net movement across membrane
+    + no *net* water movement across membrane
     
 <br/>
 
@@ -115,13 +118,13 @@ output:
 
 <div style="float: right; width: 48%;">
 
-* **Animals maintain water balance by *osmoconforming* to surroundings**
+* **Animals may maintain water balance by *osmoconforming* to surroundings**
     + internal osmolarity = environment
     + many marine invertebrates
     
 <br/>
 
-* **Animals maintain water balance by *osmoregulating* internal osmolarity**
+* **Animals may maintain water balance by *osmoregulating* internal osmolarity**
     + may have to expel or uptake water
     + common for vertebrates (aquatic & terrestrial)
 
@@ -167,11 +170,11 @@ output:
 <br/>
 
 * **Animal behaviors also adapt**
-    + many desert animals are...
+    + e.g., many desert animals are nocturnal
     
 <br/>
 
-* **Animals always losing water**
+* **Animal bodies are still always losing water**
     + urine, feces & gas exchange organs
     + must drink, eat or produce water metabolically
 
@@ -179,7 +182,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:235px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/camels.jpg">
 
-## Being a 'osmoregulator' is energy expensive
+## Being an 'osmoregulator' is energy expensive
 <hr>
 <br/>
 
@@ -196,14 +199,18 @@ output:
 
 <br/>
 
-* **Body fluids are adapted to habitat**
+</div>
+
+<div style="float: left; width: 99%;">
+
+* **Osmolarity ranges are adapted to habitat**
     + lower [solute] in freshwater
     + higher [solute] in marine
-    + minimizes energy costs of homeostasis
+    + minimizes energy costs needed for homeostasis
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:375px" SRC="images/bodyfluid.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:375px" SRC="images/bodyfluid.jpg">
 
 ## Nitrogen-based waste has a large impact on water balance
 <hr>
@@ -212,11 +219,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:500px; LEFT:650px; WIDTH:300px; HEIGHT:200px" SRC="images/tadpole.jpg">
 
+* **Breakdown of amino acids from proteins and nucleic acids produces toxic ammonia**
+    + waste excreted as *ammonia, urea or uric acid*
+    + vary in toxicity & cost to make
+
 <div style="float: left; width: 50%;">
 
-* **Waste excreted as ammonia, urea or uric acid**
-    + vary in toxicity & cost to make
-    
 <br/>
  
 * **Ammonia: (NH~3~) is toxic, needs to be diluted**
@@ -225,8 +233,7 @@ output:
 <br/>
 
 * **Urea: NH~3~ + CO~2~ made in liver**
-    + less toxic
-    + energy expensive to produce
+    + less toxic but energy expensive to produce
     + requires less water to eliminate
     
 <br/>
@@ -240,21 +247,20 @@ output:
 ## Excretory systems filter body fluids to create urine
 <hr>
 <br/>
-<br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 60%;">
 
-* **Excretory systems regulate solute movement**
+* **Excretory systems regulate solute and water balance**
     + internal fluids &larr; &rarr; environment
     + key for water balance (releasing or keeping)
 
 <br/>
 
-* **<span style="color:blue">Functional unit = filtering tube (tubule) + capillary</span>**
+* **<span style="color:blue">Functional unit = filtering tube (tubule) + capillary that creates waste (e.g., urine) from circulatory fluid</span>**
     
 <br/>
 
-* **Many animals produce urine (fluid waste)**
+* **Basic steps of excretory systems:**
 1. *Filtration*:
 2. *Reabsorption*:
 3. *Secretion*:
@@ -262,7 +268,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:275px; HEIGHT:475px" SRC="images/tubular.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:675px; WIDTH:275px; HEIGHT:475px" SRC="images/tubular.jpg">
 
 ## Excretory systems are diverse in animals
 <hr>
@@ -287,7 +293,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Vertebrate Kidneys: filters blood**
+* **Vertebrate animals have kidneys to filter blood**
     + *nephron*:
     + regions packed with excretory tubules
     + tubules create filtrate from blood
@@ -329,7 +335,7 @@ output:
 
 * **Variety of complex mechanisms used to concentrate filtrate**
     + example: loop of Henle
-    + kidney function adapted to habitats
+    + kidney function adapted to habitat
 
 </div>
 
