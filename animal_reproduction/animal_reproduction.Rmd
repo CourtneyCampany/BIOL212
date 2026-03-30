@@ -7,31 +7,28 @@ output:
     smaller: true
 ---
 
-<!-- ## -->
+## Things to Know (#s)
+<hr>
+<br/>
+<br/>
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/coral_spawn.jpg"> -->
+* **#Asexual Types**
 
-<!-- ## Animal reproduction hash-tags -->
-<!-- <hr> -->
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **This lecture will cover general animal reproduction, with a specific focus on reproductive systems in mammals** -->
+* **#Sexual Diversity**
 
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **#AsexualTypes** -->
+* **#Gamete/Fertilization Basics**
 
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **#SexualDiversity** -->
-
-<!-- <br/> -->
-
-<!-- * **#Gamete Basics** -->
-
-<!-- <br/> -->
-
-<!-- * **#MammalHormones** -->
+* **#Mammal Hormones**
 
 ## The Big Picture: Variation in animal reproduction exists
 <hr>
@@ -52,7 +49,7 @@ output:
 
 <br/>
 
-* **Animals exhibit cycles of reproductive activity**
+* **Animals also exhibit cycles of reproductive activity**
 
 <br/>
 
@@ -98,10 +95,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/bees.jpg">
 
-## *Parthenogenesis* in Charlotte the stingray?!?!?!?!?!
-<hr>
+<!-- ## *Parthenogenesis* in Charlotte the stingray?!?!?!?!?! -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/charlotte.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/charlotte.png"> -->
 
 ## Animal reproduction blurs the lines of male and female
 <hr>
@@ -120,13 +117,18 @@ output:
     
 <br/>
 
+</div>
+
+<div style="float: left; width: 99%;">
+
 * **Sex reversal occurs in different animal phyla**
     + oysters are males first, then turn to female when larger
     + the largest female in some coral fish turn to male
+    + some shrimp first function as males, then become hermaphroditic
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:255px; LEFT:625px; WIDTH:400px; HEIGHT:250px" SRC="images/nudi.jpg">
+<IMG STYLE="position:absolute; TOP:235px; LEFT:625px; WIDTH:400px; HEIGHT:250px" SRC="images/nudi.jpg">
 
 ## Reproductive cycles are common in the animal kingdom
 <hr>
@@ -137,6 +139,7 @@ output:
 * **Cycles controlled by hormones and environmental cues**
     + occur with asexual or sexual modes
     + often related to seasons
+    + optimizes growing conditions for offspring
 
 <br/>
 
@@ -167,7 +170,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Fertilization =  Fusion of haploid gametes**
+* **Fertilization (animals) =  Haploid gamete fusion**
     + external:
     + internal:
 
@@ -212,7 +215,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/cologne.jpg">
 
-## Internal vs External: Offspring survival
+## Internal vs external fertilization and offspring survival
 <hr>
 <br/>
 <br/>
@@ -226,7 +229,7 @@ output:
 
 * **Internal associated with protection mechanisms** 
     + parental care of young
-    + shells, amniotic eggs, marsupials
+    + shells, amniotic eggs, marsupial pouches
 
 <br/>
 
@@ -238,11 +241,10 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:450px; HEIGHT:375px" SRC="images/waterbug.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:45px; WIDTH:450px; HEIGHT:375px" SRC="images/waterbug.jpg">
 
 ## Making and delivering gametes
 <hr>
-<br/>   
 
 <div style="float: left; width: 60%;">
 
@@ -251,6 +253,7 @@ output:
 * **Animals usually have *gonads* that produce gametes**
     + *testes* in males, *ovary* in females
     + often established early in embryo development
+    + produce sex cells (organ) and hormones (gland)
 
 <br/>   
 
@@ -329,18 +332,17 @@ output:
 
 ## Most female mammals have an ovarian cycle
 <hr>
-
 <br/>
 
 <div style="float: left; width: 58%;">
 
+* **Ovarian cycle:** series of changes in ovaries for maturation and release of eggs
+    
+<br/>
+
 * **Some females have linked menstrual cycle**
     + 10 primates, elephant shrew, some bats, spiny mouse
 
-<br/>
-
-* **Ovarian cycle:** series of changes in ovaries for maturation and release of eggs
-    
 <br/>
  
 * **Menstrual cycle: prepares uterus for pregnancy**
