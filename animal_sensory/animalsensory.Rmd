@@ -12,26 +12,22 @@ output:
 **Eimer's organ: touch receptors - 120 milliseconds to identify and consume prey**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/mole.jpg">
 
-<!-- ## Animal Sensory hash-tags -->
-<!-- <hr> -->
-<!-- <br/> -->
+## Things to Know (#s)
+<hr>
+<br/>
+<br/>
 
-<!-- * **This lecture unpacks the mechanisms by which animals detect and process behaviors** -->
+* **#Neuron Structure**
 
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- * **#SensoryPath** -->
+* **#Sensory Pathway**
 
-<!-- <br/> -->
+<br/>
+<br/>
 
-
-<!-- * **#ReceptorTypes** -->
-
-<!-- <br/> -->
-
-
-<!-- * **#HowAnimalsHear** -->
-
+* **#Receptor Types**
 
 ## The Big Picture: Perception to Behavior
 <hr>
@@ -41,11 +37,13 @@ output:
 
 * **Sensory processes begin with stimuli**
     + stimuli are forms of energy
-    + internal or external
+    + physical or chemical (energy)
+    + represent internal or external signals
 
 <br/>
 
 * **Receptors alert nervous systems (most animals)**
+    + receptor = specialized protein on/in a cell
     + use *action potentials* (membrane voltage)
     + results in a 'sensation'
 
@@ -70,13 +68,13 @@ output:
 
 * **Neurons = **
     + sensory, interneurons, and motor neurons
-    + Fundamental unit of the brain and nervous system**
+    + Fundamental unit of the brain and nervous system
 
 <br/>
 
 * **Neuron structure is all about form and function**
     + Most organelles located in the cell body
-    + Highly branched extensions, called *dendrites*, receive signals
+    + Highly branched extensions, called *dendrites*, receive signals from other neurons or receptors
 
 <br/>
 
@@ -96,7 +94,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Sensory pathways have four basic functions:**
-    + reception, transduction, transmission, perception
+    + *reception, transduction, transmission, perception*
 
 <br/>
 
@@ -111,7 +109,7 @@ output:
 
 </div>
 
-## (2) Sensory Transduction: Converting signals
+## (2) Sensory Transduction: Signal conversion
 <hr>
 <br/>
 
@@ -123,7 +121,7 @@ output:
 
 * **Stimulus receptors change flow of ions across nerve cell membranes**
     + opens/closes ion membrane channels along axon
-    + Cl^-^, Na^+^, K^+^
+    + Cl^-^, Na^+^, K^+^, Ca^+^
 
 <br/>
 
@@ -153,7 +151,7 @@ output:
     
 <br/>
 
-* **Receptor generates action potentials that travel to central nervous system**
+* **Receptor generates action potentials that travel through the nervous system**
     + large stimulus = more action potentials
 
 <br/>
@@ -173,7 +171,6 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 ## (4) Sensory Perception: Processing the stimulus
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 54%;">
 
@@ -188,14 +185,15 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 * **Action potentials reach brain/spinal cord via dedicated neural pathways**
     + brain distinguishes stimuli on the path they arrive
+    + actions potentials sent back to target receptors via neurons
     + 100 million neurons with 100 trillion connections = human brain
-    + actions potentials sent back to target receptors via motor neurons
+
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:215px; LEFT:600px; WIDTH:475px; HEIGHT:375px" SRC="images/brain.png">
 
-## If a tree falls in the woods......
+## If a tree falls in the woods......physics vs biology
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:350px; HEIGHT:450px" SRC="images/giftree.jpg">
@@ -220,7 +218,7 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 <br/>
 
-* **Touch receptors often embedded in tissue**
+* **Touch receptors often embedded in tissues**
 
 </div>
 
@@ -282,12 +280,12 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 <br/>
 
-* **Animals create & detect electromagnetic energy to hunt**
+* **Animals create & detect electromagnetic energy to hunt, migrate, and communicate**
 
 <br/>
 
 * **Used by animal kingdom to migrate**
-    + proteins can sense Earth's magnetic fields
+    + receptors can sense Earth's magnetic fields
     + insects, birds & mammals
     
 </div>
@@ -303,7 +301,6 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 <div style="float: left; width: 50%;">
 
 * **Receptors that detect light, energy and magnetism**
-    + may also create & detect electromagnetic energy
 
 <br/>
 <br/>
@@ -327,7 +324,7 @@ https://www.youtube.com/watch?v=XnksofQN8_s
 
 * **Hot pepper science has really helped!!!**
     + Receptors that respond to capsaicin also respond to high temperatures 
-    + taste 'hot": activate same receptors as hot soup
+    + 'spicy' taste activates same receptors as hot soup
     + opposite for 'cold' flavor
 
 <br/>
