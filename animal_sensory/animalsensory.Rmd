@@ -55,9 +55,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mole_sense.jpg">
 
-<!-- ## -->
+##
 
-<!-- <IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/screendeath.png"> -->
+<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/screendeath.png">
 
 ## Sensory systems work through neural pathways
 <hr>
