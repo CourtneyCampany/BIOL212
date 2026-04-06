@@ -7,7 +7,27 @@ output:
     smaller: true
 ---
 
-## Animal nervous systems are not 'new'
+## Things to Know (#s)
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **#CNS**
+
+<br/>
+<br/>
+<br/>
+
+* **#PNS**
+
+<br/>
+<br/>
+<br/>
+
+* **#Vertebrate Brain**
+
+## Most animals possess a nervous system
 <hr>
 <br/>
 
@@ -47,7 +67,7 @@ output:
 <br/>
 
 * **Nerve circuits differ across the animal phylogeny**
-    + sea stars = radial nerves connected to central ring
+    + radially symmetric -  nerves connected to central ring (decentralized)
     + bilaterial animals - *cephalization*
     
 <IMG STYLE="position:absolute; TOP:385px; LEFT:450px; WIDTH:620px; HEIGHT:300px" SRC="images/nerve.jpg">
@@ -56,6 +76,7 @@ output:
 <hr>
 
 * **Many animals have neurons that carry out integration (i.e., perception) formed into a CNS**
+    + *interneurons - process, integrate, and relay signals enabling complex functions*
 
 <br/>
 
@@ -65,22 +86,22 @@ output:
      
 <br/>
 
-<div style="float: left; width: 35%;">
+<div style="float: left; width: 42%;">
 
 <br/>
 
 * **Higher animals have more complicated brains and nerve cords with ganglia**
-    + ganglia - clusters of nerves at at key points in the body
+    + ganglia - clusters of nerves at at key points in the body. Serve as relay points or simple control centers
 </div>
 
-<IMG STYLE="position:absolute; TOP:310px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/flatworm.png">
+<IMG STYLE="position:absolute; TOP:315px; LEFT:520px; WIDTH:500px; HEIGHT:350px" SRC="images/flatworm.png">
 
 ## Nervous system organization also matches lifestyle
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/nervousorganize.jpg">
 
-## Peripheral nervous system (PNS) relays info to CNS
+## Peripheral nervous system (PNS) relays info to/from  the CNS
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/pns.jpeg">
@@ -92,7 +113,7 @@ output:
 
 * **CNS develops from hollow dorsal nerve cord**
     + central canal of spinal cord
-    + hollow ventricles of brain
+    + hollow cavities (*ventricles*) of brain
     
 <br/>
 
@@ -102,18 +123,22 @@ output:
 
 <br/>
 
-* **White matter exists on the interior of brain where neuron signalling is turned into function**
-    + learning, emotions, processing, etc. 
+* **Gray matter is where processing and integration occurs, while white matter connects regions by carrying signals between them**
 
 <br/>
 
-* **White matter exists on the outer layer of the spinal cord to link CNS with PNS**
+ 
+</div>
+
+<div style="float: left; width: 99%;">
+
+* **White matter is found on the outer layer of the spinal cord, where it links the CNS to the PNS, and in the interior of the brain, where it transmits signals between different regions**
  
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/brain.jpg">
 
-## Spinal cord relays info to and from brain
+## Spinal cords carry information between the brain and body
 <hr>
 **Can act independently for simple *rapid* reflexes**
 
@@ -125,12 +150,12 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Sensory information reaches the CNS along PNS neurons**
+* **Sensory information reaches the CNS along PNS sensory neurons**
     + *afferent* neurons = to carry towards
 
 <br/>
 
-* **CNS processes information and instructions travels to muscles, glands, etc.**
+* **CNS processes information and sends instructions to muscles, glands, and other organs through motor neurons**
     + *efferent* neurons = to carry away
 
 <br/>
@@ -161,15 +186,15 @@ output:
 
 * **<span style="color:blue">Autonomic system regulates *involuntary* smooth (organs) and cardiac muscles</span>**
     + <span style="color:blue">*Sympathetic*, *Parasympathetic*, *Enteric*</span>
-    + *Enteric* = digestion, pancreas, gallbladder    
+    + *Enteric* =  controls digestion    
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:560px; WIDTH:500px; HEIGHT:450px" SRC="images/cnspns.jpg">
 
-## Sympathetic and Parasympathetic divisions are antagonistic
+## Parasympathetic and Sympathetic divisions are antagonistic
 <hr>
-**Calming and self-maintenance (para) vs Arousal and energy generation (symp)**
+**Calming and self-maintenance (para) vs arousal and energy generation (symp)**
 
 <IMG STYLE="position:absolute; TOP:185px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/sympara.jpg">
 
