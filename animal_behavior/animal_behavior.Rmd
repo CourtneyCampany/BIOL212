@@ -14,28 +14,20 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fidcrab.png">
 
-<!-- ## Animal behavior hash-tags -->
-<!-- <hr> -->
-<!-- <br/> -->
+## Animal behavior hash-tags
+<hr>
+<br/>
+<br/>
+<br/>
 
-<!-- * **This lecture will cover the evolution of animal behaviors across the animal phylogeny** -->
-<!--     + understand each of Tinbergen's questions and know examples for each -->
+* **This lecture will cover the evolution of animal behaviors across the animal phylogeny**
+    + understand each of Tinbergen's questions and know examples for each
 
-<!-- <br/> -->
+<br/>
+<br/>
+<br/>
 
-<!-- * **#TinbergenQ1** -->
-
-<!-- <br/> -->
-
-<!-- * **#TinbergenQ2** -->
-
-<!-- <br/> -->
-
-<!-- * **#TinbergenQ3** -->
-
-<!-- <br/> -->
-
-<!-- * **#TinbergenQ4** -->
+* **#Tinbergen Questions**
 
 ## The big picture: Animal behavior
 <hr>
@@ -50,7 +42,7 @@ output:
     
 <br/>
 
-* **Behaviors have a genetic basis**
+* **Genes often underlie the capacity for a behavior**
     + allows for evolution by natural selection
 
 <br/>
@@ -64,7 +56,6 @@ output:
 
 ## Niko Tinbergen: Understanding animal behavior...
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 58%;">
@@ -104,7 +95,7 @@ output:
 <br/>
 
 * **Male territorial behavior related to red color**
-    + males also behaved aggressively when a red truck passed by!
+    + males behaved aggressively when anything red was added to the tank
 
 <br/>
 
@@ -120,28 +111,31 @@ output:
 ## Environmental cues for behavior: Migration
 <hr>
 <br/>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:205px; LEFT:15px; WIDTH:500px; HEIGHT:400px" SRC="images/migration.jpg">
+<IMG STYLE="position:absolute; TOP:205px; LEFT:35px; WIDTH:500px; HEIGHT:400px" SRC="images/migration.jpg">
 
-<div style="float: right; width: 52%;">
+<div style="float: right; width: 50%;">
 
 * **Environmental stimuli trigger and guide animal behaviors**
-    + for innate and learned behaviors
+    + for fixed and learned behaviors
     
 <br/>
 
-* **Birds, fishes, mammals (+ more) use cues to *migrate* long distances**
-    + Why do animals not get lost in new habitats?
+* **Birds, fishes, mammals (+ more) use multiple cues to *migrate* long distances**
 
 <br/>
 
-* **Animals may use sun or moon position or gravitational fields to navigate**
-    + adjust routes with circadian clocks!
+* **Animals may use sun or moon position or gravitational fields to navigate long distances**
+    + this can be a 'fixed action pattern'
+
+<br/>
+
+* **Animals then use local cues (odors, sounds, landmarks, etc.) for shorter distances**
+
 
 </div>
 
-## Pigeon Returning Home: What happens if it is cloudy?
+## Homing pigeon returning home
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/pigeon2.jpg">
@@ -151,8 +145,8 @@ output:
 <br/>
 <br/>
  
-* **Animal behaviors also reflect biological rhythms (Q1)**
-    + circadian clocks or longer cycles
+* **Animal behaviors also reflect circadian rhythms (Q1)**
+    + biological clocks or longer environmental cycles
  
  <br/>
  
@@ -173,7 +167,7 @@ output:
 
 <div style="float: left; width: 57%;">
 
-* **Stimuli may come from other animals (Q1)**
+* **Stimuli also come from other animals (Q1)**
 
 <br/>
 
@@ -210,7 +204,7 @@ output:
     
 <br/>
 
-* **Step 3: Male vibrate wing in courtship song**
+* **Step 3: Male vibrates wing for courtship song**
     + *auditory* behaviors shows female he is 'fit'
     
 <br/>
@@ -289,8 +283,8 @@ output:
     
 <br/> 
 
-* **What behaviors are innate and what are learned?**
-    + cross-fostering & human twin studies
+* **Which behaviors are innate (fixed) and which are learned?**
+    + cross-fostering & human twin studies separate 'nature from nurture'
 
 </div>
 
@@ -307,7 +301,7 @@ output:
 <br/>
 
 * **Learning capacity &rarr; nervous system organization during development**
-    + genome encoded (behavior exists) 
+    + genome encoded (the behavior exists) 
 
 <br/>
 
@@ -338,7 +332,7 @@ output:
     
 ## Social learning in animals: root of culture
 <hr>
-
+ <span style="color:blue">**Social learning = Learning by observing or interacting with other individuals**</span>
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/social.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/social2.jpg">
@@ -408,11 +402,12 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:300px; HEIGHT:400px" SRC="images/courtfly.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:300px; HEIGHT:400px" SRC="images/courtfly.jpg">
 
-<div style="float: right; width: 60%;">
+<div style="float: right; width: 72%;">
 
 * **Behaviors have a genetic basis over the history of the species**
+    + genes provide the biological capacity and constraints for behavior
 
 <br/>
 
@@ -450,6 +445,10 @@ output:
     + offspring survival: yours and relatives
 
 <br/>
+
+</div>
+
+<div style="float: left; width: 99%;">
 
 * **Inclusive fitness: increases genetic representation of related offspring...**
 
