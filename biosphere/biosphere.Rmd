@@ -7,12 +7,36 @@ output:
     smaller: true
 ---
 
+## Things to Know (#s)
+<hr>
+<br/>
+<br/>
+
+* **#Round, Tilted, Spinning  Earth**
+
+<br/>
+<br/>
+
+* **#Climate Control**
+
+<br/>
+<br/>
+
+* **#What Makes a Biome**
+
+<br/>
+<br/>
+
+* **#Species Where/Why**
+
 ## Ecology: 
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/clown.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/elephantpond.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/network.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/clown.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/network.jpg"> -->
 
 ## The big picture: Earth's climate controls species distributions
 <hr>
@@ -50,15 +74,17 @@ output:
 <br/>
 
 * **Climate: ** 
-    + i.e. temperature, precipitation, sunlight & wind
-    + often long term averages (30 year)
+    + i.e. temperature, precipitation, sunlight, atmospheric pressure, & wind
+    + often long-term averages (e.g., 30 years)
 
 <br/>
 <br/>
 
 * **Global climate depends on the amount of energy received by the sun and how that energy flows through the biosphere (e.g., atmosphere, living things).**
-    + Different regions can have different climates.
-    + Different regions may have seasons, where climate fluctuates
+    + different regions can have different climates.
+    + different regions may have seasons, where climate fluctuates
+    + global climate has had major shifts in geologic time via ice ages, global events
+    + human activities now alter climate patterns via shifts in atmospheric chemistry
 
 ## 
 
@@ -79,7 +105,7 @@ output:
 
 <div style="float: right; width: 50%;">
 
-* **Solar energy (sun) warms the air, land & water**
+* **Solar energy (sun) heats the air, land, & water**
     + impacts temperature
     + impacts air movement (wind patterns)
     + impacts evaporation (adds water vapor into atmosphere)
@@ -92,7 +118,7 @@ output:
 
 <br/>
 
-* **Creates differences in climate across latitudes**
+* **Uneven surface heating alters climate across latitudes**
     + relation north or south of the Earth's equator 
 
 </div>
@@ -127,6 +153,7 @@ output:
 
 ## Climate zones exist by latitude
 <hr>
+**Combinations of hot/cold, wet/dry, seasons/no seasons**
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/latitude.png">
 
@@ -140,9 +167,10 @@ output:
 <div style="float: right; width: 35%;">
 
 * **Oceans are heat conveyor belts**
-    + water absorbs lot of heat!
-    + heat/cool air masses
+    + water absorbs lot of heat in tropical zones
     + currents move them
+    + heat/cool air masses via evaporation/condensation
+
 
 <br/>
 <br/>
@@ -188,9 +216,9 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Biomes named for:**
-1. Physical features (polar ice)
-2. Climate features (tropical / temperate)
-3. Vegetation (grassland / broad-leaf forest)
+1. physical features (polar ice)
+2. climate features (tropical / temperate)
+3. vegetation (grassland / broad-leaf forest)
     
 </div>
     
@@ -331,7 +359,7 @@ output:
 
 * **Some organisms can disperse widely**
     + which ones?
-    + Kangaroos cannot
+    + kangaroos cannot
     + humans are unnatural dispersers
  
  <br/>
