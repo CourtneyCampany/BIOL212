@@ -7,6 +7,23 @@ output:
     smaller: true
 ---
 
+## Things to know (#s)
+<hr>
+<br/>
+<br/>
+
+* **#Density Matters**
+
+<br/>
+<br/>
+
+* **#Life History Traits (demography)**
+
+<br/>
+<br/>
+
+* **#Growth Types**
+
 ## The big picture: The environment influences populations
 <hr>
 <br/>
@@ -18,7 +35,7 @@ output:
 <br/>
 
 * **Biotic and abiotic factors affect population dynamics**
-    + abundance, dispersion & age structure
+    + abundance, spacing, & age structure
     
 <br/>
 
@@ -42,7 +59,6 @@ output:
 ## Measuring population size and density
 <hr>
 <br/>
-<br/>
 
 <div style="float: right; width: 48%;">
 
@@ -54,6 +70,7 @@ output:
 * **More often impractical or impossible to count all individuals**
     + indirect estimates are needed
     + dusk deer surveys in Biol 303
+    + mark and recapture in Biol 303
     
 <br/>
 
@@ -68,7 +85,7 @@ output:
 
 ## Densities vary within a population
 <hr>
-**The density of these populations is the same but their ecology differs**
+**The density of these populations is the same but their ecology (abiotic/biotic) differs**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:380px" SRC="images/dispersion.jpg">
 
@@ -84,7 +101,7 @@ output:
 
 * **Cohorts: group of individuals born at the same time**
     + how many of one age-group *survive* to the next age level?
-    + when does reproduction occur? 
+    + what age/s does reproduction occur? 
     
 <br/>
 
@@ -234,7 +251,6 @@ output:
 ## Resources rarely remain non-limiting 
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
@@ -249,7 +265,8 @@ output:
 <br/>
 
 * **Resource limitation causes *'r'* to decline**
-
+    + elephants in Kruger N.P. are now in logistic growth...
+    
 <br/>
 
 * **Logistic growth = **
