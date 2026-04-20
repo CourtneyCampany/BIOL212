@@ -7,32 +7,27 @@ output:
     smaller: true
 ---
 
-<!-- ## Mmmmmm Shrimp.... -->
-<!-- <hr> -->
+## Things to know (#s)
+<hr>
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/eel.jpg"> -->
+* **This lecture will cover the diversity of interactions possible within a community of organisms**
 
-<!-- ## Community ecology hash-tags -->
-<!-- <hr> -->
-<!-- <br/> -->
+<br/>
 
-<!-- * **This lecture will cover the diversity if interactions possible within a community of organisms** -->
+* **#PostiveInteractions**
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **#PostiveInteractions** -->
+* **#NegativeInteractions**
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **#NegativeInteractions** -->
+* **#FoodWeb**
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **#FoodWeb** -->
-
-<!-- <br/> -->
-
-<!-- * **#SpeciesTypes** -->
+* **#SpeciesTypes**
 
 ## The big picture: Community ecology
 <hr>
@@ -69,7 +64,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Individuals sharing space will compete for resources**
-    + reduces fitness for each species
+    + *always* reduces fitness for each species
     
 <br/>
 
@@ -174,6 +169,8 @@ output:
 
 * **Fitness (reproductive success) depends on feeding**
 
+</div>
+
 <IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:500px; HEIGHT:400px" SRC="images/cougar.jpg">
 
 ## Predation (+/-)
@@ -197,7 +194,9 @@ output:
 * **Morphological adaptations**
     + spines, odors, toxin accumulation
     + mimicry and camouflage
-    
+
+</div>
+
 <IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/groundhog.jpg">
 
 ## Defenses vs Predation &rarr; Co-evolutionary arms race
