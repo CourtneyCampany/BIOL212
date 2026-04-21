@@ -15,19 +15,12 @@ output:
 
 <br/>
 
-* **#PostiveInteractions**
-
-<br/>
-
-* **#NegativeInteractions**
+* **#Species Interactions**
 
 <br/>
 
 * **#FoodWeb**
 
-<br/>
-
-* **#SpeciesTypes**
 
 ## The big picture: Community ecology
 <hr>
@@ -335,7 +328,6 @@ output:
 ## Trophic (feeding) structure defined by species interactions
 <hr>
 <br/> 
-<br/> 
 
 <div style="float: left; width: 55%;">
 
@@ -351,6 +343,7 @@ output:
 
 * **Trophic level:**
     + many species can share a trophic level
+    + higher levels are limited in energy to support large populations
 
 </div>
 
@@ -358,7 +351,6 @@ output:
 
 ## Trophic (feeding) structure defined by species interactions
 <hr>
-<br/> 
 <br/> 
 
 <div style="float: left; width: 55%;">
@@ -375,40 +367,41 @@ output:
 
 * **Exists in terrestrial and aquatic systems**
     + What happens if a species goes extinct?
-
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/food2.jpg">
 
 ## Food webs are multi-dimensional
 <hr>
+**Many species do not fit neatly into one trophic level**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/web1.jpg">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/web2.jpg">
 
-## Some species in a community are more impactful than others
-<hr>
-<br/> 
-<br/> 
-<br/> 
+<!-- ## Some species in a community are more impactful than others -->
+<!-- <hr> -->
+<!-- <br/>  -->
+<!-- <br/>  -->
+<!-- <br/>  -->
 
 
-<div style="float: left; width: 45%;">
+<!-- <div style="float: left; width: 45%;"> -->
 
-* **Dominant species: **
-    + better @ obtaining resources
-    + defense wins championships
-    
-<br/> 
+<!-- * **Dominant species: ** -->
+<!--     + better @ obtaining resources -->
+<!--     + defense wins championships -->
 
-* **Keystone Species: **
-  
-<br/> 
+<!-- <br/>  -->
 
-* **Ecosystem engineers: **
-    + impact every community member
-</div>
+<!-- * **Keystone Species: ** -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/beaver.jpg">   
+<!-- <br/>  -->
+
+<!-- * **Ecosystem engineers: ** -->
+<!--     + impact every community member -->
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/beaver.jpg">    -->
     
