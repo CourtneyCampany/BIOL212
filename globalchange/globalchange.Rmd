@@ -9,32 +9,29 @@ output:
 
 ## Human activity has altered >70% of land surface
 <hr>
-
+**Removing habitats simplifies diversity. Fewer species = lower ecosystem functions**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/map.jpg">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/deforest.jpg">
 
-<!-- ## Global Change hash-tags -->
-<!-- <hr> -->
-<!-- <br/> -->
+## Things to know (#s)
+<hr>
+<br/>
+<br/>
 
-<!-- * **This lecture will cover the changes in Earth's system via biodiversity and global change** -->
+* **#Biodiversity Types**
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **#BiodiversityTypes** -->
+* **#Biodiversity Threats**
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **#BiodiversityThreats** -->
+* **#Conservation Types**
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **#ConBioTypes** -->
-
-<!-- <br/> -->
-
-<!-- * **#GlobalChangeBasics** -->
+* **#Global Change Basics**
 
 ## The Big Picture: Earth's systems and humans interact
 <hr>
@@ -103,9 +100,9 @@ output:
 <br/>
 
 * **Species Diversity**
-    + how many species?
+    + how many species (*species richness*)?
     + how *even* are the species?
-    + roles of dominant, keystone & rare species
+    + roles that each species play in the community
     + are *endemic* species present?
     
 <br/>
@@ -162,11 +159,11 @@ output:
 1. habitat loss
 2. species introductions
 3. over-harvesting
-4. global change
+4. climate change
 
 <br/>
 
-* **Landscape change is huge threat**
+* **Landscape change is huge threat to habitats**
     + land surfaces altered for human needs
     + causes *fragmentation* or *loss of habitat*
 
@@ -178,6 +175,25 @@ output:
 <br/>
 
 **Harvesting organisms at rates that exceed the ability of the population to recover**
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**2025 Chesapeake Bay blue crab population is at the second-lowest level in the 35-year history of the Winter Survey, a 25% decrease from 2024.**
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/kudzu.jpg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/overharvest.jpg">
@@ -208,6 +224,8 @@ output:
 
 * **Goal: Maintain genetic diversity to avoid extinction vortex**
 
+</div>
+
 <IMG STYLE="position:absolute; TOP:255px; LEFT:555px; WIDTH:500px; HEIGHT:400px" SRC="images/vortex.jpg">
 
 ## How does conservation biology work? 
@@ -226,7 +244,7 @@ output:
 <br/>
 
 * **Prioritize the factors causing decline**
-    + habitat loss, climate change, etc.   
+    + habitat loss, over-harvesting, etc.   
         
 <br/>
 
@@ -238,11 +256,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/woodpecker.jpg">
 
-## Landscape conservation: Building habitat corridors
+## Landscape conservation: Protecting lands / habitat corridors
 <hr>
-**Establishing large scale protected areas (terrestrial or aquatic) is first priority**
+**Establishing large scale protected areas via policy (terrestrial or aquatic) is first priority**
 <br/>
-<span style="color:blue">**Goal: to increase gene flow between fragmented populations**</span>
+<span style="color:blue">**Habitat corridors: increase gene flow between fragmented populations**</span>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/corridor.jpg">
 
@@ -266,32 +284,33 @@ output:
 <br/>
 
 * **Global change: **
-    + e.g. nutrient cycles, biodiversity, land use, sea level rise, ice loss
+    + e.g. nutrient cycles, biodiversity, land use, sea level rise, ice loss + climate change
     
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/words.jpg">
 
-## Global Change: Climate change
+## Climate change basics
 <hr>
 <br/> 
 
 <div style="float: left; width: 58%;">
 
 * **Climate change is strongly related to the chemistry of the atmosphere**
-    + enhances existing greenhouse gas effect 
-    + CO~2~, CH~4~, NO~x~ & H~2~O
+    + greenhouse gases absorb outgoing radiation
+    + CO~2~, CH~4~, NO~x~, & H~2~O
     
 <br/> 
 
 * **Greenhouse gases intercept and absorb radiation**
     + more greenhouse gases = higher temperatures
+    + enhances existing greenhouse gas effect
     
 <br/> 
 
 * **Burning of fossil fuels increases atmospheric CO~2~**
     + makes biosphere warmer
-    + impacts weather and climate
+    + impacts weather and climate patterns
     
 </div>
 
@@ -338,12 +357,12 @@ output:
 ## Global Change: What can we do?
 <hr>
 
-<div style="float: left; width: 45%;">
-
-* **We cannot save all habitats**
-    + which patches are most crucial?
+* **We likely cannot conserve all habitats**
+    + which ones are the most crucial?
 
 <br/>
+
+<div style="float: left; width: 45%;">
 
 * **Sustainable development**
     + better engineer man-made ecosystems
@@ -354,7 +373,7 @@ output:
 
 * **Curb global emissions**
     + projected warming by end of century is uncertain
-    + changes needed at individual, community and policy levels
+    + changes needed at individual, community, and policy levels
 
 </div>
 
@@ -362,5 +381,26 @@ output:
 
 ## Future of the Biosphere: New Mass Extinction?
 <hr>
-**Present-day extinction rate is 1,000 to 10,000 times the background extinction rate because of deforestation, habitat loss, overhunting, pollution, climate change, and other human activities**
+**Present-day extinction rate is 1,000 to 10,000 times the background extinction rate because of deforestation, habitat loss, over-harvesting, pollution, climate change, and other human activities**
 <IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/extinction2.jpg">
+
+## Global change fixes are possible
+<hr>
+
+**When we redesign systems — energy, food, cities, transportation, conservation — the planet responds**
+
+<br/>
+
+**Nature-Based Solutions: Reforesting land and updating farming practices for better soil carbon storage**
+
+<br/>
+
+**Energy transitions: rapid advancements in renewable energies are making them cheaper, more efficient, safer**
+
+<br/>
+
+**Individual actions: Collective change in societal norms starts with individual actions**
+
+<br/>
+
+**Your generation does not need to invent solutions. You need to improve, scale, and apply the ones we already have**
